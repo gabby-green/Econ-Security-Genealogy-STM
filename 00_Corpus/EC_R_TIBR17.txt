@@ -1,0 +1,408 @@
+INTRODUCTION
+
+As part of the EU’s Market Access Strategy, this eighth edition of the Trade and Investment Barriers Report analyses the barriers reported by European business and Member States to the Commission through our Market Access Partnership amongst the Commission, Member States and European business 1 and also provides an overview of those which were lifted in 2017.
+
+This Partnership has proven invaluable to gather information, prioritize and define a common strategy to successfully remove barriers faced EU exporters. Capitalising on this experience and mindful of the rise in protectionism, the Commission announced in its ''Trade for All'' 2 communication an ''enhanced partnership'' to reinforce the existing efforts and to extend them beyond the removal of obstacles to trade and investment to the implementation of Free Trade Agreements ("FTAs") 3 .
+
+Concerning the traditional market access component of our ''enhanced partnership'', we have reinforced our efforts in three ways: strengthened coordination among EU institutions and stakeholders; better prioritisation of barriers; and improved communication and awareness-raising. To improve communication, last year’s report was refocused to address squarely the barriers that matter most to EU companies: those they have identified as directly affecting them in third countries 4 . Building on the positive feedback received, this year's report continues this approach, and examines the most relevant barriers affecting EU exports to 57 third countries 5 as raised by our companies and recorded in the EU's Market Access Database 6 . The analysis of measures impacting EU businesses confirms the continued rise in protectionist trends observed in previous years.
+
+The first section of this report presents a numerical analysis, per country, per type of barrier and per sector, of the total stock of 396 active 7 trade and investment barriers registered in the database and of the 67 new barriers recorded in 2017.
+
+The second part provides a more detailed analysis of the new barriers reported in 2017
+(1 January – 31 December 2017), describing specific trends in various countries and sectors and assessing potentially affected trade flows.
+
+The third section elaborates on the tools used in our Market Access Strategy to address these barriers and reviews the 45 barriers successfully resolved in 2017. It also analyses the economic impact of the resolved barriers on the basis of potentially affected trade flows and of economic modelling. Last, some major resolved barriers are also described in more detail.
+
+
+I.        OVERVIEW OF TRADE AND INVESTMENT BARRIERS
+
+This chapter provides a numerical analysis of trade barriers in third countries and related trends, as reported in the EU's Market Access Database, which collects barriers flagged by EU companies and tracks actions taken to remove them.
+
+It is important to note that the database (and this report) do not provide a comprehensive overview of all trade hurdles faced by EU economic operators 8 . Companies may decide not to report certain barriers because they hope to resolve them or avoid their effects.
+
+Some companies may not be aware of the possibility to tackle barriers through the EU's market access work. The Commission is keen to ensure maximum awareness in this respect, especially among small and medium-sized enterprises (SMEs), and has launched the ''Market Access Days'' initiative in Member States. This has proven useful for local businesses to gain specific information on how they can report barriers and how the Commission and Member States can design and implement a tailor-made strategy to resolve them.
+
+While the database and this report do not prejudge the (il)legality of the recorded measures, these barriers have all been identified as problematic for EU companies and prioritized for further action in our market access work as they might be discriminatory, disproportionate or otherwise trade-restrictive.
+
+A.    OVERALL STOCK OF TRADE AND INVESTMENT BARRIERS
+
+At the end of 2017, 396 active trade and investment barriers existed—a historical record. Set against 372 barriers at the end of 2016 9 , this figure confirms the continued rise in protectionism affecting EU stakeholders. At the same time, it demonstrates the increasing success of our Market Access Partnership as a forum to identify trade barriers. The database allows distinguishing recorded trade barriers per third country, per type of measure and per sector. This report follows this breakdown.
+
+1.    Barriers per third country
+
+Despite the fact that pledges of G20 leaders to reject protectionism were once again repeated at the G20 Summit held on 8 July 2017 in Hamburg 10 , the nine countries with the highest number of trade barriers still in place are all G20 economies (see table 1).
+
+The highest stock of barriers has been observed in Russia with 36 measures recorded. China came second with 25 reported active barriers, while Indonesia came third, with a stock of 23 measures currently in place, also considerably hindering EU export and investment opportunities.
+
+Other third countries with 10 or more trade and investment barriers registered include India (21), Brazil (21) South Korea (20), Turkey (20), the United States (20), Australia (14), Thailand (12), Argentina (11) and Mexico (10).
+
+Table 1: Geographical breakdown of trade and investment barriers in the MADB (* - G20 countries)
+
+
+2.    Barriers per type of measure
+
+Table 2 shows that behind the border measures (216) are more important than traditional border measures (180). Behind the border measures refer to restrictions related to services, investments, government procurement, intellectual property rights or unjustified technical barriers to trade. Russia has the highest number of such measures recorded (19), closely followed by China (17).
+
+Border measures are restrictions that directly affect imports and exports, typically through tariff increases, quantitative restrictions, certain sanitary and phytosanitary (SPS) measures, import licensing or through outright trade bans. Russia is the country that recorded the highest number of such measures (17), followed by Indonesia, Turkey and the United States (11), with India at third place (9).
+
+
+Table 2: Breakdown of trade and investment barriers recorded in the MADB per type (number of measures)
+
+
+
+
+
+
+B.    TRADE AND INVESTMENT BARRIERS REPORTED IN 2017
+
+A record 67 new barriers in 39 third countries 11 were registered in 2017. This may be the result of the reinforced communication and awareness-raising mentioned above. Yet the steady rise in protectionism remains undisputable.
+
+1.    Barriers reported in 2017 per third country
+
+Table 3 provides an overview of the geographical breakdown of measures recorded in 2017. The highest occurrence of new barriers in 2017 was reported in the trade and investment relations with China by a considerable margin (10), followed by Russia (6), confirming the protectionist trends already identified in previous years. South Africa resorted to four new barriers, while India and Turkey also resorted to three new barriers, respectively. Lebanon, Ecuador, Japan, the Philippines, the United Arab Emirates, Tunisia and Venezuela resorted to two new barriers each. The remaining 27 new barriers were recorded for other third countries. It is also worth mentioning that the Euromed region as a whole saw seven new barriers emerge in 2017 - pointing to a worrying trend described in more detail under Chapter II.A.
+
+Table 3: Geographical breakdown of barriers reported in 2017
+
+
+
+
+2.    Barriers reported in 2017 per type of measure
+
+Table 4 provides an overview of the two main types of measures recorded in 2017. The majority of the barriers registered in 2017 were border measures (36), most of which hindered imports into third countries by way of increased SPS restrictions. In addition, a substantial amount of new tariffs, quotas, bans or burdensome licencing schemes also emerged.
+
+As for behind the border measures (31), most of the recorded restrictions were adopted in the area of trade in goods, including unjustified regulatory barriers, internal tax measures and intellectual property rights. In addition, two new barriers were recorded with regard to trade in services.
+
+Table 4: Breakdown of trade and investment barriers reported in 2017 per type (number of measures)
+
+
+3.    Barriers reported in 2017 per sector
+
+Table 5 shows that the number of new measures registered throughout 2017 affected 12 different sectors of economic activity, while additional barriers impacted EU exports horizontally.
+
+
+
+Tables 5 and 6: Sectorial breakdown of trade and investment barriers reported in 2017 (number of barriers)
+
+
+The highest number of new reported barriers was recorded for the agriculture and fisheries sector (23), followed by twelve horizontal measures that affected several sectors. The wines & spirits sector saw eight new barriers, while the automotive and ICT & Electronics saw seven and five new barriers, respectively. Sectors such as chemicals (two); services (two); textiles & leather (two); wood, paper and pulp (two); aircraft (one); ceramics and glass (one); cosmetics (one) and toys (one) were also affected.
+
+Concerning barriers related to trade in services – similarly to all other barriers – the barrier count reflects the number of new obstacles directly reported to the Commission under the market access framework. Considering the importance of this sector in our market access work, the Commission is expanding the information tools on conditions to export services to third countries, which are particularly useful for our SMEs.
+
+
+II.    MAIN NEW TRADE AND INVESTMENT BARRIERS REPORTED IN 2017
+
+This chapter provides a thorough analysis of new barriers in the five trade partners for which three or more barriers were recorded in 2017, namely China, Russia, South Africa, India and Turkey. It also estimates the potentially affected trade flows.
+
+A.    QUALITATIVE ANALYSIS OF THE NEW BARRIERS
+
+1. China    
+
+China remains one of the most trade-restrictive partners for the EU. For years, EU companies have faced complex barriers, including joint venture requirements, market entry restrictions, obligation of technology transfer as well as unjustifiable technical regulations – along with systemic concerns related to massive overcapacity not only in traditional sectors like steel or aluminium, but also increasingly in high-tech sectors. 2017 has seen a substantial increase in obstacles, with ten new trade barriers recorded. While two of these issues have already been successfully resolved in 2017 and will be duly examined in the 'success stories' section of the report, a trend of rising obstacles can clearly be identified.
+
+One of the main sectors affected by these measures is the ICT & electronics sector. Two of the three new barriers reported in this sector concern the most prominent of the numerous cybersecurity and encryption related measures China has been developing.
+
+China's new Cybersecurity Law entered into force on 1 June 2017. Dozens of implementing measures in the form of administrative requirements, guidelines and standards are currently being developed to operationalise this law. Whilst cybersecurity in itself is a legitimate policy objective, the concept of cybersecurity applied by China has an excessive reach, covering economic and industrial policy considerations. Together with vague rules that generate significant uncertainty, this constitutes a major trade barrier not only for ICT companies, but also for other EU businesses which use these products.
+
+In addition, China’s State Cryptography Administration (“SCA”) published a draft Encryption Law on 13 April 2017, covering areas encompassing research and commercial use, import, export as well as certification. Among other issues, the EU is concerned that regulation might also apply to products beyond those with a core function of providing encryption. The Commission trusts that China will take the EU’s comments into account before finalising the law.
+
+Furthermore, the customs re-classification of multi-component (MCO) semiconductors has, in effect, led to the re-introduction of customs duties on ITA-products that were previously duty free, negatively impacting the innovative EU semiconductor industry. It is worth noting that the semiconductor industry is also one of the ten strategic high-tech sectors covered by the Made in China 2025 industrial policy initiative, a strategy that entails considerable opportunities but also serious challenges for European industry.
+
+Concerning other sectors, a number of non-tariff measures in the form of complex technical requirements and revised standards are also set to affect amongst others the European wood, leather, paper & pulp industry. The Chinese authorities have recently put in place a broad-ranging waste import ban on 24 products that has entered into force on 1 January 2018; in addition, China has also adopted a revised set of standards on another 34 products which has been applied since 1 March 2018. These standards cover in particular wood pulp, polymers, metal wastes as well as ores and plastics.
+
+With regard to the automotive sector, the Ministry of Industry and Information Technology recently released a new regulation requiring New Energy Vehicle (NEV) manufacturers to "master the development and manufacturing technology" for the complete NEV. Foreign original equipment manufacturers (OEMs) might be required to disclose their entire key technologies to their Chinese joint venture partners, potentially constituting a forced transfer of technology.
+
+China has also introduced new restrictions on additives used in materials that may come in contact with food. The revised standards automatically rendered non-compliant a large but unspecified range of products, from fittings, pipes and lids to packaging materials, inks and paper to entire machinery that may be used anywhere in the food and feed chain, from a milking machine to a conveyor belt in a supermarket. The horizontal nature of this barrier is set to cause important trade disruptions to a wide swathe of sectors.
+
+Even though positive developments have been reported regarding China's regulatory framework for medical devices (see below), two new challenging measures were adopted in the sector. In April 2017, China's Ministry of Finance and National Development and Reform Commission cancelled medical devices registration testing fees. The measure negatively impacted the availability of testing services critical to the registration process for new devices in China resulting in significant costs and delays for EU companies. In September 2017, China set up a national program to set prices of certain devices whereby manufacturers were required to submit an extensive amount of information in a very short timeframe. For the purpose of this report, both measures have not been considered as new barriers but rather as additional irritants within a complex regulatory environment for the health sector in China.
+
+While addressing the new barriers recorded in 2017, the EU is also undertaking all necessary actions that can contribute to the removal of the 25 existing barriers recorded in the Commission's Market Access Database (MADB). The EU has raised these barriers with China at the various WTO Committees as well as at bilateral fora ranging from the Trade and Investment Policy Dialogue and the Economic and Trade Working Group. However, the prospects for the emergence of new barriers remain significant. For example, China has indicated its intention to introduce new certification requirements for low risk food products as well as revised standards and new specifications for wine and wine products. These are likely to create important disruptions to European producers. These developments require additional, resourceful efforts to better address market access issues vis-à-vis China—including leveraging our cooperation in different policy areas.
+
+2.    Russia
+
+Despite recovering from a two-year recession, Russia continued to resort to trade barriers in 2017 to protect its local industry, confirming trends observed in previous reports. Russia recorded the second-highest number of new barriers in 2017 (six), raising the stock of existing barriers for this country to 36—the jurisdiction with the highest number of trade barriers. The car sector, if not concerned by any specific new measure in 2017, remains particularly targeted by trade and investment barriers.
+
+Since January 2017 Russia has further limited the access of foreign companies to Russian State-Owned Enterprises' (SOEs) purchases. After a first restriction in place since 2015, Russia has adopted a new measure establishing a 15% price preference for domestic companies (for goods and services) when tabling a bid in commercial purchases procured by SOEs (i.e. not concerning government procurement). Furthermore, in the last days of 2017, the Russian government adopted a law authorising local content requirements in SOE purchases of aircraft and ships.
+
+These additional restrictions come on top of the numerous measures restricting access of foreign companies to government procurement. As in the past years, in 2017 Russia has added several sectors in the scope of the restrictions related to government procurement, namely radio-electronic products (scope extended in July 2017 adding equipment for the GLONASS air navigation system and electronic signalling devices for traffic safety) and furniture. The unsatisfactory offer tabled in June 2017 by Russia to join the WTO’s Government Procurement Agreement added to the EU’s concern in this important area.
+
+Export restrictions featured highly. The export ban on raw hides and skins, in place since October 2014, has been yet again extended until April 2018. Also, Russia decided to introduce severe restrictions for birch log exports. A draft Decree published in November 2017 established export quotas for birch logs, limited to a period of six months. The volume of the export quotas amounts to 567.000 m³, a reduction by approximately one third of Russia's average export volume over the period 2014-2016. The implementation of the quotas will not start before the second half of 2018. According to the local authorities, the measure is squarely aimed at protecting the domestic wood market and encouraging domestic wood processing (i.a. plywood producers).
+
+Discriminatory treatment between domestic and imported wines through a complex new system of tax excise rates constitutes another trade irritant introduced by Russia in 2017 affecting the European wines & spirits sector. Excise rates for wines with geographical indications (GIs) and wines with protected appellations of origin shall apply to domestic (Russian) wines only. If interpreted in isolation, the provision would indeed imply that GI wine is to be produced in Russia from Russian grapes, which would constitute a discrimination against imported wines.
+
+Another new barrier that Russia put in place last year is the obligation to use Russian-flagged vessels for transport of hydrocarbons and coal in the Northern Sea Route. The Northern Sea Route lies east of Novaya Zemlya and runs along the Russian Arctic coast until the Bering Strait (within Russia's Exclusive Economic Zone ). Melting Arctic ice caps are likely to increase traffic in and the commercial viability of the Northern Sea Route.
+
+In addition, Russia's non-compliance with international standards through SPS import restrictions poses huge challenges to the European agriculture & fisheries sector. Russia maintains a particularly non-transparent and burdensome system for authorising animal origin food producing establishments to export to the country, frequently applying disproportionate restrictions to already authorised ones and requiring cumbersome individual inspections compulsory for new ones. As Belarus, Armenia, Kazakhstan and Kyrgyzstan in practice follow the lists of agri-food establishments authorised for exports to Russia, the above situation affects EU food exports to those countries too.
+
+In addition, Russia refuses to lift restrictions on eleven voivodships of Poland that had highly pathogenic avian influenza (HPAI) outbreaks despite the fact that, according to OIE rules, the entirety of Poland regained its HPAI freedom in July 2017. For HPAI restrictions to be lifted, the Russian authorities require inspections of all individual meat processing establishments producing the exported birds.
+
+Finally, the Russian authorities recently rolled out an extensive SPS-related measure through its New Eurasian Economic Union Common Phytosanitary requirements. This regulation establishes disproportionate and discriminatory requirements for import and movement of controlled goods into and on the territory of the EAEU – thus also affecting exports to Belarus, Armenia, Kazakhstan and Kyrgyzstan. The new rules require places of production to be declared free from a series of plant pests also for certain low risk products. It appears that the new requirements will in practice apply only to imports and not to the local products Furthermore the new rules may result in the establishment of a positive listing of authorised exporters, after inspection as is the case for food of animal origin.
+
+The EU has remained open to discussion, contacting the Russian Federation for bilateral meetings, sharing information and assessments of the problems observed. The EU has also favoured the WTO framework (e.g. various committees, Council for Trade in Goods) to raise market access restrictions. When necessary the EU has also used the WTO's dispute settlement mechanism to make Russia respect its WTO commitments (e.g. in the recent case on pork ban due to African Swine Fever).
+
+3.    South Africa
+
+Though South Africa has not been a focus of previous reports, an increasing number of protectionist barriers affecting trade and investment are being put in place. The country resorted to four new barriers in 2017, bringing the overall barrier count to eight.
+
+In recent months, the South African authorities unveiled their Preferential Procurement Regulations - a horizontal local procurement target of 75% affecting multiple sectors.
+
+On agriculture and fisheries, South Africa introduced several SPS measures following avian influenza outbreaks in the EU. Since the 2016 HPAI outbreak, eight out of ten EU Member States exporting poultry to South Africa remain banned despite the fact that they have since been declared HPAI-free in accordance with the international standards of the World Organisation for Animal Health. South Africa claims that new country inspections are needed before trade is allowed. The objective of such inspections is not clear, given that the influenza episodes have been stamped out.
+
+The difficulty to export Cognac due to different legislation on Appellations of Origin and GIs is an important barrier for the wines & spirits sector. South Africa's Liquor Act puts cognac in the same category of brandy, which has different aging and alcohol volume requirements, thus making its export a complex – and in some cases, impossible - process.
+
+With regards to the ICT & electronics sectors, a new set of standards and technical regulations amalgamated under the Electromagnetic Interference and Compatibility Conformity Assessment Procedure is set to create important trade disruptions for European exporters. The new rules impose a conformity assessment procedure based on third party approval, a procedure that is stricter than necessary to give the importing member adequate confidence that low-risk appliances conform to the applicable technical regulations or standards.
+
+The EU keeps engaging with its South African counterparts under the WTO framework, namely the Technical Barriers to Trade (TBT) and Sanitary and Phytosanitary measures (SPS) Committees as well as in the context of the Economic Partnership Agreement and at technical level in order to address market barriers to trade.
+
+4.    India
+
+India resorted to three new barriers in 2017, bringing the overall barrier count to 21 and confirming protectionist tendencies identified last year. Restrictions were adopted in the area of testing requirements, import bans as well as internal taxation.
+
+On 1 September 2017, India introduced a de facto in-country testing requirement for imported toys with immediate effect. This was not notified to the WTO under the TBT Agreement and also not subject to the appropriate stakeholder consultations in India. The issue was addressed at the last EU-India Sanitary and Phytosanitary measures / Technical Barriers to Trade Working Group (SPS/TBT WG) in November 2017 and during various follow-up meetings with the relevant authorities in India, Brussels and Geneva. India notified the measure in December, 3 months after its implementation date.
+
+Second, India resorted to a new import ban covering a wide range of products relating to the textiles & leather sector, which include reptile leather; raw mink; fox and chinchilla -furskins as well as tanned mink skins - all without prior consultation. These imports are subject to the Wild Life Protection Act 1972 and the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES). EU exporters, though, comply with CITES requirements, and the totality of the furskins exported to the country derive from farmed animals raised under the highest welfare standards. A letter was sent in April 2017, co-signed by the ambassadors of the EU and other like-minded partners to India and the issue was repeatedly raised at the EU-India Sub-Commission on Trade in July, at the EU-India SPS/TBT WG in November and in numerous contacts with the Indian authorities, including under the EU Investment Facilitation Mechanism. A reply to the joint letter is yet to be received.
+
+Finally, India resorted to certain tax measures and other import measures applied at State level on imported wines & spirits. Various discriminatory States' measures were raised again in the framework of the EU-India Sub-Commission on Trade.
+
+In addition to these new barriers covered, negative developments in existing barriers require further attention.
+
+In 2014, India re-introduced customs duties on certain ICT products such as 3G telecom equipment. Notwithstanding demarches from the EU side, including letters from the Head of the EU Delegation to the Indian Minister and bilateral meetings such as the EU-India Sub-Commission on Trade, India not only did not address this measure but continued to engage in further protectionist measures concerning the ICT sector in 2017. Duties were re-introduced (and in some cases further increased) for products including all base-stations, mobile phones and their parts, digital cameras, converters, switches and ink cartridges. India is a member of the Information Technology Agreement (ITA-1) thus having committed to keep the majority of these tariff lines duty-free. The issue has been raised in several letters, at the EU-India Sub-Commission on Trade, in the WTO bodies and in contacts with the Indian authorities, including under the EU Investment Facilitation Mechanism. The EU is currently assessing all options to address this matter. The recent announcement in the Indian Union budget for FY 2018-19 to further increase duties for ICT products, as well as in other sectors such as automotive parts and textiles signal further protectionism.
+
+Regarding the medical devices industry, in August 2017 prices were slashed for knee implants by emergency action by the National Pharmaceutical Pricing Authority (NPPA), instead of waiting for the government to bring the devices under the National List of Essential Medicines as it did in previous cases. The EU continues to raise concerns with Indian authorities including in the framework of the EU-India Sub-Commission on Trade, the EU-India Pharmaceuticals, Biotechnology and Medical Devices Working Group and in contacts with the Indian authorities, including under the EU Investment Facilitation Mechanism.
+
+The EU has consistently taken actions to tackle both the new and the existing barriers recorded in the MADB for India. The Commission regularly raises these issues with the Indian authorities in all available bilateral and multilateral fora, such as the EU-India Sub-Commission on Trade or the EU-India SPS/TBT Working Group and the different WTO Committees.
+
+5. Turkey
+
+Over the past few years, Turkey has maintained several trade barriers which are contrary to its obligations under the bilateral trade framework of the EU-Turkey Customs Union, such as burdensome customs procedures or additional duties on imports of third country origin goods. In 2017 Turkey introduced three further trade-restrictive measures, raising the overall number of reported trade barriers to 20.
+
+One of these new barriers consists in Turkey's discriminatory treatment between Turkish and EU-produced tractors. The Directive for Production, Modification and Assembling of Vehicles foresees that, as of January 2018, EU-produced tractors would need to meet stricter engine emission requirements than those produced locally.
+
+Turkish authorities are also implementing export tax measures on hides, skins and wet-blue leathers. This measure adds up to the already difficult situation of the EU`s tanning industry, which suffers from shortage of access to raw materials worldwide.
+
+A third new trade barrier relates to Turkey`s existing regime of “additional duties” on imports originating in third countries. Beyond the ever increasing scope of such additional duties over recent years, in 2017 Turkey introduced so-called “additional liabilities” (by Decision 2017/10926 of 11 September 2017). These are compensatory levies that raise the level of the EU`s Generalised Scheme of Preferences (GSP) tariffs to the level of Turkey`s existing applicable duties for imports of several countries to which Turkey should normally apply the EU’s GSP tariffs – whenever those goods are imported into Turkey via the EU.
+
+Moreover, also in relation to the additional duties, Turkey introduced a new layer of complication for EU exporters to Turkey that sell goods originating in third countries, by requesting exporter declarations (or longer-term supplier declarations) to bear responsibility for the EU origin of the products they are exporting, despite the free circulation provisions under the Customs Union (Communiqué 2017/4 of the Ministry of Economy of 30 December 2017, effective as of 1 March 2018).
+
+It should also be noted that further negative developments have taken place regarding a previously registered barrier in the pharmaceutical sector. The 64th Action Plan of the Turkish Government included delisting of imported pharmaceutical products from the reimbursement list, subject to compliance with specific localisation requirements. This effectively implies exclusion from the market since February 2018.
+
+The Commission will continue to address these and other trade irritants, with the objective to prevent further escalation of protectionist measures, increase market access for European companies and improve the overall trade and investment environment. In particular, the Commission raised existing barriers on the occasion of the Custom Union Joint Committee with Turkey. Given the importance of the Turkish market for EU businesses, some of these new barriers have also been discussed at the highest political level.
+
+Emerging trend: contagion effect in Euromed?
+
+Protectionism in the Euromed region as a whole is on the rise, with a certain mimicking of barriers across different countries. Aggravated trade deficits, caused partly by low oil and gas prices, have led to the rise of barriers in the region reaching 33 overall (Algeria, Egypt, Israel, Lebanon, Morocco and Tunisia), with Egypt, Algeria and Israel accounting for the highest number.
+
+7 new barriers have been registered in 2017, in Lebanon (two), Tunisia (two new barriers), Israel (one) and Algeria (one). While Egypt has also introduced one new barrier in 2017, it has a series of long-standing barriers hampering EU exports. The most prominent is the mandatory registration of exporters, which is implemented in a non-transparent and cumbersome way with significant affects across many sectors.
+
+Algeria has been introducing a series of trade restrictive measures since 2015, the most important being a system of non-automatic import licences on several products, including vehicles, cement, steel, and ceramics. The system is accompanied by the setting of quotas to imports—a serious obstacle to our trade. The EU addressed the issue in all fora (e.g. Association Council, Association Committee, Trade Sub-Committee) and in high level meetings. Notwithstanding those efforts, the Algerian government established a new set of even more restrictive measures in 2017. The main elements of the new system, which was approved in December 2017 and has been applied since 1 January 2018, are:
+
+- Temporary import ban on 851 products (mainly agricultural and prepared agricultural products) which accounted for ca. €1.0 billion of EU exports in 2016
+
+- Increase of custom duties on 129 products, which accounted for ca. € 0.5 billion of EU exports in 2016.  
+
+- Maintaining the import licencing system for cars (while eliminating licensing for other products).
+
+Israel has also introduced new requirements on nutritional labeling in December 2017. Those requirements are not in line with the established international practices and may create discriminations against imported products due to the increased packaging and labelling costs. The EU submitted its opinion to the WTO Technical Barriers to Trade (TBT) Committee in May 2017 and exerted continued pressure on Israeli authorities. This led to the approval by the Israeli Parliament of a version with some amendments, providing a much longer implementation period (two years) and excluding smaller size food products from labelling requirements. Another measure under preparation is a reform of the cosmetics legislation, aiming at aligning to the extent possible, the Israeli requirements with the EU's – mainly post-market control. The EU welcomed Israel's intention to move towards harmonisation with the EU Cosmetics Regulation but outlined several key concerns in the Israeli legislation which would have a negative impact on the market access conditions of EU operators in Israel. The reform is still under discussion in the Israeli Parliament. The EU is actively involved in discussions with the Israeli counterpart.
+
+Lebanon has also adopted a new barrier in 2017, with the revocation of the exemption from customs duties granted since 2013 to imports of hydrocarbons from the EU. On 4 April 2017, the Lebanese Customs' Council decided, in the framework of a revision of the fiscal laws, to cancel the exemption from customs duties that had been granted to EU exports of oil/petroleum products without prior consultation. The Lebanese government has also approved increased taxes on imports of certain products including alcoholic beverages—in contravention of the EU-Lebanon Association agreement. Thanks to intensive dialogue with the Lebanese authorities, the EU was able to ensure an exemption for its exports from the implementation of this measure.
+
+While less acute, some protectionist tendencies have emerged in Tunisia. Issues include technical and administrative difficulties met by EU exporters of pharmaceutical products, tyres and ceramic tiles. As of spring 2017, the Tunisian authorities were under public pressure to adopt import-restrictive measures to stem the trade and current account deficits. This was done through burdensome customs procedures, in particular the request for EU customs to provide a declaration on exports to Tunisia, and systemic technical controls in ports on an extended list of products, and the increase in tariffs on "non-essential" consumer products, including agricultural and processed products not covered by the Association Agreement. The Commission is following the issue closely and has been pursuing a resolution of these issues through regular dialogue, in the framework of the Sub-Committee Meetings, and in view of the negotiations of the Deep and Comprehensive Free Trade Area (DCFTA.)
+
+Faced with this regional challenge, our approach is to step up the use of all available tools—technical and political, to achieve a maximum degree of market access. While we will continue to work with Euromed countries to address economic challenges, the provisions of the Association Agreements and the WTO agreements must be respected as compliance is in the interest of all parties involved. Trade barriers will not enhance, but rather undermine, competitiveness of business in the region.
+
+
+
+B.    ESTIMATING THE ECONOMIC IMPACT OF NEW MARKET ACCESS BARRIERS
+
+This exercise is challenging as it is difficult to assess how much barriers (particularly non-tariff ones) affect exporters’ costs and behaviour. Available economic data on costs increases due to registered barriers remains partial. Another important distinction to bear in mind is that non-tariff barriers are characterized by different degrees of restrictions. Other than with outright bans, most trade-restrictive measures do not eliminate trade altogether, but rather reduce it. Moreover, restrictions regarding the same products or services may overlap - so additional barriers may not necessarily mean additional impact, nor removal of one barrier implies automatic improvement in market access.
+
+Analysing the trade flows linked to the new barriers raised in 2017 is a first step to help assess the importance of the EU's market access work. The methodology is based on bilateral EU export figures for the relevant Harmonised System (HS) tariff codes: of course, barriers do not necessarily eliminate all exports—so these figures are to be understood as a theoretical maximum impact. They signal an order of magnitude, a general indication of the importance of the underlying exports potentially affected by barriers. The examination of the possible impact of these measures is one factor taken into account by the Commission as it sets its market-removal priorities.
+
+This method was applied to 47 of the 67 new barriers recorded in 2017, excluding services, horizontal and other measures of difficult quantification. The calculation shows that the new trade barriers recorded in 2017 potentially affect EU exports worth up to €23.1 billion. This roughly corresponds to 1.2% of all 2017 EU exports.
+
+This is in the same order of magnitude as in 2016 – when € 27 billion exports were potentially affected, and confirms a widening of protectionist measures. In industrial sectors, measures introduced by three countries account for around two thirds of the exports potentially affected (China € 7 billion; the United Arab Emirates € 4.5 billion; Egypt € 3.1 billion). The sectors that in value terms face highest potential impact in 2017 are ICT and electronics (almost € 10 billion), textiles & leather (€ 8.3 billion) and chemicals (€ 3.1 billion). In the agri-food sector, roughly half of the value of trade flows potentially affected by restrictive measures is due to Chinese policies while another 30 percent is affected by Russian policies.
+
+The significant level of trade potentially affected by the imposition of new market access barriers underlines yet again the importance of the EU's Market Access Strategy to monitor, prioritize and address trade-restrictive measures with the most appropriate tools.
+
+
+III.        MAIN TRADE AND INVESTMENT BARRIERS RESOLVED IN 2017
+
+This chapter analyses the 45 barriers totally or partially resolved during 2017, the European Commission's strategy and the resulting benefits for our companies.
+
+A.    EU STRATEGY TO ADDRESS TRADE AND INVESTMENT BARRIERS
+
+In the wake of rising protectionism in today’s transactional world, our daily work to remove trade barriers becomes ever more prominent. To that end, the Commission has reinforced the EU’s Market Access Strategy, with strengthened coordination among EU institutions and stakeholders, better prioritisation of barriers and improved communication and awareness-raising. These efforts resulted in 20 barriers resolved in 2016, and 45 barriers successfully tackled in 2017—a record number.
+
+The previous section has underlined the many tools that are brought to bear in this endeavour. There is a stream of diplomatic work, where the European Commission, EEAS, EU Member States and industry collaborate closely through the network of EU delegations and Member States' embassies in third countries, in Brussels and in European capitals. This encompasses a wide variety of activities—ranging from technical trade projects to formal demarches, from discussion in formal political structures (dialogues, committees), High Level Missions of Commissioners, to ministerial and presidential actions. Wherever this enhances the effectiveness of our work, action is coordinated with like-minded partners.
+
+Under the WTO framework, regular committee work detailed in the previous section is complemented by the Commission's activity in the context of the Dispute Settlement—a precious tool to address trade barriers. While no new cases were initiated in 2017, WTO Panels ruled in favour of the EU in 2 cases (in DS 472 regarding certain Brazilian measures concerning taxation and charges affecting several economic sectors and in DS 479 on Russia’s anti-dumping duties on Light Commercial Vehicles from Germany and Italy). In one case regarding Russia's sanitary policies on the import of pig, pork and certain pig products, EU claims were also upheld by the WTO Appellate Body (DS 475) and the report adopted by the WTO Dispute Settlement Body. Finally, in the context of DS 485 regarding Russia tariff treatment of certain agricultural and manufacturing products, in June 2017 Russia confirmed that it had brought the tariffs on these products down to the level to which Russia committed in its WTO Schedule, as requested by the EU.
+
+The Commission will also not hesitate to deploy bilateral dispute settlement as provided for in its Free Trade Agreements. This possibility is analysed on an on-going basis.
+
+In 2017, the Commission has also successfully made use, at the request of exporters, of the procedure foreseen by Trade Barrier Regulation 12 initiating on 7 July 2017 an examination against a Turkish measure providing for an import licensing requirement 13 for a certain product. This underlines the potential of an instrument seldom used by EU stakeholders to address a particular type of trade barrier.
+
+Besides the aforementioned tools, the Commission pursues an ambitious trade agenda – a priority highlighted by President Juncker in his State of the Union Address and the subsequent trade package presented in September 2017 by Commissioner Malmström –, aimed at increasing effectiveness, transparency and values. This strategy is reflected in the further comprehensive agreements with third countries, which provide increasingly effective frameworks to tackle market access barriers. In 2017, the provisional application of the Comprehensive Economic and Trade Agreement with Canada (CETA) started, negotiations on the Economic Partnership Agreement with Japan were concluded and progress was achieved in talks on the modernisation of the EU – Mexico FTA and in the MERCOSUR FTA. Negotiations are on-going with other countries such as Indonesia and the Commission has also requested the Council for negotiating directives for trade agreements with Australia and New Zealand. Barriers identified under our market access work are channelled in directly to these FTA negotiations to ensure that market access priorities are effectively addressed. In view of the Commission’s increased emphasis on FTA implementation, the Commission also keeps reinforcing discussions with its market access partners in order to address barriers in countries where FTAs are in force. Implementation structures established by FTAs significantly contribute to eliminating specific trade barriers and provide a regular framework for discussing market access issues.
+
+In addition, the EU has introduced in 2017 an overarching European Economic Diplomacy initiative, which brings together all strands of our policy (from environmental policy to transport, from energy to competition, from development to industrial policy) to support our key economic priorities with each and every one of our trade partners. Market access is always one of these key priorities, and thus benefits from this initiative.
+
+B.    OVERVIEW OF THE BARRIERS RESOLVED IN 2017
+
+1.    Barriers resolved in 2017 per third country
+
+Due to the increased and combined efforts of all stakeholders in our market access work, a total of 45 barriers have been totally or partially resolved in 2017, which shows a significant increase compared to the previous year.
+
+Table 7 illustrates the third countries where barriers were most successfully tackled. China came first on the list with 7 barriers resolved during 2017, followed by Brazil, Turkey and Canada (three each). Also in Argentina, India, Saudi Arabia, Taiwan and the United Arab Emirates, two registered barriers were resolved.
+
+
+
+
+
+
+
+
+
+Table 7: Geographical breakdown of barriers resolved in 2017 (* - G20 countries)
+
+ 
+
+
+2.    Barriers resolved in 2017 per type of measure
+
+It is useful to analyse how effective the EU was in tackling different types of measures last year. Table 8 shows that our strategy has contributed to the resolution of double-digit numbers of barriers both at and behind the border, confirming the effectiveness of our toolbox when tackling different types of barriers. Contrary to last year, 2017 has registered a considerable increase in the resolution of border measures (34) compared to behind the border measures (11). Most border measures successfully addressed relate to SPS matters, which resulted from joint targeted actions (Commission, EU Member States, EU Delegations, EU exporters) in 20 key priority countries, while the other resolved barriers constituted import bans or customs issues.
+
+For the eleven behind the border measures, most positive outcomes were achieved in the area of regulatory or taxation measures for trade in goods (10), while one services issue was also successfully resolved.
+
+
+
+
+Table 8: Sectorial breakdown of barriers resolved in 2017 as recorded in MADB (number of measures)
+
+
+
+3.    Barriers resolved in 2017 per sector
+
+Table 9 provides an overview of the main economic sectors in which the barriers were resolved in 2017. Agriculture and fisheries came on top of the list, as 27 measures were (partially or totally) resolved 14 . The second sector in line was wines and spirits, which also presented three resolved barriers during the same period. Iron, steel and non-ferrous metals as well as wood, paper and pulp, each accounted for two resolved barriers. Further, individual barriers were resolved in several other sectors: aircraft, automotive, ceramics and glass, ICT and electronics, machinery, medical devices, pharmaceuticals, services and textiles and leather. Finally, two horizontal barriers were also solved, those being coverage of municipal entities in Colombia and investment thresholds in Canada.
+
+
+
+Table 9: Sectorial breakdown of barriers resolved in 2017 as recorded in MADB
+
+ 
+
+
+C.    QUALITATIVE ANALYSIS OF BARRIERS RESOLVED IN 2017
+
+This section provides a more in-depth analysis of the barriers resolved in the nine trade partners for which the highest number of resolved barriers (and at least two barriers) was recorded in 2017: China, Brazil, Canada, Turkey, Argentina, India, Saudi Arabia, Taiwan and the United Arab Emirates.
+
+1.    China
+
+China is still one of the countries that resorts most to market access barriers in both terms of overall stock (25) and new barriers identified in 2017 (ten). However, some positive if mostly incremental steps could also be identified in 2017, showing that the EU barrier removal strategy produces results even in the most challenging environments.
+
+Progress has been achieved in the area of SPS. Regarding, food and drink products that are not currently required to be accompanied by official certification, the EU has achieved a 2 year delay in the implementation of a piece of legislation which would entail the certification of low-risk food products. The Commission will continue to follow up as concerns regarding the measure remain, notwithstanding the welcomed delay in the implementation.
+
+Also, within the same sector, since year 2000, the Competent Authority of China has kept an import ban in place on EU bovine/ovine products and beef/ovine due to bovine spongiform encephalopathy (BSE) and Transmissible Spongiform Encephalopathy (TSE). However, the EU has contributed to lift BSE-related country bans for some Member States.
+
+In September 2017 several types of mould cheese were blocked by China Inspection and Quarantine officers. Following bilateral discussions with Chinese authorities, the ban was lifted.
+
+A positive development was also recorded in the medical devices sector. In October 2017 China has extended the number of devices to be exempted from clinical trials in China. While Chinese Order 650 requires manufacturers to conduct in-China clinical trials for the registration of certain categories of medical devices in China, this decision will significantly reduce the time and costs of registration and improve market access to China for the newly listed devices.
+
+Similarly, in the pharmaceutical sector, China updated in February 2017 its National Reimbursement Drug List (NRDL) for the first time in eight years. The new list includes 15 per cent more drugs than in the 2009 version. This new list represents concrete progress in improving access to the Chinese markets for new drugs.
+
+Regarding the automotive industry, some progress has been achieved as in September 2017, China announced that the entry into force of the recent New Energy Vehicle (NEV) quota policy would be delayed by one year to 2019. The postponement of the implementation will give breathing space for the European automotive manufacturers in China.
+
+Finally, the aircraft sector also registered certain positive developments. In the last years, the Civil Aviation Administration of China (CAAC) stopped issuing the necessary certificates allowing imports of small aircraft into China. However, in 2017 the European Union and China agreed to strengthen their aviation cooperation by concluding negotiations of a Bilateral Civil Aviation Safety Agreement (BASA). This agreement will remove the unnecessary duplication of evaluation and certification activities for aeronautical products by the Civil Aviation Authorities, and therefore reduce costs for the aviation sector. While the agreement is yet to enter into force, China has already issued the related notifications for the acceptance of application of certain EU aircraft – the EU looks forward to the working together closely with the Chinese authorities to finalise the unblocking of approvals as soon as possible.
+
+2.    Brazil
+
+Brazil is part of the MERCOSUR bloc with which the EU is negotiating a free trade agreement as part of the Association Agreement negotiations.
+
+Brazil being the largest economy of Latin America and the EU its main trading partner, market access issues are of great importance in the region. The trend in market access terms has been generally positive since three barriers have been (partially or totally) resolved.
+
+Regarding the agriculture and fisheries sector, new legislation was issued and its implementation is still on-going, which eases European market access even though the barrier is not completely resolved. This legislation includes provisions allowing all EU Member States already exporting to add more establishments to the lists of those approved to export to Brazil (without audits); extend the approval to other areas/animal species (when the system has already been considered as equivalent) and to provide a list on low risk products, which is still to be defined by Brazil. These measures reduce the backlog of audits, which is a recurrent systemic issue. In addition, some positive steps have been taken by Brazilian authorities to fix 17 pending applications for fruit and vegetables, a sign of commitment in the context of Mercosur negotiations.
+
+Progress was also partially achieved regarding wines and spirits, the Brazilian Agency for Sanitary Control (ANVISA) adopted a new regulation on allergenic labelling in foodstuff products. This new requirement was mandated for foodstuff, beverages, additives and ingredients used in food processing and alcoholic beverages containing cereals (wheat, rye, barley, oats and hybrids), which would have to be labelled with a warning message. Following several demarches from the Commission, in early 2017, ANVISA has finally confirmed the exemption of allergen labelling for spirit drinks distilled from cereals.
+
+Finally, another barrier has been tackled related to machinery. The Regulatory Standard (Norma Regulamentadora) no. 12 (NR 12) is a regulation setting safety standards in different areas of employment, including obligations applicable in the same way to exporters, producers and users of machinery and industrial equipment, which impose far-going requirements. The Ministry of Labour finally introduced a technical note stating in the conclusion that imported machines constructed in accordance with ISO13849 should not be considered as being non-compliant with NR12. Consequently, this allows market access to the EU machinery industry which uses ISO13849.
+
+3.    Canada
+
+The Comprehensive Economic and Trade Agreement between the EU and Canada provisionally entered into force on 21 September 2017. The agreement has resulted in the continued improvement of trade relations since it also provides a framework that helps tackle market access issues. As a matter of fact, the resolution of three barriers has already been confirmed in 2017.
+
+In terms of horizontal barriers, the law governing foreign investments (Investment Canada Act) in Canada allows the Canadian government to examine foreign investments which surpass a certain level. Following the entry into application of CETA, the review threshold is 1.5 billion Canadian dollars in enterprise value for investments to acquire control of a Canadian business made by "trade agreement investors" that are not state-owned enterprises. This threshold will be adjusted annually based on growth in nominal GDP thanks to the provisions contained in CETA.
+
+Regarding agriculture and fisheries, another barrier was solved since Member States were unable to export from storage centres located in other provincial control units than where the manufactures were based. Nevertheless, the EU and Canada agreed to amend the harmonised export certificate. Also related to agriculture and fisheries, the previously existing import system on wheat and barley, which was operated by the Canadian Wheat Board by 4 tariff rate quotas (TRQ), has now been eliminated following the entry into force of CETA.
+
+Furthermore, under CETA, Canada has committed to discuss any issues related to wines and spirits to find mutually agreed solutions with the EU. This includes provincial mark-ups applied on domestic wines and wine bottled in Canada in private wine outlets.
+
+4. Turkey
+
+EU-Turkey trade relations are based on a Customs Union Agreement that entered into force in 1995. Turkey is a country that accounts for an extensive list of barriers as an overall, namely a total stock of 20 registered in the database. However, two barriers have been successfully tackled.
+
+Regarding mining, Turkish authorities have lifted the restrictions on copper scrap and aluminium scrap and have removed them from the list of goods which are subject to export registration.
+
+Furthermore, another barrier has been partially addressed in the wood, paper and pulp sector. Through the publication of Communiqués, Turkish authorities regularly include different products in the scope of Turkey's import surveillance certificate regime, which consists in a requirement to obtain a surveillance license prior to the import of different products if their price is below a certain threshold defined by the authorities. After a Trade Barriers Regulation (TBR) investigation on import surveillance of uncoated wood free paper conducted by the Commission, Turkey removed this category of paper products from the scope of its import surveillance scheme as of 7 December 2017. (It is, however, noted that several products in other sectors remain subject to that scheme.)
+
+5. Argentina
+
+Argentina is also part of the MERCOSUR bloc with which the EU is negotiating a free trade agreement as part of the Association Agreement negotiations. Progress in terms of market access has been achieved as two barriers have been tackled in 2017.
+
+Regarding SPS measures, Argentina removed the Porcine Reproductive & Respiratory Syndrome (PRRS) free requirement from its certificate, which eases meat producers' access to the Argentinian market. With regard to services, it should be noted that Argentina has terminated its importer sworn declaration for services (DJAS), which had been established by General Resolutions in 2012 and 2013.
+
+6. India
+
+As described in previous sections, India has continued to embark on a protectionist trend with three new barriers in 2017. Despite these developments, the EU has managed to (partially) solve two barriers during 2017 both of them regarding the SPS sector.
+
+As far as pork products are concerned, a health certificate has been agreed with several Member States easing their access since Indian authorities accepted to no longer request that pork products (e.g. hams) could only be exported to India if the meat was deboned before curing/drying. India had also set up restrictions on imports of plants and plant products relating to fumigation treatments. India approved the imports of fruits and wood with alternative treatments (cold and hot treatments, respectively), and announced that it would be notifying it to the WTO SPS Committee. However, some of the announced notifications are still missing.
+
+Moreover, regarding iron and steel products, it should be noted that in February 2017, India's Steel Secretary announced that minimum import prices on iron and steel, which had been previously in place, would no longer be extended on 19 products.
+
+7. Saudi Arabia
+
+Saudi Arabia and the other five countries of the Gulf Cooperation Council (Bahrain, Kuwait, Oman, Qatar and the UAE) represent an important region from a trade point of view. Two barriers have been solved in Saudi Arabia in the course of 2017, both of them on the agriculture and fisheries sector.
+
+Saudi Arabia had import restrictions of bovine and sheep meat due to Bovine Spongiform Encephalopathy (BSE). However, this ban was lifted for certain Member States during 2017. Also, a similar ban had been registered regarding imports of poultry and poultry products due to Highly Pathogenic Avian Influenza (HPAI). This ban was also lifted for certain Member States in 2017.
+
+8. Taiwan
+
+The EU managed to tackle two barriers during 2017 which will benefit EU business in Taiwan.
+
+Both barriers were related to the agriculture and fisheries sector. Taiwan used to have multiple applications from the EU for exports of animals/plants and their products pending for years without any indication when the process would be finalised. Fortunately, Taiwan sped up the process during 2017 and market access has been granted to certain Member States. Also, Taiwan has lifted its ban on bovine products from certain Member States due to BSE after increasing joint effort of the Member State governments and the European Commission to engage with the Taiwanese authorities, academia and wider public in a dialogue over several years to explain the EU's comprehensive, multi-layered control systems that meet very high standards.
+
+9. United Arab Emirates (UAE)
+
+The United Arab Emirates represent an important region from a trade perspective. Thus, the Commission has made great efforts to tackle market access barriers; two of them have successfully been resolved in 2017.
+
+Regarding the agriculture and fisheries sector, a temporary ban on imports of poultry and poultry products due to HPAI was lifted for certain Member States.
+
+As for electronics, the UAE provided guidelines and a presentation which granted an exception from the scope of application of the measures for 11 products for general lighting equipment currently covered under an UAE Cabinet Decision of 2012, which restricted the use of certain hazardous materials in electronic equipment (similar to the EU’s legislation on RoHS under Directive 2011/65/EU).
+
+D.    IMPACT OF THE BARRIERS RESOLVED
+
+In this section, we first repeat the analysis performed before by identifying trade flows linked to barriers resolved in 2017. Trade flows potentially affected by the removed trade barriers were € 8.2 billion, This is almost double the figure for last year (€ 4.2 billion). 45 percent is represented by EU exports to China followed by EU exports to Brazil (almost 13 percent) and India (almost 6 percent). Industrial sectors account for the vast majority of these flows. Medical devices and machinery account for 34 percent of trade potentially affected (corresponding in value terms to € 3.6 billion and € 2.1 billion respectively). Resolved agri-food barriers account for € 1 billion.
+
+As of this year, this report includes a refined analysis based on an econometric model which is able to assess how much the trade flows with the partner countries that have imposed a barrier have changed after its removal. In order to do so, a regression analysis has been used to quantify the impact of the removal of barriers on EU exports 15 .
+
+The methodology used is conservative and may underestimate the trade impacts, but we have focused only on the barriers completely removed, and have not included more complex services and horizontal barriers. We have analysed the effects of this reduced set of barriers removed between 2014 and 2016 16 . This has been done for comparison purposes to the last such analysis the Commission performed in 2015, which covered up to 2013. But, as a result, it excludes the positive impact on trade of barriers removed thanks to the Market Access Strategy before 2014.
+
+Results show that the removal of this subset of barriers is associated with a significant increase of EU exports. The estimates point to an average increase in trade of about 56% after the removal of the barriers. This implies, in value terms, that removal barriers generated € 4.8 billion additional exports on a yearly basis. This is in the order of magnitude of the benefits of many of our FTAs. For example, this is more than the combined impact of our FTAs with Colombia and Peru.
+
+The analysis using the same methodology in 2015 yielded a figure of € 2.4 billion additional exports—underlining that, as barriers increase, so do our enforcement efforts to ensure enhanced market opening.
+
+IV. CONCLUSION
+
+This report gives a general overview of trade and investment barriers directly affecting EU economic operators, as they have been reported and addressed within the Market Access Partnership, the joint work between the Commission, Member States and business organisations.
+
+With 67 new barriers reported and 45 tackled in 2017, the Market Access Database currently stores a record number of 396 measures in third countries. Russia is still on top in terms of highest trade restrictions, closely followed by China, Indonesia and India.
+
+This confirms the trend already identified in the previous year: protectionism is on the rise. China was identified as the partner contributing the most to this trend (ten new barriers), underlining the complex nature of bilateral trade relations. Russia (six), South Africa (four) were next in line, with two more countries (India and Turkey) introducing three new barriers in 2017. A clear regional trend was also observed, with seven new barriers identified in the Euromed region.
+
+Overall, new barriers in third countries were imposed on 12 different sectors of economic activity, among which mainly the agriculture and fisheries sector, measures of horizontal nature and wines and spirits featured. The trade flows potentially affected by all new barriers registered in 2017 were € 23.1 billion, corresponding to 1.2% of all EU exports globally in the same year.
+
+In view of this rise in protectionism, the EU has reinforced its market access actions, with strengthened coordination among EU institutions and stakeholders, better prioritisation of barriers and improved communication. The EU has continued to rely on all vehicles available in its toolbox to resolve barriers, ranging from dispute settlement, use of the Trade Barriers Regulation, an ambitious agenda for trade negotiations, diplomatic demarches, and the introduction of an overarching European Economic Diplomacy initiative. The Market Access Days initiative in Member States has also allowed the Commission to raise awareness of the opportunities offered by the EU's market access work for local businesses, with a view to addressing barriers for an increasing number of EU economic operators in third countries.
+
+With these efforts, the EU's market access work has delivered. 45 barriers were fully or partially resolved in 13 different sectors – among others aircraft, automotive, ceramics, ICT & electronics, machinery, pharma, medical devices, textiles & leather, agrofood, iron & steel, wood, paper and services, – as well as horizontally. 27 of the resolved measures belonged to the agriculture and fisheries sector and the countries with the highest number of barriers were resolved were China, Brazil, Canada and Turkey. Trade flows potentially affected by the removed trade barriers were € 8.2 billion, where 45 percent was represented by EU exports to China followed by EU exports to Brazil (almost 13 percent). The vast majority of these flows benefited manufacturing.
+
+As of this year, this report contains a refined regression analysis to quantify the impact of the removal of barriers on EU exports. Conservative estimates indicate that the removal of barriers generates € 4.8 billion additional exports on a yearly basis. This is in the order of magnitude of the benefits of many of our FTAs—and twice as much as in 2015, the last time when a similar analysis was undertaken.
+
+This underlines that, as barriers increase, so do our enforcement efforts to ensure enhanced market opening. Implementation and enforcement are not only key priorities of the European Commission - they are more important than ever to deliver growth, jobs and competitiveness to the benefit of our companies and citizens.
+
+In close cooperation with Member States and stakeholders, the Commission is committed to further strengthen the Market Access Partnership and to adapt its toolbox to the increasingly complex environment where our companies operate. Finding more transactional and creative ways to effectively tackle barriers will be vital to continue opening markets and enhancing the opportunities for EU operators all over the world.

@@ -1,0 +1,1770 @@
+=============================================================
+US Corpus -- Topic 14 
+Generated: 2026-05-09 13:05 
+=============================================================
+
+PROB:  china, united_st, world_trade_organ, export, trade, enforc, concern, polici, chines, import, market, case, product, subsidi, use 
+FREX:  indigen, subsidi, joint_commission_commerce_trad, case, dialogu, government_procur, high-level, softwar, disput, obama_administr, appar, concern, tire, brought, level_playing_field 
+
+-------------------------------------------------------------
+TOP DOCUMENTS
+-------------------------------------------------------------
+
+[ 1] USTR_CT_251011 (2011) -- theta=0.990
+     The US-China Economic Relationship: Statement of Ambassador Demetrios Marantis, Deputy U.S. Trade Representative
+
+[ 2] USTR_CT_020807 (2007) -- theta=0.786
+     Legislation Related to Trade with China: Statement from The Honorable Daniel Brinza, Assistant U.S. Trade Representative for Monitoring and Enforcement, Office of the U.S. Trade Representative
+
+[ 3] USTR_S_291107 (2007) -- theta=0.746
+     Remarks by U.S. Trade Representative Susan C. Schwab Announcement of Resolution of WTO Dispute With China on Prohibited Subsidies
+
+[ 4] USTR_CT_230610 (2010) -- theta=0.670
+     Remarks of Ambassador Ron Kirk Before The Senate Finance Committee Regarding the U.S. - China Economic Relationship
+
+[ 5] USTR_S_200911 (2011) -- theta=0.665
+     Remarks by United States Trade Representative Ron Kirk Announcing Action against China with Regard to Poultry
+
+[ 6] USTR_S_170108 (2008) -- theta=0.623
+     Remarks by U.S. Trade Representative Susan C. Schwab US Chamber of Commerce
+
+[ 7] USTR_S_130114 (2014) -- theta=0.538
+     Remarks by United States Trade Representative Michael Froman Announcing Compliance Action in China – GOES Dispute
+
+[ 8] USTR_S_150710 (2010) -- theta=0.474
+     Remarks by Ambassador Demetrios J. Marantis "China: What's Next?"
+
+[ 9] USTR_S_230514 (2014) -- theta=0.431
+     Remarks by United States Trade Representative Michael Froman Announcing Victory in China – Autos AD/CVD Dispute
+
+[10] USTR_S_120612 (2012) -- theta=0.366
+     Statement by Deputy U.S. Trade Representative Michael Punke at the World Trade Organization’s Trade Policy Review of China
+
+-------------------------------------------------------------
+TEXT EXCERPTS
+-------------------------------------------------------------
+
+[1] USTR_CT_251011 (2011)
+Mr. MARANTIS. Thank you Chairman Camp, Ranking Member Levin, and members of this committee. I
+appreciate the opportunity to testify today. Since China joined the WTO in 2001, U.S. goods
+exports, including semiconductors, aircraft, and chemicals, have quadrupled. Agriculture exports
+are up 800 percent, led by soybeans and cotton. Services exports are up nearly 300 percent on
+growing sales of business, education, and financial services. And American job-creating investment
+in China has grown 400 percent. America's trade relationship with China has tangible benefits, but
+just as real are the persistent concerns that threaten to undermine the potential of this
+relationship. Intellectual property theft in China costs U.S. companies $48 billion every year.
+China's industrial policies, like indi
+...
+
+[2] USTR_CT_020807 (2007)
+Thank you, Mr. Chairman, and Ranking Member Herger and Members of the Subcommittee on Trade. I am
+pleased to participate in today's hearing. I understand that today's hearing is focused principally
+on China currency and trade issues, including possible legislation relating to those issues. Within
+the Administration, the Treasury Department is charged with responsibility for currency and
+exchange rate matters, while the Office of the U.S. Trade Representative is responsible for
+developing and coordinating U.S. international trade and investment policy. Our view aims at
+increasing exports; securing a level playing field for American workers, farmers and businesses;
+and ensuring fair treatment for U.S. investment abroad. We seek to resolve trade problems using a
+wide variety of tools, includi
+...
+
+[3] USTR_S_291107 (2007)
+Introduction ● Thank you all for coming. ● As many of you know, in February of this year, we filed
+a case in the World Trade Organization challenging China’s illegal subsidies practices. ● This case
+is enormously important. It challenged the kinds of illegal subsidies that severely distort trade
+conditions for U.S. manufacturers and producers − especially small and medium sized enterprises −
+and their workers. As a result of such subsidies, a range of domestically produced goods in the
+United States, from steel to wood products to information technologies, are denied the opportunity
+to compete fairly in the United States, in China, and in third country markets where they are up
+against Chinese subsidies that are illegal under the WTO. ● Today, I am very pleased to report we
+have just signe
+...
+
+[4] USTR_CT_230610 (2010)
+“Chairman Baucus, Ranking Member Grassley, Committee members, thank you for this opportunity to
+discuss the complex and evolving trade and economic relationship between the United States and
+China. As you have said, Mr. Chairman, America’s interests require us to approach China in a
+strategic and well-coordinated manner. “That is why the Obama Administration is speaking with one
+voice, pressing for change with enhanced dialogue, enforcement of America’s WTO rights, and
+negotiations that include key trading partners wherever appropriate. Secretaries Geithner, Clinton,
+Vilsack, Locke and I are working together with the White House in the Strategic and Economic
+Dialogue (S&ED), and Secretary Locke and I are driving the Joint Commission on Commerce and Trade
+(JCCT) to achieve a more robust and
+...
+
+[5] USTR_S_200911 (2011)
+“I’m here to announce that the Obama Administration is once again taking action to hold China
+accountable for commitments that it made when it joined the World Trade Organization ten years ago.
+“Today’s action pertains to what we believe is China’s wrongful imposition of trade remedies
+against U.S. chicken products. It’s a case that has implications for an estimated 300,000 American
+farmers and workers throughout the U.S. poultry supply chain. “Specifically, today the United
+States is requesting consultations in the World Trade Organization (WTO) to challenge antidumping
+and countervailing duties against U.S. chicken products that we will show are inconsistent with WTO
+rules. “USTR General Counsel Tim Reif will provide you with legal details about the case in a
+moment, so let me offer a fe
+...
+
+[6] USTR_S_170108 (2008)
+China/Enforcement • Speaking of passions, let me turn for a moment to China, and our enforcement
+efforts more broadly. • The President’s strategy on how to grapple with the economic challenge –
+and grasp the opportunity – of a rising China is delivering results. • Of course we think it’s in
+both countries interests to be able to show more results and more quickly, so we have – and will
+continue – to act quickly, firmly, and decisively with the most effective tools at hand. • This
+includes dialogue where possible and enforcement when necessary. • We have been forceful with China
+about our concerns on the direction taken by several ministries to use standards to limit imports,
+subsidize exports, and protect non-competitive industries; but we must also encourage those
+outward-looking, entrepr
+...
+
+[7] USTR_S_130114 (2014)
+“Good afternoon. First piece of news today is that I am not Tim Reif, in case any of you were
+confused. But Tim will be here to answer technical questions. I wanted to come over and just
+underscore the importance of today’s announcement. “You know, when President Obama came into office
+five years ago, he made clear that this administration’s focus would be on creating jobs, promoting
+growth and strengthening the middle class. And that’s been our approach to trade policy. Our trade
+policy has been reoriented around those priorities ever since. “Supporting American jobs is our
+number one job. “To ensure that Americans see the full benefit of the rules and market access we
+have negotiated in our international trade agreements, the President put enforcement of America’s
+trade rights in on a pa
+...
+
+[8] USTR_S_150710 (2010)
+“Last week, I picked up my copy of Counselor: A Life at the Edge of History, Ted Sorensen’s memoir
+of a decade working as President Kennedy’s legendary speechwriter and closest advisor. Paging
+through the 500 page account of working for the young Senator and President who inspired a nation,
+I was struck that Sorensen dedicated just one half page to China. Half way through the volume he
+wrote of Kennedy: ‘The only controversial foreign policy issue that he deliberately, explicitly
+postponed to his second term…was U.S. relations with China…but a topic that Kennedy knew had to be
+faced.’ “How much the world has changed. An account of President Obama’s Administration would more
+likely address U.S. relations with China on many pages, beginning in chapter one, rather than
+dedicating just a singl
+...
+
+[9] USTR_S_230514 (2014)
+“The overarching goal of President Obama’s trade policy is to support jobs and strengthen the
+American middle class by selling more Made-in-America exports to the world. Every day at USTR we
+are fighting to unlock economic opportunity for American workers, farmers, and businesses of all
+sizes. “Standing up for American trade rights abroad and leveling the playing field for our workers
+is at the heart of that effort. “Today, we have once again demonstrated our commitment to
+protecting American workers. “I’m proud to announce that the United States has won a major trade
+enforcement case that we brought on behalf of American auto workers and manufacturers. “Back in
+December 2011, China imposed duties of up to 21.5 percent on American-made cars and SUVs –
+effectively a tax of more the 20 perce
+...
+
+[10] USTR_S_120612 (2012)
+“Thank you, Mr. Chairman. “The United States welcomes China’s head of delegation, Assistant
+Minister Yu, other representatives of China’s government and, of course, our colleague, Ambassador
+Yi. We appreciate the Report that your team prepared for this meeting. We also thank China for its
+responses to our written questions, which we will examine carefully. As always, we are grateful to
+the Secretariat for its hard work in compiling its Report. Finally, we appreciate Ambassador
+Smidt’s contribution in getting us started today with helpful commentary and important questions
+regarding China’s trade policies and practices. “In the ten years since it acceded to the WTO,
+China has risen to become the world’s second largest exporter, and it is now the world’s third
+largest importer. It is clear t
+...
+
+-------------------------------------------------------------
+KEYWORD-IN-CONTEXT
+Search terms: china | subsidies | government procur | dispute | level playing field | raw material | auto | world trade organ | enforc | intellectual property 
+-------------------------------------------------------------
+
+>>> KWIC: china <<<
+
+[USTR_CT_020807]
+  ...herger and members of the subcommittee on trade i am pleased to participate in today's hearing i understand that today's hearing is focused principally on [china] currency and trade issues including possible legislation relating to those issues within the administration the treasury department is charged with responsibility for currency and exchange...
+
+[USTR_CT_020807]
+  ...seek to promote compliance by our trading partners with their international trade obligations for example legislation has been introduced in this congress in response to [china's] currency practices which appears to raise serious concerns under international trade remedies rules and could invite wto sanction retaliation against u.s goods and services as...
+
+[USTR_CT_020807]
+  ...the best tools available to us to serve the american people's interest in building strong mutually beneficial economic relations with our global trading partners including [china] to provide a more concrete perspective on our work i will give you a brief overview of ustr's recent engagement with china touching on the...
+
+[USTR_CT_020807]
+  ...trading partners including china to provide a more concrete perspective on our work i will give you a brief overview of ustr's recent engagement with [china] touching on the mechanisms ustr uses to address key trade concerns since succeeding to the wto 5 years ago china has taken significant steps in...
+
+[USTR_CT_020807]
+  ...of ustr's recent engagement with china touching on the mechanisms ustr uses to address key trade concerns since succeeding to the wto 5 years ago [china] has taken significant steps in an effort to bring its trading system into compliance with wto rules u.s businesses workers farmers service providers and consumers...
+
+[USTR_CT_020807]
+  ...compliance with wto rules u.s businesses workers farmers service providers and consumers have benefited significantly from these steps and continue to do so as u.s [china] trade grows indeed last year u.s exports to china climbed by 32 percent while china's exports to the united states increased by 18 percent china...
+
+[USTR_CT_020807]
+  ...providers and consumers have benefited significantly from these steps and continue to do so as u.s china trade grows indeed last year u.s exports to [china] climbed by 32 percent while china's exports to the united states increased by 18 percent china today has become our fourth largest export market and...
+
+[USTR_CT_020807]
+  ...from these steps and continue to do so as u.s china trade grows indeed last year u.s exports to china climbed by 32 percent while [china's] exports to the united states increased by 18 percent china today has become our fourth largest export market and the fastest-growing major export market for...
+
+[USTR_CT_020807]
+  ...china trade grows indeed last year u.s exports to china climbed by 32 percent while china's exports to the united states increased by 18 percent [china] today has become our fourth largest export market and the fastest-growing major export market for the united states in the world it is helping to...
+
+[USTR_CT_020807]
+  ...states in the world it is helping to support thousands of american jobs today and will support even more in the future despite this progress [china's] record in implementing its wto obligations is mixed in our engagement with china we follow a dual-track approach a bilateral dialogue together with a full...
+
+[USTR_CT_020807]
+  ...today and will support even more in the future despite this progress china's record in implementing its wto obligations is mixed in our engagement with [china] we follow a dual-track approach a bilateral dialogue together with a full willingness to use wto's dispute settlement where appropriate considering bilateral dialogues the united...
+
+[USTR_CT_020807]
+  ...together with a full willingness to use wto's dispute settlement where appropriate considering bilateral dialogues the united states has achieved some important successes for example [china] made several commitments related to ipr protection and enforcement to eliminate duplicative testing and certification requirements applicable to imported medical devices and to make adjustments...
+
+[USTR_CT_020807]
+  ...to eliminate duplicative testing and certification requirements applicable to imported medical devices and to make adjustments to its registered capital requirements for telecommunication service providers [china] also reaffirmed past commitments to technology neutrality for 3g telecommunication standards and to ensure that new rules in the postal area would not negatively affect...
+
+[USTR_CT_020807]
+  ...couriers to date we have turned to formal wto dispute settlement in five instances with respect to semiconductors it has filed a wto dispute against [china] challenging value-added tax rebates that discriminate against imported semiconductors as a result the united states and china resolved the matter ensuring fair access for manufacturers...
+
+[USTR_CT_020807]
+  ...semiconductors it has filed a wto dispute against china challenging value-added tax rebates that discriminate against imported semiconductors as a result the united states and [china] resolved the matter ensuring fair access for manufacturers and workers to a market worth over $ 2 billion auto parts the u.s acted together with...
+
+[USTR_CT_020807]
+  ...market worth over $ 2 billion auto parts the u.s acted together with the european communities and canada launched a wto dispute settlement case challenging [china] rules that provide for prohibited local content requirements in the auto sector through discriminatory charges on imported auto parts this case is now before a...
+
+[USTR_CT_020807]
+  ...we have held initial consultations and additional consultations are under way intellectual property protection the u.s has launched a wto challenge to various deficiencies in [china's] legal regime for protecting and enforcing copyrights and trademarks that affect a wide range of products consultations have recently taken place one area we have...
+
+[USTR_CT_020807]
+  ...yet reached a satisfactory conclusion is in the area of beef trade working closely with the department of agriculture we have been in contact with [china] to seek a full reopening of the beef market consistent with international standards in summary ustr is committed to ensuring that we are using the...
+
+[USTR_CT_020807]
+  ...ustr is committed to ensuring that we are using the most effective tools at our disposal to pursue an open and fair trade relationship with [china] this effort ties into broader administration engagement on international economic issues including work by treasury and commerce and with members of congress to achieve a...
+
+[USTR_CT_020807]
+  ...engagement on international economic issues including work by treasury and commerce and with members of congress to achieve a more flexible market-based exchange rate for [china's] currency and a level playing field for american businesses workers and farmers thank you again for the opportunity to testify i will be happy to...
+
+[USTR_CT_020807]
+  ...of the ways and means subcommittee on trade i am pleased to participate in today's hearing i understand that today's hearing is focused principally on [china] currency and trade issues including possible legislation relating to those issues within the administration the treasury department is charged with responsibility for currency and exchange...
+
+[USTR_CT_020807]
+  ...seek to promote compliance by our trading partners with their international trade obligations for example legislation has been introduced in this congress in response to [china's] currency practices which appears to raise serious concerns under international trade remedies rules and could invite wto-sanctioned retaliation against u.s goods and services as well...
+
+[USTR_CT_020807]
+  ...the best tools available to us to serve the american people's interest in building strong mutually beneficial economic relations with our global trading partners including [china] to provide more concrete perspective on our work i will give you a brief overview of ustr's recent engagement with china touching on the mechanisms...
+
+[USTR_CT_020807]
+  ...global trading partners including china to provide more concrete perspective on our work i will give you a brief overview of ustr's recent engagement with [china] touching on the mechanisms ustr uses to address key trade concerns the work of the ustr to open markets and resolve trade disputes depends at...
+
+[USTR_CT_020807]
+  ...seek to promote compliance by our trading partners with their international trade obligations for example legislation has been introduced in this congress in response to [china's] currency practices which appears to raise serious concerns under international trade remedies rules and could invite wto-sanctioned retaliation against u.s goods and services as well...
+
+[USTR_CT_020807]
+  ...the best tools available to us to serve the american people's interest in building strong mutually beneficial economic relations with our global trading partners including [china] to provide more concrete perspective on our work i will give you a brief overview of ustr's recent engagement with china touching on the mechanisms...
+
+[USTR_CT_020807]
+  ...global trading partners including china to provide more concrete perspective on our work i will give you a brief overview of ustr's recent engagement with [china] touching on the mechanisms ustr uses to address key trade concerns page 2 key china trade efforts china's accession to the wto marked a critical...
+
+[USTR_CT_020807]
+  ...give you a brief overview of ustr's recent engagement with china touching on the mechanisms ustr uses to address key trade concerns page 2 key [china] trade efforts china's accession to the wto marked a critical step forward toward china's integration into the international rules based system since acceding to the...
+
+[USTR_CT_020807]
+  ...brief overview of ustr's recent engagement with china touching on the mechanisms ustr uses to address key trade concerns page 2 key china trade efforts [china's] accession to the wto marked a critical step forward toward china's integration into the international rules based system since acceding to the wto five years...
+
+[USTR_CT_020807]
+  ...mechanisms ustr uses to address key trade concerns page 2 key china trade efforts china's accession to the wto marked a critical step forward toward [china's] integration into the international rules based system since acceding to the wto five years ago china has taken significant steps in an effort to bring...
+
+[USTR_CT_020807]
+  ...to the wto marked a critical step forward toward china's integration into the international rules based system since acceding to the wto five years ago [china] has taken significant steps in an effort to bring its trading system into basic compliance with wto rules these steps have helped to deepen and...
+
+[USTR_CT_020807]
+  ...in an effort to bring its trading system into basic compliance with wto rules these steps have helped to deepen and strengthen economic reforms that [china] began 20 years ago u.s businesses workers farmers service providers and consumers have benefited significantly from these steps and continue to do so as u.s...
+
+[USTR_CT_020807]
+  ...began 20 years ago u.s businesses workers farmers service providers and consumers have benefited significantly from these steps and continue to do so as u.s [china] trade grows indeed last year u.s exports to china climbed by 32 percent while china's exports to the united states increased by 18 percent these...
+
+[USTR_CT_020807]
+  ...providers and consumers have benefited significantly from these steps and continue to do so as u.s china trade grows indeed last year u.s exports to [china] climbed by 32 percent while china's exports to the united states increased by 18 percent these data suggest that the chinese market is becoming more...
+
+[USTR_CT_020807]
+  ...from these steps and continue to do so as u.s china trade grows indeed last year u.s exports to china climbed by 32 percent while [china's] exports to the united states increased by 18 percent these data suggest that the chinese market is becoming more accessible for american companies and that...
+
+[USTR_CT_020807]
+  ...the chinese market is becoming more accessible for american companies and that chinese consumers are developing an appetite for america's highly competitive goods and services [china] today has become our fourth largest export market and the fastest growing major export market for the united states in the world it is helping...
+
+[USTR_CT_020807]
+  ...states in the world it is helping to support thousands of american jobs today and will support even more in the future despite this progress [china's] record in implementing its wto obligations is mixed while china has fully implemented many of its wto obligations there are a number of areas where...
+
+[USTR_CT_020807]
+  ...of american jobs today and will support even more in the future despite this progress china's record in implementing its wto obligations is mixed while [china] has fully implemented many of its wto obligations there are a number of areas where it still has work to do as it continues to...
+
+[USTR_CT_020807]
+  ...do as it continues to transition from a centrally planned economy to a free-market economy governed by the rule of law in our engagement with [china] the united states follows a dual-track approach to resolving its wto concerns bilateral dialogue to try to achieve practical solutions where possible together with a...
+
+[USTR_CT_020807]
+  ...to use wto dispute settlement where appropriate to resolve problems the united states remains committed to seeking cooperative and pragmatic resolutions through bilateral dialogue with [china] and the united states has achieved some important successes for example through our recent bilateral dialogues china made several commitments related to ipr protection and...
+
+[USTR_CT_020807]
+  ...cooperative and pragmatic resolutions through bilateral dialogue with china and the united states has achieved some important successes for example through our recent bilateral dialogues [china] made several commitments related to ipr protection and enforcement it also committed to eliminate duplicative testing and certification requirements applicable to imported medical devices and...
+
+[USTR_CT_020807]
+  ...to eliminate duplicative testing and certification requirements applicable to imported medical devices and to make adjustments to its registered capital requirements for telecommunications service providers [china] also reaffirmed past commitments to technology neutrality for 3g telecommunications standards and to ensuring that new rules in the postal area would not negatively affect...
+
+[USTR_CT_020807]
+  ...technology neutrality for 3g telecommunications standards and to ensuring that new rules in the postal area would not negatively affect foreign express couriers in addition [china] committed to commence by no later than december 31 2007 formal negotiations to join the wto's government procurement agreement the united states has been working...
+
+[USTR_CT_020807]
+  ...to commence by no later than december 31 2007 formal negotiations to join the wto's government procurement agreement the united states has been working with [china] to make sure that it implements all of these commitments however we have been unable to resolve other important issues through bilateral discussions despite extensive...
+
+[USTR_CT_020807]
+  ...and to date we have turned to formal wto dispute settlement in five instances semiconductors mar 2004 the united states filed a wto dispute against [china] challenging value-added tax rebates that discriminated against imported semiconductors as a result the united states and china resolved the matter ensuring fair access for u.s...
+
+[USTR_CT_020807]
+  ...the united states filed a wto dispute against china challenging value-added tax rebates that discriminated against imported semiconductors as a result the united states and [china] resolved the matter ensuring fair access for u.s manufacturers and workers to a market worth over $ 2 billion auto parts mar 2006 the united...
+
+[USTR_CT_020807]
+  ...either as export or import substitution subsidies these widely available subsidies offer significant benefits and the export subsidies alone potentially benefit nearly 60 percent of [china's] exports of manufactured goods the parties held consultations in march 2007 and june 2007 in july 2007 the united states and mexico formally requested the...
+
+[USTR_CT_020807]
+  ...industries i.e books newspapers and periodicals and audio and video products e.g movies cds dvds and video games the united states held initial consultations with [china] in june 2007 and additional consultations are underway intellectual property protection apr 2007 the united states has launched a wto challenge to various deficiencies in...
+
+[USTR_CT_020807]
+  ...in june 2007 and additional consultations are underway intellectual property protection apr 2007 the united states has launched a wto challenge to various deficiencies in [china's] legal regime for protecting and enforcing copyrights and trademarks that affect a wide range of products consultations took place in june 2007 ustr provides a...
+
+[USTR_CT_020807]
+  ...has made to address these and other areas of concern using bilateral dialogue and wto dispute settlement in the 2006 ustr report to congress on [china's] wto compliance issued on december 11 2006 the report is available on the ustr website www.ustr.gov one area where we have not yet reached a...
+
+[USTR_CT_020807]
+  ...yet reached a satisfactory conclusion is in the area of beef trade working closely with the department of agriculture we have been in contact with [china] to seek a full re-opening of the beef market consistent with international standards in summary ustr is committed to ensuring that we are using the...
+
+[USTR_CT_020807]
+  ...ustr is committed to ensuring that we are using the most effective tools at our disposal to pursue an open and fair trade relationship with [china] this effort ties into broader administration engagement on international economic issues including work by treasury and commerce and with members of congress to achieve our...
+
+[USTR_CT_020807]
+  ...economic issues including work by treasury and commerce and with members of congress to achieve our common goals a more flexible market-based exchange rate for [china's] currency and a level playing field for american businesses workers and farmers thank you for the opportunity to testify i will be happy to take...
+
+[USTR_CT_251011]
+  ...mr marantis thank you chairman camp ranking member levin and members of this committee i appreciate the opportunity to testify today since [china] joined the wto in 2001 u.s goods exports including semiconductors aircraft and chemicals have quadrupled agriculture exports are up 800 percent led by soybeans and...
+
+[USTR_CT_251011]
+  ...by soybeans and cotton services exports are up nearly 300 percent on growing sales of business education and financial services and american job-creating investment in [china] has grown 400 percent america's trade relationship with china has tangible benefits but just as real are the persistent concerns that threaten to undermine the...
+
+[USTR_CT_251011]
+  ...300 percent on growing sales of business education and financial services and american job-creating investment in china has grown 400 percent america's trade relationship with [china] has tangible benefits but just as real are the persistent concerns that threaten to undermine the potential of this relationship intellectual property theft in china...
+
+[USTR_CT_251011]
+  ...china has tangible benefits but just as real are the persistent concerns that threaten to undermine the potential of this relationship intellectual property theft in [china] costs u.s companies $ 48 billion every year china's industrial policies like indigenous innovation discriminate against u.s products services innovators and investors china's subsidies raise...
+
+[USTR_CT_251011]
+  ...the persistent concerns that threaten to undermine the potential of this relationship intellectual property theft in china costs u.s companies $ 48 billion every year [china's] industrial policies like indigenous innovation discriminate against u.s products services innovators and investors china's subsidies raise deep concerns and can lead to unfairly traded imports...
+
+[USTR_CT_251011]
+  ...theft in china costs u.s companies $ 48 billion every year china's industrial policies like indigenous innovation discriminate against u.s products services innovators and investors [china's] subsidies raise deep concerns and can lead to unfairly traded imports that affect our trade deficit investment restrictions limit the ability of u.s companies to...
+
+[USTR_CT_251011]
+  ...concerns and can lead to unfairly traded imports that affect our trade deficit investment restrictions limit the ability of u.s companies to compete effectively in [china] and to create jobs here at home unfair barriers to u.s agricultural imports hurt our beef poultry and pork producers and weak enforcement and lack...
+
+[USTR_CT_251011]
+  ...poultry and pork producers and weak enforcement and lack of transparency undermine u.s exporters and investors president obama is determined to make our relationship with [china] work better for working americans to tap its potential to support american jobs and to grow our economy this administration's coordinated approach is focused on...
+
+[USTR_CT_251011]
+  ...vigorous enforcement results-oriented dialogue and strengthening global trade roles first enforcement in the wto the obama administration has initiated five strategic and systemic disputes against [china] we challenged china's exports restraints on industrial raw materials in a case unprecedented in size and importance for the first time since china joined the...
+
+[USTR_CT_251011]
+  ...dialogue and strengthening global trade roles first enforcement in the wto the obama administration has initiated five strategic and systemic disputes against china we challenged [china's] exports restraints on industrial raw materials in a case unprecedented in size and importance for the first time since china joined the wto we accepted...
+
+[USTR_CT_251011]
+  ...disputes against china we challenged china's exports restraints on industrial raw materials in a case unprecedented in size and importance for the first time since [china] joined the wto we accepted a section 301 petition which brought china to the wto to answer for prohibited subsidies in the wind sector we...
+
+[USTR_CT_251011]
+  ...in a case unprecedented in size and importance for the first time since china joined the wto we accepted a section 301 petition which brought [china] to the wto to answer for prohibited subsidies in the wind sector we have challenged china's regulation of electronic payment services to address the apparent...
+
+[USTR_CT_251011]
+  ...wto we accepted a section 301 petition which brought china to the wto to answer for prohibited subsidies in the wind sector we have challenged [china's] regulation of electronic payment services to address the apparent creation of a homegrown monopoly that blocks competition we brought two wto cases to address the...
+
+[USTR_CT_251011]
+  ...a homegrown monopoly that blocks competition we brought two wto cases to address the apparent misuse of trade remedy investigation to restrict u.s exports to [china] and for the first time ever we brought a section 421 case and imposed duties to combat a surge of chinese tire imports the obama...
+
+[USTR_CT_251011]
+  ...yield swift and lasting benefits last year as under secretary brainard mentioned our engagement led to new measures to increase legal use of software in [china] we also obtained china's agreement not to discriminate against foreign intellectual property in its procurement policies and to address agriculture concerns by eliminating unfair bans...
+
+[USTR_CT_251011]
+  ...benefits last year as under secretary brainard mentioned our engagement led to new measures to increase legal use of software in china we also obtained [china's] agreement not to discriminate against foreign intellectual property in its procurement policies and to address agriculture concerns by eliminating unfair bans on our poultry exports...
+
+[USTR_CT_251011]
+  ...secure results focusing on intellectual property rights indigenous innovation investment restraints industrial policy and other issues aside from the structured dialogue we are also engaging [china] directly on its adherence to trade rules regionally and globally this month for the first time as chairman camp mentioned the united states submitted in...
+
+[USTR_CT_251011]
+  ...regionally and globally this month for the first time as chairman camp mentioned the united states submitted in the wto a subsidy counter-notification to call [china] out on over 200 subsidies that it had not notified as required similarly we have called on china to share detailed information on measures that...
+
+[USTR_CT_251011]
+  ...the wto a subsidy counter-notification to call china out on over 200 subsidies that it had not notified as required similarly we have called on [china] to share detailed information on measures that limit the supply of services over the internet and hinder the ability of our companies to effectively compete...
+
+[USTR_CT_251011]
+  ...through efforts including the trans-pacific partnership and anti counterfeiting trade agreement the obama administration is working hard so that the united states can compete with [china] on a level playing field and so american businesses and workers can prosper progress will occur if we recognize the value of this relationship and...
+
+[USTR_CT_251011]
+  ...levin distinguished members of the ways and means committee thank you for the opportunity to testify today the united states trade and investment relationship with [china] is one of the most important in the world over the past decade our bilateral ties have yielded job-creating benefits for our economy and future...
+
+[USTR_CT_251011]
+  ...developments and emerging issues also threaten to undermine our current and future achievements given what is at stake it is imperative we get the u.s [china] relationship right i am pleased to testify before you today to discuss this administration's view on our economic and trade relationship with china and our...
+
+[USTR_CT_251011]
+  ...the u.s china relationship right i am pleased to testify before you today to discuss this administration's view on our economic and trade relationship with [china] and our plan to make sure it strengthens the u.s economy and our workers farmers ranchers and service providers the obama administration's ongoing dialogue with...
+
+[USTR_CT_251011]
+  ...our approach and is critical to achieving our common goals every day the chinese market grows in importance to u.s exporters and companies operating in [china] and the american workers they employ since joining the world trade organization wto in 2001 china has made many important reforms in its economy removed...
+
+[USTR_CT_251011]
+  ...in importance to u.s exporters and companies operating in china and the american workers they employ since joining the world trade organization wto in 2001 [china] has made many important reforms in its economy removed trade barriers and opened its markets to u.s exports this reform and liberalization have created new...
+
+[USTR_CT_251011]
+  ...opened its markets to u.s exports this reform and liberalization have created new job-supporting opportunities for americans across the country u.s manufactured goods exports to [china] have quadrupled since 2001 agriculture exports are up 800 percent services exports are up nearly 300 percent and investment in china has grown 400 percent...
+
+[USTR_CT_251011]
+  ...manufactured goods exports to china have quadrupled since 2001 agriculture exports are up 800 percent services exports are up nearly 300 percent and investment in [china] has grown 400 percent more recently thanks to china's strong recovery from the global recession u.s exports to china are growing by double digits across...
+
+[USTR_CT_251011]
+  ...agriculture exports are up 800 percent services exports are up nearly 300 percent and investment in china has grown 400 percent more recently thanks to [china's] strong recovery from the global recession u.s exports to china are growing by double digits across a variety of sectors from high-end manufactured goods and...
+
+[USTR_CT_251011]
+  ...nearly 300 percent and investment in china has grown 400 percent more recently thanks to china's strong recovery from the global recession u.s exports to [china] are growing by double digits across a variety of sectors from high-end manufactured goods and chemical products to agricultural goods like soybeans u.s goods and...
+
+[USTR_CT_251011]
+  ...double digits across a variety of sectors from high-end manufactured goods and chemical products to agricultural goods like soybeans u.s goods and services exports to [china] totaled $ 113 billion in 2010 with agricultural product exports alone up 33 percent over 2009 and china is now our third largest export market...
+
+[USTR_CT_251011]
+  ...soybeans u.s goods and services exports to china totaled $ 113 billion in 2010 with agricultural product exports alone up 33 percent over 2009 and [china] is now our third largest export market for goods in fact since 2001 our exports to china have been growing faster than to any other...
+
+[USTR_CT_251011]
+  ...exports alone up 33 percent over 2009 and china is now our third largest export market for goods in fact since 2001 our exports to [china] have been growing faster than to any other major market in the world these exports create well-paying american jobs the department of commerce estimates that...
+
+[USTR_CT_251011]
+  ...of commerce estimates that every $ 1 billion in goods exports supports 6,000 jobs here at home and services exports support many additional jobs with [china's] economy set to grow three times faster than economies in the developed world these opportunities promise to continue and grow key challenges but those positives...
+
+[USTR_CT_251011]
+  ...faster than economies in the developed world these opportunities promise to continue and grow key challenges but those positives present just half the picture although [china's] opening has helped to grow our exports other chinese policies now are hobbling market prospects for many american exporters innovators and investors and diminishing the...
+
+[USTR_CT_251011]
+  ...sales of u.s goods and services limit and undermine our investments and ultimately threaten job-creation in the united states many of these troubling policies reflect [china's] strengthening of state control over its economy and a retreat from its initial strong push to liberalize markets in the first years after its world...
+
+[USTR_CT_251011]
+  ...investment restrictions and an opaque legal and regulatory system and weak rule of law intellectual property theft is one of the most serious concerns in [china] and the lack of effective ipr enforcement remains an enormous challenge for u.s creators and innovators according to the independent u.s international trade commission itc...
+
+[USTR_CT_251011]
+  ...according to the independent u.s international trade commission itc u.s firms reported total losses of $ 48.2 billion in 2009 due to ipr theft in [china] penalties for ipr infringement generally are not severe enough to deter potential violators from breaking the law for example very often the machines used to...
+
+[USTR_CT_251011]
+  ...provinces and cities in some cases stronger and in some cases much too weak and at a more systemic level we need to ensure that [china] quickly translates into effective action its growing awareness of how important ipr protection and enforcement are to its own economic development china's growing use of...
+
+[USTR_CT_251011]
+  ...to ensure that china quickly translates into effective action its growing awareness of how important ipr protection and enforcement are to its own economic development [china's] growing use of problematic industrial polices including so-called indigenous innovation policies is another category of concern these indigenous innovation policies in many cases discriminate against...
+
+[USTR_CT_251011]
+  ...substitution of domestically developed and produced goods for imports from the united states and elsewhere in an effort to pressure foreign companies to manufacture in [china] and transfer technology some policies require foreign firms to enter into joint ventures with chinese firms and other policies require these joint ventures to develop...
+
+[USTR_CT_251011]
+  ...foreign firms to enter into joint ventures with chinese firms and other policies require these joint ventures to develop intellectual property and core technologies in [china] to give one example we see just these kinds of policies emerging regarding electric vehicles known in china as new energy vehicles nevs which are...
+
+[USTR_CT_251011]
+  ...develop intellectual property and core technologies in china to give one example we see just these kinds of policies emerging regarding electric vehicles known in [china] as new energy vehicles nevs which are manufactured using cutting edge technologies where american innovators have been in the forefront china has targeted nevs for...
+
+[USTR_CT_251011]
+  ...electric vehicles known in china as new energy vehicles nevs which are manufactured using cutting edge technologies where american innovators have been in the forefront [china] has targeted nevs for substantial government support in the current 12th five-year plan and we are alarmed by reports indicating that china is imposing requirements...
+
+[USTR_CT_251011]
+  ...in the forefront china has targeted nevs for substantial government support in the current 12th five-year plan and we are alarmed by reports indicating that [china] is imposing requirements on foreign automakers to transfer core nev technologies to their china joint ventures and to establish chinese brands in order to participate...
+
+[USTR_CT_251011]
+  ...12th five-year plan and we are alarmed by reports indicating that china is imposing requirements on foreign automakers to transfer core nev technologies to their [china] joint ventures and to establish chinese brands in order to participate in this promising market china's subsidies policies are also problematic during the ten years...
+
+[USTR_CT_251011]
+  ...foreign automakers to transfer core nev technologies to their china joint ventures and to establish chinese brands in order to participate in this promising market [china's] subsidies policies are also problematic during the ten years that china has been a member of the wto u.s investigatory efforts have led the united...
+
+[USTR_CT_251011]
+  ...ventures and to establish chinese brands in order to participate in this promising market china's subsidies policies are also problematic during the ten years that [china] has been a member of the wto u.s investigatory efforts have led the united states to launch three wto cases on prohibited subsidies including one...
+
+[USTR_CT_251011]
+  ...paper industries among others have expressed serious concerns about subsidized chinese products and have had to petition for import relief under u.s trade remedy laws [china's] investment restrictions also pose serious problems crimping opportunities for a wide range of u.s industries u.s investment in china has a significant positive impact on...
+
+[USTR_CT_251011]
+  ...relief under u.s trade remedy laws china's investment restrictions also pose serious problems crimping opportunities for a wide range of u.s industries u.s investment in [china] has a significant positive impact on u.s production employment research and development and earnings but china bans or severely limits foreign investment in certain sectors...
+
+[USTR_CT_251011]
+  ...a wide range of u.s industries u.s investment in china has a significant positive impact on u.s production employment research and development and earnings but [china] bans or severely limits foreign investment in certain sectors reserved for state-owned enterprises soes and restricts foreign investment in many other sectors of its economy...
+
+[USTR_CT_251011]
+  ...severely limits foreign investment in certain sectors reserved for state-owned enterprises soes and restricts foreign investment in many other sectors of its economy especially where [china] is seeking to cultivate national champions foreign investors are subject to equity restrictions that keep them from controlling their own investments and licensing systems that...
+
+[USTR_CT_251011]
+  ...systems that severely restrict operations a foreign investor with a foothold in a market may face restrictions on expanding the scope of its business and [china] has launched a new security review system used to screen foreign investments that goes far beyond what genuine national security concerns would seem to require...
+
+[USTR_CT_251011]
+  ...security review system used to screen foreign investments that goes far beyond what genuine national security concerns would seem to require the web of measures [china] has put in place has hampered u.s industries providing telecommunications services financial services express delivery services and logistics services as well as steel firms credit...
+
+[USTR_CT_251011]
+  ...express delivery services and logistics services as well as steel firms credit card companies and pharmaceutical manufacturers not to mention mining companies and media firms [china's] sps barriers to u.s agricultural imports are opaque and raise deep concerns about whether they are science-based a ban on u.s beef exports to china...
+
+[USTR_CT_251011]
+  ...china's sps barriers to u.s agricultural imports are opaque and raise deep concerns about whether they are science-based a ban on u.s beef exports to [china] has been in place since 2003 even though international guidelines recognize our beef as safe china is also using unreasonable sanitary standards to restrict imports...
+
+[USTR_CT_251011]
+  ...are science-based a ban on u.s beef exports to china has been in place since 2003 even though international guidelines recognize our beef as safe [china] is also using unreasonable sanitary standards to restrict imports of raw meat and poultry from the united states in addition in the name of health...
+
+[USTR_CT_251011]
+  ...is also using unreasonable sanitary standards to restrict imports of raw meat and poultry from the united states in addition in the name of health [china] has imposed lengthy bans in some cases lasting several years on poultry from various u.s states even though the science seems to offer no support...
+
+[USTR_CT_251011]
+  ...cases lasting several years on poultry from various u.s states even though the science seems to offer no support for these restrictions the operation of [china's] legal and regulatory system also creates market barriers due to weak enforcement or inconsistent application of laws and regulations failure to use best international practices...
+
+[USTR_CT_251011]
+  ...or inconsistent application of laws and regulations failure to use best international practices and lack of transparency about even what the rules are for example [china's] use of its trade remedy laws lacks transparency in key respects raising serious questions about the fairness of the process to u.s exports transparency in...
+
+[USTR_CT_251011]
+  ...fairness of the process to u.s exports transparency in rule-making a key priority in the united states has been a source of great concern in [china] a number of chinese ministries do not reliably publish their draft regulatory measures for public comment and others provide such short comment periods that foreign...
+
+[USTR_CT_251011]
+  ...vigorous enforcement and results-oriented dialogue at the same time we are also committed to an approach that strengthens trade rules more broadly and buttresses our [china] policy with robust engagement of the region as a whole from day one of this administration president obama has made trade enforcement a priority indeed...
+
+[USTR_CT_251011]
+  ...indeed this administration has taken unprecedented actions to enforce our rights under our trade agreements in this administration we have initiated five wto disputes against [china] each of which addresses important systemic concerns about china's economic and trade policies of the 14 wto disputes brought to date against chinese policies by...
+
+[USTR_CT_251011]
+  ...our rights under our trade agreements in this administration we have initiated five wto disputes against china each of which addresses important systemic concerns about [china's] economic and trade policies of the 14 wto disputes brought to date against chinese policies by all wto parties the united states has initiated 12...
+
+[USTR_CT_251011]
+  ...chinese policies by all wto parties the united states has initiated 12 in 2009 the obama administration took a major case to the wto challenging [china's] export restraints on nine categories of key industrial raw materials this case attacks the severe distortive effects of china's industrial policies on the prices and...
+
+[USTR_CT_251011]
+  ...major case to the wto challenging china's export restraints on nine categories of key industrial raw materials this case attacks the severe distortive effects of [china's] industrial policies on the prices and supply of these inputs worldwide a dynamic that can also place enormous pressure on foreign companies to move their...
+
+[USTR_CT_251011]
+  ...prices and supply of these inputs worldwide a dynamic that can also place enormous pressure on foreign companies to move their operations and technology to [china] we have won at the wto panel and await the results of china's appeal we also brought china to the wto to answer for prohibited...
+
+[USTR_CT_251011]
+  ...enormous pressure on foreign companies to move their operations and technology to china we have won at the wto panel and await the results of [china's] appeal we also brought china to the wto to answer for prohibited wind power equipment subsidies worth hundreds of millions of dollars which china has...
+
+[USTR_CT_251011]
+  ...to move their operations and technology to china we have won at the wto panel and await the results of china's appeal we also brought [china] to the wto to answer for prohibited wind power equipment subsidies worth hundreds of millions of dollars which china has now terminated this case arose...
+
+[USTR_CT_251011]
+  ...of china's appeal we also brought china to the wto to answer for prohibited wind power equipment subsidies worth hundreds of millions of dollars which [china] has now terminated this case arose from a section 301 investigation into china's policies affecting trade and investment in green technologies and was the first...
+
+[USTR_CT_251011]
+  ...prohibited wind power equipment subsidies worth hundreds of millions of dollars which china has now terminated this case arose from a section 301 investigation into [china's] policies affecting trade and investment in green technologies and was the first 301 investigation into chinese policies by any administration since china joined the wto...
+
+[USTR_CT_251011]
+  ...301 investigation into china's policies affecting trade and investment in green technologies and was the first 301 investigation into chinese policies by any administration since [china] joined the wto our pending wto dispute challenging china's regulation of electronic payment services deals with our deep concerns about china's apparent creation of a...
+
+[USTR_CT_251011]
+  ...in green technologies and was the first 301 investigation into chinese policies by any administration since china joined the wto our pending wto dispute challenging [china's] regulation of electronic payment services deals with our deep concerns about china's apparent creation of a chinese national champion that blocks competition in china's huge...
+
+[USTR_CT_251011]
+  ...by any administration since china joined the wto our pending wto dispute challenging china's regulation of electronic payment services deals with our deep concerns about [china's] apparent creation of a chinese national champion that blocks competition in china's huge and rapidly growing credit and debit card processing market we are also...
+
+[USTR_CT_251011]
+  ...challenging china's regulation of electronic payment services deals with our deep concerns about china's apparent creation of a chinese national champion that blocks competition in [china's] huge and rapidly growing credit and debit card processing market we are also pursuing two wto cases stemming from concerns about the apparent misuse by...
+
+[USTR_CT_251011]
+  ...huge and rapidly growing credit and debit card processing market we are also pursuing two wto cases stemming from concerns about the apparent misuse by [china] of trade remedy investigations to restrict u.s exports to china furthermore in the u.s market the obama administration has acted in an unprecedented manner by...
+
+[USTR_CT_251011]
+  ...we are also pursuing two wto cases stemming from concerns about the apparent misuse by china of trade remedy investigations to restrict u.s exports to [china] furthermore in the u.s market the obama administration has acted in an unprecedented manner by imposing duties to combat a disruptive surge of chinese tire...
+
+[USTR_CT_251011]
+  ...unprecedented manner by imposing duties to combat a disruptive surge of chinese tire imports pursuant to section 421 the product-specific safeguard negotiated as part of [china's] accession to the wto although china challenged this action at the wto the wto soundly rejected china's claims in this case the president took unparalleled...
+
+[USTR_CT_251011]
+  ...combat a disruptive surge of chinese tire imports pursuant to section 421 the product-specific safeguard negotiated as part of china's accession to the wto although [china] challenged this action at the wto the wto soundly rejected china's claims in this case the president took unparalleled action to provide needed relief to...
+
+[USTR_CT_251011]
+  ...421 the product-specific safeguard negotiated as part of china's accession to the wto although china challenged this action at the wto the wto soundly rejected [china's] claims in this case the president took unparalleled action to provide needed relief to u.s firms and workers since september 2009 the relief provided by...
+
+[USTR_CT_251011]
+  ...have been demonstrated since january 2009 the commerce department has issued 15 countervailing duty orders and 22 antidumping orders on 22 different products imported from [china] including nine steel products eight miscellaneous manufactured products three chemical products two textile and apparel products and one metals product going forward we are committed...
+
+[USTR_CT_251011]
+  ...often have quicker results than wto or other enforcement actions in the jcct for example we have removed numerous barriers to u.s companies success in [china's] market including in the areas of intellectual property rights and indigenous innovation policies we believe dialogues achieve success when they involve comprehensive government-wide engagement well-focused...
+
+[USTR_CT_251011]
+  ...homeland security's customs and border protection and immigration and customs enforcement and the federal trade commission this approach yields results for example we have pressed [china] hard to eliminate the use of illegal software in the government sector and in enterprises in response china agreed at the 2010 jcct to establish...
+
+[USTR_CT_251011]
+  ...yields results for example we have pressed china hard to eliminate the use of illegal software in the government sector and in enterprises in response [china] agreed at the 2010 jcct to establish software asset management systems at government agencies to allocate budgets for software purchases and to promote the use...
+
+[USTR_CT_251011]
+  ...agencies to allocate budgets for software purchases and to promote the use of licensed software at enterprises at the 2011 state visit of president hu [china] further bolstered its commitment to software legalization by agreeing to conduct financial audits focused on the use of legal software in government agencies and to...
+
+[USTR_CT_251011]
+  ...to conduct financial audits focused on the use of legal software in government agencies and to publish the audit results at this may's s ed [china] also agreed to strengthen physical inspections to ensure the effectiveness of software legalization efforts during the 2009 and 2010 jccts we negotiated several other new...
+
+[USTR_CT_251011]
+  ...american jobs including through steps to create more effective rules for addressing internet piracy to crack down on landlords who rent space to counterfeiters in [china] and to address piracy of electronic journals at the may 2011 s ed china also agreed to improve its high-level government coordination and leadership mechanisms...
+
+[USTR_CT_251011]
+  ...to crack down on landlords who rent space to counterfeiters in china and to address piracy of electronic journals at the may 2011 s ed [china] also agreed to improve its high-level government coordination and leadership mechanisms to enhance long-term ipr protection and enforcement we have taken a similar tack and...
+
+[USTR_CT_251011]
+  ...high-level government coordination and leadership mechanisms to enhance long-term ipr protection and enforcement we have taken a similar tack and seen similar successes in addressing [china's] industrial policies specifically ustr together with other u.s agencies has worked over the past two years to move china to abandon its national indigenous innovation...
+
+[USTR_CT_251011]
+  ...and seen similar successes in addressing china's industrial policies specifically ustr together with other u.s agencies has worked over the past two years to move [china] to abandon its national indigenous innovation product accreditation system this system gave government procurement preferences to products with chinese ip produced in chinese firms stifling...
+
+[USTR_CT_251011]
+  ...product accreditation system this system gave government procurement preferences to products with chinese ip produced in chinese firms stifling major opportunities for u.s enterprises in [china's] huge and growing government procurement markets beginning in late 2009 we pressed china in bilateral meetings to abandon this system we also coordinated closely with...
+
+[USTR_CT_251011]
+  ...ip produced in chinese firms stifling major opportunities for u.s enterprises in china's huge and growing government procurement markets beginning in late 2009 we pressed [china] in bilateral meetings to abandon this system we also coordinated closely with several trading partners including the eu and japan as well as with industry...
+
+[USTR_CT_251011]
+  ...several trading partners including the eu and japan as well as with industry indigenous innovation then became a priority at the 2010 s ed where [china] agreed to key open innovation principles and later in the year at the jcct where china specifically committed not to discriminate against foreign intellectual property...
+
+[USTR_CT_251011]
+  ...became a priority at the 2010 s ed where china agreed to key open innovation principles and later in the year at the jcct where [china] specifically committed not to discriminate against foreign intellectual property in its procurement policies faced with u.s pressure extensive industry comments and general international outcry china...
+
+[USTR_CT_251011]
+  ...china specifically committed not to discriminate against foreign intellectual property in its procurement policies faced with u.s pressure extensive industry comments and general international outcry [china] finally agreed to stop its indigenous innovation product accreditation system for government i'll transcribe these images for you this appears to be congressional testimony before...
+
+[USTR_CT_251011]
+  ...levin distinguished members of the ways and means committee thank you for the opportunity to testify today the united states trade and investment relationship with [china] is one of the most important in the world over the past decade our bilateral ties have yielded job-creating benefits for our economy and future...
+
+[USTR_CT_251011]
+  ...developments and emerging issues also threaten to undermine our current and future achievements given what is at stake it is imperative we get the u.s [china] relationship right i am pleased to testify before you today to discuss this administration's view on our economic and trade relationship with china and our...
+
+[USTR_CT_251011]
+  ...the u.s china relationship right i am pleased to testify before you today to discuss this administration's view on our economic and trade relationship with [china] and our plan to make sure it strengthens the u.s economy and our workers farmers ranchers and service providers the obama administration's ongoing dialogue with...
+
+[USTR_CT_251011]
+  ...our approach and is critical to achieving our common goals every day the chinese market grows in importance to u.s exporters and companies operating in [china] and the american workers they employ since joining the world trade organization wto in 2001 china has made many important reforms in its economy removed...
+
+[USTR_CT_251011]
+  ...in importance to u.s exporters and companies operating in china and the american workers they employ since joining the world trade organization wto in 2001 [china] has made many important reforms in its economy removed trade barriers and opened its markets to u.s exports this reform and liberalization have created new...
+
+[USTR_CT_251011]
+  ...opened its markets to u.s exports this reform and liberalization have created new job-supporting opportunities for americans across the country u.s manufactured goods exports to [china] have quadrupled since 2001 agriculture exports are up 800 percent services exports are up nearly 300 percent and investment in china has grown 400 percent...
+
+[USTR_CT_251011]
+  ...manufactured goods exports to china have quadrupled since 2001 agriculture exports are up 800 percent services exports are up nearly 300 percent and investment in [china] has grown 400 percent more recently thanks to china's strong recovery from the global recession u.s exports to china are growing by double digits across...
+
+[USTR_CT_251011]
+  ...agriculture exports are up 800 percent services exports are up nearly 300 percent and investment in china has grown 400 percent more recently thanks to [china's] strong recovery from the global recession u.s exports to china are growing by double digits across a variety of sectors from high-end manufactured goods and...
+
+[USTR_CT_251011]
+  ...nearly 300 percent and investment in china has grown 400 percent more recently thanks to china's strong recovery from the global recession u.s exports to [china] are growing by double digits across a variety of sectors from high-end manufactured goods and chemical products to agricultural goods like soybeans u.s goods and...
+
+[USTR_CT_251011]
+  ...double digits across a variety of sectors from high-end manufactured goods and chemical products to agricultural goods like soybeans u.s goods and services exports to [china] totaled $ 113 billion in 2010 with agricultural product exports alone up 33 percent over 2009 and china is now our third largest export market...
+
+[USTR_CT_251011]
+  ...soybeans u.s goods and services exports to china totaled $ 113 billion in 2010 with agricultural product exports alone up 33 percent over 2009 and [china] is now our third largest export market for goods in fact since 2001 our exports to china have been growing faster than to any other...
+
+[USTR_CT_251011]
+  ...exports alone up 33 percent over 2009 and china is now our third largest export market for goods in fact since 2001 our exports to [china] have been growing faster than to any other major market in the world these exports create well-paying american jobs the department of commerce estimates that...
+
+[USTR_CT_251011]
+  ...of commerce estimates that every $ 1 billion in goods exports supports 6,000 jobs here at home and services exports support many additional jobs with [china's] economy set to grow three times faster than economies in the developed world these opportunities promise to continue and grow key challenges but those positives...
+
+[USTR_CT_251011]
+  ...faster than economies in the developed world these opportunities promise to continue and grow key challenges but those positives present just half the picture although [china's] opening has helped to grow our exports other chinese policies now are hobbling market prospects for many american exporters innovators and investors and diminishing the...
+
+[USTR_CT_251011]
+  ...sales of u.s goods and services limit and undermine our investments and ultimately threaten job-creation in the united states many of these troubling policies reflect [china's] strengthening of state control over its economy and a retreat from its initial strong push to liberalize markets in the first years after its world...
+
+[USTR_CT_251011]
+  ...investment restrictions and an opaque legal and regulatory system and weak rule of law intellectual property theft is one of the most serious concerns in [china] and the lack of effective ipr enforcement remains an enormous challenge for u.s creators and innovators according to the independent u.s international trade commission itc...
+
+[USTR_CT_251011]
+  ...according to the independent u.s international trade commission itc u.s firms reported total losses of $ 48.2 billion in 2009 due to ipr theft in [china] penalties for ipr infringement generally are not severe enough to deter potential violators from breaking the law for example very often the machines used to...
+
+[USTR_CT_251011]
+  ...provinces and cities in some cases stronger and in some cases much too weak and at a more systemic level we need to ensure that [china] quickly translates into effective action its growing awareness of how important ipr protection and enforcement are to its own economic development china's growing use of...
+
+[USTR_CT_251011]
+  ...to ensure that china quickly translates into effective action its growing awareness of how important ipr protection and enforcement are to its own economic development [china's] growing use of problematic industrial polices including so-called indigenous innovation policies is another category of concern these indigenous innovation policies in many cases discriminate against...
+
+[USTR_CT_251011]
+  ...substitution of domestically developed and produced goods for imports from the united states and elsewhere in an effort to pressure foreign companies to manufacture in [china] and transfer technology some policies require foreign firms to enter into joint ventures with chinese firms and other policies require these joint ventures to develop...
+
+[USTR_CT_251011]
+  ...foreign firms to enter into joint ventures with chinese firms and other policies require these joint ventures to develop intellectual property and core technologies in [china] to give one example we see just these kinds of policies emerging regarding electric vehicles known in china as new energy vehicles nevs which are...
+
+[USTR_CT_251011]
+  ...develop intellectual property and core technologies in china to give one example we see just these kinds of policies emerging regarding electric vehicles known in [china] as new energy vehicles nevs which are manufactured using cutting edge technologies where american innovators have been in the forefront china has targeted nevs for...
+
+[USTR_CT_251011]
+  ...electric vehicles known in china as new energy vehicles nevs which are manufactured using cutting edge technologies where american innovators have been in the forefront [china] has targeted nevs for substantial government support in the current 12th five-year plan and we are alarmed by reports indicating that china is imposing requirements...
+
+[USTR_CT_251011]
+  ...in the forefront china has targeted nevs for substantial government support in the current 12th five-year plan and we are alarmed by reports indicating that [china] is imposing requirements on foreign automakers to transfer core nev technologies to their china joint ventures and to establish chinese brands in order to participate...
+
+[USTR_CT_251011]
+  ...12th five-year plan and we are alarmed by reports indicating that china is imposing requirements on foreign automakers to transfer core nev technologies to their [china] joint ventures and to establish chinese brands in order to participate in this promising market china's subsidies policies are also problematic during the ten years...
+
+[USTR_CT_251011]
+  ...foreign automakers to transfer core nev technologies to their china joint ventures and to establish chinese brands in order to participate in this promising market [china's] subsidies policies are also problematic during the ten years that china has been a member of the wto u.s investigatory efforts have led the united...
+
+[USTR_CT_251011]
+  ...ventures and to establish chinese brands in order to participate in this promising market china's subsidies policies are also problematic during the ten years that [china] has been a member of the wto u.s investigatory efforts have led the united states to launch three wto cases on prohibited subsidies including one...
+
+[USTR_CT_251011]
+  ...among others page 3 have expressed serious concerns about subsidized chinese products and have had to petition for import relief under u.s trade remedy laws [china's] investment restrictions also pose serious problems crimping opportunities for a wide range of u.s industries u.s investment in china has a significant positive impact on...
+
+[USTR_CT_251011]
+  ...relief under u.s trade remedy laws china's investment restrictions also pose serious problems crimping opportunities for a wide range of u.s industries u.s investment in [china] has a significant positive impact on u.s production employment research and development and earnings but china bans or severely limits foreign investment in certain sectors...
+
+[USTR_CT_251011]
+  ...a wide range of u.s industries u.s investment in china has a significant positive impact on u.s production employment research and development and earnings but [china] bans or severely limits foreign investment in certain sectors reserved for state-owned enterprises soes and restricts foreign investment in many other sectors of its economy...
+
+[USTR_CT_251011]
+  ...severely limits foreign investment in certain sectors reserved for state-owned enterprises soes and restricts foreign investment in many other sectors of its economy especially where [china] is seeking to cultivate national champions foreign investors are subject to equity restrictions that keep them from controlling their own investments and licensing systems that...
+
+[USTR_CT_251011]
+  ...systems that severely restrict operations a foreign investor with a foothold in a market may face restrictions on expanding the scope of its business and [china] has launched a new security review system used to screen foreign investments that goes far beyond what genuine national security concerns would seem to require...
+
+[USTR_CT_251011]
+  ...security review system used to screen foreign investments that goes far beyond what genuine national security concerns would seem to require the web of measures [china] has put in place has hampered u.s industries providing telecommunications services financial services express delivery services and logistics services as well as steel firms credit...
+
+[USTR_CT_251011]
+  ...express delivery services and logistics services as well as steel firms credit card companies and pharmaceutical manufacturers not to mention mining companies and media firms [china's] sps barriers to u.s agricultural imports are opaque and raise deep concerns about whether they are science-based a ban on u.s beef exports to china...
+
+[USTR_CT_251011]
+  ...china's sps barriers to u.s agricultural imports are opaque and raise deep concerns about whether they are science-based a ban on u.s beef exports to [china] has been in place since 2003 even though international guidelines recognize our beef as safe china is also using unreasonable sanitary standards to restrict imports...
+
+[USTR_CT_251011]
+  ...are science-based a ban on u.s beef exports to china has been in place since 2003 even though international guidelines recognize our beef as safe [china] is also using unreasonable sanitary standards to restrict imports of raw meat and poultry from the united states in addition in the name of health...
+
+[USTR_CT_251011]
+  ...is also using unreasonable sanitary standards to restrict imports of raw meat and poultry from the united states in addition in the name of health [china] has imposed lengthy bans in some cases lasting several years on poultry from various u.s states even though the science seems to offer no support...
+
+[USTR_CT_251011]
+  ...cases lasting several years on poultry from various u.s states even though the science seems to offer no support for these restrictions the operation of [china's] legal and regulatory system also creates market barriers due to weak enforcement or inconsistent application of laws and regulations failure to use best international practices...
+
+[USTR_CT_251011]
+  ...or inconsistent application of laws and regulations failure to use best international practices and lack of transparency about even what the rules are for example [china's] use of its trade remedy laws lacks transparency in key respects raising serious questions about the fairness of the process to u.s exports transparency in...
+
+[USTR_CT_251011]
+  ...fairness of the process to u.s exports transparency in rule-making a key priority in the united states has been a source of great concern in [china] a number of chinese ministries do not reliably publish their draft regulatory measures for public comment and others provide such short comment periods that foreign...
+
+[USTR_CT_251011]
+  ...vigorous enforcement and results-oriented dialogue at the same time we are also committed to an approach that strengthens trade rules more broadly and buttresses our [china] policy with robust engagement of the region as a whole from day one of this administration president obama has made trade enforcement a priority indeed...
+
+[USTR_CT_251011]
+  ...indeed this administration has taken unprecedented actions to enforce our rights under our trade agreements in this administration we have initiated five wto disputes against [china] each of page 4 which addresses important systemic concerns about china's economic and trade policies of the 14 wto disputes brought to date against chinese...
+
+[USTR_CT_251011]
+  ...under our trade agreements in this administration we have initiated five wto disputes against china each of page 4 which addresses important systemic concerns about [china's] economic and trade policies of the 14 wto disputes brought to date against chinese policies by all wto parties the united states has initiated 12...
+
+[USTR_CT_251011]
+  ...chinese policies by all wto parties the united states has initiated 12 in 2009 the obama administration took a major case to the wto challenging [china's] export restraints on nine categories of key industrial raw materials this case attacks the severe distortive effects of china's industrial policies on the prices and...
+
+[USTR_CT_251011]
+  ...major case to the wto challenging china's export restraints on nine categories of key industrial raw materials this case attacks the severe distortive effects of [china's] industrial policies on the prices and supply of these inputs worldwide a dynamic that can also place enormous pressure on foreign companies to move their...
+
+[USTR_CT_251011]
+  ...prices and supply of these inputs worldwide a dynamic that can also place enormous pressure on foreign companies to move their operations and technology to [china] we have won at the wto panel and await the results of china's appeal we also brought china to the wto to answer for prohibited...
+
+[USTR_CT_251011]
+  ...enormous pressure on foreign companies to move their operations and technology to china we have won at the wto panel and await the results of [china's] appeal we also brought china to the wto to answer for prohibited wind power equipment subsidies worth hundreds of millions of dollars which china has...
+
+[USTR_CT_251011]
+  ...to move their operations and technology to china we have won at the wto panel and await the results of china's appeal we also brought [china] to the wto to answer for prohibited wind power equipment subsidies worth hundreds of millions of dollars which china has now terminated this case arose...
+
+[USTR_CT_251011]
+  ...of china's appeal we also brought china to the wto to answer for prohibited wind power equipment subsidies worth hundreds of millions of dollars which [china] has now terminated this case arose from a section 301 investigation into china's policies affecting trade and investment in green technologies and was the first...
+
+[USTR_CT_251011]
+  ...prohibited wind power equipment subsidies worth hundreds of millions of dollars which china has now terminated this case arose from a section 301 investigation into [china's] policies affecting trade and investment in green technologies and was the first 301 investigation into chinese policies by any administration since china joined the wto...
+
+[USTR_CT_251011]
+  ...301 investigation into china's policies affecting trade and investment in green technologies and was the first 301 investigation into chinese policies by any administration since [china] joined the wto our pending wto dispute challenging china's regulation of electronic payment services deals with our deep concerns about china's apparent creation of a...
+
+[USTR_CT_251011]
+  ...in green technologies and was the first 301 investigation into chinese policies by any administration since china joined the wto our pending wto dispute challenging [china's] regulation of electronic payment services deals with our deep concerns about china's apparent creation of a chinese national champion that blocks competition in china's huge...
+
+[USTR_CT_251011]
+  ...by any administration since china joined the wto our pending wto dispute challenging china's regulation of electronic payment services deals with our deep concerns about [china's] apparent creation of a chinese national champion that blocks competition in china's huge and rapidly growing credit and debit card processing market we are also...
+
+[USTR_CT_251011]
+  ...challenging china's regulation of electronic payment services deals with our deep concerns about china's apparent creation of a chinese national champion that blocks competition in [china's] huge and rapidly growing credit and debit card processing market we are also pursuing two wto cases stemming from concerns about the apparent misuse by...
+
+[USTR_CT_251011]
+  ...huge and rapidly growing credit and debit card processing market we are also pursuing two wto cases stemming from concerns about the apparent misuse by [china] of trade remedy investigations to restrict u.s exports to china furthermore in the u.s market the obama administration has acted in an unprecedented manner by...
+
+[USTR_CT_251011]
+  ...we are also pursuing two wto cases stemming from concerns about the apparent misuse by china of trade remedy investigations to restrict u.s exports to [china] furthermore in the u.s market the obama administration has acted in an unprecedented manner by imposing duties to combat a disruptive surge of chinese tire...
+
+[USTR_CT_251011]
+  ...unprecedented manner by imposing duties to combat a disruptive surge of chinese tire imports pursuant to section 421 the product-specific safeguard negotiated as part of [china's] accession to the wto although china challenged this action at the wto the wto soundly rejected china's claims in this case the president took unparalleled...
+
+[USTR_CT_251011]
+  ...combat a disruptive surge of chinese tire imports pursuant to section 421 the product-specific safeguard negotiated as part of china's accession to the wto although [china] challenged this action at the wto the wto soundly rejected china's claims in this case the president took unparalleled action to provide needed relief to...
+
+[USTR_CT_251011]
+  ...421 the product-specific safeguard negotiated as part of china's accession to the wto although china challenged this action at the wto the wto soundly rejected [china's] claims in this case the president took unparalleled action to provide needed relief to u.s firms and workers since september 2009 the relief provided by...
+
+[USTR_CT_251011]
+  ...have been demonstrated since january 2009 the commerce department has issued 15 countervailing duty orders and 22 antidumping orders on 22 different products imported from [china] including nine steel products eight miscellaneous manufactured products three chemical products two textile and apparel products and one metals product going forward we are committed...
+
+[USTR_CT_251011]
+  ...quicker results than wto or other enforcement actions in the jcct page 5 for example we have removed numerous barriers to u.s companies success in [china's] market including in the areas of intellectual property rights and indigenous innovation policies we believe dialogues achieve success when they involve comprehensive government-wide engagement well-focused...
+
+[USTR_CT_251011]
+  ...homeland security's customs and border protection and immigration and customs enforcement and the federal trade commission this approach yields results for example we have pressed [china] hard to eliminate the use of illegal software in the government sector and in enterprises in response china agreed at the 2010 jcct to establish...
+
+[USTR_CT_251011]
+  ...yields results for example we have pressed china hard to eliminate the use of illegal software in the government sector and in enterprises in response [china] agreed at the 2010 jcct to establish software asset management systems at government agencies to allocate budgets for software purchases and to promote the use...
+
+[USTR_CT_251011]
+  ...agencies to allocate budgets for software purchases and to promote the use of licensed software at enterprises at the 2011 state visit of president hu [china] further bolstered its commitment to software legalization by agreeing to conduct financial audits focused on the use of legal software in government agencies and to...
+
+[USTR_CT_251011]
+  ...to conduct financial audits focused on the use of legal software in government agencies and to publish the audit results at this may's s ed [china] also agreed to strengthen physical inspections to ensure the effectiveness of software legalization efforts during the 2009 and 2010 jccts we negotiated several other new...
+
+[USTR_CT_251011]
+  ...american jobs including through steps to create more effective rules for addressing internet piracy to crack down on landlords who rent space to counterfeiters in [china] and to address piracy of electronic journals at the may 2011 s ed china also agreed to improve its high-level government coordination and leadership mechanisms...
+
+[USTR_CT_251011]
+  ...to crack down on landlords who rent space to counterfeiters in china and to address piracy of electronic journals at the may 2011 s ed [china] also agreed to improve its high-level government coordination and leadership mechanisms to enhance long-term ipr protection and enforcement we have taken a similar tack and...
+
+[USTR_CT_251011]
+  ...high-level government coordination and leadership mechanisms to enhance long-term ipr protection and enforcement we have taken a similar tack and seen similar successes in addressing [china's] industrial policies specifically ustr together with other u.s agencies has worked over the past two years to move china to abandon its national indigenous innovation...
+
+[USTR_CT_251011]
+  ...and seen similar successes in addressing china's industrial policies specifically ustr together with other u.s agencies has worked over the past two years to move [china] to abandon its national indigenous innovation product accreditation system this system gave government procurement preferences to products with chinese ip produced in chinese firms stifling...
+
+[USTR_CT_251011]
+  ...product accreditation system this system gave government procurement preferences to products with chinese ip produced in chinese firms stifling major opportunities for u.s enterprises in [china's] huge and growing government procurement markets beginning in late 2009 we pressed china in bilateral meetings to abandon this system we also coordinated closely with...
+
+[USTR_CT_251011]
+  ...ip produced in chinese firms stifling major opportunities for u.s enterprises in china's huge and growing government procurement markets beginning in late 2009 we pressed [china] in bilateral meetings to abandon this system we also coordinated closely with several trading partners including the eu and japan as well as with industry...
+
+[USTR_CT_251011]
+  ...several trading partners including the eu and japan as well as with industry indigenous innovation then became a priority at the 2010 s ed where [china] agreed to key open innovation principles and later in the year at the jcct where china specifically committed not to discriminate against foreign intellectual property...
+
+[USTR_CT_251011]
+  ...became a priority at the 2010 s ed where china agreed to key open innovation principles and later in the year at the jcct where [china] specifically committed not to discriminate against foreign intellectual property in its procurement policies faced with u.s pressure extensive industry comments and general international outcry china...
+
+[USTR_CT_251011]
+  ...china specifically committed not to discriminate against foreign intellectual property in its procurement policies faced with u.s pressure extensive industry comments and general international outcry [china] finally agreed to stop its indigenous innovation product accreditation system for government procurement in january 2011 at the summit between president obama and chinese president...
+
+[USTR_CT_251011]
+  ...accreditation system for government procurement in january 2011 at the summit between president obama and chinese president hu jintao president hu committed not to link [china's] innovation policies to government procurement preferences china later agreed at the 2011 s ed to eliminate all of its government procurement indigenous innovation product catalogues...
+
+[USTR_CT_251011]
+  ...2011 at the summit between president obama and chinese president hu jintao president hu committed not to link china's innovation policies to government procurement preferences [china] later agreed at the 2011 s ed to eliminate all of its government procurement indigenous innovation product catalogues this past summer the chinese central government...
+
+[USTR_CT_251011]
+  ...of their local measures while more work needs to be done our efforts have produced a significant positive outcome like ipr and industrial policies opening [china's] lucrative government procurement market is another area of positive progress for results-oriented dialogue for example at the 2010 jcct china agreed to accelerate its accession...
+
+[USTR_CT_251011]
+  ...ipr and industrial policies opening china's lucrative government procurement market is another area of positive progress for results-oriented dialogue for example at the 2010 jcct [china] agreed to accelerate its accession to the wto's government procurement agreement by submitting a robust revised offer of coverage before the end of 2011 and...
+
+[USTR_CT_251011]
+  ...submitting a robust revised offer of coverage before the end of 2011 and president hu committed in january to include sub-central entities in that offer [china] also agreed to revise its major equipment catalogue listing heavy machinery and industrial equipment eligible for many government preferences to ensure that there is no...
+
+[USTR_CT_251011]
+  ...for many government preferences to ensure that there is no discrimination against foreign suppliers in addition in the important area of standards and technology development [china] agreed to adopt a stance of technology neutrality on 3g and future technologies as well as on the billions of dollars of cutting edge technologies...
+
+[USTR_CT_251011]
+  ...as well as on the billions of dollars of cutting edge technologies for smart grids as a result of our engagement through the s ed [china] also moved to improve transparency a cornerstone for improving the rule of law one of industry's top concerns due to the efforts of ustr the...
+
+[USTR_CT_251011]
+  ...efforts of ustr the department of commerce and the treasury department at this year's s ed we were able to secure a positive commitment from [china] china's state council will issue a measure in 2011 to implement the requirement that most draft rules must be published for at least a 30-day...
+
+[USTR_CT_251011]
+  ...of ustr the department of commerce and the treasury department at this year's s ed we were able to secure a positive commitment from china [china's] state council will issue a measure in 2011 to implement the requirement that most draft rules must be published for at least a 30-day public...
+
+[USTR_CT_251011]
+  ...focused on eliminating problems ranging from barriers to foreign investment in services sectors to ensuring a level playing field for u.s exports and enterprises as [china] implements aspects of its 12th five-year plan another very important concern that we are pressing vigorously is china's deeply troubling export restraint policy which affects...
+
+[USTR_CT_251011]
+  ...field for u.s exports and enterprises as china implements aspects of its 12th five-year plan another very important concern that we are pressing vigorously is [china's] deeply troubling export restraint policy which affects numerous raw materials including rare earths in close cooperation with like-minded trading partners we have been using both...
+
+[USTR_CT_251011]
+  ...including rare earths in close cooperation with like-minded trading partners we have been using both bilateral and multilateral fora in a concerted effort to move [china] away from these market-distorting policies in addition to the jcct and other bilateral discussions we also have been working multilaterally through the wto and other...
+
+[USTR_CT_251011]
+  ...bilateral discussions we also have been working multilaterally through the wto and other international organizations to push for a closer examination of market-distorting policies like [china's] export restraints that run contrary to the reality of global interdependence when it comes to raw materials we are also focused on eliminating indigenous innovation...
+
+[USTR_CT_251011]
+  ...a u.s company's core intellectual property often its greatest asset will be stolen or subject to a government-coerced license we are therefore continuing to press [china] not to link any government preferences to the place where ip is owned or developed and not to require parties to license ip to a...
+
+[USTR_CT_251011]
+  ...developed and not to require parties to license ip to a chinese entity indigenous innovation will remain a top priority on our trade agenda with [china] with china's nev policies and measures restricting commercial information security products as prime examples our jcct work on agricultural barriers has led china to eliminate...
+
+[USTR_CT_251011]
+  ...not to require parties to license ip to a chinese entity indigenous innovation will remain a top priority on our trade agenda with china with [china's] nev policies and measures restricting commercial information security products as prime examples our jcct work on agricultural barriers has led china to eliminate unfair bans...
+
+[USTR_CT_251011]
+  ...agenda with china with china's nev policies and measures restricting commercial information security products as prime examples our jcct work on agricultural barriers has led [china] to eliminate unfair bans on our poultry exports and some key restrictions on our pork products although many real challenges including a ban on u.s...
+
+[USTR_CT_251011]
+  ...concerns for the full range of u.s goods and services as we have in the past for example in response to u.s pressure last year [china] committed to investigate and shut down fake express delivery websites a malicious practice that was depriving u.s companies of business and their good reputation as...
+
+[USTR_CT_251011]
+  ...practice that was depriving u.s companies of business and their good reputation as one of the few useful changes to its draft foreign investment catalogue [china] will now allow foreigners to establish wholly foreign-owned hospitals and clinics and the united states will continue to press china for a specific near-term date...
+
+[USTR_CT_251011]
+  ...its draft foreign investment catalogue china will now allow foreigners to establish wholly foreign-owned hospitals and clinics and the united states will continue to press [china] for a specific near-term date by which it will implement its 2011 s ed commitment to push forward with the opening of mandatory third party...
+
+[USTR_CT_251011]
+  ...are also working to better utilize and strengthen trade and investment rules both globally and regionally these efforts will help keep our bilateral relationship with [china] on track for example for the first time the united states engaged at the wto to submit a counter notification listing over 200 subsidies that...
+
+[USTR_CT_251011]
+  ...on track for example for the first time the united states engaged at the wto to submit a counter notification listing over 200 subsidies that [china] had not notified over the years the united states submitted the counter notification after repeated failure by china to notify its subsidies the purpose of...
+
+[USTR_CT_251011]
+  ...counter notification listing over 200 subsidies that china had not notified over the years the united states submitted the counter notification after repeated failure by [china] to notify its subsidies the purpose of ustr's wto filing is to put pressure on china to provide the detailed information on its subsidies practices...
+
+[USTR_CT_251011]
+  ...states submitted the counter notification after repeated failure by china to notify its subsidies the purpose of ustr's wto filing is to put pressure on [china] to provide the detailed information on its subsidies practices that wto rules require with increased transparency the united states can better assess the legality of...
+
+[USTR_CT_251011]
+  ...proactive step will help us address these subsidies using the best tools we have in our trade toolbox the united states is also engaging with [china] bilaterally through the wto regarding the commercial impact of restrictions on information flows over the internet policies in china that limit access to internet-based services...
+
+[USTR_CT_251011]
+  ...united states is also engaging with china bilaterally through the wto regarding the commercial impact of restrictions on information flows over the internet policies in [china] that limit access to internet-based services can hinder u.s companies ability to effectively compete in that market therefore invoking china's wto transparency obligations we recently...
+
+[USTR_CT_251011]
+  ...over the internet policies in china that limit access to internet-based services can hinder u.s companies ability to effectively compete in that market therefore invoking [china's] wto transparency obligations we recently formally asked china for detailed information on chinese measures that affect the supply of services over the internet to chinese...
+
+[USTR_CT_251011]
+  ...access to internet-based services can hinder u.s companies ability to effectively compete in that market therefore invoking china's wto transparency obligations we recently formally asked [china] for detailed information on chinese measures that affect the supply of services over the internet to chinese customers greater transparency regarding these measures will allow...
+
+[USTR_CT_251011]
+  ...also in the wto we recognize that we must continue to press for a stronger trading system and as part of that objective we need [china] to make a meaningful contribution in the doha round a contribution in keeping with china's responsibilities as a leading global trading nation we remain of...
+
+[USTR_CT_251011]
+  ...trading system and as part of that objective we need china to make a meaningful contribution in the doha round a contribution in keeping with [china's] responsibilities as a leading global trading nation we remain of the firm view that there can be no successful conclusion of this negotiation without robust...
+
+[USTR_CT_251011]
+  ...global trading nation we remain of the firm view that there can be no successful conclusion of this negotiation without robust market access commitments from [china] and other emerging economies our efforts to build strong rules-based trade extend beyond the wto to our work on efforts including cutting edge twenty-first century...
+
+[USTR_CT_251011]
+  ...trading partners to enhance trade with rules that increase fair and strong competition creating expectations for how other players in the international trading system including [china] will need to operate the obama administration is working so that americans can prosper and compete with china on a level playing field without artificial...
+
+[USTR_CT_251011]
+  ...players in the international trading system including china will need to operate the obama administration is working so that americans can prosper and compete with [china] on a level playing field without artificial barriers or unfair constraints we recognize the benefits achieved and the opportunities to come we see our significant...
+
+[USTR_CT_251011]
+  ...expense of another our progress can be shared that shared progress is only possible through a shared understanding of both the value of the u.s [china] relationship and the challenges inherent in the work that lies ahead which i know is the spirit of today's hearing thank you chairman camp ranking...
+
+[USTR_S_170108]
+  ... [china] enforcement speaking of passions let me turn for a moment to china and our enforcement efforts more broadly the president’s strategy on how to grapple...
+
+[USTR_S_170108]
+  ...china enforcement speaking of passions let me turn for a moment to [china] and our enforcement efforts more broadly the president’s strategy on how to grapple with the economic challenge and grasp the opportunity of a rising china...
+
+[USTR_S_170108]
+  ...china and our enforcement efforts more broadly the president’s strategy on how to grapple with the economic challenge and grasp the opportunity of a rising [china] is delivering results of course we think it’s in both countries interests to be able to show more results and more quickly so we have...
+
+[USTR_S_170108]
+  ...quickly firmly and decisively with the most effective tools at hand this includes dialogue where possible and enforcement when necessary we have been forceful with [china] about our concerns on the direction taken by several ministries to use standards to limit imports subsidize exports and protect non-competitive industries but we must...
+
+[USTR_S_170108]
+  ...ministries to use standards to limit imports subsidize exports and protect non-competitive industries but we must also encourage those outward-looking entrepreneurial forces and thinkers within [china] to this end we recently reached agreement with china to suspend one of our pending wto cases after the chinese agreed to eliminate a dozen...
+
+[USTR_S_170108]
+  ...and protect non-competitive industries but we must also encourage those outward-looking entrepreneurial forces and thinkers within china to this end we recently reached agreement with [china] to suspend one of our pending wto cases after the chinese agreed to eliminate a dozen wto-prohibited subsidies and we fully expect the wto to...
+
+[USTR_S_170108]
+  ...brought against us we still can boast wins or productive settlements almost half the time we are ready and willing to settle these disputes with [china] in a businesslike manner if the chinese government wishes to do so just as with the earlier case the fact is we are looking for...
+
+[USTR_S_170108]
+  ...looking for the result not the headline not surprisingly then the administration continues to have serious concerns about the unintended consequences of proposed legislation targeting [china] and there always are unintended consequences quite frankly we have serious concerns about some of the intended consequences too this is not a good time...
+
+[USTR_S_291107]
+  ...you all for coming ● as many of you know in february of this year we filed a case in the world trade organization challenging [china’s] illegal subsidies practices ● this case is enormously important it challenged the kinds of illegal subsidies that severely distort trade conditions for u.s manufacturers and...
+
+[USTR_S_291107]
+  ...goods in the united states from steel to wood products to information technologies are denied the opportunity to compete fairly in the united states in [china] and in third country markets where they are up against chinese subsidies that are illegal under the wto ● today i am very pleased to...
+
+[USTR_S_291107]
+  ...up against chinese subsidies that are illegal under the wto ● today i am very pleased to report we have just signed an agreement with [china] that will lead to complete elimination of these wto-prohibited subsidies we expect the agreement to be fully implemented by january 1 2008 this outcome represents...
+
+[USTR_S_291107]
+  ...also demonstrates that our two nations can work together to resolve major differences third it shows that president bush’s approach to resolving trade disputes with [china] dialogue if possible legal action when necessary and working within the rules-based system gets real results u.s approach works ● in this case as in...
+
+[USTR_S_291107]
+  ...necessary and working within the rules-based system gets real results u.s approach works ● in this case as in others we have been clear where [china] fails to live up to its wto obligations we will use the full array of tools available to secure compliance 2 ● we began by...
+
+[USTR_S_291107]
+  ...to live up to its wto obligations we will use the full array of tools available to secure compliance 2 ● we began by engaging [china] in dialogue but it became clear that dialogue alone was not leading the chinese government to address our concerns so we invoked the wto dispute...
+
+[USTR_S_291107]
+  ...i am announcing today specifics of the case ● from a legal perspective this case is relatively straightforward ● we were prepared to prove that [china] had been violating wto subsidies rules by continuing to use two broad types of prohibited subsidies across the spectrum of industry sectors in china −...
+
+[USTR_S_291107]
+  ...that china had been violating wto subsidies rules by continuing to use two broad types of prohibited subsidies across the spectrum of industry sectors in [china] − including steel wood products information technology and many others ● first export subsidies these subsidies have given an unfair competitive advantage to chinese products...
+
+[USTR_S_291107]
+  ...fairly in the united states and in third country markets ● second the chinese will eliminate import substitution subsidies these subsidies have encouraged companies in [china] to purchase chinese-made goods instead of imports they have given chinese-made goods an unfair edge in the china market over highquality fairly priced goods from...
+
+[USTR_S_291107]
+  ...subsidies these subsidies have encouraged companies in china to purchase chinese-made goods instead of imports they have given chinese-made goods an unfair edge in the [china] market over highquality fairly priced goods from the united states and other countries ● these two types of subsidies − export subsidies and import substitution...
+
+[USTR_S_291107]
+  ...rules prohibit them outright ● but the chinese government has been slow to emerge from its historical role controlling the economy we have been urging [china] to eliminate all industrial policies like these prohibited subsidies which interfere so fundamentally with market-driven economic and trade outcomes 4 trade impact ● at its...
+
+[USTR_S_291107]
+  ...was about standing up for american manufacturers and workers the trade-distorting subsidies we challenged created significant disadvantages for u.s products in our home market in [china] and in third country markets ● the prohibited subsidies that china has now agreed to discontinue were widely available across many manufacturing sectors in china...
+
+[USTR_S_291107]
+  ...subsidies we challenged created significant disadvantages for u.s products in our home market in china and in third country markets ● the prohibited subsidies that [china] has now agreed to discontinue were widely available across many manufacturing sectors in china and they offered sizeable benefits ● for example the export subsidies...
+
+[USTR_S_291107]
+  ...china and in third country markets ● the prohibited subsidies that china has now agreed to discontinue were widely available across many manufacturing sectors in [china] and they offered sizeable benefits ● for example the export subsidies included benefits like substantial income tax reductions that had the potential to benefit up...
+
+[USTR_S_291107]
+  ...benefits ● for example the export subsidies included benefits like substantial income tax reductions that had the potential to benefit up to 60 percent of [china’s] exports ● it is difficult for companies to compete when the playing field is so uneven it is especially hard on small and medium-sized enterprises...
+
+[USTR_S_291107]
+  ...difficult for companies to compete when the playing field is so uneven it is especially hard on small and medium-sized enterprises and their workers ● [china’s] renunciation of the banned subsidies we challenged is excellent news for china as a wto member and excellent news for world trade in this area...
+
+[USTR_S_291107]
+  ...it is especially hard on small and medium-sized enterprises and their workers ● china’s renunciation of the banned subsidies we challenged is excellent news for [china] as a wto member and excellent news for world trade in this area we will now have a more level playing field a direct benefit...
+
+[USTR_S_291107]
+  ...news for world trade in this area we will now have a more level playing field a direct benefit of the rules-based system 5 u.s [china] trade relations ● i want to underscore that the way this dispute was resolved stands as a victory for both countries it demonstrates that mature...
+
+[USTR_S_291107]
+  ...wto process to work through their differences ● the united states is also encouraged that the terms of the agreement reflect a conscious decision by [china] for its own benefit to reject the economic thinking that has relied on these kinds of distorting subsidies in the past that is good for...
+
+[USTR_S_291107]
+  ...for its own benefit to reject the economic thinking that has relied on these kinds of distorting subsidies in the past that is good for [china] as a wto member and good for the world at large ● we face many challenges in our trade relationship with china and this is...
+
+[USTR_S_291107]
+  ...is good for china as a wto member and good for the world at large ● we face many challenges in our trade relationship with [china] and this is only one aspect but it is an important one there is still much work to be done to meet the challenges of...
+
+[USTR_S_291107]
+  ...but it is an important one there is still much work to be done to meet the challenges of our growing and complex relationship with [china] and it will be difficult work more results are needed and at a faster pace 6 conclusion ● let me make two final points before...
+
+[USTR_S_291107]
+  ...simply impose retaliatory tariffs what we have done will actually benefit u.s manufacturers and workers what we should avoid is a needlessly hostile relationship with [china] which will in the long run only hurt u.s workers and consumers ● second i want to express my appreciation to the government of mexico...
+
+[USTR_S_130114]
+  ...workers and businesses in the global trading system and to not stop fighting until their rights are fully realized the united states today is challenging [china’s] failure to comply with the wto’s decision in favor of the united states in our dispute on high-tech steel specifically we have requested consultations with...
+
+[USTR_S_130114]
+  ...failure to comply with the wto’s decision in favor of the united states in our dispute on high-tech steel specifically we have requested consultations with [china] on its failure to bring antidumping and countervailing duties on u.s exports of goes grain oriented flat-rolled electrical steel into compliance with its wto obligations...
+
+[USTR_S_130114]
+  ...the rules and respond with appropriate action when they are found to be in violation the united states brought this dispute because we considered that [china] had breached wto procedural and substantive rules when it imposed duties on goes from the united states china’s duties effectively blocked u.s exports of goes...
+
+[USTR_S_130114]
+  ...brought this dispute because we considered that china had breached wto procedural and substantive rules when it imposed duties on goes from the united states [china’s] duties effectively blocked u.s exports of goes to china before china imposed these duties u.s exports of goes amounted to more than $ 250 million...
+
+[USTR_S_130114]
+  ...breached wto procedural and substantive rules when it imposed duties on goes from the united states china’s duties effectively blocked u.s exports of goes to [china] before china imposed these duties u.s exports of goes amounted to more than $ 250 million a year the year after china imposed the duties...
+
+[USTR_S_130114]
+  ...procedural and substantive rules when it imposed duties on goes from the united states china’s duties effectively blocked u.s exports of goes to china before [china] imposed these duties u.s exports of goes amounted to more than $ 250 million a year the year after china imposed the duties the value...
+
+[USTR_S_130114]
+  ...of goes to china before china imposed these duties u.s exports of goes amounted to more than $ 250 million a year the year after [china] imposed the duties the value of u.s exports of goes fell to $ 3 million we were right and china was wrong the wto found...
+
+[USTR_S_130114]
+  ...a year the year after china imposed the duties the value of u.s exports of goes fell to $ 3 million we were right and [china] was wrong the wto found that china’s duties are inconsistent with wto rules and unfortunately it appears that china has not corrected those inconsistencies we...
+
+[USTR_S_130114]
+  ...the duties the value of u.s exports of goes fell to $ 3 million we were right and china was wrong the wto found that [china’s] duties are inconsistent with wto rules and unfortunately it appears that china has not corrected those inconsistencies we believe the evidence is clear that china...
+
+[USTR_S_130114]
+  ...3 million we were right and china was wrong the wto found that china’s duties are inconsistent with wto rules and unfortunately it appears that [china] has not corrected those inconsistencies we believe the evidence is clear that china has not brought its duties into compliance with wto rules we support...
+
+[USTR_S_130114]
+  ...china’s duties are inconsistent with wto rules and unfortunately it appears that china has not corrected those inconsistencies we believe the evidence is clear that [china] has not brought its duties into compliance with wto rules we support the fair use of trade remedies as fundamental to wto rights and obligations...
+
+[USTR_S_130114]
+  ...with wto rules we support the fair use of trade remedies as fundamental to wto rights and obligations but we will not stand by while [china] misuses trade remedies to block u.s exports unfairly to the detriment of u.s workers and businesses through this action we are standing up for our...
+
+[USTR_S_200911]
+  ...i’m here to announce that the obama administration is once again taking action to hold [china] accountable for commitments that it made when it joined the world trade organization ten years ago today’s action pertains to what we believe is china’s...
+
+[USTR_S_200911]
+  ...china accountable for commitments that it made when it joined the world trade organization ten years ago today’s action pertains to what we believe is [china’s] wrongful imposition of trade remedies against u.s chicken products it’s a case that has implications for an estimated 300,000 american farmers and workers throughout the...
+
+[USTR_S_200911]
+  ...thoughts about why we are taking this action from day one of the obama administration we’ve been clear that when it comes to enforcement and [china] we have one simple request of our chinese partners live up to the promises you made when you joined the wto since president obama took...
+
+[USTR_S_200911]
+  ...partners live up to the promises you made when you joined the wto since president obama took office this administration has taken action to hold [china] accountable on tires steel industrial raw materials electronic payment services wind power chickens and the list goes on and on in every one of these...
+
+[USTR_S_200911]
+  ...services wind power chickens and the list goes on and on in every one of these cases the key principle at stake has been that [china] must play by the rules to which it agreed when it joined the wto including commitments to maintain open markets on a non-discriminatory basis and...
+
+[USTR_S_200911]
+  ...a non-discriminatory basis and to follow rules-based procedures in a transparent way let me be clear the united states does not arbitrarily seek disagreements with [china] nor is it our desire to be disagreeable in fact we always prefer to settle disputes with negotiation rather than litigation we’re interested in getting...
+
+[USTR_S_200911]
+  ...american job every dollar worth of u.s exports and every chance for american producers to compete that depends on having a level playing field in [china] ten years ago the united states supported china’s effort to join the wto based on china’s promises to behave responsibly because we recognized the tremendous...
+
+[USTR_S_200911]
+  ...and every chance for american producers to compete that depends on having a level playing field in china ten years ago the united states supported [china’s] effort to join the wto based on china’s promises to behave responsibly because we recognized the tremendous benefits of trade between both consumers and producers...
+
+[USTR_S_200911]
+  ...that depends on having a level playing field in china ten years ago the united states supported china’s effort to join the wto based on [china’s] promises to behave responsibly because we recognized the tremendous benefits of trade between both consumers and producers in two of the world’s largest economies today...
+
+[USTR_S_200911]
+  ...tremendous benefits of trade between both consumers and producers in two of the world’s largest economies today we continue to believe that two-way trade with [china] works for the american people when we insist that china lives up to its commitments plays by the rules to which it has agreed and...
+
+[USTR_S_200911]
+  ...two of the world’s largest economies today we continue to believe that two-way trade with china works for the american people when we insist that [china] lives up to its commitments plays by the rules to which it has agreed and maintains a level playing field for american producers to compete...
+
+[USTR_CT_230610]
+  ...ranking member grassley committee members thank you for this opportunity to discuss the complex and evolving trade and economic relationship between the united states and [china] as you have said mr chairman america’s interests require us to approach china in a strategic and well-coordinated manner that is why the obama administration...
+
+[USTR_CT_230610]
+  ...complex and evolving trade and economic relationship between the united states and china as you have said mr chairman america’s interests require us to approach [china] in a strategic and well-coordinated manner that is why the obama administration is speaking with one voice pressing for change with enhanced dialogue enforcement of...
+
+[USTR_CT_230610]
+  ...and dismantle obstacles that could cripple opportunities for american workers farmers ranchers manufacturers and service suppliers since joining the world trade organization wto in 2001 [china] has made many important economic reforms removed trade barriers and opened markets to u.s exports this has created new opportunities for americans as manufactured goods...
+
+[USTR_CT_230610]
+  ...many important economic reforms removed trade barriers and opened markets to u.s exports this has created new opportunities for americans as manufactured goods exports to [china] have tripled china’s strong recovery from the global recession has facilitated recent double digit growth in american export sectors from manufactured goods and chemical products...
+
+[USTR_CT_230610]
+  ...reforms removed trade barriers and opened markets to u.s exports this has created new opportunities for americans as manufactured goods exports to china have tripled [china’s] strong recovery from the global recession has facilitated recent double digit growth in american export sectors from manufactured goods and chemical products to agricultural goods...
+
+[USTR_CT_230610]
+  ...strong recovery from the global recession has facilitated recent double digit growth in american export sectors from manufactured goods and chemical products to agricultural goods [china] is now america’s third largest export market for goods however china’s implementation of its wto commitments is incomplete we have serious concerns about chinese policies...
+
+[USTR_CT_230610]
+  ...growth in american export sectors from manufactured goods and chemical products to agricultural goods china is now america’s third largest export market for goods however [china’s] implementation of its wto commitments is incomplete we have serious concerns about chinese policies that limit market access or otherwise skew the playing field in...
+
+[USTR_CT_230610]
+  ...working through the wto doha negotiations toward better market access for u.s firms in the multilateral context i also know this committee is concerned about [china's] currency practices president obama called china’s recent currency decision a constructive step that can help safeguard the recovery and contribute to a more balanced global...
+
+[USTR_CT_230610]
+  ...toward better market access for u.s firms in the multilateral context i also know this committee is concerned about china's currency practices president obama called [china’s] recent currency decision a constructive step that can help safeguard the recovery and contribute to a more balanced global economy he will discuss these and...
+
+[USTR_CT_230610]
+  ...a constructive step that can help safeguard the recovery and contribute to a more balanced global economy he will discuss these and other issues with [china] at the g-20 summit in toronto while treasury secretary geithner welcomed china’s announcement he said that the test is how far and how fast the...
+
+[USTR_CT_230610]
+  ...a more balanced global economy he will discuss these and other issues with china at the g-20 summit in toronto while treasury secretary geithner welcomed [china’s] announcement he said that the test is how far and how fast the chinese let the currency appreciate he will continue to monitor and raise...
+
+[USTR_CT_230610]
+  ...continue to monitor and raise this issue mr chairman you recently suggested the administration should be willing to take strong action on trade issues regarding [china] we are prepared to use the full range of enforcement options when dialogue fails we have been by far the most active and successful wto...
+
+[USTR_CT_230610]
+  ...of enforcement options when dialogue fails we have been by far the most active and successful wto member in bringing wto dispute settlement cases against [china] our most recent case challenges china’s use of export restraints on key raw materials which hurts workers and companies in the u.s steel aluminum and...
+
+[USTR_CT_230610]
+  ...we have been by far the most active and successful wto member in bringing wto dispute settlement cases against china our most recent case challenges [china’s] use of export restraints on key raw materials which hurts workers and companies in the u.s steel aluminum and chemicals sectors we will continue to...
+
+[USTR_CT_230610]
+  ...in the u.s steel aluminum and chemicals sectors we will continue to coordinate with interagency partners and with you to execute a comprehensive and effective [china] strategy that includes addressing the challenges posed by china’s macroeconomic policies and pressing china to change its growth strategy to rely more on domestic consumption...
+
+[USTR_CT_230610]
+  ...will continue to coordinate with interagency partners and with you to execute a comprehensive and effective china strategy that includes addressing the challenges posed by [china’s] macroeconomic policies and pressing china to change its growth strategy to rely more on domestic consumption we are also pursuing other u.s interests with china...
+
+[USTR_CT_230610]
+  ...interagency partners and with you to execute a comprehensive and effective china strategy that includes addressing the challenges posed by china’s macroeconomic policies and pressing [china] to change its growth strategy to rely more on domestic consumption we are also pursuing other u.s interests with china we are engaging on workers...
+
+[USTR_CT_230610]
+  ...china’s macroeconomic policies and pressing china to change its growth strategy to rely more on domestic consumption we are also pursuing other u.s interests with [china] we are engaging on workers rights to ensure a level playing field for american workers and pressing for china’s accession to the government procurement agreement...
+
+[USTR_CT_230610]
+  ...also pursuing other u.s interests with china we are engaging on workers rights to ensure a level playing field for american workers and pressing for [china’s] accession to the government procurement agreement as well as a meaningful china contribution to the doha round other interactions also need attention for example in...
+
+[USTR_CT_230610]
+  ...rights to ensure a level playing field for american workers and pressing for china’s accession to the government procurement agreement as well as a meaningful [china] contribution to the doha round other interactions also need attention for example in africa we should work cooperatively with china to ensure our respective actions...
+
+[USTR_CT_230610]
+  ...as well as a meaningful china contribution to the doha round other interactions also need attention for example in africa we should work cooperatively with [china] to ensure our respective actions support development in closing i will simply reiterate the importance of getting our relationship with china right thank you for...
+
+[USTR_CT_230610]
+  ...should work cooperatively with china to ensure our respective actions support development in closing i will simply reiterate the importance of getting our relationship with [china] right thank you for the opportunity to testify i look forward to today’s discussion...
+
+Total occurrences: 331 
+
+>>> KWIC: subsidies <<<
+
+[USTR_CT_020807]
+  ...auto sector through discriminatory charges on imported auto parts this case is now before a wto panel with a decision expected in january 2008 industrial [subsidies] the u.s later joined by mexico filed a wto challenge against several chinese subsidy programs that appear to be prohibited under wto rules either as...
+
+[USTR_CT_020807]
+  ...by mexico filed a wto challenge against several chinese subsidy programs that appear to be prohibited under wto rules either as export or import substitution [subsidies] we have now asked the wto to establish an arbitral panel to hear our case intellectual property and market access the u.s initiated wto's free...
+
+[USTR_CT_020807]
+  ...auto sector through discriminatory charges on imported auto parts this case is now before a wto panel with a decision expected in january 2008 industrial [subsidies] feb 2007 the united states later joined by mexico filed a wto challenge against several chinese subsidy programs that appear to be prohibited under wto...
+
+[USTR_CT_020807]
+  ...by mexico filed a wto challenge against several chinese subsidy programs that appear to be prohibited under wto rules either as export or import substitution [subsidies] these widely available subsidies offer significant benefits and the export subsidies alone potentially benefit nearly 60 percent of china's exports of manufactured goods the parties...
+
+[USTR_CT_020807]
+  ...wto challenge against several chinese subsidy programs that appear to be prohibited under wto rules either as export or import substitution subsidies these widely available [subsidies] offer significant benefits and the export subsidies alone potentially benefit nearly 60 percent of china's exports of manufactured goods the parties held consultations in march...
+
+[USTR_CT_020807]
+  ...that appear to be prohibited under wto rules either as export or import substitution subsidies these widely available subsidies offer significant benefits and the export [subsidies] alone potentially benefit nearly 60 percent of china's exports of manufactured goods the parties held consultations in march 2007 and june 2007 in july 2007...
+
+[USTR_CT_251011]
+  ...in china costs u.s companies $ 48 billion every year china's industrial policies like indigenous innovation discriminate against u.s products services innovators and investors china's [subsidies] raise deep concerns and can lead to unfairly traded imports that affect our trade deficit investment restrictions limit the ability of u.s companies to compete...
+
+[USTR_CT_251011]
+  ...for the first time since china joined the wto we accepted a section 301 petition which brought china to the wto to answer for prohibited [subsidies] in the wind sector we have challenged china's regulation of electronic payment services to address the apparent creation of a homegrown monopoly that blocks competition...
+
+[USTR_CT_251011]
+  ...for the first time as chairman camp mentioned the united states submitted in the wto a subsidy counter-notification to call china out on over 200 [subsidies] that it had not notified as required similarly we have called on china to share detailed information on measures that limit the supply of services...
+
+[USTR_CT_251011]
+  ...the gamut and are familiar to many of you and your constituents five key challenges include enforcement of intellectual property rights ipr problematic industrial and [subsidies] policies agricultural policies that are not science-based investment restrictions and an opaque legal and regulatory system and weak rule of law intellectual property theft is...
+
+[USTR_CT_251011]
+  ...automakers to transfer core nev technologies to their china joint ventures and to establish chinese brands in order to participate in this promising market china's [subsidies] policies are also problematic during the ten years that china has been a member of the wto u.s investigatory efforts have led the united states...
+
+[USTR_CT_251011]
+  ...years that china has been a member of the wto u.s investigatory efforts have led the united states to launch three wto cases on prohibited [subsidies] including one within the past year at the same time u.s companies including u.s steel textiles chemicals tires and paper industries among others have expressed...
+
+[USTR_CT_251011]
+  ...at the wto panel and await the results of china's appeal we also brought china to the wto to answer for prohibited wind power equipment [subsidies] worth hundreds of millions of dollars which china has now terminated this case arose from a section 301 investigation into china's policies affecting trade and...
+
+[USTR_CT_251011]
+  ...enforced u.s trade remedy laws with the commerce department imposing antidumping and countervailing duties on imports of numerous unfairly traded chinese products when dumping or [subsidies] and injury have been demonstrated since january 2009 the commerce department has issued 15 countervailing duty orders and 22 antidumping orders on 22 different products...
+
+[USTR_CT_251011]
+  ...the gamut and are familiar to many of you and your constituents five key challenges include enforcement of intellectual property rights ipr problematic industrial and [subsidies] policies agricultural policies that are not science-based investment restrictions and an opaque legal and regulatory system and weak rule of law intellectual property theft is...
+
+[USTR_CT_251011]
+  ...automakers to transfer core nev technologies to their china joint ventures and to establish chinese brands in order to participate in this promising market china's [subsidies] policies are also problematic during the ten years that china has been a member of the wto u.s investigatory efforts have led the united states...
+
+[USTR_CT_251011]
+  ...years that china has been a member of the wto u.s investigatory efforts have led the united states to launch three wto cases on prohibited [subsidies] including one within the past year at the same time u.s companies including u.s steel textiles chemicals tires and paper industries among others page 3...
+
+[USTR_CT_251011]
+  ...at the wto panel and await the results of china's appeal we also brought china to the wto to answer for prohibited wind power equipment [subsidies] worth hundreds of millions of dollars which china has now terminated this case arose from a section 301 investigation into china's policies affecting trade and...
+
+[USTR_CT_251011]
+  ...enforced u.s trade remedy laws with the commerce department imposing antidumping and countervailing duties on imports of numerous unfairly traded chinese products when dumping or [subsidies] and injury have been demonstrated since january 2009 the commerce department has issued 15 countervailing duty orders and 22 antidumping orders on 22 different products...
+
+[USTR_CT_251011]
+  ...with china on track for example for the first time the united states engaged at the wto to submit a counter notification listing over 200 [subsidies] that china had not notified over the years the united states submitted the counter notification after repeated failure by china to notify its subsidies the...
+
+[USTR_CT_251011]
+  ...200 subsidies that china had not notified over the years the united states submitted the counter notification after repeated failure by china to notify its [subsidies] the purpose of ustr's wto filing is to put pressure on china to provide the detailed information on its subsidies practices that wto rules require...
+
+[USTR_CT_251011]
+  ...by china to notify its subsidies the purpose of ustr's wto filing is to put pressure on china to provide the detailed information on its [subsidies] practices that wto rules require with increased transparency the united states can better assess the legality of particular subsidy programs this proactive step will help...
+
+[USTR_CT_251011]
+  ...rules require with increased transparency the united states can better assess the legality of particular subsidy programs this proactive step will help us address these [subsidies] using the best tools we have in our trade toolbox the united states is also engaging with china bilaterally through the wto regarding the commercial...
+
+[USTR_S_170108]
+  ...this end we recently reached agreement with china to suspend one of our pending wto cases after the chinese agreed to eliminate a dozen wto-prohibited [subsidies] and we fully expect the wto to begin handing down decisions early this year that vindicate our claims in the remaining three cases auto parts...
+
+[USTR_S_291107]
+  ...for coming ● as many of you know in february of this year we filed a case in the world trade organization challenging china’s illegal [subsidies] practices ● this case is enormously important it challenged the kinds of illegal subsidies that severely distort trade conditions for u.s manufacturers and producers −...
+
+[USTR_S_291107]
+  ...filed a case in the world trade organization challenging china’s illegal subsidies practices ● this case is enormously important it challenged the kinds of illegal [subsidies] that severely distort trade conditions for u.s manufacturers and producers − especially small and medium sized enterprises − and their workers as a result of...
+
+[USTR_S_291107]
+  ...severely distort trade conditions for u.s manufacturers and producers − especially small and medium sized enterprises − and their workers as a result of such [subsidies] a range of domestically produced goods in the united states from steel to wood products to information technologies are denied the opportunity to compete fairly...
+
+[USTR_S_291107]
+  ...technologies are denied the opportunity to compete fairly in the united states in china and in third country markets where they are up against chinese [subsidies] that are illegal under the wto ● today i am very pleased to report we have just signed an agreement with china that will lead...
+
+[USTR_S_291107]
+  ...● today i am very pleased to report we have just signed an agreement with china that will lead to complete elimination of these wto-prohibited [subsidies] we expect the agreement to be fully implemented by january 1 2008 this outcome represents a victory for u.s manufacturers producers and their workers it...
+
+[USTR_S_291107]
+  ...outcome represents a victory for u.s manufacturers producers and their workers it is significant in three respects first it eliminates a set of widely available [subsidies] that create significant disadvantages for u.s products across many manufacturing sectors second it shows that chinese policymakers understand the need to respect the strict wto...
+
+[USTR_S_291107]
+  ...u.s products across many manufacturing sectors second it shows that chinese policymakers understand the need to respect the strict wto prohibitions on these kinds of [subsidies] in the future it also demonstrates that our two nations can work together to resolve major differences third it shows that president bush’s approach to...
+
+[USTR_S_291107]
+  ...of the case ● from a legal perspective this case is relatively straightforward ● we were prepared to prove that china had been violating wto [subsidies] rules by continuing to use two broad types of prohibited subsidies across the spectrum of industry sectors in china − including steel wood products information...
+
+[USTR_S_291107]
+  ...relatively straightforward ● we were prepared to prove that china had been violating wto subsidies rules by continuing to use two broad types of prohibited [subsidies] across the spectrum of industry sectors in china − including steel wood products information technology and many others ● first export subsidies these subsidies have...
+
+[USTR_S_291107]
+  ...types of prohibited subsidies across the spectrum of industry sectors in china − including steel wood products information technology and many others ● first export [subsidies] these subsidies have given an unfair competitive advantage to chinese products and denied u.s 3 manufacturers the chance to compete fairly in the united states...
+
+[USTR_S_291107]
+  ...prohibited subsidies across the spectrum of industry sectors in china − including steel wood products information technology and many others ● first export subsidies these [subsidies] have given an unfair competitive advantage to chinese products and denied u.s 3 manufacturers the chance to compete fairly in the united states and in...
+
+[USTR_S_291107]
+  ...u.s 3 manufacturers the chance to compete fairly in the united states and in third country markets ● second the chinese will eliminate import substitution [subsidies] these subsidies have encouraged companies in china to purchase chinese-made goods instead of imports they have given chinese-made goods an unfair edge in the china...
+
+[USTR_S_291107]
+  ...manufacturers the chance to compete fairly in the united states and in third country markets ● second the chinese will eliminate import substitution subsidies these [subsidies] have encouraged companies in china to purchase chinese-made goods instead of imports they have given chinese-made goods an unfair edge in the china market over...
+
+[USTR_S_291107]
+  ...goods an unfair edge in the china market over highquality fairly priced goods from the united states and other countries ● these two types of [subsidies] − export subsidies and import substitution subsidies − are considered to be prohibited subsidies by the wto that means they are so trade-distorting that wto...
+
+[USTR_S_291107]
+  ...edge in the china market over highquality fairly priced goods from the united states and other countries ● these two types of subsidies − export [subsidies] and import substitution subsidies − are considered to be prohibited subsidies by the wto that means they are so trade-distorting that wto rules prohibit them...
+
+[USTR_S_291107]
+  ...market over highquality fairly priced goods from the united states and other countries ● these two types of subsidies − export subsidies and import substitution [subsidies] − are considered to be prohibited subsidies by the wto that means they are so trade-distorting that wto rules prohibit them outright ● but the...
+
+[USTR_S_291107]
+  ...the united states and other countries ● these two types of subsidies − export subsidies and import substitution subsidies − are considered to be prohibited [subsidies] by the wto that means they are so trade-distorting that wto rules prohibit them outright ● but the chinese government has been slow to emerge...
+
+[USTR_S_291107]
+  ...has been slow to emerge from its historical role controlling the economy we have been urging china to eliminate all industrial policies like these prohibited [subsidies] which interfere so fundamentally with market-driven economic and trade outcomes 4 trade impact ● at its core this case was about standing up for american...
+
+[USTR_S_291107]
+  ...market-driven economic and trade outcomes 4 trade impact ● at its core this case was about standing up for american manufacturers and workers the trade-distorting [subsidies] we challenged created significant disadvantages for u.s products in our home market in china and in third country markets ● the prohibited subsidies that china...
+
+[USTR_S_291107]
+  ...the trade-distorting subsidies we challenged created significant disadvantages for u.s products in our home market in china and in third country markets ● the prohibited [subsidies] that china has now agreed to discontinue were widely available across many manufacturing sectors in china and they offered sizeable benefits ● for example the...
+
+[USTR_S_291107]
+  ...china has now agreed to discontinue were widely available across many manufacturing sectors in china and they offered sizeable benefits ● for example the export [subsidies] included benefits like substantial income tax reductions that had the potential to benefit up to 60 percent of china’s exports ● it is difficult for...
+
+[USTR_S_291107]
+  ...when the playing field is so uneven it is especially hard on small and medium-sized enterprises and their workers ● china’s renunciation of the banned [subsidies] we challenged is excellent news for china as a wto member and excellent news for world trade in this area we will now have a...
+
+[USTR_S_291107]
+  ...the agreement reflect a conscious decision by china for its own benefit to reject the economic thinking that has relied on these kinds of distorting [subsidies] in the past that is good for china as a wto member and good for the world at large ● we face many challenges in...
+
+[USTR_S_291107]
+  ...first i would like to note that i have consulted closely with congress as we have developed strategies for dealing with difficult issues like prohibited [subsidies] and members with whom i have spoken appreciate the value of results over rhetoric i think this announcement makes clear that the administration’s policy of...
+
+Total occurrences: 48 
+
+>>> KWIC: government procur <<<
+
+No occurrences found.
+
+>>> KWIC: dispute <<<
+
+[USTR_CT_020807]
+  ...ensuring fair treatment for u.s investment abroad we seek to resolve trade problems using a wide variety of tools including bilateral discussions negotiations and formal [dispute] settlement proceedings our work depends at its core on the commitment of the united states government including the congress to uphold our international trade agreements...
+
+[USTR_CT_020807]
+  ...legislation is world trade organization consistency it is important to avoid enactment of wto inconsistent legislation not only would it likely be challenged in wto [dispute] settlement potentially resulting in the imposition of sanctions or other measures against u.s exports service providers or intellectual property it would undermine u.s credibility as...
+
+[USTR_CT_020807]
+  ...wto obligations is mixed in our engagement with china we follow a dual-track approach a bilateral dialogue together with a full willingness to use wto's [dispute] settlement where appropriate considering bilateral dialogues the united states has achieved some important successes for example china made several commitments related to ipr protection and...
+
+[USTR_CT_020807]
+  ...and to ensure that new rules in the postal area would not negatively affect foreign express couriers to date we have turned to formal wto [dispute] settlement in five instances with respect to semiconductors it has filed a wto dispute against china challenging value-added tax rebates that discriminate against imported semiconductors...
+
+[USTR_CT_020807]
+  ...foreign express couriers to date we have turned to formal wto dispute settlement in five instances with respect to semiconductors it has filed a wto [dispute] against china challenging value-added tax rebates that discriminate against imported semiconductors as a result the united states and china resolved the matter ensuring fair access...
+
+[USTR_CT_020807]
+  ...and workers to a market worth over $ 2 billion auto parts the u.s acted together with the european communities and canada launched a wto [dispute] settlement case challenging china rules that provide for prohibited local content requirements in the auto sector through discriminatory charges on imported auto parts this case...
+
+[USTR_CT_020807]
+  ...other countries on these matters in addition we seek to resolve trade problems using a wide variety of tools including bilateral discussions negotiations and formal [dispute] settlement proceedings the work of the ustr to open markets and resolve trade disputes depends at its core on the commitment of the united states...
+
+[USTR_CT_020807]
+  ...a wide variety of tools including bilateral discussions negotiations and formal dispute settlement proceedings the work of the ustr to open markets and resolve trade [disputes] depends at its core on the commitment of the united states government including the congress to upholding our international trade agreements accordingly one key barometer...
+
+[USTR_CT_020807]
+  ...is world trade organization wto consistency it is important to avoid enactment of wto inconsistent legislation not only would it likely be challenged in wto [dispute] settlement potentially resulting in the imposition of sanctions or other measures against u.s exports service providers or intellectual property it would undermine u.s credibility as...
+
+[USTR_CT_020807]
+  ...engagement with china touching on the mechanisms ustr uses to address key trade concerns the work of the ustr to open markets and resolve trade [disputes] depends at its core on the commitment of the united states government including the congress to upholding our international trade agreements accordingly one key barometer...
+
+[USTR_CT_020807]
+  ...is world trade organization wto consistency it is important to avoid enactment of wto inconsistent legislation not only would it likely be challenged in wto [dispute] settlement potentially resulting in the imposition of sanctions or other measures against u.s exports service providers or intellectual property it would undermine u.s credibility as...
+
+[USTR_CT_020807]
+  ...dual-track approach to resolving its wto concerns bilateral dialogue to try to achieve practical solutions where possible together with a full willingness to use wto [dispute] settlement where appropriate to resolve problems the united states remains committed to seeking cooperative and pragmatic resolutions through bilateral dialogue with china and the united...
+
+[USTR_CT_020807]
+  ...however we have been unable to resolve other important issues through bilateral discussions despite extensive effort and to date we have turned to formal wto [dispute] settlement in five instances semiconductors mar 2004 the united states filed a wto dispute against china challenging value-added tax rebates that discriminated against imported semiconductors...
+
+[USTR_CT_020807]
+  ...extensive effort and to date we have turned to formal wto dispute settlement in five instances semiconductors mar 2004 the united states filed a wto [dispute] against china challenging value-added tax rebates that discriminated against imported semiconductors as a result the united states and china resolved the matter ensuring fair access...
+
+[USTR_CT_020807]
+  ...market worth over $ 2 billion auto parts mar 2006 the united states acting in coordination with the european communities and canada launched a wto [dispute] settlement case challenging chinese rules that provide for prohibited local content requirements in the auto sector through discriminatory charges on imported auto parts this case...
+
+[USTR_CT_020807]
+  ...the united states and mexico formally requested the establishment of a wto arbitral panel intellectual property market access apr 2007 the united states initiated wto [dispute] settlement proceedings on chinese market access restrictions in copyright-intensive industries i.e books newspapers and periodicals and audio and video products e.g movies cds dvds and...
+
+[USTR_CT_020807]
+  ...provides a detailed discussion of the efforts the united states has made to address these and other areas of concern using bilateral dialogue and wto [dispute] settlement in the 2006 ustr report to congress on china's wto compliance issued on december 11 2006 the report is available on the ustr website...
+
+[USTR_CT_251011]
+  ...focused on vigorous enforcement results-oriented dialogue and strengthening global trade roles first enforcement in the wto the obama administration has initiated five strategic and systemic [disputes] against china we challenged china's exports restraints on industrial raw materials in a case unprecedented in size and importance for the first time since china...
+
+[USTR_CT_251011]
+  ...a priority indeed this administration has taken unprecedented actions to enforce our rights under our trade agreements in this administration we have initiated five wto [disputes] against china each of which addresses important systemic concerns about china's economic and trade policies of the 14 wto disputes brought to date against chinese...
+
+[USTR_CT_251011]
+  ...we have initiated five wto disputes against china each of which addresses important systemic concerns about china's economic and trade policies of the 14 wto [disputes] brought to date against chinese policies by all wto parties the united states has initiated 12 in 2009 the obama administration took a major case...
+
+[USTR_CT_251011]
+  ...and investment in green technologies and was the first 301 investigation into chinese policies by any administration since china joined the wto our pending wto [dispute] challenging china's regulation of electronic payment services deals with our deep concerns about china's apparent creation of a chinese national champion that blocks competition in...
+
+[USTR_CT_251011]
+  ...a priority indeed this administration has taken unprecedented actions to enforce our rights under our trade agreements in this administration we have initiated five wto [disputes] against china each of page 4 which addresses important systemic concerns about china's economic and trade policies of the 14 wto disputes brought to date...
+
+[USTR_CT_251011]
+  ...initiated five wto disputes against china each of page 4 which addresses important systemic concerns about china's economic and trade policies of the 14 wto [disputes] brought to date against chinese policies by all wto parties the united states has initiated 12 in 2009 the obama administration took a major case...
+
+[USTR_CT_251011]
+  ...and investment in green technologies and was the first 301 investigation into chinese policies by any administration since china joined the wto our pending wto [dispute] challenging china's regulation of electronic payment services deals with our deep concerns about china's apparent creation of a chinese national champion that blocks competition in...
+
+[USTR_S_170108]
+  ...defending cases brought against us we still can boast wins or productive settlements almost half the time we are ready and willing to settle these [disputes] with china in a businesslike manner if the chinese government wishes to do so just as with the earlier case the fact is we are...
+
+[USTR_S_291107]
+  ...future it also demonstrates that our two nations can work together to resolve major differences third it shows that president bush’s approach to resolving trade [disputes] with china dialogue if possible legal action when necessary and working within the rules-based system gets real results u.s approach works ● in this case...
+
+[USTR_S_291107]
+  ...china in dialogue but it became clear that dialogue alone was not leading the chinese government to address our concerns so we invoked the wto [dispute] resolution process at the same time we made clear our preference for the right result and not simply drawn-out litigation for its own sake ●...
+
+[USTR_S_291107]
+  ...clear our preference for the right result and not simply drawn-out litigation for its own sake ● the result a pragmatic outcome from the wto [dispute] settlement process with the excellent result that i am announcing today specifics of the case ● from a legal perspective this case is relatively straightforward...
+
+[USTR_S_291107]
+  ...more level playing field a direct benefit of the rules-based system 5 u.s china trade relations ● i want to underscore that the way this [dispute] was resolved stands as a victory for both countries it demonstrates that mature trading partners can use the wto process to work through their differences...
+
+[USTR_S_291107]
+  ...to the government of mexico our co-complainant in this case and in particular minister 7 eduardo sojo for working with us so closely on this [dispute] at the wto ● thank you i would be happy to take your questions 8...
+
+[USTR_S_130114]
+  ...are fully realized the united states today is challenging china’s failure to comply with the wto’s decision in favor of the united states in our [dispute] on high-tech steel specifically we have requested consultations with china on its failure to bring antidumping and countervailing duties on u.s exports of goes grain...
+
+[USTR_S_130114]
+  ...our trading partners play by the rules and respond with appropriate action when they are found to be in violation the united states brought this [dispute] because we considered that china had breached wto procedural and substantive rules when it imposed duties on goes from the united states china’s duties effectively...
+
+[USTR_S_200911]
+  ...the united states does not arbitrarily seek disagreements with china nor is it our desire to be disagreeable in fact we always prefer to settle [disputes] with negotiation rather than litigation we’re interested in getting results that work as quickly as possible but we won’t negotiate indefinitely because u.s farmers ranchers...
+
+[USTR_CT_230610]
+  ...use the full range of enforcement options when dialogue fails we have been by far the most active and successful wto member in bringing wto [dispute] settlement cases against china our most recent case challenges china’s use of export restraints on key raw materials which hurts workers and companies in the...
+
+Total occurrences: 34 
+
+>>> KWIC: level playing field <<<
+
+[USTR_CT_020807]
+  ...of the u.s trade representative is responsible for developing and coordinating u.s international trade and investment policy our view aims at increasing exports securing a [level playing field] for american workers farmers and businesses and ensuring fair treatment for u.s investment abroad we seek to resolve trade problems using a wide variety of...
+
+[USTR_CT_020807]
+  ...issues including work by treasury and commerce and with members of congress to achieve a more flexible market-based exchange rate for china's currency and a [level playing field] for american businesses workers and farmers thank you again for the opportunity to testify i will be happy to take any questions chairman levin thank...
+
+[USTR_CT_020807]
+  ...coordinating u.s international trade and investment policy our work aims at increasing exports by expanding market access for american goods and services abroad securing a [level playing field] for american workers farmers and businesses in overseas markets and ensuring fair treatment for u.s investment abroad ustr oversees negotiations with other countries on these...
+
+[USTR_CT_020807]
+  ...by treasury and commerce and with members of congress to achieve our common goals a more flexible market-based exchange rate for china's currency and a [level playing field] for american businesses workers and farmers thank you for the opportunity to testify i will be happy to take your questions...
+
+[USTR_CT_251011]
+  ...the trans-pacific partnership and anti counterfeiting trade agreement the obama administration is working hard so that the united states can compete with china on a [level playing field] and so american businesses and workers can prosper progress will occur if we recognize the value of this relationship and address the challenges of the...
+
+[USTR_CT_251011]
+  ...ambitious more than a dozen jcct working groups are focused on eliminating problems ranging from barriers to foreign investment in services sectors to ensuring a [level playing field] for u.s exports and enterprises as china implements aspects of its 12th five-year plan another very important concern that we are pressing vigorously is china's...
+
+[USTR_CT_251011]
+  ...international trading system including china will need to operate the obama administration is working so that americans can prosper and compete with china on a [level playing field] without artificial barriers or unfair constraints we recognize the benefits achieved and the opportunities to come we see our significant challenges for what they are...
+
+[USTR_S_291107]
+  ...challenged is excellent news for china as a wto member and excellent news for world trade in this area we will now have a more [level playing field] a direct benefit of the rules-based system 5 u.s china trade relations ● i want to underscore that the way this dispute was resolved stands...
+
+[USTR_S_200911]
+  ...to fight for every american job every dollar worth of u.s exports and every chance for american producers to compete that depends on having a [level playing field] in china ten years ago the united states supported china’s effort to join the wto based on china’s promises to behave responsibly because we recognized...
+
+[USTR_S_200911]
+  ...the american people when we insist that china lives up to its commitments plays by the rules to which it has agreed and maintains a [level playing field] for american producers to compete as with every enforcement action our goal here is to get real results for american exporters and support american jobs...
+
+[USTR_CT_230610]
+  ...strategy to rely more on domestic consumption we are also pursuing other u.s interests with china we are engaging on workers rights to ensure a [level playing field] for american workers and pressing for china’s accession to the government procurement agreement as well as a meaningful china contribution to the doha round other...
+
+Total occurrences: 11 
+
+>>> KWIC: raw material <<<
+
+No occurrences found.
+
+>>> KWIC: auto <<<
+
+[USTR_CT_020807]
+  ...a result the united states and china resolved the matter ensuring fair access for manufacturers and workers to a market worth over $ 2 billion [auto] parts the u.s acted together with the european communities and canada launched a wto dispute settlement case challenging china rules that provide for prohibited local...
+
+[USTR_CT_020807]
+  ...together with the european communities and canada launched a wto dispute settlement case challenging china rules that provide for prohibited local content requirements in the [auto] sector through discriminatory charges on imported auto parts this case is now before a wto panel with a decision expected in january 2008 industrial subsidies...
+
+[USTR_CT_020807]
+  ...launched a wto dispute settlement case challenging china rules that provide for prohibited local content requirements in the auto sector through discriminatory charges on imported [auto] parts this case is now before a wto panel with a decision expected in january 2008 industrial subsidies the u.s later joined by mexico filed...
+
+[USTR_CT_020807]
+  ...result the united states and china resolved the matter ensuring fair access for u.s manufacturers and workers to a market worth over $ 2 billion [auto] parts mar 2006 the united states acting in coordination with the european communities and canada launched a wto dispute settlement case challenging chinese rules that...
+
+[USTR_CT_020807]
+  ...coordination with the european communities and canada launched a wto dispute settlement case challenging chinese rules that provide for prohibited local content requirements in the [auto] sector through discriminatory charges on imported auto parts this case is now before a wto panel with a decision expected in january 2008 industrial subsidies...
+
+[USTR_CT_020807]
+  ...launched a wto dispute settlement case challenging chinese rules that provide for prohibited local content requirements in the auto sector through discriminatory charges on imported [auto] parts this case is now before a wto panel with a decision expected in january 2008 industrial subsidies feb 2007 the united states later joined...
+
+[USTR_CT_251011]
+  ...nevs for substantial government support in the current 12th five-year plan and we are alarmed by reports indicating that china is imposing requirements on foreign [automakers] to transfer core nev technologies to their china joint ventures and to establish chinese brands in order to participate in this promising market china's subsidies...
+
+[USTR_CT_251011]
+  ...nevs for substantial government support in the current 12th five-year plan and we are alarmed by reports indicating that china is imposing requirements on foreign [automakers] to transfer core nev technologies to their china joint ventures and to establish chinese brands in order to participate in this promising market china's subsidies...
+
+[USTR_CT_251011]
+  ...a specific near-term date by which it will implement its 2011 s ed commitment to push forward with the opening of mandatory third party liability [auto] insurance to foreign-invested insurance companies outside of the context of enforcement and results-oriented dialogue we are also working to better utilize and strengthen trade and...
+
+[USTR_S_170108]
+  ...wto-prohibited subsidies and we fully expect the wto to begin handing down decisions early this year that vindicate our claims in the remaining three cases [auto] parts intellectual property rights enforcement and market access we hope the chinese and others will take note that when it comes to our enforcement efforts...
+
+Total occurrences: 10 
+
+>>> KWIC: world trade organ <<<
+
+No occurrences found.
+
+>>> KWIC: enforc <<<
+
+[USTR_CT_020807]
+  ...settlement where appropriate considering bilateral dialogues the united states has achieved some important successes for example china made several commitments related to ipr protection and [enforcement] to eliminate duplicative testing and certification requirements applicable to imported medical devices and to make adjustments to its registered capital requirements for telecommunication service providers...
+
+[USTR_CT_020807]
+  ...additional consultations are under way intellectual property protection the u.s has launched a wto challenge to various deficiencies in china's legal regime for protecting and [enforcing] copyrights and trademarks that affect a wide range of products consultations have recently taken place one area we have not yet reached a satisfactory conclusion...
+
+[USTR_CT_020807]
+  ...and the united states has achieved some important successes for example through our recent bilateral dialogues china made several commitments related to ipr protection and [enforcement] it also committed to eliminate duplicative testing and certification requirements applicable to imported medical devices and to make adjustments to its registered capital requirements for...
+
+[USTR_CT_020807]
+  ...are underway intellectual property protection apr 2007 the united states has launched a wto challenge to various deficiencies in china's legal regime for protecting and [enforcing] copyrights and trademarks that affect a wide range of products consultations took place in june 2007 ustr provides a detailed discussion of the efforts the...
+
+[USTR_CT_251011]
+  ...effectively in china and to create jobs here at home unfair barriers to u.s agricultural imports hurt our beef poultry and pork producers and weak [enforcement] and lack of transparency undermine u.s exporters and investors president obama is determined to make our relationship with china work better for working americans to...
+
+[USTR_CT_251011]
+  ...better for working americans to tap its potential to support american jobs and to grow our economy this administration's coordinated approach is focused on vigorous [enforcement] results-oriented dialogue and strengthening global trade roles first enforcement in the wto the obama administration has initiated five strategic and systemic disputes against china we...
+
+[USTR_CT_251011]
+  ...support american jobs and to grow our economy this administration's coordinated approach is focused on vigorous enforcement results-oriented dialogue and strengthening global trade roles first [enforcement] in the wto the obama administration has initiated five strategic and systemic disputes against china we challenged china's exports restraints on industrial raw materials in...
+
+[USTR_CT_251011]
+  ...brought a section 421 case and imposed duties to combat a surge of chinese tire imports the obama administration will not hesitate to bring additional [enforcement] actions as appropriate but litigation alone isn't enough results-oriented dialogue like the joint commission on commerce and trade and the strategic and economic dialogue also...
+
+[USTR_CT_251011]
+  ...after its world trade organization accession our challenges run the gamut and are familiar to many of you and your constituents five key challenges include [enforcement] of intellectual property rights ipr problematic industrial and subsidies policies agricultural policies that are not science-based investment restrictions and an opaque legal and regulatory system...
+
+[USTR_CT_251011]
+  ...regulatory system and weak rule of law intellectual property theft is one of the most serious concerns in china and the lack of effective ipr [enforcement] remains an enormous challenge for u.s creators and innovators according to the independent u.s international trade commission itc u.s firms reported total losses of $...
+
+[USTR_CT_251011]
+  ...the machines used to make the counterfeit or pirated products are not seized and destroyed allowing infringers to resume their operations as soon as law [enforcement] officers have left their premises enforcement also varies among the provinces and cities in some cases stronger and in some cases much too weak and...
+
+[USTR_CT_251011]
+  ...counterfeit or pirated products are not seized and destroyed allowing infringers to resume their operations as soon as law enforcement officers have left their premises [enforcement] also varies among the provinces and cities in some cases stronger and in some cases much too weak and at a more systemic level we...
+
+[USTR_CT_251011]
+  ...at a more systemic level we need to ensure that china quickly translates into effective action its growing awareness of how important ipr protection and [enforcement] are to its own economic development china's growing use of problematic industrial polices including so-called indigenous innovation policies is another category of concern these indigenous...
+
+[USTR_CT_251011]
+  ...the science seems to offer no support for these restrictions the operation of china's legal and regulatory system also creates market barriers due to weak [enforcement] or inconsistent application of laws and regulations failure to use best international practices and lack of transparency about even what the rules are for example...
+
+[USTR_CT_251011]
+  ...partners wherever we can we are working day and night and we are determined to make a difference our approach is founded on proven vigorous [enforcement] and results-oriented dialogue at the same time we are also committed to an approach that strengthens trade rules more broadly and buttresses our china policy...
+
+[USTR_CT_251011]
+  ...and buttresses our china policy with robust engagement of the region as a whole from day one of this administration president obama has made trade [enforcement] a priority indeed this administration has taken unprecedented actions to enforce our rights under our trade agreements in this administration we have initiated five wto...
+
+[USTR_CT_251011]
+  ...as a whole from day one of this administration president obama has made trade enforcement a priority indeed this administration has taken unprecedented actions to [enforce] our rights under our trade agreements in this administration we have initiated five wto disputes against china each of which addresses important systemic concerns about...
+
+[USTR_CT_251011]
+  ...combined with the economic recovery has resulted in substantial new investments and employment growth in the u.s tire industry the obama administration has also actively [enforced] u.s trade remedy laws with the commerce department imposing antidumping and countervailing duties on imports of numerous unfairly traded chinese products when dumping or subsidies...
+
+[USTR_CT_251011]
+  ...products and one metals product going forward we are committed to working with congress industry labor and other stakeholders to identify and pursue other needed [enforcement] initiatives results-oriented dialogue works hand in hand with this vigorous enforcement a core component of this productive engagement is the ustr and commerce department-led joint...
+
+[USTR_CT_251011]
+  ...working with congress industry labor and other stakeholders to identify and pursue other needed enforcement initiatives results-oriented dialogue works hand in hand with this vigorous [enforcement] a core component of this productive engagement is the ustr and commerce department-led joint commission on commerce and trade jcct with other important dialogue on...
+
+[USTR_CT_251011]
+  ...visits and the treasury and state department-led strategic and economic dialogue action through established bilateral discussions can often have quicker results than wto or other [enforcement] actions in the jcct for example we have removed numerous barriers to u.s companies success in china's market including in the areas of intellectual property...
+
+[USTR_CT_251011]
+  ...and technology the copyright office the department of justice the state department the department of homeland security's customs and border protection and immigration and customs [enforcement] and the federal trade commission this approach yields results for example we have pressed china hard to eliminate the use of illegal software in the...
+
+[USTR_CT_251011]
+  ...strengthen physical inspections to ensure the effectiveness of software legalization efforts during the 2009 and 2010 jccts we negotiated several other new chinese commitments to [enforce] intellectual property rights that will protect american jobs including through steps to create more effective rules for addressing internet piracy to crack down on landlords...
+
+[USTR_CT_251011]
+  ...journals at the may 2011 s ed china also agreed to improve its high-level government coordination and leadership mechanisms to enhance long-term ipr protection and [enforcement] we have taken a similar tack and seen similar successes in addressing china's industrial policies specifically ustr together with other u.s agencies has worked over...
+
+[USTR_CT_251011]
+  ...after its world trade organization accession our challenges run the gamut and are familiar to many of you and your constituents five key challenges include [enforcement] of intellectual property rights ipr problematic industrial and subsidies policies agricultural policies that are not science-based investment restrictions and an opaque legal and regulatory system...
+
+[USTR_CT_251011]
+  ...regulatory system and weak rule of law intellectual property theft is one of the most serious concerns in china and the lack of effective ipr [enforcement] remains an enormous challenge for u.s creators and innovators according to the independent u.s international trade commission itc u.s firms reported total losses of $...
+
+[USTR_CT_251011]
+  ...the machines used to make the counterfeit or pirated products are not seized and destroyed allowing infringers to resume their operations as soon as law [enforcement] officers have left their premises enforcement also varies among the provinces and cities in some cases stronger and in some cases much too weak and...
+
+[USTR_CT_251011]
+  ...counterfeit or pirated products are not seized and destroyed allowing infringers to resume their operations as soon as law enforcement officers have left their premises [enforcement] also varies among the provinces and cities in some cases stronger and in some cases much too weak and at a more systemic level we...
+
+[USTR_CT_251011]
+  ...at a more systemic level we need to ensure that china quickly translates into effective action its growing awareness of how important ipr protection and [enforcement] are to its own economic development china's growing use of problematic industrial polices including so-called indigenous innovation policies is another category of concern these indigenous...
+
+[USTR_CT_251011]
+  ...the science seems to offer no support for these restrictions the operation of china's legal and regulatory system also creates market barriers due to weak [enforcement] or inconsistent application of laws and regulations failure to use best international practices and lack of transparency about even what the rules are for example...
+
+[USTR_CT_251011]
+  ...partners wherever we can we are working day and night and we are determined to make a difference our approach is founded on proven vigorous [enforcement] and results-oriented dialogue at the same time we are also committed to an approach that strengthens trade rules more broadly and buttresses our china policy...
+
+[USTR_CT_251011]
+  ...and buttresses our china policy with robust engagement of the region as a whole from day one of this administration president obama has made trade [enforcement] a priority indeed this administration has taken unprecedented actions to enforce our rights under our trade agreements in this administration we have initiated five wto...
+
+[USTR_CT_251011]
+  ...as a whole from day one of this administration president obama has made trade enforcement a priority indeed this administration has taken unprecedented actions to [enforce] our rights under our trade agreements in this administration we have initiated five wto disputes against china each of page 4 which addresses important systemic...
+
+[USTR_CT_251011]
+  ...combined with the economic recovery has resulted in substantial new investments and employment growth in the u.s tire industry the obama administration has also actively [enforced] u.s trade remedy laws with the commerce department imposing antidumping and countervailing duties on imports of numerous unfairly traded chinese products when dumping or subsidies...
+
+[USTR_CT_251011]
+  ...products and one metals product going forward we are committed to working with congress industry labor and other stakeholders to identify and pursue other needed [enforcement] initiatives results-oriented dialogue works hand in hand with this vigorous enforcement a core component of this productive engagement is the ustr and commerce department-led joint...
+
+[USTR_CT_251011]
+  ...working with congress industry labor and other stakeholders to identify and pursue other needed enforcement initiatives results-oriented dialogue works hand in hand with this vigorous [enforcement] a core component of this productive engagement is the ustr and commerce department-led joint commission on commerce and trade jcct with other important dialogue on...
+
+[USTR_CT_251011]
+  ...visits and the treasury and state department-led strategic and economic dialogue action through established bilateral discussions can often have quicker results than wto or other [enforcement] actions in the jcct page 5 for example we have removed numerous barriers to u.s companies success in china's market including in the areas of...
+
+[USTR_CT_251011]
+  ...and technology the copyright office the department of justice the state department the department of homeland security's customs and border protection and immigration and customs [enforcement] and the federal trade commission this approach yields results for example we have pressed china hard to eliminate the use of illegal software in the...
+
+[USTR_CT_251011]
+  ...strengthen physical inspections to ensure the effectiveness of software legalization efforts during the 2009 and 2010 jccts we negotiated several other new chinese commitments to [enforce] intellectual property rights that will protect american jobs including through steps to create more effective rules for addressing internet piracy to crack down on landlords...
+
+[USTR_CT_251011]
+  ...journals at the may 2011 s ed china also agreed to improve its high-level government coordination and leadership mechanisms to enhance long-term ipr protection and [enforcement] we have taken a similar tack and seen similar successes in addressing china's industrial policies specifically ustr together with other u.s agencies has worked over...
+
+[USTR_CT_251011]
+  ...s ed commitment to push forward with the opening of mandatory third party liability auto insurance to foreign-invested insurance companies outside of the context of [enforcement] and results-oriented dialogue we are also working to better utilize and strengthen trade and investment rules both globally and regionally these efforts will help keep...
+
+[USTR_S_170108]
+  ...china [enforcement] speaking of passions let me turn for a moment to china and our enforcement efforts more broadly the president’s strategy on how to grapple with...
+
+[USTR_S_170108]
+  ...china enforcement speaking of passions let me turn for a moment to china and our [enforcement] efforts more broadly the president’s strategy on how to grapple with the economic challenge and grasp the opportunity of a rising china is delivering results...
+
+[USTR_S_170108]
+  ...so we have and will continue to act quickly firmly and decisively with the most effective tools at hand this includes dialogue where possible and [enforcement] when necessary we have been forceful with china about our concerns on the direction taken by several ministries to use standards to limit imports subsidize...
+
+[USTR_S_170108]
+  ...expect the wto to begin handing down decisions early this year that vindicate our claims in the remaining three cases auto parts intellectual property rights [enforcement] and market access we hope the chinese and others will take note that when it comes to our enforcement efforts more generally we have won...
+
+[USTR_S_170108]
+  ...cases auto parts intellectual property rights enforcement and market access we hope the chinese and others will take note that when it comes to our [enforcement] efforts more generally we have won or successfully settled the cases we have taken to the wto 96 of the time and when it comes...
+
+[USTR_S_291107]
+  ...i have spoken appreciate the value of results over rhetoric i think this announcement makes clear that the administration’s policy of serious dialogue and resolute [enforcement] is delivering real results it clearly shows the wisdom of this approach over some legislative approaches that would simply impose retaliatory tariffs what we have...
+
+[USTR_S_130114]
+  ...to ensure that americans see the full benefit of the rules and market access we have negotiated in our international trade agreements the president put [enforcement] of america’s trade rights in on a par with opening markets for u.s exports we’ve brought real emphasis to the enforcement agenda starting in 2009...
+
+[USTR_S_130114]
+  ...agreements the president put enforcement of america’s trade rights in on a par with opening markets for u.s exports we’ve brought real emphasis to the [enforcement] agenda starting in 2009 we doubled the rate of enforcement cases and enforcement actions and in 2012 we built on this already strong record to...
+
+[USTR_S_130114]
+  ...on a par with opening markets for u.s exports we’ve brought real emphasis to the enforcement agenda starting in 2009 we doubled the rate of [enforcement] cases and enforcement actions and in 2012 we built on this already strong record to create the interagency trade enforcement center which has further mobilized...
+
+[USTR_S_130114]
+  ...with opening markets for u.s exports we’ve brought real emphasis to the enforcement agenda starting in 2009 we doubled the rate of enforcement cases and [enforcement] actions and in 2012 we built on this already strong record to create the interagency trade enforcement center which has further mobilized a whole-of-government approach...
+
+[USTR_S_130114]
+  ...we doubled the rate of enforcement cases and enforcement actions and in 2012 we built on this already strong record to create the interagency trade [enforcement] center which has further mobilized a whole-of-government approach to trade enforcement because the obama administration is determined to fight for american workers and businesses in...
+
+[USTR_S_130114]
+  ...in 2012 we built on this already strong record to create the interagency trade enforcement center which has further mobilized a whole-of-government approach to trade [enforcement] because the obama administration is determined to fight for american workers and businesses in the global trading system and to not stop fighting until their...
+
+[USTR_S_130114]
+  ...oriented flat-rolled electrical steel into compliance with its wto obligations today’s action shows that when the united states steps up to the plate on trade [enforcement] we will follow through we are committed to ensuring that our trading partners play by the rules and respond with appropriate action when they are...
+
+[USTR_S_130114]
+  ...u.s exports unfairly to the detriment of u.s workers and businesses through this action we are standing up for our trade rights and we are [enforcing] trade rules so that our workers and businesses can compete and win in the global economy thank you very much i’ll turn it over to...
+
+[USTR_S_200911]
+  ...few general thoughts about why we are taking this action from day one of the obama administration we’ve been clear that when it comes to [enforcement] and china we have one simple request of our chinese partners live up to the promises you made when you joined the wto since president...
+
+[USTR_S_200911]
+  ...its commitments plays by the rules to which it has agreed and maintains a level playing field for american producers to compete as with every [enforcement] action our goal here is to get real results for american exporters and support american jobs that depend on trade including as many as 300,000...
+
+[USTR_CT_230610]
+  ...approach china in a strategic and well-coordinated manner that is why the obama administration is speaking with one voice pressing for change with enhanced dialogue [enforcement] of america’s wto rights and negotiations that include key trading partners wherever appropriate secretaries geithner clinton vilsack locke and i are working together with the...
+
+[USTR_CT_230610]
+  ...joint commission on commerce and trade jcct to achieve a more robust and outcome-oriented relationship ustr’s work is driven by our mission to open markets [enforce] america’s trade rights and dismantle obstacles that could cripple opportunities for american workers farmers ranchers manufacturers and service suppliers since joining the world trade organization...
+
+[USTR_CT_230610]
+  ...top priorities include addressing indigenous innovation and other discriminatory industrial policies often intended to benefit state-owned enterprises that limit our exports as well as improving [enforcement] of intellectual property rights ending non science-based regulations that block u.s agricultural exports and obtaining increased services market access these issues will top the agenda...
+
+[USTR_CT_230610]
+  ...recently suggested the administration should be willing to take strong action on trade issues regarding china we are prepared to use the full range of [enforcement] options when dialogue fails we have been by far the most active and successful wto member in bringing wto dispute settlement cases against china our...
+
+Total occurrences: 61 
+
+>>> KWIC: intellectual property <<<
+
+[USTR_CT_020807]
+  ...would it likely be challenged in wto dispute settlement potentially resulting in the imposition of sanctions or other measures against u.s exports service providers or [intellectual property] it would undermine u.s credibility as we seek to promote compliance by our trading partners with their international trade obligations for example legislation has been...
+
+[USTR_CT_020807]
+  ...under wto rules either as export or import substitution subsidies we have now asked the wto to establish an arbitral panel to hear our case [intellectual property] and market access the u.s initiated wto's free settlement proceedings on chinese market access restrictions in copyright-intensive industries books newspapers and periodicals and audio and...
+
+[USTR_CT_020807]
+  ...access restrictions in copyright-intensive industries books newspapers and periodicals and audio and video products we have held initial consultations and additional consultations are under way [intellectual property] protection the u.s has launched a wto challenge to various deficiencies in china's legal regime for protecting and enforcing copyrights and trademarks that affect a...
+
+[USTR_CT_020807]
+  ...would it likely be challenged in wto dispute settlement potentially resulting in the imposition of sanctions or other measures against u.s exports service providers or [intellectual property] it would undermine u.s credibility as we seek to promote compliance by our trading partners with their international trade obligations for example legislation has been...
+
+[USTR_CT_020807]
+  ...would it likely be challenged in wto dispute settlement potentially resulting in the imposition of sanctions or other measures against u.s exports service providers or [intellectual property] it would undermine u.s credibility as we seek to promote compliance by our trading partners with their international trade obligations for example legislation has been...
+
+[USTR_CT_020807]
+  ...held consultations in march 2007 and june 2007 in july 2007 the united states and mexico formally requested the establishment of a wto arbitral panel [intellectual property] market access apr 2007 the united states initiated wto dispute settlement proceedings on chinese market access restrictions in copyright-intensive industries i.e books newspapers and periodicals...
+
+[USTR_CT_020807]
+  ...video products e.g movies cds dvds and video games the united states held initial consultations with china in june 2007 and additional consultations are underway [intellectual property] protection apr 2007 the united states has launched a wto challenge to various deficiencies in china's legal regime for protecting and enforcing copyrights and trademarks...
+
+[USTR_CT_251011]
+  ...america's trade relationship with china has tangible benefits but just as real are the persistent concerns that threaten to undermine the potential of this relationship [intellectual property] theft in china costs u.s companies $ 48 billion every year china's industrial policies like indigenous innovation discriminate against u.s products services innovators and investors...
+
+[USTR_CT_251011]
+  ...mentioned our engagement led to new measures to increase legal use of software in china we also obtained china's agreement not to discriminate against foreign [intellectual property] in its procurement policies and to address agriculture concerns by eliminating unfair bans on our poultry exports and some key restrictions on our pork for...
+
+[USTR_CT_251011]
+  ...some key restrictions on our pork for this year's jcct ustr continues to work intensively together with the commerce department to secure results focusing on [intellectual property] rights indigenous innovation investment restraints industrial policy and other issues aside from the structured dialogue we are also engaging china directly on its adherence to...
+
+[USTR_CT_251011]
+  ...world trade organization accession our challenges run the gamut and are familiar to many of you and your constituents five key challenges include enforcement of [intellectual property] rights ipr problematic industrial and subsidies policies agricultural policies that are not science-based investment restrictions and an opaque legal and regulatory system and weak rule...
+
+[USTR_CT_251011]
+  ...problematic industrial and subsidies policies agricultural policies that are not science-based investment restrictions and an opaque legal and regulatory system and weak rule of law [intellectual property] theft is one of the most serious concerns in china and the lack of effective ipr enforcement remains an enormous challenge for u.s creators and...
+
+[USTR_CT_251011]
+  ...and transfer technology some policies require foreign firms to enter into joint ventures with chinese firms and other policies require these joint ventures to develop [intellectual property] and core technologies in china to give one example we see just these kinds of policies emerging regarding electric vehicles known in china as new...
+
+[USTR_CT_251011]
+  ...other enforcement actions in the jcct for example we have removed numerous barriers to u.s companies success in china's market including in the areas of [intellectual property] rights and indigenous innovation policies we believe dialogues achieve success when they involve comprehensive government-wide engagement well-focused and regularly refined for maximum impact and leverage...
+
+[USTR_CT_251011]
+  ...physical inspections to ensure the effectiveness of software legalization efforts during the 2009 and 2010 jccts we negotiated several other new chinese commitments to enforce [intellectual property] rights that will protect american jobs including through steps to create more effective rules for addressing internet piracy to crack down on landlords who rent...
+
+[USTR_CT_251011]
+  ...where china agreed to key open innovation principles and later in the year at the jcct where china specifically committed not to discriminate against foreign [intellectual property] in its procurement policies faced with u.s pressure extensive industry comments and general international outcry china finally agreed to stop its indigenous innovation product accreditation...
+
+[USTR_CT_251011]
+  ...world trade organization accession our challenges run the gamut and are familiar to many of you and your constituents five key challenges include enforcement of [intellectual property] rights ipr problematic industrial and subsidies policies agricultural policies that are not science-based investment restrictions and an opaque legal and regulatory system and weak rule...
+
+[USTR_CT_251011]
+  ...problematic industrial and subsidies policies agricultural policies that are not science-based investment restrictions and an opaque legal and regulatory system and weak rule of law [intellectual property] theft is one of the most serious concerns in china and the lack of effective ipr enforcement remains an enormous challenge for u.s creators and...
+
+[USTR_CT_251011]
+  ...and transfer technology some policies require foreign firms to enter into joint ventures with chinese firms and other policies require these joint ventures to develop [intellectual property] and core technologies in china to give one example we see just these kinds of policies emerging regarding electric vehicles known in china as new...
+
+[USTR_CT_251011]
+  ...actions in the jcct page 5 for example we have removed numerous barriers to u.s companies success in china's market including in the areas of [intellectual property] rights and indigenous innovation policies we believe dialogues achieve success when they involve comprehensive government-wide engagement well-focused and regularly refined for maximum impact and leverage...
+
+[USTR_CT_251011]
+  ...physical inspections to ensure the effectiveness of software legalization efforts during the 2009 and 2010 jccts we negotiated several other new chinese commitments to enforce [intellectual property] rights that will protect american jobs including through steps to create more effective rules for addressing internet piracy to crack down on landlords who rent...
+
+[USTR_CT_251011]
+  ...where china agreed to key open innovation principles and later in the year at the jcct where china specifically committed not to discriminate against foreign [intellectual property] in its procurement policies faced with u.s pressure extensive industry comments and general international outcry china finally agreed to stop its indigenous innovation product accreditation...
+
+[USTR_CT_251011]
+  ...a lever to dictate the transfer of ip rights to chinese entities interferes with commercial decisions and increases the risk that a u.s company's core [intellectual property] often its greatest asset will be stolen or subject to a government-coerced license we are therefore continuing to press china not to link any government...
+
+[USTR_S_170108]
+  ...and we fully expect the wto to begin handing down decisions early this year that vindicate our claims in the remaining three cases auto parts [intellectual property] rights enforcement and market access we hope the chinese and others will take note that when it comes to our enforcement efforts more generally we...
+
+[USTR_CT_230610]
+  ...include addressing indigenous innovation and other discriminatory industrial policies often intended to benefit state-owned enterprises that limit our exports as well as improving enforcement of [intellectual property] rights ending non science-based regulations that block u.s agricultural exports and obtaining increased services market access these issues will top the agenda at the revitalized...
+
+Total occurrences: 25 

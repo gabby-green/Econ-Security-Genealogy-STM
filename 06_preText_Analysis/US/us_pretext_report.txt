@@ -1,0 +1,72 @@
+========================================
+preText Analysis Results - US Corpus
+Corpus: US
+Documents analyzed: 200
+========================================
+
+SPECIFICATION RANKINGS:
+------------------------
+
+Most robust specification (lowest preText score):
+Score: 0.0891
+
+Least robust specification (highest preText score):
+Score: 0.2697
+Score: 0.2697
+
+Score range:
+0.0891 to 0.2697
+
+========================================
+PREPROCESSING STEP EFFECTS
+========================================
+
+Regression coefficients show impact of each step:
+(Negative = reduces sensitivity/more robust)
+(Positive = increases sensitivity/less robust)
+
+
+*** p<0.05, ** p<0.10, * p<0.15
+
+========================================
+INTERPRETATION FOR YOUR RESEARCH
+========================================
+
+✓ STOPWORD REMOVAL: Significantly reduces result sensitivity
+  → Your use of stopwords (standard or custom) is VALIDATED
+  → Removing stopwords makes results MORE robust
+
+✓ STEMMING: Reduces result sensitivity
+  → Your use of stemming is justified
+
+
+========================================
+RECOMMENDATIONS
+========================================
+
+1. ROBUSTNESS CHECKS:
+   → Replicate your main analysis using the top 3 most robust specifications
+   → If findings are consistent, report as validation
+   → If findings diverge, report as sensitivity analysis
+
+2. FOR YOUR THESIS:
+   → Add this analysis to your methodology section
+   → Cite: Denny & Spirling (2018), Political Analysis 26(2): 168-189
+   → Report: 'Preprocessing sensitivity was assessed using preText
+      analysis across 128 specifications. Results showed [FINDING].'
+
+3. FILES GENERATED (in 06_preText_Analysis/US/):
+   - us_pretext_scores.csv: All specification scores
+   - us_regression_results.csv: Statistical analysis
+   - us_pretext_scores_plot.png: Visual comparison
+   - us_regression_coefficients_plot.png: Effect sizes
+   - us_pretext_report.txt: This report
+
+========================================
+Next Steps:
+1. Review us_pretext_scores_plot.png
+2. Examine us_regression_coefficients_plot.png
+3. Compare your preprocessing to top-ranked specifications
+4. Run STM models with top specifications if needed
+5. To analyze EU corpus, change CORPUS variable and re-run
+========================================

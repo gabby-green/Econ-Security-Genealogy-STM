@@ -1,0 +1,1747 @@
+=============================================================
+US Corpus -- Topic 7 
+Generated: 2026-05-09 13:05 
+=============================================================
+
+PROB:  china, world_trade_organ, united_st, trade, commit, implement, access, agreement, import, servic, agricultur, market, area, administr, negoti 
+FREX:  china_access, safeguard, access, textil, complianc, zoellick, agricultur, implement, status, membership, ministri, phytosanitari, packag, world_trade_organ, sanitari 
+
+-------------------------------------------------------------
+TOP DOCUMENTS
+-------------------------------------------------------------
+
+[ 1] USTR_CT_100701 (2001) -- theta=0.993
+     Renewal of Normal Trade Relations with China STATEMENT OF JEFFREY A. BADER, ASSISTANT UNITED STATES TRADE REPRESENTATIVE FOR CHINA, HONG KONG, MONGOLIA, AND TAIWAN, OFFICE OF THE UNITED STATES TRADE REPRESENTATIVE
+
+[ 2] TAR_2001 (2002) -- theta=0.936
+     2001 Trade Annual Report
+
+[ 3] SPS_GWB_271201 (2001) -- theta=0.934
+     Statement by the Deputy Press Secretary: President Grants Permanent Trade Status to China
+
+[ 4] TAR_2002 (2003) -- theta=0.596
+     2002 Trade Annual Report
+
+[ 5] USTR_CT_301003 (2003) -- theta=0.464
+     United States-China Economic Relations and China's Role in the Global Economy: Statement of the Honorable Josette Sheeran Shiner, Deputy US Trade Representative, Office of the US Trade Representative
+
+[ 6] PS_GWB_111101 (2001) -- theta=0.435
+     Statement on the Ministerial Decision To Admit the People's Republic of China and Taiwan Into the World Trade Organization
+
+[ 7] TAR_2003 (2004) -- theta=0.421
+     2003 Trade Annual Report
+
+[ 8] USTR_S_310102 (2002) -- theta=0.410
+     Remarks by US Trade Representative Robert B. Zoellick at the US-China Business Council on January 21 2002
+
+[ 9] USTR_CT_140405 (2005) -- theta=0.409
+     United States-China Economic Relations and China's Role in the World Economy: Statement of Charles W. Freeman, III, Assistant US Trade Representative of China Affairs, Office of the US Trade Representative
+
+[10] RCCWTOC_2003 (2003) -- theta=0.401
+     2003 Report to Congress on China's WTO Compliance
+
+-------------------------------------------------------------
+TEXT EXCERPTS
+-------------------------------------------------------------
+
+[1] USTR_CT_100701 (2001)
+Mr. Bader. Thank you, Mr. Chairman. I will indeed excerpt my statement and submit the full
+statement for the record. Mr. Chairman, I am pleased to appear before this Subcommittee today to
+discuss the benefits to the United States of renewing normal trade relations status with the
+People's Republic of China. China's NTR status has wider implications than merely the U.S.-China
+relationship, as important as that is. My colleagues from the Departments of State and Commerce
+will discuss with this and other Committees why the granting of normal trade relations status is in
+the broad U.S. national interest. My testimony will focus on the ongoing negotiations on China's
+accession into the World Trade Organization and the interplay between that issue and NTR status.
+Once China accedes to the WTO,
+...
+
+[2] TAR_2001 (2002)
+5. People's Republic of China Overview Our China trade policy goals have been to open China's
+markets to American exports, support Chinese domestic economic reform, and integrate China into the
+Pacific and world economies. We have used a variety of means to achieve these goals, including
+commercially meaningful agreements that create opportunities for Americans. These efforts
+culminated in the accession of China to the WTO in December 2001, which followed the formal
+approval of China's accession agreement by WTO Ministers at Doha, Qatar, in November 2001, ending
+15 years of often intense and difficult negotiations in which the United States had taken a leading
+role among WTO members. To realize the full benefits of China's WTO accession requires extensive
+monitoring and enforcement. We hav
+...
+
+[3] SPS_GWB_271201 (2001)
+Today the President signed a proclamation granting permanent normal trading relations (PNTR) status
+to the People's Republic of China and terminating application of Jackson-Vanik provisions to China.
+Taking effect January 1, 2002, this is the final step in normalizing U.S.-China trade relations and
+welcoming China into a global, rules-based trading system. It marks the completion of more than a
+decade of bilateral and multilateral negotiations, and the beginning of a process of working
+constructively with China to help it fully implement its commitments on trade liberalization.
+Congress authorized these actions subject to the President's certification that the final terms of
+entry for China into the WTO were at least equivalent to those agreed to bilaterally between the
+United States and C
+...
+
+[4] TAR_2002 (2003)
+For much of the past two decades, the People’s Republic of China (China) had been gradually
+transitioning toward a market economy from what in the late 1970's was a strict command economy. As
+part of its accession to the World Trade Organization (WTO), which became effective on December 11,
+2001, China was required by the United States and other WTO members to agree to accelerate this
+process of market reform in order to comply with WTO requirements. Accordingly, China's WTO
+accession agreement embodies a set of extensive and far-reaching commitments on the part of China
+to change its trade regime, at all levels of government. Given the breadth and complexity of these
+commitments, assessing China's WTO compliance efforts is not a simple task. Overall, during the
+first year of its WTO membe
+...
+
+[5] USTR_CT_301003 (2003)
+Ms. SHINER. Thank you Chairman Thomas, Congressman Crane, Ranking Member Rangel, and Members of the
+Committee. I welcome this opportunity to testify regarding U.S.-China economic relations, China's
+role in the global economy, and our trade relationship with China. I have just returned from the
+second of two trips to China this month where I delivered the simple message: China must increase
+the openness of its market and treat U.S. goods and services in a fair and transparent manner if it
+wants to maintain support of the United States for an open market with China. To address these
+areas, we are focused on three fronts: ensuring that China meets its WTO commitments and gets the
+fundamentals right as it moves to a rules-based economy; ensuring that our businesses and farmers
+exporting to Chi
+...
+
+[6] PS_GWB_111101 (2001)
+I welcome the unanimous decisions made this week by trade ministers meeting in Doha, Qatar, to
+admit the People's Republic of China and Taiwan into the World Trade Organization (WTO). I believe
+that the entry of China and Taiwan into the WTO will strengthen the global trading system and
+expand world economic growth. China, with more than 1.2 billion people and a one trillion dollar
+annual gross domestic product, is one of the fastest growing economies in the world. Taiwan is the
+world's 16th largest economy. The decision in Doha—reached following many years of
+negotiations—marks a formal agreement by the 142 members of the WTO on the steps that China and
+Taiwan must take to open their markets as WTO members. Taking these steps will introduce greater
+competition into both economies and mean
+...
+
+[7] TAR_2003 (2004)
+Much has changed in the U.S.- China economic and trade relationship since China began negotiations
+to join the predecessor to the World Trade Organization (WTO), the General Agreement on Tariffs and
+Trade (GATT), 17 years ago. In 1986, total U.S.-China trade was only $7.9 billion, and imports from
+China outpaced U.S. exports to China by $1.7 billion. In contrast, in 2003, total U.S.-China trade
+is projected to top $170 billion, with imports from China exceeding U.S. exports to China by more
+than $125 billion. The Administration is focused on increasing U.S. exports as a means to reduce
+the growth in the deficit. Two years after acceding to the WTO, China has become the United States’
+third largest trading partner and the sixth largest market for U.S. exports. Indeed, over the last
+three ye
+...
+
+[8] USTR_S_310102 (2002)
+I am delighted to be here with the U.S.-China Business Council, just as President Bush is planning
+his second trip to China. The size and the quality of today’s audience is a reminder of the strong
+and enduring interest of the American business community in China. Twenty-three years ago this very
+month, right after the United States and China established diplomatic relations, the State
+Department hosted an event for CEOs in the commodious Dean Acheson Auditorium. Every seat in the
+large assembly hall was filled for the coming out party, chaired by two eminent cabinet members,
+the late Cy Vance and Mike Blumenthal. Indeed, David Rockefeller arrived late and found himself
+sitting uncomfortably but more or less contentedly on the floor in an aisle. I do not see anyone on
+the floor today, but
+...
+
+[9] USTR_CT_140405 (2005)
+Mr. FREEMAN. Thank you, Chairman Thomas and Members of the Committee. I do appreciate the
+opportunity to testify today on issues surrounding U.S.-China trade. I have submitted prepared
+testimony but would like to summarize that and offer a few thoughts on the key issues affecting
+bilateral U.S.-China trade. Obviously with concerns raised by Congressman Sanders and others about
+our trade deficit with China and the other issues that are inherent in this complex a relationship
+as that which we have with China, a number of very positive economic considerations to that
+relationship can be overlooked. This is especially true as we review the years since China joined
+the WTO on December 11, 2001. We should not forget in approving China's accession to WTO, the
+United States did not make any specif
+...
+
+[10] RCCWTOC_2003 (2003)
+EXECUTIVE SUMMARY Much has changed in the U.S.-China economic and trade relationship since China
+began negotiations to join the predecessor to the WTO, the General Agreement on Tariffs and Trade
+(GATT), 17 years ago. In 1986, total U.S.-China trade was only $7.9 billion, and imports from China
+outpaced U.S. exports to China by $1.7 billion. In contrast, in 2003, total U.S.-China trade is
+projected to top $170 billion, with imports from China exceeding U.S. exports to China by more than
+$125 billion. Two years after acceding to the WTO, China has become the United States’ third
+largest trading partner and the sixth largest market for U.S. exports. Indeed, over the last three
+years, while U.S. exports to the rest of the world have decreased by 10 percent, U.S. exports to
+China have increased
+...
+
+-------------------------------------------------------------
+KEYWORD-IN-CONTEXT
+Search terms: china | china accession | safeguard | textil | zoellick | agricultur | world trade organ | quota | sanitary | commit | implement 
+-------------------------------------------------------------
+
+>>> KWIC: china <<<
+
+[SPS_GWB_271201]
+  ...today the president signed a proclamation granting permanent normal trading relations pntr status to the people's republic of [china] and terminating application of jackson-vanik provisions to china taking effect january 1 2002 this is the final step in normalizing u.s china trade relations and...
+
+[SPS_GWB_271201]
+  ...the president signed a proclamation granting permanent normal trading relations pntr status to the people's republic of china and terminating application of jackson-vanik provisions to [china] taking effect january 1 2002 this is the final step in normalizing u.s china trade relations and welcoming china into a global rules-based trading system...
+
+[SPS_GWB_271201]
+  ...people's republic of china and terminating application of jackson-vanik provisions to china taking effect january 1 2002 this is the final step in normalizing u.s [china] trade relations and welcoming china into a global rules-based trading system it marks the completion of more than a decade of bilateral and multilateral negotiations...
+
+[SPS_GWB_271201]
+  ...terminating application of jackson-vanik provisions to china taking effect january 1 2002 this is the final step in normalizing u.s china trade relations and welcoming [china] into a global rules-based trading system it marks the completion of more than a decade of bilateral and multilateral negotiations and the beginning of a...
+
+[SPS_GWB_271201]
+  ...system it marks the completion of more than a decade of bilateral and multilateral negotiations and the beginning of a process of working constructively with [china] to help it fully implement its commitments on trade liberalization congress authorized these actions subject to the president's certification that the final terms of entry...
+
+[SPS_GWB_271201]
+  ...help it fully implement its commitments on trade liberalization congress authorized these actions subject to the president's certification that the final terms of entry for [china] into the wto were at least equivalent to those agreed to bilaterally between the united states and china in 1999 and china's successful entry into...
+
+[SPS_GWB_271201]
+  ...that the final terms of entry for china into the wto were at least equivalent to those agreed to bilaterally between the united states and [china] in 1999 and china's successful entry into the wto the president certified the equivalency of the final terms on november 9 2001 china formally became...
+
+[SPS_GWB_271201]
+  ...of entry for china into the wto were at least equivalent to those agreed to bilaterally between the united states and china in 1999 and [china's] successful entry into the wto the president certified the equivalency of the final terms on november 9 2001 china formally became a wto member on...
+
+[SPS_GWB_271201]
+  ...states and china in 1999 and china's successful entry into the wto the president certified the equivalency of the final terms on november 9 2001 [china] formally became a wto member on december 11 2001...
+
+[TAR_2001]
+  ...5 people's republic of [china] overview our china trade policy goals have been to open china's markets to american exports support chinese domestic economic reform and integrate china into the...
+
+[TAR_2001]
+  ...5 people's republic of china overview our [china] trade policy goals have been to open china's markets to american exports support chinese domestic economic reform and integrate china into the pacific and world...
+
+[TAR_2001]
+  ...5 people's republic of china overview our china trade policy goals have been to open [china's] markets to american exports support chinese domestic economic reform and integrate china into the pacific and world economies we have used a variety of means...
+
+[TAR_2001]
+  ...republic of china overview our china trade policy goals have been to open china's markets to american exports support chinese domestic economic reform and integrate [china] into the pacific and world economies we have used a variety of means to achieve these goals including commercially meaningful agreements that create opportunities for...
+
+[TAR_2001]
+  ...used a variety of means to achieve these goals including commercially meaningful agreements that create opportunities for americans these efforts culminated in the accession of [china] to the wto in december 2001 which followed the formal approval of china's accession agreement by wto ministers at doha qatar in november 2001 ending...
+
+[TAR_2001]
+  ...that create opportunities for americans these efforts culminated in the accession of china to the wto in december 2001 which followed the formal approval of [china's] accession agreement by wto ministers at doha qatar in november 2001 ending 15 years of often intense and difficult negotiations in which the united states...
+
+[TAR_2001]
+  ...of often intense and difficult negotiations in which the united states had taken a leading role among wto members to realize the full benefits of [china's] wto accession requires extensive monitoring and enforcement we have put into place a comprehensive interagency monitoring effort and are prepared to use our trade laws...
+
+[TAR_2001]
+  ...and enforcement we have put into place a comprehensive interagency monitoring effort and are prepared to use our trade laws to secure compliance where necessary [china's] status as a wto member will provide new means and focus for u.s efforts we will benefit from the multilateral monitoring efforts mandated by china's...
+
+[TAR_2001]
+  ...china's status as a wto member will provide new means and focus for u.s efforts we will benefit from the multilateral monitoring efforts mandated by [china's] terms of accession through which we will be able to work with 142 other wto members instead of acting alone when addressing compliance problems we...
+
+[TAR_2001]
+  ...can also use wto dispute settlement where necessary 2001 activities in 2001 the united states played a key role in negotiating the multilateral portion of [china's] wto accession achieving important concessions in areas of interest to u.s firms upon china's accession an expert group was formed under the tpsc in washington...
+
+[TAR_2001]
+  ...states played a key role in negotiating the multilateral portion of china's wto accession achieving important concessions in areas of interest to u.s firms upon [china's] accession an expert group was formed under the tpsc in washington and a wto coordination committee was established within the mission in beijing to monitor...
+
+[TAR_2001]
+  ...accession an expert group was formed under the tpsc in washington and a wto coordination committee was established within the mission in beijing to monitor [china's] implementation of its commitments the departments of commerce and state continued to devote considerable resources to building an understanding among the chinese of china's wto...
+
+[TAR_2001]
+  ...monitor china's implementation of its commitments the departments of commerce and state continued to devote considerable resources to building an understanding among the chinese of [china's] wto obligations china's accession to the wto in december 2001 was facilitated by two key events the historic u.s china bilateral market access agreement reached...
+
+[TAR_2001]
+  ...of its commitments the departments of commerce and state continued to devote considerable resources to building an understanding among the chinese of china's wto obligations [china's] accession to the wto in december 2001 was facilitated by two key events the historic u.s china bilateral market access agreement reached in november 1999...
+
+[TAR_2001]
+  ...understanding among the chinese of china's wto obligations china's accession to the wto in december 2001 was facilitated by two key events the historic u.s [china] bilateral market access agreement reached in november 1999 and the subsequent enactment in october 2000 of legislation permitting the grant of permanent normal trade relations...
+
+[TAR_2001]
+  ...access agreement reached in november 1999 and the subsequent enactment in october 2000 of legislation permitting the grant of permanent normal trade relations pntr to [china] building upon a record of bipartisan congressional support for a market-opening china trade policy the pntr legislation authorized the president to terminate application of section...
+
+[TAR_2001]
+  ...2000 of legislation permitting the grant of permanent normal trade relations pntr to china building upon a record of bipartisan congressional support for a market-opening [china] trade policy the pntr legislation authorized the president to terminate application of section 402 of the 1974 trade act the jackson-vanik amendment which had mandated...
+
+[TAR_2001]
+  ...pntr legislation authorized the president to terminate application of section 402 of the 1974 trade act the jackson-vanik amendment which had mandated annual reviews of [china's] receipt of normal trade relations treatment and to grant china pntr treatment if the president could certify that the final terms of china's accession were...
+
+[TAR_2001]
+  ...402 of the 1974 trade act the jackson-vanik amendment which had mandated annual reviews of china's receipt of normal trade relations treatment and to grant [china] pntr treatment if the president could certify that the final terms of china's accession were at least equivalent to those agreed bilaterally between the united...
+
+[TAR_2001]
+  ...reviews of china's receipt of normal trade relations treatment and to grant china pntr treatment if the president could certify that the final terms of [china's] accession were at least equivalent to those agreed bilaterally between the united states and china in november 1999 the president issued his report on certification...
+
+[TAR_2001]
+  ...if the president could certify that the final terms of china's accession were at least equivalent to those agreed bilaterally between the united states and [china] in november 1999 the president issued his report on certification in november 2001 and his subsequent proclamation granting pntr status to china became effective january...
+
+[TAR_2001]
+  ...united states and china in november 1999 the president issued his report on certification in november 2001 and his subsequent proclamation granting pntr status to [china] became effective january 1 2002 a wto accession i background in july of 1986 china applied for admission to the general agreement on tariffs and...
+
+[TAR_2001]
+  ...november 2001 and his subsequent proclamation granting pntr status to china became effective january 1 2002 a wto accession i background in july of 1986 [china] applied for admission to the general agreement on tariffs and trade gatt 1947 the gatt formed a working party in march of 1987 composed of...
+
+[TAR_2001]
+  ...on tariffs and trade gatt 1947 the gatt formed a working party in march of 1987 composed of all interested gatt contracting parties to examine [china's] application and negotiate terms for china's accession for the next eight years negotiations were conducted under the auspices of the gatt working party following the...
+
+[TAR_2001]
+  ...the gatt formed a working party in march of 1987 composed of all interested gatt contracting parties to examine china's application and negotiate terms for [china's] accession for the next eight years negotiations were conducted under the auspices of the gatt working party following the formation of the wto on january...
+
+[TAR_2001]
+  ...1995 a wto working party composed of all interested wto members took over the negotiations like all gatt and wto accession negotiations the negotiations with [china] had three basic aspects first china provided information to the working party regarding its trade regime china also updated this information periodically during the 15...
+
+[TAR_2001]
+  ...of all interested wto members took over the negotiations like all gatt and wto accession negotiations the negotiations with china had three basic aspects first [china] provided information to the working party regarding its trade regime china also updated this information periodically during the 15 years of negotiations to reflect changes...
+
+[TAR_2001]
+  ...gatt and wto accession negotiations the negotiations with china had three basic aspects first china provided information to the working party regarding its trade regime [china] also updated this information periodically during the 15 years of negotiations to reflect changes in its trade regime second each interested wto member negotiated bilaterally...
+
+[TAR_2001]
+  ...updated this information periodically during the 15 years of negotiations to reflect changes in its trade regime second each interested wto member negotiated bilaterally with [china] regarding market access concessions and commitments in the goods and services areas including for example the tariffs on industrial and agricultural goods and the commitments...
+
+[TAR_2001]
+  ...market access concessions and commitments in the goods and services areas including for example the tariffs on industrial and agricultural goods and the commitments that [china] is making to open up its market to foreign services suppliers the most trade liberalizing of the concessions and commitments obtained through these bilateral negotiations...
+
+[TAR_2001]
+  ...open up its market to foreign services suppliers the most trade liberalizing of the concessions and commitments obtained through these bilateral negotiations were consolidated into [china's] goods and services schedules and now apply to all wto members third overlapping in time with these bilateral negotiations china engaged in multilateral negotiations with...
+
+[TAR_2001]
+  ...bilateral negotiations were consolidated into china's goods and services schedules and now apply to all wto members third overlapping in time with these bilateral negotiations [china] engaged in multilateral negotiations with working party members on the rules that govern trade with china the rules commitments made by china in this area...
+
+[TAR_2001]
+  ...members third overlapping in time with these bilateral negotiations china engaged in multilateral negotiations with working party members on the rules that govern trade with [china] the rules commitments made by china in this area are set forth in its protocol of accession and an accompanying report of the working party...
+
+[TAR_2001]
+  ...these bilateral negotiations china engaged in multilateral negotiations with working party members on the rules that govern trade with china the rules commitments made by [china] in this area are set forth in its protocol of accession and an accompanying report of the working party with its accession to the wto...
+
+[TAR_2001]
+  ...in this area are set forth in its protocol of accession and an accompanying report of the working party with its accession to the wto [china] is implementing significant changes to its trade regime at all levels of government although it has been gradually transitioning toward a market economy from what...
+
+[TAR_2001]
+  ...all levels of government although it has been gradually transitioning toward a market economy from what had been a strict command economy two decades ago [china] has now taken on the far-reaching obligations of the wto a rules-based system that requires its members to operate with openness and transparency and stresses...
+
+[TAR_2001]
+  ...its members to operate with openness and transparency and stresses the central role of markets and private enterprise in order to accede to the wto [china] has committed to undertake important systemic reforms which should facilitate business dealings china has also committed to take concrete steps to remove trade barriers and...
+
+[TAR_2001]
+  ...of markets and private enterprise in order to accede to the wto china has committed to undertake important systemic reforms which should facilitate business dealings [china] has also committed to take concrete steps to remove trade barriers and open its markets to foreign companies and their exports from the first day...
+
+[TAR_2001]
+  ...companies and their exports from the first day of accession in virtually every product sector and for a wide range of services supporting these steps [china] has also committed to eliminate or significantly reduce restrictions on the rights of foreign companies to import and export goods and to distribute goods within...
+
+[TAR_2001]
+  ...has also committed to eliminate or significantly reduce restrictions on the rights of foreign companies to import and export goods and to distribute goods within [china] and it has further committed to rectify numerous trade-distortive industrial and agricultural policies the openness accountability and changes required by china's commitments should strengthen and...
+
+[TAR_2001]
+  ...to distribute goods within china and it has further committed to rectify numerous trade-distortive industrial and agricultural policies the openness accountability and changes required by [china's] commitments should strengthen and accelerate the achievement of china's economic reform goals china's ministries and agencies will transition out of their old role of directing...
+
+[TAR_2001]
+  ...committed to rectify numerous trade-distortive industrial and agricultural policies the openness accountability and changes required by china's commitments should strengthen and accelerate the achievement of [china's] economic reform goals china's ministries and agencies will transition out of their old role of directing and controlling how and with whom chinese enterprises do...
+
+[TAR_2001]
+  ...trade-distortive industrial and agricultural policies the openness accountability and changes required by china's commitments should strengthen and accelerate the achievement of china's economic reform goals [china's] ministries and agencies will transition out of their old role of directing and controlling how and with whom chinese enterprises do business increasingly they will...
+
+[TAR_2001]
+  ...their business decisions and together with other chinese enterprises they will face the full forces of global competition for the first time ii systemic reforms [china] committed to implementing broad reforms in the areas of transparency notice and comment uniform application of laws and judicial review each of these reforms will...
+
+[TAR_2001]
+  ...the areas of transparency notice and comment uniform application of laws and judicial review each of these reforms will strengthen the rule of law in [china] and help to address practices that have made it difficult for u.s and other foreign companies to do business in china iii adherence to existing...
+
+[TAR_2001]
+  ...rule of law in china and help to address practices that have made it difficult for u.s and other foreign companies to do business in [china] iii adherence to existing multilateral wto agreements as a wto member china assumes the obligations of more than 20 existing multilateral wto agreements covering all...
+
+[TAR_2001]
+  ...made it difficult for u.s and other foreign companies to do business in china iii adherence to existing multilateral wto agreements as a wto member [china] assumes the obligations of more than 20 existing multilateral wto agreements covering all areas of trade with only minimal transition periods where necessary consequently china...
+
+[TAR_2001]
+  ...china assumes the obligations of more than 20 existing multilateral wto agreements covering all areas of trade with only minimal transition periods where necessary consequently [china] will be taking on the obligations of the gatt the wto agreement that lays down core principles such as non-discrimination and national treatment that constrain...
+
+[TAR_2001]
+  ...to trade trade-related investment measures trims trade-related intellectual property rights trips services gats subsidies import licensing rules of origin customs valuation and preshipment inspection iv [china-specific] trade-liberalizing commitments china's accession agreement also includes numerous china-specific trade-liberalizing commitments one of the most significant of these commitments involves trading rights prior to its...
+
+[TAR_2001]
+  ...investment measures trims trade-related intellectual property rights trips services gats subsidies import licensing rules of origin customs valuation and preshipment inspection iv china-specific trade-liberalizing commitments [china's] accession agreement also includes numerous china-specific trade-liberalizing commitments one of the most significant of these commitments involves trading rights prior to its accession china restricted...
+
+[TAR_2001]
+  ...rights trips services gats subsidies import licensing rules of origin customs valuation and preshipment inspection iv china-specific trade-liberalizing commitments china's accession agreement also includes numerous [china-specific] trade-liberalizing commitments one of the most significant of these commitments involves trading rights prior to its accession china restricted the number of companies with trading...
+
+[TAR_2001]
+  ...commitments china's accession agreement also includes numerous china-specific trade-liberalizing commitments one of the most significant of these commitments involves trading rights prior to its accession [china] restricted the number of companies with trading rights i.e the right to import and export goods and the products that a particular company can import...
+
+[TAR_2001]
+  ...number of companies with trading rights i.e the right to import and export goods and the products that a particular company can import or export [china] agreed to phase-in trading rights so that all enterprises in china and all foreign enterprises and individuals will have full trading rights within three years...
+
+[TAR_2001]
+  ...and export goods and the products that a particular company can import or export china agreed to phase-in trading rights so that all enterprises in [china] and all foreign enterprises and individuals will have full trading rights within three years after accession perhaps equally significant is china's commitment regarding distribution services...
+
+[TAR_2001]
+  ...that all enterprises in china and all foreign enterprises and individuals will have full trading rights within three years after accession perhaps equally significant is [china's] commitment regarding distribution services prior to its accession china generally did not permit foreign companies to distribute products through wholesale and retail systems in china...
+
+[TAR_2001]
+  ...and individuals will have full trading rights within three years after accession perhaps equally significant is china's commitment regarding distribution services prior to its accession [china] generally did not permit foreign companies to distribute products through wholesale and retail systems in china or to provide related distribution services such as repair...
+
+[TAR_2001]
+  ...china's commitment regarding distribution services prior to its accession china generally did not permit foreign companies to distribute products through wholesale and retail systems in [china] or to provide related distribution services such as repair and maintenance services china agreed to phase-out these prohibitions over three years subject to limited exceptions...
+
+[TAR_2001]
+  ...permit foreign companies to distribute products through wholesale and retail systems in china or to provide related distribution services such as repair and maintenance services [china] agreed to phase-out these prohibitions over three years subject to limited exceptions china also committed to the phase-out of trade-distortive non-tariff measures ntms such as...
+
+[TAR_2001]
+  ...or to provide related distribution services such as repair and maintenance services china agreed to phase-out these prohibitions over three years subject to limited exceptions [china] also committed to the phase-out of trade-distortive non-tariff measures ntms such as quotas and licenses covering hundreds of products most of these ntms must be...
+
+[TAR_2001]
+  ...hundreds of products most of these ntms must be eliminated upon accession while the remainder of them must be eliminated within three years after accession [china] further committed to the elimination of import monopolies maintained by state trading enterprises in china on many industrial goods upon accession it must also provide...
+
+[TAR_2001]
+  ...of them must be eliminated within three years after accession china further committed to the elimination of import monopolies maintained by state trading enterprises in [china] on many industrial goods upon accession it must also provide full information on the pricing mechanisms of state trading enterprises to limit the mark-up on...
+
+[TAR_2001]
+  ...import in order to avoid trade distortions and otherwise to ensure that their import purchasing procedures are transparent and fully in compliance with wto rules [china's] accession agreement includes many provisions directly or indirectly addressing state-owned enterprises china agreed that laws regulations and other measures relating to the purchase and commercial...
+
+[TAR_2001]
+  ...their import purchasing procedures are transparent and fully in compliance with wto rules china's accession agreement includes many provisions directly or indirectly addressing state-owned enterprises [china] agreed that laws regulations and other measures relating to the purchase and commercial sale and production of goods or supply of services for commercial sale...
+
+[TAR_2001]
+  ...and production of goods or supply of services for commercial sale by state-owned enterprises or for use in non-governmental purposes are subject to wto rules [china] also agreed that state-owned enterprises must make purchases and sales based solely on commercial considerations such as price quality marketability and availability and that the...
+
+[TAR_2001]
+  ...price quality marketability and availability and that the government will not influence the commercial decisions of state-owned enterprises in an annex to its accession agreement [china] provided detailed information on the limited number of products and services subject to price control or government guidance pricing and the procedures for establishing prices...
+
+[TAR_2001]
+  ...provided detailed information on the limited number of products and services subject to price control or government guidance pricing and the procedures for establishing prices [china] may not use price controls to restrict the level of imports of goods or services finally china committed to non-discrimination in the treatment of enterprises...
+
+[TAR_2001]
+  ...guidance pricing and the procedures for establishing prices china may not use price controls to restrict the level of imports of goods or services finally [china] committed to non-discrimination in the treatment of enterprises within its special economic areas v tariff reductions when china's goods schedule went into effect shortly after...
+
+[TAR_2001]
+  ...of imports of goods or services finally china committed to non-discrimination in the treatment of enterprises within its special economic areas v tariff reductions when [china's] goods schedule went into effect shortly after china acceded to the wto greatly increased market access was realized by u.s and other foreign companies through...
+
+[TAR_2001]
+  ...committed to non-discrimination in the treatment of enterprises within its special economic areas v tariff reductions when china's goods schedule went into effect shortly after [china] acceded to the wto greatly increased market access was realized by u.s and other foreign companies through cuts in china's tariffs on industrial and agricultural...
+
+[TAR_2001]
+  ...went into effect shortly after china acceded to the wto greatly increased market access was realized by u.s and other foreign companies through cuts in [china's] tariffs on industrial and agricultural goods although these reductions generally take place over a period of five years in almost all instances most of the...
+
+[TAR_2001]
+  ...on industrial goods of greatest importance to u.s businesses were reduced from a base average of 25 percent in 1997 to 7 percent more specifically [china] agreed to participate in the information technology agreement which requires the elimination of tariffs on computers semiconductors and other information technology products china's elimination of...
+
+[TAR_2001]
+  ...more specifically china agreed to participate in the information technology agreement which requires the elimination of tariffs on computers semiconductors and other information technology products [china's] elimination of these tariffs will be completed by january 1 2005 china also agreed to implement tariff reductions on more than two-thirds of the 1,100-plus...
+
+[TAR_2001]
+  ...requires the elimination of tariffs on computers semiconductors and other information technology products china's elimination of these tariffs will be completed by january 1 2005 [china] also agreed to implement tariff reductions on more than two-thirds of the 1,100-plus products covered by the wto's chemical tariff harmonization agreement in addition tariffs...
+
+[TAR_2001]
+  ...importance to u.s farmers were to be reduced from a 1997 average of 31 percent to 14 percent vi services commitments as set forth in [china's] services schedule china committed to the substantial opening of a broad range of services sectors through the elimination of many existing limitations on market access...
+
+[TAR_2001]
+  ...farmers were to be reduced from a 1997 average of 31 percent to 14 percent vi services commitments as set forth in china's services schedule [china] committed to the substantial opening of a broad range of services sectors through the elimination of many existing limitations on market access at all levels...
+
+[TAR_2001]
+  ...importance to the united states such as banking insurance telecommunications and professional services notably these commitments represent only the minimum level of market access that [china] will be expected to make available once it becomes a wto member nothing in china's services schedule precludes the chinese government from applying more liberal...
+
+[TAR_2001]
+  ...commitments represent only the minimum level of market access that china will be expected to make available once it becomes a wto member nothing in [china's] services schedule precludes the chinese government from applying more liberal measures that would allow foreign companies to provide services with even fewer limitations on market...
+
+[TAR_2001]
+  ...members established a multilateral review mechanism at the wto of unprecedented scope and authority this so-called transitional review mechanism operates annually for 8 years after [china's] accession with a final review in year 10 it requires china to provide detailed information to report to washington on its implementation efforts and to...
+
+[TAR_2001]
+  ...scope and authority this so-called transitional review mechanism operates annually for 8 years after china's accession with a final review in year 10 it requires [china] to provide detailed information to report to washington on its implementation efforts and to give all wto members the opportunity to raise questions in a...
+
+[TAR_2001]
+  ...to report to washington on its implementation efforts and to give all wto members the opportunity to raise questions in a multilateral setting about how [china] is complying with its commitments before 16 subsidiary wto bodies which report to the wto's general council the general council then conducts an overall review...
+
+[TAR_2001]
+  ...to enforce all of the rights of the united states and other wto members under the wto agreements including with regard to the commitments in [china's] accession agreement viii safeguard mechanisms even though the terms of china's accession agreement are directed at the opening of china's market to wto members industries...
+
+[TAR_2001]
+  ...other wto members under the wto agreements including with regard to the commitments in china's accession agreement viii safeguard mechanisms even though the terms of [china's] accession agreement are directed at the opening of china's market to wto members industries china's accession agreement also includes several safeguard mechanisms designed to prevent...
+
+[TAR_2001]
+  ...regard to the commitments in china's accession agreement viii safeguard mechanisms even though the terms of china's accession agreement are directed at the opening of [china's] market to wto members industries china's accession agreement also includes several safeguard mechanisms designed to prevent injury that u.s or other wto members industries and...
+
+[TAR_2001]
+  ...accession agreement viii safeguard mechanisms even though the terms of china's accession agreement are directed at the opening of china's market to wto members industries [china's] accession agreement also includes several safeguard mechanisms designed to prevent injury that u.s or other wto members industries and workers might experience based on unfair...
+
+[TAR_2001]
+  ...prevent injury that u.s or other wto members industries and workers might experience based on unfair trade practices or import surges for 15 years after [china's] accession to the wto the united states and certain other wto members will continue to have the ability to utilize a special non-market economy methodology...
+
+[TAR_2001]
+  ...other wto members will continue to have the ability to utilize a special non-market economy methodology for measuring dumping in anti-dumping cases against chinese companies [china's] accession agreement also includes a unique china-specific safeguard provision allowing a wto member to restrain increasing chinese imports that disrupt its market this mechanism applies...
+
+[TAR_2001]
+  ...the ability to utilize a special non-market economy methodology for measuring dumping in anti-dumping cases against chinese companies china's accession agreement also includes a unique [china-specific] safeguard provision allowing a wto member to restrain increasing chinese imports that disrupt its market this mechanism applies to all industrial and agricultural products and...
+
+[TAR_2001]
+  ...for example its export control policies and to prevent the import of chinese goods made with prison labor ix u.s monitoring and enforcement efforts given [china's] importance as a major trading power and the breadth and complexity of china's wto commitments the u.s government initiated a comprehensive and coordinated interagency monitoring...
+
+[TAR_2001]
+  ...goods made with prison labor ix u.s monitoring and enforcement efforts given china's importance as a major trading power and the breadth and complexity of [china's] wto commitments the u.s government initiated a comprehensive and coordinated interagency monitoring effort to ensure that china complies with its commitments as part of this...
+
+[TAR_2001]
+  ...trading power and the breadth and complexity of china's wto commitments the u.s government initiated a comprehensive and coordinated interagency monitoring effort to ensure that [china] complies with its commitments as part of this effort the u.s government will be active on several fronts in china state department economic officers foreign...
+
+[TAR_2001]
+  ...monitoring effort to ensure that china complies with its commitments as part of this effort the u.s government will be active on several fronts in [china] state department economic officers foreign commercial service officers foreign agricultural service officers and customs attaches will gather information and work with u.s companies and assist...
+
+[TAR_2001]
+  ...commercial service officers foreign agricultural service officers and customs attaches will gather information and work with u.s companies and assist them in doing business in [china] in washington an interagency team of experts led by ustr drawing on the assistance of the u.s government personnel in china as well as trade...
+
+[TAR_2001]
+  ...in doing business in china in washington an interagency team of experts led by ustr drawing on the assistance of the u.s government personnel in [china] as well as trade associations chambers of commerce industry and agriculture groups and individual companies will closely monitor china's compliance efforts in geneva ustr and...
+
+[TAR_2001]
+  ...of the u.s government personnel in china as well as trade associations chambers of commerce industry and agriculture groups and individual companies will closely monitor [china's] compliance efforts in geneva ustr and other concerned agencies will also be active participants in the wto's annual transitional review mechanism where the u.s government...
+
+[TAR_2001]
+  ...enhanced by the placement of overseas trade compliance officers from the commerce department and other agencies in our embassies in key trading partners b agriculture [china's] wto membership is a huge step forward for the u.s agricultural community in its long sought objective to gain direct access to china's market for...
+
+[TAR_2001]
+  ...b agriculture china's wto membership is a huge step forward for the u.s agricultural community in its long sought objective to gain direct access to [china's] market for u.s agricultural products and in particular its aim to remove china's remaining unjustified sanitary and phytosanitary barriers previously in 1992 china signed a...
+
+[TAR_2001]
+  ...agricultural community in its long sought objective to gain direct access to china's market for u.s agricultural products and in particular its aim to remove [china's] remaining unjustified sanitary and phytosanitary barriers previously in 1992 china signed a bilateral memorandum of understanding on market access with the united states agreeing to...
+
+[TAR_2001]
+  ...access to china's market for u.s agricultural products and in particular its aim to remove china's remaining unjustified sanitary and phytosanitary barriers previously in 1992 [china] signed a bilateral memorandum of understanding on market access with the united states agreeing to remove unjustified technical barriers to imports of u.s agricultural commodities...
+
+[TAR_2001]
+  ...a bilateral memorandum of understanding on market access with the united states agreeing to remove unjustified technical barriers to imports of u.s agricultural commodities although [china] agreed to address these issues within one year access issues for several products remains limited on april 10 1999 just months before finalizing their november...
+
+[TAR_2001]
+  ...access issues for several products remains limited on april 10 1999 just months before finalizing their november 1999 bilateral wto agreement the united states and [china] signed an agreement on u.s china agricultural cooperation aca which eliminated technical barriers in china to imports of u.s citrus meat and poultry wheat and...
+
+[TAR_2001]
+  ...limited on april 10 1999 just months before finalizing their november 1999 bilateral wto agreement the united states and china signed an agreement on u.s [china] agricultural cooperation aca which eliminated technical barriers in china to imports of u.s citrus meat and poultry wheat and other grains the signing of this...
+
+[TAR_2001]
+  ...their november 1999 bilateral wto agreement the united states and china signed an agreement on u.s china agricultural cooperation aca which eliminated technical barriers in [china] to imports of u.s citrus meat and poultry wheat and other grains the signing of this agreement facilitated and greatly enhanced the strong positive support...
+
+[TAR_2001]
+  ...and other grains the signing of this agreement facilitated and greatly enhanced the strong positive support for pntr by the agricultural community while trade to [china] has increased for u.s citrus grains red meat and poultry under the 1999 aca china's compliance with this agreement has been inconsistent and u.s exporters...
+
+[TAR_2001]
+  ...support for pntr by the agricultural community while trade to china has increased for u.s citrus grains red meat and poultry under the 1999 aca [china's] compliance with this agreement has been inconsistent and u.s exporters still do not have the access envisioned in the agreement while china agreed to recognize...
+
+[TAR_2001]
+  ...the 1999 aca china's compliance with this agreement has been inconsistent and u.s exporters still do not have the access envisioned in the agreement while [china] agreed to recognize the u.s inspection system for meat and poultry for example it has erected new barriers to poultry imports with new regulations issued...
+
+[TAR_2001]
+  ...example it has erected new barriers to poultry imports with new regulations issued december 1 2000 which it eventually revised and republished in february 2001 [china's] regulatory stance on poultry was primarily intended to deal with a long-standing smuggling problem but the result was to impose confusion and raise concerns among...
+
+[TAR_2001]
+  ...intended to deal with a long-standing smuggling problem but the result was to impose confusion and raise concerns among traders most recently in late 2001 [china] insisted that imported u.s chicken paws carry a certificate of wholesomeness declaring them to have been inspected and found fit for human consumption by the...
+
+[TAR_2001]
+  ...fit for human consumption by the food safety and inspection service requiring the u.s poultry industry to modify processing plant operations in the 1999 aca [china] also agreed to remove phytosanitary barriers to citrus exports from arizona california florida and texas over a two-year phase-in period while it implemented the first...
+
+[TAR_2001]
+  ...remove phytosanitary barriers to citrus exports from arizona california florida and texas over a two-year phase-in period while it implemented the first tranche on schedule [china] delayed implementation for remaining counties in california and florida three months beyond the october 2000 deadline finally implementing the agreement for those counties on january...
+
+[TAR_2001]
+  ...for remaining counties in california and florida three months beyond the october 2000 deadline finally implementing the agreement for those counties on january 18 2001 [china] has not responded to the february 2001 animal and plant health inspection service's request to add five more counties one in california and four in...
+
+[TAR_2001]
+  ...2001 animal and plant health inspection service's request to add five more counties one in california and four in florida to the export list for [china] china also agreed to remove phytosanitary barriers to wheat and other grains from the pacific northwest beginning april 1999 in marketing year 2000 2001 wheat...
+
+[TAR_2001]
+  ...animal and plant health inspection service's request to add five more counties one in california and four in florida to the export list for china [china] also agreed to remove phytosanitary barriers to wheat and other grains from the pacific northwest beginning april 1999 in marketing year 2000 2001 wheat shipments...
+
+[TAR_2001]
+  ...and other grains from the pacific northwest beginning april 1999 in marketing year 2000 2001 wheat shipments from the pacific northwest totaled 233,000 tons but [china] periodically detained u.s wheat shipments subjecting them to unwarranted special handling requirements and other actions not consistent with the aca as of november 2001 142,000...
+
+[TAR_2001]
+  ...sanitary and phytosanitary issues continue with barriers still in place on plums additional varieties of apples potatoes and pears with its accession to the wto [china] took on the obligations of the wto agreement on agriculture china also made several additional commitments that will help to rectify numerous agricultural policies upon...
+
+[TAR_2001]
+  ...plums additional varieties of apples potatoes and pears with its accession to the wto china took on the obligations of the wto agreement on agriculture [china] also made several additional commitments that will help to rectify numerous agricultural policies upon accession or after limited transition periods for example china committed to...
+
+[TAR_2001]
+  ...on agriculture china also made several additional commitments that will help to rectify numerous agricultural policies upon accession or after limited transition periods for example [china] committed to eliminate export subsidies upon accession and it has agreed to a cap for trade and production-distorting domestic subsidies that is lower than the...
+
+[TAR_2001]
+  ...the cap permitted developing countries and that includes the same elements that developed countries use in determining whether the cap has been reached in addition [china] committed to implement tariff-rate quotas that provide significant market access for bulk goods of special importance to american farmers such as grains soy oil and...
+
+[TAR_2001]
+  ...tariff-rate quotas that provide significant market access for bulk goods of special importance to american farmers such as grains soy oil and cotton upon accession [china] also agreed to eliminate import monopolies maintained by state trading enterprises on agricultural goods such as wheat rice and corn and to permit non-state trading...
+
+[TAR_2001]
+  ...rice and corn and to permit non-state trading enterprises to import them c intellectual property rights for more than a decade the united states and [china] have engaged in detailed discussions regarding the improvement of china's protection of intellectual property rights and market access for products with intellectual property rights protection...
+
+[TAR_2001]
+  ...import them c intellectual property rights for more than a decade the united states and china have engaged in detailed discussions regarding the improvement of [china's] protection of intellectual property rights and market access for products with intellectual property rights protection in january 1992 the united states and china reached an...
+
+[TAR_2001]
+  ...improvement of china's protection of intellectual property rights and market access for products with intellectual property rights protection in january 1992 the united states and [china] reached an agreement on improved protection for u.s inventions and copyrighted works including computer software and sound recordings trademarks and trade secrets this agreement focused...
+
+[TAR_2001]
+  ...improved protection for u.s inventions and copyrighted works including computer software and sound recordings trademarks and trade secrets this agreement focused principally on revisions to [china's] laws and membership in international intellectual property rights agreements including the berne convention for the protection of literary and artistic works the universal copyright convention...
+
+[TAR_2001]
+  ...and artistic works the universal copyright convention the geneva phonogram convention the patent cooperation treaty and the madrid protocol on the protection of marks although [china] improved the legal framework for intellectual property rights protection based on the 1992 bilateral agreement enforcement of those laws was seriously deficient in 1995 the...
+
+[TAR_2001]
+  ...framework for intellectual property rights protection based on the 1992 bilateral agreement enforcement of those laws was seriously deficient in 1995 the united states and [china] reached a second agreement that focused on intellectual property rights enforcement and market access issues based on our 1995 ipr agreement and the administration's continuing...
+
+[TAR_2001]
+  ...second agreement that focused on intellectual property rights enforcement and market access issues based on our 1995 ipr agreement and the administration's continuing bilateral efforts [china] has developed a basic infrastructure for the protection and enforcement of intellectual property rights implementation of our bilateral intellectual property rights agreements provided a basis...
+
+[TAR_2001]
+  ...developed a basic infrastructure for the protection and enforcement of intellectual property rights implementation of our bilateral intellectual property rights agreements provided a basis for [china's] commitment to implement the wto agreement on trade-related aspects of intellectual property rights trips upon accession to the wto additional improvements to china's laws and...
+
+[TAR_2001]
+  ...basis for china's commitment to implement the wto agreement on trade-related aspects of intellectual property rights trips upon accession to the wto additional improvements to [china's] laws and training of judges and enforcement personnel are essential u.s and chinese rights-holders can seek administrative and judicial remedies for infringement of their intellectual...
+
+[TAR_2001]
+  ...for infringement of their intellectual property rights however administrative sanctions need to be increased and the threshold to initiate criminal investigations needs to be lowered [china] has formally issued a decree to address the end-user computer software piracy issue in connection with government purchase and use of legitimate software as a...
+
+[TAR_2001]
+  ...software piracy issue in connection with government purchase and use of legitimate software as a result of intensive bilateral implementation and enforcement negotiations in 1996 [china] has made further progress on enforcement of intellectual property rights for example chinese authorities have shut down over 100 illegal cd cd-rom and vcd production...
+
+[TAR_2001]
+  ...enforcement of intellectual property rights for example chinese authorities have shut down over 100 illegal cd cd-rom and vcd production facilities this effort has changed [china] from an exporter of pirated material to being the import target for pirated product from other countries in the region china also is improving customs...
+
+[TAR_2001]
+  ...this effort has changed china from an exporter of pirated material to being the import target for pirated product from other countries in the region [china] also is improving customs enforcement of intellectual property rights each year customs authorities seize millions of pirated cds cd-roms and vcds since the importation of...
+
+[TAR_2001]
+  ...others to stop this trade in pirated product under our bilateral agreements market access for computer software motion pictures videos and sound recordings have improved [china] has also made further commitments on market access in the context of our november 1999 bilateral wto agreement which have now been incorporated into china's...
+
+[TAR_2001]
+  ...china has also made further commitments on market access in the context of our november 1999 bilateral wto agreement which have now been incorporated into [china's] accession agreement i further steps to improve protection for ipr and market access china's last major revisions to its intellectual property rights laws and regulations...
+
+[TAR_2001]
+  ...november 1999 bilateral wto agreement which have now been incorporated into china's accession agreement i further steps to improve protection for ipr and market access [china's] last major revisions to its intellectual property rights laws and regulations occurred after the 1992 bilateral agreement based on its experience in implementing its intellectual...
+
+[TAR_2001]
+  ...patent and trademark laws and are taking further steps necessary to comply with the requirements of the trips agreement the united states has also urged [china] to do a comprehensive amendment to its copyright laws to implement two copyright-related agreements negotiated under the auspices of the world intellectual property organization wipo...
+
+[TAR_2001]
+  ...do a comprehensive amendment to its copyright laws to implement two copyright-related agreements negotiated under the auspices of the world intellectual property organization wipo that [china] has signed but not yet ratified chinese enforcement of copyrights and trademarks is still uneven from province to province guangdong province for example has significantly...
+
+[TAR_2001]
+  ...taken to address the production of pirated software cds and vcds far too many pirated products remain available at the retail level trademark counterfeiting in [china] has worsened considerably during recent discussions we have also raised the growing problem with trademark counterfeiting particularly in the area of consumer goods protection for...
+
+[TAR_2001]
+  ...of foreign video titles have increased rapidly the chinese still impose an unofficial quota on foreign motion pictures that are distributed on a revenue-sharing basis [china] maintains this limit through a state-owned import monopoly china committed in its november 1999 bilateral wto agreement with the united states to increase market access...
+
+[TAR_2001]
+  ...still impose an unofficial quota on foreign motion pictures that are distributed on a revenue-sharing basis china maintains this limit through a state-owned import monopoly [china] committed in its november 1999 bilateral wto agreement with the united states to increase market access for the audiovisual sector and these commitments were subsequently...
+
+[TAR_2001]
+  ...its november 1999 bilateral wto agreement with the united states to increase market access for the audiovisual sector and these commitments were subsequently incorporated into [china's] accession agreement china will allow foreigners to distribute videos entertainment software and sound recordings through joint ventures and will allow the importation of 20 motion...
+
+[TAR_2001]
+  ...bilateral wto agreement with the united states to increase market access for the audiovisual sector and these commitments were subsequently incorporated into china's accession agreement [china] will allow foreigners to distribute videos entertainment software and sound recordings through joint ventures and will allow the importation of 20 motion pictures annually on...
+
+[TAR_2001]
+  ...a revenue sharing basis ii wto agreement on trade-related intellectual property rights with its acceptance of the trips agreement when it acceded to the wto [china] took on the obligation to adhere to internationally accepted norms to protect and enforce the intellectual property rights of u.s and other foreign companies and...
+
+[TAR_2001]
+  ...the obligation to adhere to internationally accepted norms to protect and enforce the intellectual property rights of u.s and other foreign companies and individuals in [china] in 2001 as part of its efforts to comply with the trips agreement china was in the process of modifying the full range of intellectual...
+
+[TAR_2001]
+  ...property rights of u.s and other foreign companies and individuals in china in 2001 as part of its efforts to comply with the trips agreement [china] was in the process of modifying the full range of intellectual property laws and regulations including those relating to patents trademarks trade secrets integrated circuits...
+
+[TAR_2001]
+  ...intellectual property laws and regulations including those relating to patents trademarks trade secrets integrated circuits and copyrights in addition provisions in its accession agreement require [china] to strengthen the enforcement of these laws and regulations by its courts and the responsible administrative agencies d 1992 market access agreement the united states...
+
+[TAR_2001]
+  ...strengthen the enforcement of these laws and regulations by its courts and the responsible administrative agencies d 1992 market access agreement the united states and [china] signed a memorandum of understanding on market access in 1992 this agreement committed china to changes in its import regime over a five-year period including...
+
+[TAR_2001]
+  ...administrative agencies d 1992 market access agreement the united states and china signed a memorandum of understanding on market access in 1992 this agreement committed [china] to changes in its import regime over a five-year period including increased transparency elimination of quotas and licenses a guarantee that no trade law or...
+
+[TAR_2001]
+  ...uniform application of trade rules elimination of import substitution policies and agreement that any sanitary and phytosanitary measures would be based on sound science while [china] phased-out formal measures such as certain quotas and licenses serious problems remained during 2001 as china continued to restrict imports by retaining non-uniform application of...
+
+[TAR_2001]
+  ...phytosanitary measures would be based on sound science while china phased-out formal measures such as certain quotas and licenses serious problems remained during 2001 as [china] continued to restrict imports by retaining non-uniform application of trade rules import substitution policies and use of sanitary and phytosanitary sps standards china's accession agreement...
+
+[TAR_2001]
+  ...2001 as china continued to restrict imports by retaining non-uniform application of trade rules import substitution policies and use of sanitary and phytosanitary sps standards [china's] accession agreement includes these same commitments as well as many additional ones consequently the commitments made by china in the 1992 memorandum of understanding have...
+
+[TAR_2001]
+  ...use of sanitary and phytosanitary sps standards china's accession agreement includes these same commitments as well as many additional ones consequently the commitments made by [china] in the 1992 memorandum of understanding have been in effect multilateralized and therefore the united states will no longer be alone in seeking compliance from...
+
+[TAR_2001]
+  ...in the 1992 memorandum of understanding have been in effect multilateralized and therefore the united states will no longer be alone in seeking compliance from [china] e satellite launch services the 1989 bilateral agreement on international trade in commercial launch services with china was extended in 1995 to cover the period...
+
+[TAR_2001]
+  ...no longer be alone in seeking compliance from china e satellite launch services the 1989 bilateral agreement on international trade in commercial launch services with [china] was extended in 1995 to cover the period through 2001 the agreement was intended to balance the interests of the u.s satellite and commercial space...
+
+[TAR_2001]
+  ...through 2001 the agreement was intended to balance the interests of the u.s satellite and commercial space launch industries while encouraging free trade by allowing [china] to enter the international market for commercial space launch services in a fair and non-disruptive manner the extended agreement continued quantitative and pricing disciplines established...
+
+[TAR_2001]
+  ...agreement the agreement also specifically provided that nothing in the agreement limited the operation of u.s export control laws in march 2001 the government of [china] hosted a delegation from the united states for consultations under the terms of the agreement the consultations included an exchange of information on the commercial...
+
+[TAR_2001]
+  ...for consultations under the terms of the agreement the consultations included an exchange of information on the commercial satellite launch market and new developments in [china's] commercial space program as well as a review of the implementation of the agreement the agreement expired pursuant to its terms on december 31 2001...
+
+[TAR_2001]
+  ...implementation of the agreement the agreement expired pursuant to its terms on december 31 2001 no determination has been made regarding any future arrangement with [china] governing international trade in commercial launch services...
+
+[TAR_2002]
+  ...for much of the past two decades the people’s republic of [china] china had been gradually transitioning toward a market economy from what in the late 1970 s was a strict command economy as part of its...
+
+[TAR_2002]
+  ...for much of the past two decades the people’s republic of china [china] had been gradually transitioning toward a market economy from what in the late 1970 s was a strict command economy as part of its accession...
+
+[TAR_2002]
+  ...1970 s was a strict command economy as part of its accession to the world trade organization wto which became effective on december 11 2001 [china] was required by the united states and other wto members to agree to accelerate this process of market reform in order to comply with wto...
+
+[TAR_2002]
+  ...by the united states and other wto members to agree to accelerate this process of market reform in order to comply with wto requirements accordingly [china's] wto accession agreement embodies a set of extensive and far-reaching commitments on the part of china to change its trade regime at all levels of...
+
+[TAR_2002]
+  ...reform in order to comply with wto requirements accordingly china's wto accession agreement embodies a set of extensive and far-reaching commitments on the part of [china] to change its trade regime at all levels of government given the breadth and complexity of these commitments assessing china's wto compliance efforts is not...
+
+[TAR_2002]
+  ...commitments on the part of china to change its trade regime at all levels of government given the breadth and complexity of these commitments assessing [china's] wto compliance efforts is not a simple task overall during the first year of its wto membership china made significant progress in implementing its wto...
+
+[TAR_2002]
+  ...breadth and complexity of these commitments assessing china's wto compliance efforts is not a simple task overall during the first year of its wto membership [china] made significant progress in implementing its wto commitments although much is left to do progress was made both in making many of the required systemic...
+
+[TAR_2002]
+  ...at the same time serious concerns arose in some areas where implementation had not yet occurred or was inadequate as expected the principal focus of [china's] first year of wto membership was on its framework of laws and regulations governing trade in goods and services at both the central and local...
+
+[TAR_2002]
+  ...year of wto membership was on its framework of laws and regulations governing trade in goods and services at both the central and local levels [china's] trade ministry the ministry of foreign trade and economic cooperation moftec reports that the central government has reviewed more than 2,500 trade-related laws and regulations...
+
+[TAR_2002]
+  ...in part because of the need to give effect to changes made by the central government at the same time some localities particularly those in [china's] eastern provinces are much further along in their review process than others beginning early in 2002 china also devoted considerable resources to the restructuring of...
+
+[TAR_2002]
+  ...the same time some localities particularly those in china's eastern provinces are much further along in their review process than others beginning early in 2002 [china] also devoted considerable resources to the restructuring of the various government ministries and agencies with a role in overseeing trade in goods and services some...
+
+[TAR_2002]
+  ...restructuring of the various government ministries and agencies with a role in overseeing trade in goods and services some of these changes were mandated by [china's] accession agreement while others were undertaken by china to facilitate its compliance with wto rules another significant focus for china during the past year involved...
+
+[TAR_2002]
+  ...with a role in overseeing trade in goods and services some of these changes were mandated by china's accession agreement while others were undertaken by [china] to facilitate its compliance with wto rules another significant focus for china during the past year involved education and training china embarked on an extensive...
+
+[TAR_2002]
+  ...these changes were mandated by china's accession agreement while others were undertaken by china to facilitate its compliance with wto rules another significant focus for [china] during the past year involved education and training china embarked on an extensive campaign to teach central and local government officials and state-owned enterprise managers...
+
+[TAR_2002]
+  ...others were undertaken by china to facilitate its compliance with wto rules another significant focus for china during the past year involved education and training [china] embarked on an extensive campaign to teach central and local government officials and state-owned enterprise managers about both the requirements and the benefits of wto...
+
+[TAR_2002]
+  ...teach central and local government officials and state-owned enterprise managers about both the requirements and the benefits of wto membership with the goal of facilitating [china's] wto compliance the united states and other wto members along with many private sector groups contributed substantial technical assistance and capacity building resources to this...
+
+[TAR_2002]
+  ...and other wto members along with many private sector groups contributed substantial technical assistance and capacity building resources to this effort as a general matter [china] took positive steps to implement many of its specific wto commitments during the past year it made required tariff reductions notably for information technology products...
+
+[TAR_2002]
+  ...wood and paper products and many agricultural goods including beef dairy products and citrus among others when discrepancies between committed and implemented rates were reported [china] usually made necessary adjustments china also began the process of removing numerous non-tariff trade barriers that had affected a range of industries from chemicals to...
+
+[TAR_2002]
+  ...many agricultural goods including beef dairy products and citrus among others when discrepancies between committed and implemented rates were reported china usually made necessary adjustments [china] also began the process of removing numerous non-tariff trade barriers that had affected a range of industries from chemicals to scientific equipment and it continued...
+
+[TAR_2002]
+  ...steps were managed without serious incident and market access for u.s products in the affected sectors has generally improved in addition although not without problems [china] took the necessary legal steps to allow for increased market access for foreign service suppliers in a variety of sectors including financial services telecommunications audio-visual...
+
+[TAR_2002]
+  ...of sectors including financial services telecommunications audio-visual services tourism and travel-related services constructions and engineering services educational services and environmental services while the efforts of [china's] leadership to implement china's wto commitments should be recognized the administration also found a number of causes for serious concern during china's first year of...
+
+[TAR_2002]
+  ...services telecommunications audio-visual services tourism and travel-related services constructions and engineering services educational services and environmental services while the efforts of china's leadership to implement [china's] wto commitments should be recognized the administration also found a number of causes for serious concern during china's first year of wto membership one area...
+
+[TAR_2002]
+  ...the efforts of china's leadership to implement china's wto commitments should be recognized the administration also found a number of causes for serious concern during [china's] first year of wto membership one area of cross-cutting concern involved transparency in particular china implemented its commitment to greater transparency in the adoption and...
+
+[TAR_2002]
+  ...also found a number of causes for serious concern during china's first year of wto membership one area of cross-cutting concern involved transparency in particular [china] implemented its commitment to greater transparency in the adoption and operation of new laws and regulations unevenly at best while some ministries and agencies did...
+
+[TAR_2002]
+  ...agencies did take steps to improve opportunities for public comment on draft laws and regulations and to provide appropriate wto enquiry points the administration found [china's] overall effort to be plagued by uncertainty and a lack of uniformity the administration is committed to seeking improvements in china's efforts in this area...
+
+[TAR_2002]
+  ...points the administration found china's overall effort to be plagued by uncertainty and a lack of uniformity the administration is committed to seeking improvements in [china's] efforts in this area apart from this systemic concern three other areas generated significant problems and warrant continued u.s scrutiny agriculture intellectual property rights and...
+
+[TAR_2002]
+  ...and warrant continued u.s scrutiny agriculture intellectual property rights and services the area of agriculture proved to be especially contentious between the united states and [china] while concerns over market access for u.s agriculture products are not unique to china particularly serious problems were encountered on many fronts including china's regulation...
+
+[TAR_2002]
+  ...agriculture proved to be especially contentious between the united states and china while concerns over market access for u.s agriculture products are not unique to [china] particularly serious problems were encountered on many fronts including china's regulation of agricultural goods made with biotechnology the administration of china's tariff-rate quota trq system...
+
+[TAR_2002]
+  ...and china while concerns over market access for u.s agriculture products are not unique to china particularly serious problems were encountered on many fronts including [china's] regulation of agricultural goods made with biotechnology the administration of china's tariff-rate quota trq system for bulk agricultural commodities the application of sanitary and phytosanitary...
+
+[TAR_2002]
+  ...are not unique to china particularly serious problems were encountered on many fronts including china's regulation of agricultural goods made with biotechnology the administration of [china's] tariff-rate quota trq system for bulk agricultural commodities the application of sanitary and phytosanitary measures and inspection requirements the united states and china were able...
+
+[TAR_2002]
+  ...administration of china's tariff-rate quota trq system for bulk agricultural commodities the application of sanitary and phytosanitary measures and inspection requirements the united states and [china] were able to make progress toward resolving some of these problems particularly with regard to biotechnology other problems remain unresolved however with the most troublesome...
+
+[TAR_2002]
+  ...able to make progress toward resolving some of these problems particularly with regard to biotechnology other problems remain unresolved however with the most troublesome being [china's] inadequate implementation of its trq commitments in the area of intellectual property rights ipr china did make significant improvements to its framework of laws and...
+
+[TAR_2002]
+  ...other problems remain unresolved however with the most troublesome being china's inadequate implementation of its trq commitments in the area of intellectual property rights ipr [china] did make significant improvements to its framework of laws and regulations however the lack of effective ipr enforcement remained a major challenge if significant improvements...
+
+[TAR_2002]
+  ...of laws and regulations however the lack of effective ipr enforcement remained a major challenge if significant improvements are to be achieved on this front [china] will have to devote considerable resources and political will to this problem and there will continue to be a need for sustained efforts from the...
+
+[TAR_2002]
+  ...a need for sustained efforts from the united states and other wto members meanwhile concerns arose in many services sectors due to transparency problems and [china's] use of prudential requirements that exceeded international norms in addition chinese regulators imposed particularly problematic restrictions in the insurance sector where transparency issues excessive capitalization...
+
+[TAR_2002]
+  ...express delivery sector where existing rights were placed in jeopardy nevertheless progress was made in 2002 toward resolving the concerns associated with these two sectors [china's] compliance problems are occasionally generated by a lack of coordination among relevant ministries in the chinese government another source of compliance problems has been a...
+
+[TAR_2002]
+  ...lack of coordination among relevant ministries in the chinese government another source of compliance problems has been a lack of effective or uniform application of [china's] wto commitments at local and provincial levels china is taking steps to address both of these concerns through more effective inter-ministerial mechanisms at the national...
+
+[TAR_2002]
+  ...chinese government another source of compliance problems has been a lack of effective or uniform application of china's wto commitments at local and provincial levels [china] is taking steps to address both of these concerns through more effective inter-ministerial mechanisms at the national level and through a more concerted effort to...
+
+[TAR_2002]
+  ...vigilance by the administration and the private sector when confronted with compliance problems in 2002 the administration used all available and appropriate means to obtain [china's] full compliance including intervention at the highest levels of government the administration worked closely with the affected u.s industries on compliance concerns and utilized bilateral...
+
+[TAR_2002]
+  ...bilateral channels through multiple agencies at all levels to press these concerns the administration also initiated a regular dialogue on compliance issues between ustr and [china's] lead trade agency moftec with the goal of bringing all involved chinese ministries and agencies together when the resolution of particular problems warrants it where...
+
+[TAR_2002]
+  ...the compliance problems that arose over the course of the past year most u.s industry representatives remain enthusiastic about the actual and potential benefits from [china's] wto membership they understand that the institutional legal and regulatory changes demanded of china by its accession agreement are extraordinary and far-reaching and are complicated...
+
+[TAR_2002]
+  ...industry representatives remain enthusiastic about the actual and potential benefits from china's wto membership they understand that the institutional legal and regulatory changes demanded of [china] by its accession agreement are extraordinary and far-reaching and are complicated further by china’s highly decentralized administrative structure at the same time they want to...
+
+[TAR_2002]
+  ...they understand that the institutional legal and regulatory changes demanded of china by its accession agreement are extraordinary and far-reaching and are complicated further by [china’s] highly decentralized administrative structure at the same time they want to see china comply fully with its wto commitments as does the administration the united...
+
+[TAR_2002]
+  ...its accession agreement are extraordinary and far-reaching and are complicated further by china’s highly decentralized administrative structure at the same time they want to see [china] comply fully with its wto commitments as does the administration the united states working with fellow wto members will use all means at its disposal...
+
+[TAR_2002]
+  ...its wto commitments as does the administration the united states working with fellow wto members will use all means at its disposal to ensure that [china] achieves full implementation for a more detailed discussion of trade-related issues involving china in 2002 see ustr's 2002 report to congress on china's wto compliance...
+
+[TAR_2002]
+  ...wto members will use all means at its disposal to ensure that china achieves full implementation for a more detailed discussion of trade-related issues involving [china] in 2002 see ustr's 2002 report to congress on china's wto compliance issued on december 11 2002...
+
+[TAR_2002]
+  ...ensure that china achieves full implementation for a more detailed discussion of trade-related issues involving china in 2002 see ustr's 2002 report to congress on [china's] wto compliance issued on december 11 2002...
+
+[USTR_CT_100701]
+  ...to appear before this subcommittee today to discuss the benefits to the united states of renewing normal trade relations status with the people's republic of [china] china's ntr status has wider implications than merely the u.s china relationship as important as that is my colleagues from the departments of state and...
+
+[USTR_CT_100701]
+  ...appear before this subcommittee today to discuss the benefits to the united states of renewing normal trade relations status with the people's republic of china [china's] ntr status has wider implications than merely the u.s china relationship as important as that is my colleagues from the departments of state and commerce...
+
+[USTR_CT_100701]
+  ...the united states of renewing normal trade relations status with the people's republic of china china's ntr status has wider implications than merely the u.s [china] relationship as important as that is my colleagues from the departments of state and commerce will discuss with this and other committees why the granting...
+
+[USTR_CT_100701]
+  ...committees why the granting of normal trade relations status is in the broad u.s national interest my testimony will focus on the ongoing negotiations on [china's] accession into the world trade organization and the interplay between that issue and ntr status once china accedes to the wto pursuant to last year's...
+
+[USTR_CT_100701]
+  ...testimony will focus on the ongoing negotiations on china's accession into the world trade organization and the interplay between that issue and ntr status once [china] accedes to the wto pursuant to last year's legislation permanent ntr status will become effective for china provided the president sends the required certification to...
+
+[USTR_CT_100701]
+  ...interplay between that issue and ntr status once china accedes to the wto pursuant to last year's legislation permanent ntr status will become effective for [china] provided the president sends the required certification to the congress this will obviate the need for jackson-vanik waiver annual renewal and this annual debate thus...
+
+[USTR_CT_100701]
+  ...congress this will obviate the need for jackson-vanik waiver annual renewal and this annual debate thus there is a statutory linkage between ntr status for [china] and its accession to the wto more broadly china's accession to the wto will be a major and direct step forward in advancing some of...
+
+[USTR_CT_100701]
+  ...annual renewal and this annual debate thus there is a statutory linkage between ntr status for china and its accession to the wto more broadly [china's] accession to the wto will be a major and direct step forward in advancing some of the objectives that underlie our annual debate on ntr...
+
+[USTR_CT_100701]
+  ...in advancing some of the objectives that underlie our annual debate on ntr assuring significantly greater market access for u.s business farmers and ranchers to [china's] large and expanding market and encouraging the development of the rule of law in china the november 1999 u.s china bilateral agreement on china's accession...
+
+[USTR_CT_100701]
+  ...greater market access for u.s business farmers and ranchers to china's large and expanding market and encouraging the development of the rule of law in [china] the november 1999 u.s china bilateral agreement on china's accession to the wto capped nearly 14 years of intense often difficult negotiations it provided us...
+
+[USTR_CT_100701]
+  ...business farmers and ranchers to china's large and expanding market and encouraging the development of the rule of law in china the november 1999 u.s [china] bilateral agreement on china's accession to the wto capped nearly 14 years of intense often difficult negotiations it provided us with a set of comprehensive...
+
+[USTR_CT_100701]
+  ...to china's large and expanding market and encouraging the development of the rule of law in china the november 1999 u.s china bilateral agreement on [china's] accession to the wto capped nearly 14 years of intense often difficult negotiations it provided us with a set of comprehensive verifiable and as you...
+
+[USTR_CT_100701]
+  ...negotiations it provided us with a set of comprehensive verifiable and as you said in your statement mr chairman one-way trade concessions that substantially open [china's] market across the spectrum to u.s goods services and agriculture i want to acknowledge the tremendous efforts of ambassador barshefsky in achieving this result and...
+
+[USTR_CT_100701]
+  ...is no need to review them today my written statement does review them i will dispense with them today in addition to improved market access [china] has agreed to change practices that have made it difficult for u.s companies to do business in china and hindered the developments of china's economy...
+
+[USTR_CT_100701]
+  ...today in addition to improved market access china has agreed to change practices that have made it difficult for u.s companies to do business in [china] and hindered the developments of china's economy as well these broad-based reforms include commitments to greater transparency in the operation of china's trade regime laws...
+
+[USTR_CT_100701]
+  ...access china has agreed to change practices that have made it difficult for u.s companies to do business in china and hindered the developments of [china's] economy as well these broad-based reforms include commitments to greater transparency in the operation of china's trade regime laws regulations and other measures will be...
+
+[USTR_CT_100701]
+  ...do business in china and hindered the developments of china's economy as well these broad-based reforms include commitments to greater transparency in the operation of [china's] trade regime laws regulations and other measures will be published before they are enforced and interested parties will have an opportunity to comment on the...
+
+[USTR_CT_100701]
+  ...beijing has been systematically reviewing and revising or abolishing laws and regulations inconsistent with wto requirements the 1999 agreements did not mark the end of [china's] wto accession process still to be completed was the negotiation of the multilateral documents essential to the accession package the protocol of accession and the...
+
+[USTR_CT_100701]
+  ...multilateral documents essential to the accession package the protocol of accession and the working party report these documents describe how wto rules will apply to [china] and how china intends to implement the commitment it is undertaking it is principally these negotiations that have occupied ambassador zoellick and our delegation first...
+
+[USTR_CT_100701]
+  ...to the accession package the protocol of accession and the working party report these documents describe how wto rules will apply to china and how [china] intends to implement the commitment it is undertaking it is principally these negotiations that have occupied ambassador zoellick and our delegation first in shanghai last...
+
+[USTR_CT_100701]
+  ...in shanghai last month and most recently at the working party meeting in geneva last week in shanghai ambassador zoellick negotiated the following improvements in [china's] accession package first an agreement on agricultural domestic support that limits china's recourse to provisions of the wto agreement on agriculture to levels below that...
+
+[USTR_CT_100701]
+  ...in geneva last week in shanghai ambassador zoellick negotiated the following improvements in china's accession package first an agreement on agricultural domestic support that limits [china's] recourse to provisions of the wto agreement on agriculture to levels below that available for developing countries second a commitment from china to assure that...
+
+[USTR_CT_100701]
+  ...support that limits china's recourse to provisions of the wto agreement on agriculture to levels below that available for developing countries second a commitment from [china] to assure that its restrictions on chain stores do not inappropriately restrict the right of american retailers to operate fully owned distribution outlets third a...
+
+[USTR_CT_100701]
+  ...that its restrictions on chain stores do not inappropriately restrict the right of american retailers to operate fully owned distribution outlets third a commitment from [china] on how it will allow foreign companies including those from the united states to export to china on a nondiscriminatory nondiscretionary basis without burdensome requirements...
+
+[USTR_CT_100701]
+  ...fully owned distribution outlets third a commitment from china on how it will allow foreign companies including those from the united states to export to [china] on a nondiscriminatory nondiscretionary basis without burdensome requirements and fourth several improvements in access to the insurance market of china in geneva this past week...
+
+[USTR_CT_100701]
+  ...united states to export to china on a nondiscriminatory nondiscretionary basis without burdensome requirements and fourth several improvements in access to the insurance market of [china] in geneva this past week we obtained multilateral endorsements of these achievements in addition we achieved international consensus on working party provisions on numerous issues...
+
+[USTR_CT_100701]
+  ...of these achievements in addition we achieved international consensus on working party provisions on numerous issues crucial to assuring market access and fair trade with [china] just a few additional points about china's wto commitments first they are effective immediately upon accession most will phase in some will be effective on...
+
+[USTR_CT_100701]
+  ...international consensus on working party provisions on numerous issues crucial to assuring market access and fair trade with china just a few additional points about [china's] wto commitments first they are effective immediately upon accession most will phase in some will be effective on day one most will phase in in...
+
+[USTR_CT_100701]
+  ...are enforceable we will enforce them through our trade laws wto dispute settlement processes as necessary and other mechanisms including an annual multilateral review of [china's] implementation and compliance for 8 years with an additional review in the 10th year third the agreement helps ensure that trade with china does not...
+
+[USTR_CT_100701]
+  ...review of china's implementation and compliance for 8 years with an additional review in the 10th year third the agreement helps ensure that trade with [china] does not injure u.s industry and workers the special antidumping provision we negotiated allows us to use nonmarket economy methodology in judging prices of imports...
+
+[USTR_CT_100701]
+  ...not injure u.s industry and workers the special antidumping provision we negotiated allows us to use nonmarket economy methodology in judging prices of imports from [china] for 15 years the special safeguards provision and the procedures in our pntr legislation allows the u.s to act quickly to address rapidly increasing imports...
+
+[USTR_CT_100701]
+  ...15 years the special safeguards provision and the procedures in our pntr legislation allows the u.s to act quickly to address rapidly increasing imports from [china] and fourth the increased transparency and accountability that wto membership and implementation of wto rules compel will have a positive effect in other areas the...
+
+[USTR_CT_100701]
+  ...be sent to capitals for review it is possible that early in the fall what we hope will be the final working party session on [china] will convene to approve final texts of all these documents the full accession package will be reviewed by ambassador zoellick and other concerned agencies of...
+
+[USTR_CT_100701]
+  ...members at a meeting of the general council or possibly at the wto ministerial meeting at doha in november would then approve the terms of [china's] accession to the wto a final point we fully expect the wto to approve taiwan's accession in the same time frame as china's as a...
+
+[USTR_CT_100701]
+  ...terms of china's accession to the wto a final point we fully expect the wto to approve taiwan's accession in the same time frame as [china's] as a major player in international trade and a new and thriving democracy taiwan deserves membership and a larger role in the international community we...
+
+[USTR_CT_100701]
+  ...taiwan's accession thoroughly with all the concerned parties and are confident there is a consensus on this if we fail to grant ntr status to [china] it is predictable that the wto accession process i described with its benefits to u.s business labor farmers and ranchers will grind to a halt...
+
+[USTR_CT_100701]
+  ...is predictable that the wto accession process i described with its benefits to u.s business labor farmers and ranchers will grind to a halt without [china's] accession to the wto the benefits of china's commitments in areas such as services and dispute settlements will be unavailable to u.s companies all of...
+
+[USTR_CT_100701]
+  ...described with its benefits to u.s business labor farmers and ranchers will grind to a halt without china's accession to the wto the benefits of [china's] commitments in areas such as services and dispute settlements will be unavailable to u.s companies all of the tariff and tariff-rate quota concessions will be...
+
+[USTR_CT_100701]
+  ...areas such as services and dispute settlements will be unavailable to u.s companies all of the tariff and tariff-rate quota concessions will be on hold [china's] accession to wto will be a benefit to china of course but it is not a favor to china major beneficiaries will be american companies...
+
+[USTR_CT_100701]
+  ...unavailable to u.s companies all of the tariff and tariff-rate quota concessions will be on hold china's accession to wto will be a benefit to [china] of course but it is not a favor to china major beneficiaries will be american companies workers and agriculture it would significantly open the world's...
+
+[USTR_CT_100701]
+  ...quota concessions will be on hold china's accession to wto will be a benefit to china of course but it is not a favor to [china] major beneficiaries will be american companies workers and agriculture it would significantly open the world's most populous country and arguably the fastest growing economy in...
+
+[USTR_CT_100701]
+  ...and i look forward to your questions the prepared statement of mr bader follows statement of jeffrey a bader assistant united states trade representative for [china] hong kong mongolia and taiwan office of the united states trade representative mr chairman i am pleased to appear before this subcommittee today to discuss...
+
+[USTR_CT_100701]
+  ...appear before this subcommittee today to discuss the benefits to the united states of renewing normal trade relations ntr status for the people's republic of [china] relationship of ntr and china's wto accession china's ntr status has wider implications than merely the u.s china trade relationship as important as that is...
+
+[USTR_CT_100701]
+  ...to discuss the benefits to the united states of renewing normal trade relations ntr status for the people's republic of china relationship of ntr and [china's] wto accession china's ntr status has wider implications than merely the u.s china trade relationship as important as that is my colleagues from the departments...
+
+[USTR_CT_100701]
+  ...benefits to the united states of renewing normal trade relations ntr status for the people's republic of china relationship of ntr and china's wto accession [china's] ntr status has wider implications than merely the u.s china trade relationship as important as that is my colleagues from the departments of state and...
+
+[USTR_CT_100701]
+  ...ntr status for the people's republic of china relationship of ntr and china's wto accession china's ntr status has wider implications than merely the u.s [china] trade relationship as important as that is my colleagues from the departments of state and commerce will discuss with this and other committees why the...
+
+[USTR_CT_100701]
+  ...relations status is in the broad u.s national interest and how it affects our global and regional security concerns human rights and religious freedom in [china] my testimony will focus on the ongoing negotiations on china's accession into the world trade organization wto and the interplay between that issue and ntr...
+
+[USTR_CT_100701]
+  ...how it affects our global and regional security concerns human rights and religious freedom in china my testimony will focus on the ongoing negotiations on [china's] accession into the world trade organization wto and the interplay between that issue and ntr status once china accedes to the wto pursuant to last...
+
+[USTR_CT_100701]
+  ...will focus on the ongoing negotiations on china's accession into the world trade organization wto and the interplay between that issue and ntr status once [china] accedes to the wto pursuant to last year's legislation permanent normal trade relations status will become effective for china provided the president sends the required...
+
+[USTR_CT_100701]
+  ...that issue and ntr status once china accedes to the wto pursuant to last year's legislation permanent normal trade relations status will become effective for [china] provided the president sends the required certification to the congress this will obviate the need for a jackson-vanik waiver annual renewal and this annual debate...
+
+[USTR_CT_100701]
+  ...this will obviate the need for a jackson-vanik waiver annual renewal and this annual debate thus there is a statutory linkage between ntr status for [china] and its accession to the wto more broadly china's accession to wto will be a major and direct step forward in advancing some of the...
+
+[USTR_CT_100701]
+  ...annual renewal and this annual debate thus there is a statutory linkage between ntr status for china and its accession to the wto more broadly [china's] accession to wto will be a major and direct step forward in advancing some of the objectives that underlie our annual debate on ntr assuring...
+
+[USTR_CT_100701]
+  ...in advancing some of the objectives that underlie our annual debate on ntr assuring significantly greater market access for u.s business farmers and ranchers to [china's] large and expanding market and encouraging the development of the rule of law in china the 1999 u.s china bilateral agreement the november 1999 u.s...
+
+[USTR_CT_100701]
+  ...greater market access for u.s business farmers and ranchers to china's large and expanding market and encouraging the development of the rule of law in [china] the 1999 u.s china bilateral agreement the november 1999 u.s china bilateral agreement on china's accession to the wto capped nearly fourteen years of intense...
+
+[USTR_CT_100701]
+  ...u.s business farmers and ranchers to china's large and expanding market and encouraging the development of the rule of law in china the 1999 u.s [china] bilateral agreement the november 1999 u.s china bilateral agreement on china's accession to the wto capped nearly fourteen years of intense often difficult negotiations it...
+
+[USTR_CT_100701]
+  ...large and expanding market and encouraging the development of the rule of law in china the 1999 u.s china bilateral agreement the november 1999 u.s [china] bilateral agreement on china's accession to the wto capped nearly fourteen years of intense often difficult negotiations it provided us with a set of comprehensive...
+
+[USTR_CT_100701]
+  ...and encouraging the development of the rule of law in china the 1999 u.s china bilateral agreement the november 1999 u.s china bilateral agreement on [china's] accession to the wto capped nearly fourteen years of intense often difficult negotiations it provided us with a set of comprehensive verifiable one-way trade concessions...
+
+[USTR_CT_100701]
+  ...wto capped nearly fourteen years of intense often difficult negotiations it provided us with a set of comprehensive verifiable one-way trade concessions that substantially open [china's] market across the spectrum to u.s goods services and agriculture i want to acknowledge the tremendous efforts of ambassador barshefsky in achieving this result and...
+
+[USTR_CT_100701]
+  ...the details of our bilateral agreement and there is no need to review them today suffice to say that inter alia under the 1999 agreement [china] will reduce average tariff levels on goods of interest to the united states from 24 to 7 phase-out all tariffs on information technology products by...
+
+[USTR_CT_100701]
+  ...express mail legal accounting and computer-related services permit u.s companies to operate wholesale retail and franchised distribution networks in addition the associated april 1999 u.s [china] agricultural cooperation agreement removed the bans on imports of u.s citrus and wheat which were not based on sound scientific principles this agreement requires china...
+
+[USTR_CT_100701]
+  ...china agricultural cooperation agreement removed the bans on imports of u.s citrus and wheat which were not based on sound scientific principles this agreement requires [china] to apply sanitary and phytosanitary measures consistent with sound scientific principles and to accept u.s certification of meat products with proper implementation these requirements will...
+
+[USTR_CT_100701]
+  ...certification of meat products with proper implementation these requirements will be of particular benefit to u.s growers of wheat and citrus products previously barred from [china] and should facilitate export of u.s beef pork and poultry products our growers exporters and ranchers have begun to take advantage of that opening they...
+
+[USTR_CT_100701]
+  ...our growers exporters and ranchers have begun to take advantage of that opening they will be able to capitalize on it much more fully once [china] accedes to the wto because the tariff reductions for all products and the new tariff rate quotas for wheat corn rice and cotton will only...
+
+[USTR_CT_100701]
+  ...reductions for all products and the new tariff rate quotas for wheat corn rice and cotton will only then take effect u.s agricultural exports to [china] including hong kong reached $ 3 billion in 2000 the u.s department of agriculture estimates that china's membership in the wto could result in $...
+
+[USTR_CT_100701]
+  ...only then take effect u.s agricultural exports to china including hong kong reached $ 3 billion in 2000 the u.s department of agriculture estimates that [china's] membership in the wto could result in $ 2 billion annually in additional u.s agricultural exports by 2005 systemic reforms in addition to improved market...
+
+[USTR_CT_100701]
+  ...in the wto could result in $ 2 billion annually in additional u.s agricultural exports by 2005 systemic reforms in addition to improved market access [china] has agreed to change practices that have made it difficult for u.s companies to do business in china and hindered the development of china's economy...
+
+[USTR_CT_100701]
+  ...reforms in addition to improved market access china has agreed to change practices that have made it difficult for u.s companies to do business in [china] and hindered the development of china's economy these broad based reforms include commitments to greater transparency in the operation of china's trade regime laws regulations...
+
+[USTR_CT_100701]
+  ...access china has agreed to change practices that have made it difficult for u.s companies to do business in china and hindered the development of [china's] economy these broad based reforms include commitments to greater transparency in the operation of china's trade regime laws regulations and other measures will be published...
+
+[USTR_CT_100701]
+  ...to do business in china and hindered the development of china's economy these broad based reforms include commitments to greater transparency in the operation of [china's] trade regime laws regulations and other measures will be published before they are enforced and interested parties will have an opportunity to comment on these...
+
+[USTR_CT_100701]
+  ...have an opportunity to comment on these provisions before they are implemented administrative actions relating to trade matters will be subject to judicial review and [china] has agreed that the practices of all levels of government will comply with wto requirements china's membership in the wto also requires compliance with international...
+
+[USTR_CT_100701]
+  ...trade matters will be subject to judicial review and china has agreed that the practices of all levels of government will comply with wto requirements [china's] membership in the wto also requires compliance with international rules important in the day-by-day world of international trade china has already begun the process of...
+
+[USTR_CT_100701]
+  ...government will comply with wto requirements china's membership in the wto also requires compliance with international rules important in the day-by-day world of international trade [china] has already begun the process of revising numerous laws and regulations on matters ranging from customs valuation and issuing import licenses to new patent and...
+
+[USTR_CT_100701]
+  ...at the provincial level and in major cities such as shanghai it is true that since 1999 we have experienced problems in our trade with [china] as china continues the economic reforms it began two decades ago certain segments of its government particularly those in the state-owned or ` ` planned...
+
+[USTR_CT_100701]
+  ...provincial level and in major cities such as shanghai it is true that since 1999 we have experienced problems in our trade with china as [china] continues the economic reforms it began two decades ago certain segments of its government particularly those in the state-owned or ` ` planned sectors of...
+
+[USTR_CT_100701]
+  ...chinese vigorously whenever we see such slippage recent developments shanghai and geneva the 1999 agreements critical though they were did not mark the end of [china's] wto accession process still to be completed was the negotiation of the multilateral documents essential to the accession package the protocol of accession and the...
+
+[USTR_CT_100701]
+  ...multilateral documents essential to the accession package the protocol of accession and the working party report these documents describe how wto rules will apply to [china] and how china intends to implement the commitments it is undertaking in the area of goods services and intellectual property rights it is principally these...
+
+[USTR_CT_100701]
+  ...to the accession package the protocol of accession and the working party report these documents describe how wto rules will apply to china and how [china] intends to implement the commitments it is undertaking in the area of goods services and intellectual property rights it is principally these negotiations that have...
+
+[USTR_CT_100701]
+  ...party meeting in geneva last week we also have negotiated improvements in and clarifications of some of the bilateral services schedules necessitated by ambiguities in [china's] laws and regulations in shanghai ambassador zoellick negotiated the following improvements in china's accession package an agreement on agricultural domestic support that limits china's recourse...
+
+[USTR_CT_100701]
+  ...clarifications of some of the bilateral services schedules necessitated by ambiguities in china's laws and regulations in shanghai ambassador zoellick negotiated the following improvements in [china's] accession package an agreement on agricultural domestic support that limits china's recourse to provisions of the wto agreement on agriculture to levels below that available...
+
+[USTR_CT_100701]
+  ...in china's laws and regulations in shanghai ambassador zoellick negotiated the following improvements in china's accession package an agreement on agricultural domestic support that limits [china's] recourse to provisions of the wto agreement on agriculture to levels below that available to developing countries a commitment from china to assure that its...
+
+[USTR_CT_100701]
+  ...domestic support that limits china's recourse to provisions of the wto agreement on agriculture to levels below that available to developing countries a commitment from [china] to assure that its restrictions on chain stores do not inappropriately restrict the right of american retailers to operate fully-owned distribution outlets a commitment from...
+
+[USTR_CT_100701]
+  ...to assure that its restrictions on chain stores do not inappropriately restrict the right of american retailers to operate fully-owned distribution outlets a commitment from [china] on how it will allow foreign companies including those from the united states to export to china on a nondiscriminatory non-discretionary basis without burdensome requirements...
+
+[USTR_CT_100701]
+  ...to operate fully-owned distribution outlets a commitment from china on how it will allow foreign companies including those from the united states to export to [china] on a nondiscriminatory non-discretionary basis without burdensome requirements a phase-out of the current requirement for mandatory cession of 20 of premiums to china's reinsurance state...
+
+[USTR_CT_100701]
+  ...export to china on a nondiscriminatory non-discretionary basis without burdensome requirements a phase-out of the current requirement for mandatory cession of 20 of premiums to [china's] reinsurance state monopoly broader opportunities for u.s insurance companies to provide large-scale commercial risk insurance in geneva this past week we obtained multilateral endorsement of...
+
+[USTR_CT_100701]
+  ...these achievements in addition we achieved international consensus on working party report provisions on numerous issues crucial to assuring market access and fair trade with [china] inter alia technical barriers to trade standards anti-dumping safeguards administration of tariff-rate quotas intellectual property rights industrial subsidies and the transitional mechanism to monitor china's...
+
+[USTR_CT_100701]
+  ...china inter alia technical barriers to trade standards anti-dumping safeguards administration of tariff-rate quotas intellectual property rights industrial subsidies and the transitional mechanism to monitor [china's] implementation of its commitments i want to make a few additional points about china's wto commitments first our agreements will reduce china's trade barriers across...
+
+[USTR_CT_100701]
+  ...intellectual property rights industrial subsidies and the transitional mechanism to monitor china's implementation of its commitments i want to make a few additional points about [china's] wto commitments first our agreements will reduce china's trade barriers across a broad range of goods services and agricultural products eliminate or significantly reduce restrictions...
+
+[USTR_CT_100701]
+  ...mechanism to monitor china's implementation of its commitments i want to make a few additional points about china's wto commitments first our agreements will reduce [china's] trade barriers across a broad range of goods services and agricultural products eliminate or significantly reduce restrictions on freedom to import and distribute goods within...
+
+[USTR_CT_100701]
+  ...trade barriers across a broad range of goods services and agricultural products eliminate or significantly reduce restrictions on freedom to import and distribute goods within [china] and rectify industrial policies intended to draw jobs and technology to china second china's commitments are effective immediately upon accession china will be required to...
+
+[USTR_CT_100701]
+  ...eliminate or significantly reduce restrictions on freedom to import and distribute goods within china and rectify industrial policies intended to draw jobs and technology to [china] second china's commitments are effective immediately upon accession china will be required to take concrete steps to open its market from day one in virtually...
+
+[USTR_CT_100701]
+  ...significantly reduce restrictions on freedom to import and distribute goods within china and rectify industrial policies intended to draw jobs and technology to china second [china's] commitments are effective immediately upon accession china will be required to take concrete steps to open its market from day one in virtually every sector...
+
+[USTR_CT_100701]
+  ...and distribute goods within china and rectify industrial policies intended to draw jobs and technology to china second china's commitments are effective immediately upon accession [china] will be required to take concrete steps to open its market from day one in virtually every sector the phase-in of further concessions will be...
+
+[USTR_CT_100701]
+  ...of further concessions will be limited to five years in almost all cases and in many cases to three years third the agreements are enforceable [china's] commitments are specific with timetables and dates for staged and full implementation we will enforce them through our trade laws wto dispute settlement processes as...
+
+[USTR_CT_100701]
+  ...full implementation we will enforce them through our trade laws wto dispute settlement processes as necessary and other mechanisms including an annual multilateral review of [china's] implementation and compliance for eight years with an additional review in the tenth year we intend to set up a network to help us identify...
+
+[USTR_CT_100701]
+  ...up a network to help us identify and act upon problems as early as possible drawing on the assets of our embassy and consulates in [china] the departments of commerce and agriculture and the american chambers of commerce in china and the region at ustr we have added two people to...
+
+[USTR_CT_100701]
+  ...possible drawing on the assets of our embassy and consulates in china the departments of commerce and agriculture and the american chambers of commerce in [china] and the region at ustr we have added two people to what was a four-person china office and one attorney to our general counsel's office...
+
+[USTR_CT_100701]
+  ...and agriculture and the american chambers of commerce in china and the region at ustr we have added two people to what was a four-person [china] office and one attorney to our general counsel's office all of whom will focus on monitoring and implementation efforts fourth the agreement helps ensure that...
+
+[USTR_CT_100701]
+  ...one attorney to our general counsel's office all of whom will focus on monitoring and implementation efforts fourth the agreement helps ensure that trade with [china] does not injure u.s industry and workers the special anti dumping provision we negotiated allows us to use non-market economy methodology in judging prices of...
+
+[USTR_CT_100701]
+  ...injure u.s industry and workers the special anti dumping provision we negotiated allows us to use non-market economy methodology in judging prices of imports from [china] for 15 years the special safeguards provision and the procedures in our pntr legislation allow the united states to act quickly to address rapidly increasing...
+
+[USTR_CT_100701]
+  ...years the special safeguards provision and the procedures in our pntr legislation allow the united states to act quickly to address rapidly increasing imports from [china] that disrupt our market and cause material injury to a u.s industry under this provision we can take action against imports only from china instead...
+
+[USTR_CT_100701]
+  ...from china that disrupt our market and cause material injury to a u.s industry under this provision we can take action against imports only from [china] instead of restricting imports from all wto members for textile and apparel products the accession package includes a special safeguard mirroring our current practice in...
+
+[USTR_CT_100701]
+  ...openness and transparency in rule-making and rule-enforcement i noted earlier its provisions and philosophy stress the central role of markets and private enterprise the reforms [china] is undertaking to conform to wto rules will provide the basis for further liberalization in china remaining steps it appears we are nearing the end...
+
+[USTR_CT_100701]
+  ...central role of markets and private enterprise the reforms china is undertaking to conform to wto rules will provide the basis for further liberalization in [china] remaining steps it appears we are nearing the end game in this accession process china has completed the negotiation of all its bilateral agreements except...
+
+[USTR_CT_100701]
+  ...wto rules will provide the basis for further liberalization in china remaining steps it appears we are nearing the end game in this accession process [china] has completed the negotiation of all its bilateral agreements except with mexico and central america with which it has been negotiating intensively along with our...
+
+[USTR_CT_100701]
+  ...which it has been negotiating intensively along with our other trading partners we are in the process of verifying and rectifying each of the commitments [china] has made in its various bilateral agreements to assure the most liberalizing one makes it into the final accession documents i will be going back...
+
+[USTR_CT_100701]
+  ...approvals wto members at a meeting of the general council or possibly at the wto ministerial meeting at doha would then approve the terms of [china's] accession to the wto china will then need to complete its domestic approval process and formally accept wto membership china will become a wto member...
+
+[USTR_CT_100701]
+  ...meeting of the general council or possibly at the wto ministerial meeting at doha would then approve the terms of china's accession to the wto [china] will then need to complete its domestic approval process and formally accept wto membership china will become a wto member after filing its formal acceptance...
+
+[USTR_CT_100701]
+  ...then approve the terms of china's accession to the wto china will then need to complete its domestic approval process and formally accept wto membership [china] will become a wto member after filing its formal acceptance with the wto a final point we fully expect the wto to approve taiwan's accession...
+
+[USTR_CT_100701]
+  ...filing its formal acceptance with the wto a final point we fully expect the wto to approve taiwan's accession in the same time frame as [china's] as a major player in international trade and a new and thriving democracy taiwan deserves membership and a larger role in the international community we...
+
+[USTR_CT_100701]
+  ...thoroughly with all the concerned parties and are confident there is a consensus on this the stakes if we fail to grant ntr status to [china] it is predictable that the wto accession process i have described with its benefits to u.s business labor farmers and ranchers will grind to a...
+
+[USTR_CT_100701]
+  ...chinese with markets closing rather than opening and sales and jobs going to u.s competitors as was clear in last year's debate on pntr without [china's] accession to the wto the benefits of china's commitments in areas such as services and dispute settlement will be unavailable to u.s companies all of...
+
+[USTR_CT_100701]
+  ...sales and jobs going to u.s competitors as was clear in last year's debate on pntr without china's accession to the wto the benefits of [china's] commitments in areas such as services and dispute settlement will be unavailable to u.s companies all of the tariff and tariff-rate quota concessions will be...
+
+[USTR_CT_100701]
+  ...and tariff-rate quota concessions will be on hold the livelihoods of the 400,000 american workers and farmers employed in or benefiting from america's trade with [china] will be affected china's accession to wto will be a benefit to china of course but it is not a favor to china indeed it...
+
+[USTR_CT_100701]
+  ...will be on hold the livelihoods of the 400,000 american workers and farmers employed in or benefiting from america's trade with china will be affected [china's] accession to wto will be a benefit to china of course but it is not a favor to china indeed it contains the most rigorous...
+
+[USTR_CT_100701]
+  ...american workers and farmers employed in or benefiting from america's trade with china will be affected china's accession to wto will be a benefit to [china] of course but it is not a favor to china indeed it contains the most rigorous and broad-ranging commitments ever required of a new member...
+
+[USTR_CT_100701]
+  ...trade with china will be affected china's accession to wto will be a benefit to china of course but it is not a favor to [china] indeed it contains the most rigorous and broad-ranging commitments ever required of a new member to the gatt or wto major beneficiaries will be american...
+
+Total occurrences: 329 
+
+>>> KWIC: china accession <<<
+
+No occurrences found.
+
+>>> KWIC: safeguard <<<
+
+[TAR_2001]
+  ...the rights of the united states and other wto members under the wto agreements including with regard to the commitments in china's accession agreement viii [safeguard] mechanisms even though the terms of china's accession agreement are directed at the opening of china's market to wto members industries china's accession agreement also...
+
+[TAR_2001]
+  ...though the terms of china's accession agreement are directed at the opening of china's market to wto members industries china's accession agreement also includes several [safeguard] mechanisms designed to prevent injury that u.s or other wto members industries and workers might experience based on unfair trade practices or import surges for...
+
+[TAR_2001]
+  ...ability to utilize a special non-market economy methodology for measuring dumping in anti-dumping cases against chinese companies china's accession agreement also includes a unique china-specific [safeguard] provision allowing a wto member to restrain increasing chinese imports that disrupt its market this mechanism applies to all industrial and agricultural products and will...
+
+[TAR_2001]
+  ...mechanism applies to all industrial and agricultural products and will be available for 12 years after accession additionally the accession agreement includes a special textiles [safeguard] which will be available for 7 years after accession until december 31 2008 this safeguard covers all products subject to the wto agreement on textiles...
+
+[TAR_2001]
+  ...after accession additionally the accession agreement includes a special textiles safeguard which will be available for 7 years after accession until december 31 2008 this [safeguard] covers all products subject to the wto agreement on textiles and clothing as of january 1 1995 finally the united states and other wto members...
+
+[USTR_CT_100701]
+  ...the special antidumping provision we negotiated allows us to use nonmarket economy methodology in judging prices of imports from china for 15 years the special [safeguards] provision and the procedures in our pntr legislation allows the u.s to act quickly to address rapidly increasing imports from china and fourth the increased...
+
+[USTR_CT_100701]
+  ...working party report provisions on numerous issues crucial to assuring market access and fair trade with china inter alia technical barriers to trade standards anti-dumping [safeguards] administration of tariff-rate quotas intellectual property rights industrial subsidies and the transitional mechanism to monitor china's implementation of its commitments i want to make a...
+
+[USTR_CT_100701]
+  ...special anti dumping provision we negotiated allows us to use non-market economy methodology in judging prices of imports from china for 15 years the special [safeguards] provision and the procedures in our pntr legislation allow the united states to act quickly to address rapidly increasing imports from china that disrupt our...
+
+[USTR_CT_100701]
+  ...action against imports only from china instead of restricting imports from all wto members for textile and apparel products the accession package includes a special [safeguard] mirroring our current practice in this area our textile and apparel industry will be able to use this safeguard until january 1 2009 fifth the...
+
+[USTR_CT_100701]
+  ...the accession package includes a special safeguard mirroring our current practice in this area our textile and apparel industry will be able to use this [safeguard] until january 1 2009 fifth the increased transparency and accountability that wto membership and implementation of wto rules compel can only have a positive effect...
+
+Total occurrences: 10 
+
+>>> KWIC: textil <<<
+
+[TAR_2001]
+  ...this mechanism applies to all industrial and agricultural products and will be available for 12 years after accession additionally the accession agreement includes a special [textiles] safeguard which will be available for 7 years after accession until december 31 2008 this safeguard covers all products subject to the wto agreement on...
+
+[TAR_2001]
+  ...safeguard which will be available for 7 years after accession until december 31 2008 this safeguard covers all products subject to the wto agreement on [textiles] and clothing as of january 1 1995 finally the united states and other wto members will continue to have the rights under wto rules to...
+
+[USTR_CT_100701]
+  ...to a u.s industry under this provision we can take action against imports only from china instead of restricting imports from all wto members for [textile] and apparel products the accession package includes a special safeguard mirroring our current practice in this area our textile and apparel industry will be able...
+
+[USTR_CT_100701]
+  ...imports from all wto members for textile and apparel products the accession package includes a special safeguard mirroring our current practice in this area our [textile] and apparel industry will be able to use this safeguard until january 1 2009 fifth the increased transparency and accountability that wto membership and implementation...
+
+Total occurrences: 4 
+
+>>> KWIC: zoellick <<<
+
+[USTR_CT_100701]
+  ...rules will apply to china and how china intends to implement the commitment it is undertaking it is principally these negotiations that have occupied ambassador [zoellick] and our delegation first in shanghai last month and most recently at the working party meeting in geneva last week in shanghai ambassador zoellick negotiated...
+
+[USTR_CT_100701]
+  ...ambassador zoellick and our delegation first in shanghai last month and most recently at the working party meeting in geneva last week in shanghai ambassador [zoellick] negotiated the following improvements in china's accession package first an agreement on agricultural domestic support that limits china's recourse to provisions of the wto agreement...
+
+[USTR_CT_100701]
+  ...final working party session on china will convene to approve final texts of all these documents the full accession package will be reviewed by ambassador [zoellick] and other concerned agencies of the u.s government after that review the president will decide whether he can certify to the congress as required in...
+
+[USTR_CT_100701]
+  ...implement the commitments it is undertaking in the area of goods services and intellectual property rights it is principally these negotiations that have occupied ambassador [zoellick] and our delegation first in shanghai last month and more recently at the working party meeting in geneva last week we also have negotiated improvements...
+
+[USTR_CT_100701]
+  ...also have negotiated improvements in and clarifications of some of the bilateral services schedules necessitated by ambiguities in china's laws and regulations in shanghai ambassador [zoellick] negotiated the following improvements in china's accession package an agreement on agricultural domestic support that limits china's recourse to provisions of the wto agreement on...
+
+[USTR_CT_100701]
+  ...be the final working party session will convene to approve final texts of all these documents the full accession package will be reviewed by ambassador [zoellick] and other concerned agencies of the u.s government after that review the president will decide whether he can certify to the congress as required in...
+
+Total occurrences: 6 
+
+>>> KWIC: agricultur <<<
+
+[TAR_2001]
+  ...member negotiated bilaterally with china regarding market access concessions and commitments in the goods and services areas including for example the tariffs on industrial and [agricultural] goods and the commitments that china is making to open up its market to foreign services suppliers the most trade liberalizing of the concessions and...
+
+[TAR_2001]
+  ...of foreign companies to import and export goods and to distribute goods within china and it has further committed to rectify numerous trade-distortive industrial and [agricultural] policies the openness accountability and changes required by china's commitments should strengthen and accelerate the achievement of china's economic reform goals china's ministries and agencies...
+
+[TAR_2001]
+  ...core principles such as non-discrimination and national treatment that constrain and guide national trade policies as well as other wto agreements such as those governing [agriculture] sanitary and phytosanitary measures technical barriers to trade trade-related investment measures trims trade-related intellectual property rights trips services gats subsidies import licensing rules of origin...
+
+[TAR_2001]
+  ...china acceded to the wto greatly increased market access was realized by u.s and other foreign companies through cuts in china's tariffs on industrial and [agricultural] goods although these reductions generally take place over a period of five years in almost all instances most of the reductions took place immediately on...
+
+[TAR_2001]
+  ...be reduced from a 1997 average of 18 percent on wood and 15-25 percent on paper to 5 percent and 7.5 percent respectively tariffs on [agricultural] goods of greatest importance to u.s farmers were to be reduced from a 1997 average of 31 percent to 14 percent vi services commitments as...
+
+[TAR_2001]
+  ...a unique china-specific safeguard provision allowing a wto member to restrain increasing chinese imports that disrupt its market this mechanism applies to all industrial and [agricultural] products and will be available for 12 years after accession additionally the accession agreement includes a special textiles safeguard which will be available for 7...
+
+[TAR_2001]
+  ...as part of this effort the u.s government will be active on several fronts in china state department economic officers foreign commercial service officers foreign [agricultural] service officers and customs attaches will gather information and work with u.s companies and assist them in doing business in china in washington an interagency...
+
+[TAR_2001]
+  ...experts led by ustr drawing on the assistance of the u.s government personnel in china as well as trade associations chambers of commerce industry and [agriculture] groups and individual companies will closely monitor china's compliance efforts in geneva ustr and other concerned agencies will also be active participants in the wto's...
+
+[TAR_2001]
+  ...greatly enhanced by the placement of overseas trade compliance officers from the commerce department and other agencies in our embassies in key trading partners b [agriculture] china's wto membership is a huge step forward for the u.s agricultural community in its long sought objective to gain direct access to china's market...
+
+[TAR_2001]
+  ...commerce department and other agencies in our embassies in key trading partners b agriculture china's wto membership is a huge step forward for the u.s [agricultural] community in its long sought objective to gain direct access to china's market for u.s agricultural products and in particular its aim to remove china's...
+
+[TAR_2001]
+  ...membership is a huge step forward for the u.s agricultural community in its long sought objective to gain direct access to china's market for u.s [agricultural] products and in particular its aim to remove china's remaining unjustified sanitary and phytosanitary barriers previously in 1992 china signed a bilateral memorandum of understanding...
+
+[TAR_2001]
+  ...1992 china signed a bilateral memorandum of understanding on market access with the united states agreeing to remove unjustified technical barriers to imports of u.s [agricultural] commodities although china agreed to address these issues within one year access issues for several products remains limited on april 10 1999 just months before...
+
+[TAR_2001]
+  ...on april 10 1999 just months before finalizing their november 1999 bilateral wto agreement the united states and china signed an agreement on u.s china [agricultural] cooperation aca which eliminated technical barriers in china to imports of u.s citrus meat and poultry wheat and other grains the signing of this agreement...
+
+[TAR_2001]
+  ...citrus meat and poultry wheat and other grains the signing of this agreement facilitated and greatly enhanced the strong positive support for pntr by the [agricultural] community while trade to china has increased for u.s citrus grains red meat and poultry under the 1999 aca china's compliance with this agreement has...
+
+[TAR_2001]
+  ...on plums additional varieties of apples potatoes and pears with its accession to the wto china took on the obligations of the wto agreement on [agriculture] china also made several additional commitments that will help to rectify numerous agricultural policies upon accession or after limited transition periods for example china committed...
+
+[TAR_2001]
+  ...the wto china took on the obligations of the wto agreement on agriculture china also made several additional commitments that will help to rectify numerous [agricultural] policies upon accession or after limited transition periods for example china committed to eliminate export subsidies upon accession and it has agreed to a cap...
+
+[TAR_2001]
+  ...to american farmers such as grains soy oil and cotton upon accession china also agreed to eliminate import monopolies maintained by state trading enterprises on [agricultural] goods such as wheat rice and corn and to permit non-state trading enterprises to import them c intellectual property rights for more than a decade...
+
+[TAR_2002]
+  ...during the past year it made required tariff reductions notably for information technology products chemicals autos and auto parts wood and paper products and many [agricultural] goods including beef dairy products and citrus among others when discrepancies between committed and implemented rates were reported china usually made necessary adjustments china also...
+
+[TAR_2002]
+  ...to seeking improvements in china's efforts in this area apart from this systemic concern three other areas generated significant problems and warrant continued u.s scrutiny [agriculture] intellectual property rights and services the area of agriculture proved to be especially contentious between the united states and china while concerns over market access...
+
+[TAR_2002]
+  ...apart from this systemic concern three other areas generated significant problems and warrant continued u.s scrutiny agriculture intellectual property rights and services the area of [agriculture] proved to be especially contentious between the united states and china while concerns over market access for u.s agriculture products are not unique to china...
+
+[TAR_2002]
+  ...rights and services the area of agriculture proved to be especially contentious between the united states and china while concerns over market access for u.s [agriculture] products are not unique to china particularly serious problems were encountered on many fronts including china's regulation of agricultural goods made with biotechnology the administration...
+
+[TAR_2002]
+  ...concerns over market access for u.s agriculture products are not unique to china particularly serious problems were encountered on many fronts including china's regulation of [agricultural] goods made with biotechnology the administration of china's tariff-rate quota trq system for bulk agricultural commodities the application of sanitary and phytosanitary measures and inspection...
+
+[TAR_2002]
+  ...problems were encountered on many fronts including china's regulation of agricultural goods made with biotechnology the administration of china's tariff-rate quota trq system for bulk [agricultural] commodities the application of sanitary and phytosanitary measures and inspection requirements the united states and china were able to make progress toward resolving some of...
+
+[USTR_CT_100701]
+  ...and as you said in your statement mr chairman one-way trade concessions that substantially open china's market across the spectrum to u.s goods services and [agriculture] i want to acknowledge the tremendous efforts of ambassador barshefsky in achieving this result and note the bipartisan support for that agreement and for the...
+
+[USTR_CT_100701]
+  ...at the working party meeting in geneva last week in shanghai ambassador zoellick negotiated the following improvements in china's accession package first an agreement on [agricultural] domestic support that limits china's recourse to provisions of the wto agreement on agriculture to levels below that available for developing countries second a commitment...
+
+[USTR_CT_100701]
+  ...the following improvements in china's accession package first an agreement on agricultural domestic support that limits china's recourse to provisions of the wto agreement on [agriculture] to levels below that available for developing countries second a commitment from china to assure that its restrictions on chain stores do not inappropriately restrict...
+
+[USTR_CT_100701]
+  ...wto will be a benefit to china of course but it is not a favor to china major beneficiaries will be american companies workers and [agriculture] it would significantly open the world's most populous country and arguably the fastest growing economy in the world to our exporters and service suppliers renewal...
+
+[USTR_CT_100701]
+  ...it provided us with a set of comprehensive verifiable one-way trade concessions that substantially open china's market across the spectrum to u.s goods services and [agriculture] i want to acknowledge the tremendous efforts of ambassador barshefsky in achieving this result and to note the bipartisan support for that agreement and for...
+
+[USTR_CT_100701]
+  ...mail legal accounting and computer-related services permit u.s companies to operate wholesale retail and franchised distribution networks in addition the associated april 1999 u.s china [agricultural] cooperation agreement removed the bans on imports of u.s citrus and wheat which were not based on sound scientific principles this agreement requires china to...
+
+[USTR_CT_100701]
+  ...because the tariff reductions for all products and the new tariff rate quotas for wheat corn rice and cotton will only then take effect u.s [agricultural] exports to china including hong kong reached $ 3 billion in 2000 the u.s department of agriculture estimates that china's membership in the wto could...
+
+[USTR_CT_100701]
+  ...and cotton will only then take effect u.s agricultural exports to china including hong kong reached $ 3 billion in 2000 the u.s department of [agriculture] estimates that china's membership in the wto could result in $ 2 billion annually in additional u.s agricultural exports by 2005 systemic reforms in addition...
+
+[USTR_CT_100701]
+  ...billion in 2000 the u.s department of agriculture estimates that china's membership in the wto could result in $ 2 billion annually in additional u.s [agricultural] exports by 2005 systemic reforms in addition to improved market access china has agreed to change practices that have made it difficult for u.s companies...
+
+[USTR_CT_100701]
+  ...government particularly those in the state-owned or ` ` planned sectors of the economy stand to lose influence in cooperation with the congress commerce and [agriculture] departments other government agencies industry and agriculture and other governments we will continue to engage the chinese vigorously whenever we see such slippage recent developments...
+
+[USTR_CT_100701]
+  ...` ` planned sectors of the economy stand to lose influence in cooperation with the congress commerce and agriculture departments other government agencies industry and [agriculture] and other governments we will continue to engage the chinese vigorously whenever we see such slippage recent developments shanghai and geneva the 1999 agreements critical...
+
+[USTR_CT_100701]
+  ...services schedules necessitated by ambiguities in china's laws and regulations in shanghai ambassador zoellick negotiated the following improvements in china's accession package an agreement on [agricultural] domestic support that limits china's recourse to provisions of the wto agreement on agriculture to levels below that available to developing countries a commitment from...
+
+[USTR_CT_100701]
+  ...negotiated the following improvements in china's accession package an agreement on agricultural domestic support that limits china's recourse to provisions of the wto agreement on [agriculture] to levels below that available to developing countries a commitment from china to assure that its restrictions on chain stores do not inappropriately restrict the...
+
+[USTR_CT_100701]
+  ...make a few additional points about china's wto commitments first our agreements will reduce china's trade barriers across a broad range of goods services and [agricultural] products eliminate or significantly reduce restrictions on freedom to import and distribute goods within china and rectify industrial policies intended to draw jobs and technology...
+
+[USTR_CT_100701]
+  ...identify and act upon problems as early as possible drawing on the assets of our embassy and consulates in china the departments of commerce and [agriculture] and the american chambers of commerce in china and the region at ustr we have added two people to what was a four-person china office...
+
+[USTR_CT_100701]
+  ...the most rigorous and broad-ranging commitments ever required of a new member to the gatt or wto major beneficiaries will be american companies workers and [agriculture] it would significantly open the world's most populous country and arguably the fastest-growing economy in the world to our exporters and service suppliers renewal of...
+
+Total occurrences: 39 
+
+>>> KWIC: world trade organ <<<
+
+No occurrences found.
+
+>>> KWIC: quota <<<
+
+[TAR_2001]
+  ...agreed to phase-out these prohibitions over three years subject to limited exceptions china also committed to the phase-out of trade-distortive non-tariff measures ntms such as [quotas] and licenses covering hundreds of products most of these ntms must be eliminated upon accession while the remainder of them must be eliminated within three...
+
+[TAR_2001]
+  ...and that includes the same elements that developed countries use in determining whether the cap has been reached in addition china committed to implement tariff-rate [quotas] that provide significant market access for bulk goods of special importance to american farmers such as grains soy oil and cotton upon accession china also...
+
+[TAR_2001]
+  ...has improved but restrictions on distribution remain a key concern although imports of foreign video titles have increased rapidly the chinese still impose an unofficial [quota] on foreign motion pictures that are distributed on a revenue-sharing basis china maintains this limit through a state-owned import monopoly china committed in its november...
+
+[TAR_2001]
+  ...understanding on market access in 1992 this agreement committed china to changes in its import regime over a five-year period including increased transparency elimination of [quotas] and licenses a guarantee that no trade law or regulation could be enforced unless published uniform application of trade rules elimination of import substitution policies...
+
+[TAR_2001]
+  ...import substitution policies and agreement that any sanitary and phytosanitary measures would be based on sound science while china phased-out formal measures such as certain [quotas] and licenses serious problems remained during 2001 as china continued to restrict imports by retaining non-uniform application of trade rules import substitution policies and use...
+
+[TAR_2002]
+  ...unique to china particularly serious problems were encountered on many fronts including china's regulation of agricultural goods made with biotechnology the administration of china's tariff-rate [quota] trq system for bulk agricultural commodities the application of sanitary and phytosanitary measures and inspection requirements the united states and china were able to make...
+
+[USTR_CT_100701]
+  ...the benefits of china's commitments in areas such as services and dispute settlements will be unavailable to u.s companies all of the tariff and tariff-rate [quota] concessions will be on hold china's accession to wto will be a benefit to china of course but it is not a favor to china...
+
+[USTR_CT_100701]
+  ...to capitalize on it much more fully once china accedes to the wto because the tariff reductions for all products and the new tariff rate [quotas] for wheat corn rice and cotton will only then take effect u.s agricultural exports to china including hong kong reached $ 3 billion in 2000...
+
+[USTR_CT_100701]
+  ...on numerous issues crucial to assuring market access and fair trade with china inter alia technical barriers to trade standards anti-dumping safeguards administration of tariff-rate [quotas] intellectual property rights industrial subsidies and the transitional mechanism to monitor china's implementation of its commitments i want to make a few additional points about...
+
+[USTR_CT_100701]
+  ...the benefits of china's commitments in areas such as services and dispute settlement will be unavailable to u.s companies all of the tariff and tariff-rate [quota] concessions will be on hold the livelihoods of the 400,000 american workers and farmers employed in or benefiting from america's trade with china will be...
+
+Total occurrences: 10 
+
+>>> KWIC: sanitary <<<
+
+[TAR_2001]
+  ...principles such as non-discrimination and national treatment that constrain and guide national trade policies as well as other wto agreements such as those governing agriculture [sanitary] and phytosanitary measures technical barriers to trade trade-related investment measures trims trade-related intellectual property rights trips services gats subsidies import licensing rules of origin customs...
+
+[TAR_2001]
+  ...its long sought objective to gain direct access to china's market for u.s agricultural products and in particular its aim to remove china's remaining unjustified [sanitary] and phytosanitary barriers previously in 1992 china signed a bilateral memorandum of understanding on market access with the united states agreeing to remove unjustified technical...
+
+[TAR_2001]
+  ...142,000 tons of sales have been made 120,000 tons of which have already been exported no u.s wheat is currently detained bilateral negotiations on remaining [sanitary] and phytosanitary issues continue with barriers still in place on plums additional varieties of apples potatoes and pears with its accession to the wto china...
+
+[TAR_2001]
+  ...that no trade law or regulation could be enforced unless published uniform application of trade rules elimination of import substitution policies and agreement that any [sanitary] and phytosanitary measures would be based on sound science while china phased-out formal measures such as certain quotas and licenses serious problems remained during 2001...
+
+[TAR_2001]
+  ...licenses serious problems remained during 2001 as china continued to restrict imports by retaining non-uniform application of trade rules import substitution policies and use of [sanitary] and phytosanitary sps standards china's accession agreement includes these same commitments as well as many additional ones consequently the commitments made by china in the...
+
+[TAR_2002]
+  ...fronts including china's regulation of agricultural goods made with biotechnology the administration of china's tariff-rate quota trq system for bulk agricultural commodities the application of [sanitary] and phytosanitary measures and inspection requirements the united states and china were able to make progress toward resolving some of these problems particularly with regard...
+
+[USTR_CT_100701]
+  ...agreement removed the bans on imports of u.s citrus and wheat which were not based on sound scientific principles this agreement requires china to apply [sanitary] and phytosanitary measures consistent with sound scientific principles and to accept u.s certification of meat products with proper implementation these requirements will be of particular...
+
+Total occurrences: 7 
+
+>>> KWIC: commit <<<
+
+[SPS_GWB_271201]
+  ...than a decade of bilateral and multilateral negotiations and the beginning of a process of working constructively with china to help it fully implement its [commitments] on trade liberalization congress authorized these actions subject to the president's certification that the final terms of entry for china into the wto were at...
+
+[TAR_2001]
+  ...concessions in areas of interest to u.s firms upon china's accession an expert group was formed under the tpsc in washington and a wto coordination [committee] was established within the mission in beijing to monitor china's implementation of its commitments the departments of commerce and state continued to devote considerable resources...
+
+[TAR_2001]
+  ...was formed under the tpsc in washington and a wto coordination committee was established within the mission in beijing to monitor china's implementation of its [commitments] the departments of commerce and state continued to devote considerable resources to building an understanding among the chinese of china's wto obligations china's accession to...
+
+[TAR_2001]
+  ...15 years of negotiations to reflect changes in its trade regime second each interested wto member negotiated bilaterally with china regarding market access concessions and [commitments] in the goods and services areas including for example the tariffs on industrial and agricultural goods and the commitments that china is making to open...
+
+[TAR_2001]
+  ...china regarding market access concessions and commitments in the goods and services areas including for example the tariffs on industrial and agricultural goods and the [commitments] that china is making to open up its market to foreign services suppliers the most trade liberalizing of the concessions and commitments obtained through these...
+
+[TAR_2001]
+  ...goods and the commitments that china is making to open up its market to foreign services suppliers the most trade liberalizing of the concessions and [commitments] obtained through these bilateral negotiations were consolidated into china's goods and services schedules and now apply to all wto members third overlapping in time with...
+
+[TAR_2001]
+  ...in time with these bilateral negotiations china engaged in multilateral negotiations with working party members on the rules that govern trade with china the rules [commitments] made by china in this area are set forth in its protocol of accession and an accompanying report of the working party with its accession...
+
+[TAR_2001]
+  ...to operate with openness and transparency and stresses the central role of markets and private enterprise in order to accede to the wto china has [committed] to undertake important systemic reforms which should facilitate business dealings china has also committed to take concrete steps to remove trade barriers and open its...
+
+[TAR_2001]
+  ...private enterprise in order to accede to the wto china has committed to undertake important systemic reforms which should facilitate business dealings china has also [committed] to take concrete steps to remove trade barriers and open its markets to foreign companies and their exports from the first day of accession in...
+
+[TAR_2001]
+  ...exports from the first day of accession in virtually every product sector and for a wide range of services supporting these steps china has also [committed] to eliminate or significantly reduce restrictions on the rights of foreign companies to import and export goods and to distribute goods within china and it...
+
+[TAR_2001]
+  ...or significantly reduce restrictions on the rights of foreign companies to import and export goods and to distribute goods within china and it has further [committed] to rectify numerous trade-distortive industrial and agricultural policies the openness accountability and changes required by china's commitments should strengthen and accelerate the achievement of china's...
+
+[TAR_2001]
+  ...distribute goods within china and it has further committed to rectify numerous trade-distortive industrial and agricultural policies the openness accountability and changes required by china's [commitments] should strengthen and accelerate the achievement of china's economic reform goals china's ministries and agencies will transition out of their old role of directing and...
+
+[TAR_2001]
+  ...business decisions and together with other chinese enterprises they will face the full forces of global competition for the first time ii systemic reforms china [committed] to implementing broad reforms in the areas of transparency notice and comment uniform application of laws and judicial review each of these reforms will strengthen...
+
+[TAR_2001]
+  ...trade-related investment measures trims trade-related intellectual property rights trips services gats subsidies import licensing rules of origin customs valuation and preshipment inspection iv china-specific trade-liberalizing [commitments] china's accession agreement also includes numerous china-specific trade-liberalizing commitments one of the most significant of these commitments involves trading rights prior to its accession china...
+
+[TAR_2001]
+  ...services gats subsidies import licensing rules of origin customs valuation and preshipment inspection iv china-specific trade-liberalizing commitments china's accession agreement also includes numerous china-specific trade-liberalizing [commitments] one of the most significant of these commitments involves trading rights prior to its accession china restricted the number of companies with trading rights i.e...
+
+[TAR_2001]
+  ...customs valuation and preshipment inspection iv china-specific trade-liberalizing commitments china's accession agreement also includes numerous china-specific trade-liberalizing commitments one of the most significant of these [commitments] involves trading rights prior to its accession china restricted the number of companies with trading rights i.e the right to import and export goods and...
+
+[TAR_2001]
+  ...all enterprises in china and all foreign enterprises and individuals will have full trading rights within three years after accession perhaps equally significant is china's [commitment] regarding distribution services prior to its accession china generally did not permit foreign companies to distribute products through wholesale and retail systems in china or...
+
+[TAR_2001]
+  ...provide related distribution services such as repair and maintenance services china agreed to phase-out these prohibitions over three years subject to limited exceptions china also [committed] to the phase-out of trade-distortive non-tariff measures ntms such as quotas and licenses covering hundreds of products most of these ntms must be eliminated upon...
+
+[TAR_2001]
+  ...products most of these ntms must be eliminated upon accession while the remainder of them must be eliminated within three years after accession china further [committed] to the elimination of import monopolies maintained by state trading enterprises in china on many industrial goods upon accession it must also provide full information...
+
+[TAR_2001]
+  ...pricing and the procedures for establishing prices china may not use price controls to restrict the level of imports of goods or services finally china [committed] to non-discrimination in the treatment of enterprises within its special economic areas v tariff reductions when china's goods schedule went into effect shortly after china...
+
+[TAR_2001]
+  ...on agricultural goods of greatest importance to u.s farmers were to be reduced from a 1997 average of 31 percent to 14 percent vi services [commitments] as set forth in china's services schedule china committed to the substantial opening of a broad range of services sectors through the elimination of many...
+
+[TAR_2001]
+  ...were to be reduced from a 1997 average of 31 percent to 14 percent vi services commitments as set forth in china's services schedule china [committed] to the substantial opening of a broad range of services sectors through the elimination of many existing limitations on market access at all levels of...
+
+[TAR_2001]
+  ...access at all levels of government particularly in sectors of importance to the united states such as banking insurance telecommunications and professional services notably these [commitments] represent only the minimum level of market access that china will be expected to make available once it becomes a wto member nothing in china's...
+
+[TAR_2001]
+  ...its implementation efforts and to give all wto members the opportunity to raise questions in a multilateral setting about how china is complying with its [commitments] before 16 subsidiary wto bodies which report to the wto's general council the general council then conducts an overall review each year and may issue...
+
+[TAR_2001]
+  ...remain available to enforce all of the rights of the united states and other wto members under the wto agreements including with regard to the [commitments] in china's accession agreement viii safeguard mechanisms even though the terms of china's accession agreement are directed at the opening of china's market to wto...
+
+[TAR_2001]
+  ...with prison labor ix u.s monitoring and enforcement efforts given china's importance as a major trading power and the breadth and complexity of china's wto [commitments] the u.s government initiated a comprehensive and coordinated interagency monitoring effort to ensure that china complies with its commitments as part of this effort the...
+
+[TAR_2001]
+  ...breadth and complexity of china's wto commitments the u.s government initiated a comprehensive and coordinated interagency monitoring effort to ensure that china complies with its [commitments] as part of this effort the u.s government will be active on several fronts in china state department economic officers foreign commercial service officers foreign...
+
+[TAR_2001]
+  ...potatoes and pears with its accession to the wto china took on the obligations of the wto agreement on agriculture china also made several additional [commitments] that will help to rectify numerous agricultural policies upon accession or after limited transition periods for example china committed to eliminate export subsidies upon accession...
+
+[TAR_2001]
+  ...agriculture china also made several additional commitments that will help to rectify numerous agricultural policies upon accession or after limited transition periods for example china [committed] to eliminate export subsidies upon accession and it has agreed to a cap for trade and production-distorting domestic subsidies that is lower than the cap...
+
+[TAR_2001]
+  ...cap permitted developing countries and that includes the same elements that developed countries use in determining whether the cap has been reached in addition china [committed] to implement tariff-rate quotas that provide significant market access for bulk goods of special importance to american farmers such as grains soy oil and cotton...
+
+[TAR_2001]
+  ...a basic infrastructure for the protection and enforcement of intellectual property rights implementation of our bilateral intellectual property rights agreements provided a basis for china's [commitment] to implement the wto agreement on trade-related aspects of intellectual property rights trips upon accession to the wto additional improvements to china's laws and training...
+
+[TAR_2001]
+  ...in pirated product under our bilateral agreements market access for computer software motion pictures videos and sound recordings have improved china has also made further [commitments] on market access in the context of our november 1999 bilateral wto agreement which have now been incorporated into china's accession agreement i further steps...
+
+[TAR_2001]
+  ...impose an unofficial quota on foreign motion pictures that are distributed on a revenue-sharing basis china maintains this limit through a state-owned import monopoly china [committed] in its november 1999 bilateral wto agreement with the united states to increase market access for the audiovisual sector and these commitments were subsequently incorporated...
+
+[TAR_2001]
+  ...import monopoly china committed in its november 1999 bilateral wto agreement with the united states to increase market access for the audiovisual sector and these [commitments] were subsequently incorporated into china's accession agreement china will allow foreigners to distribute videos entertainment software and sound recordings through joint ventures and will allow...
+
+[TAR_2001]
+  ...responsible administrative agencies d 1992 market access agreement the united states and china signed a memorandum of understanding on market access in 1992 this agreement [committed] china to changes in its import regime over a five-year period including increased transparency elimination of quotas and licenses a guarantee that no trade law...
+
+[TAR_2001]
+  ...imports by retaining non-uniform application of trade rules import substitution policies and use of sanitary and phytosanitary sps standards china's accession agreement includes these same [commitments] as well as many additional ones consequently the commitments made by china in the 1992 memorandum of understanding have been in effect multilateralized and therefore...
+
+[TAR_2001]
+  ...substitution policies and use of sanitary and phytosanitary sps standards china's accession agreement includes these same commitments as well as many additional ones consequently the [commitments] made by china in the 1992 memorandum of understanding have been in effect multilateralized and therefore the united states will no longer be alone in...
+
+[TAR_2002]
+  ...accelerate this process of market reform in order to comply with wto requirements accordingly china's wto accession agreement embodies a set of extensive and far-reaching [commitments] on the part of china to change its trade regime at all levels of government given the breadth and complexity of these commitments assessing china's...
+
+[TAR_2002]
+  ...and far-reaching commitments on the part of china to change its trade regime at all levels of government given the breadth and complexity of these [commitments] assessing china's wto compliance efforts is not a simple task overall during the first year of its wto membership china made significant progress in implementing...
+
+[TAR_2002]
+  ...wto compliance efforts is not a simple task overall during the first year of its wto membership china made significant progress in implementing its wto [commitments] although much is left to do progress was made both in making many of the required systemic changes and in implementing specific commitments at the...
+
+[TAR_2002]
+  ...its wto commitments although much is left to do progress was made both in making many of the required systemic changes and in implementing specific [commitments] at the same time serious concerns arose in some areas where implementation had not yet occurred or was inadequate as expected the principal focus of...
+
+[TAR_2002]
+  ...substantial technical assistance and capacity building resources to this effort as a general matter china took positive steps to implement many of its specific wto [commitments] during the past year it made required tariff reductions notably for information technology products chemicals autos and auto parts wood and paper products and many...
+
+[TAR_2002]
+  ...products chemicals autos and auto parts wood and paper products and many agricultural goods including beef dairy products and citrus among others when discrepancies between [committed] and implemented rates were reported china usually made necessary adjustments china also began the process of removing numerous non-tariff trade barriers that had affected a...
+
+[TAR_2002]
+  ...audio-visual services tourism and travel-related services constructions and engineering services educational services and environmental services while the efforts of china's leadership to implement china's wto [commitments] should be recognized the administration also found a number of causes for serious concern during china's first year of wto membership one area of cross-cutting...
+
+[TAR_2002]
+  ...number of causes for serious concern during china's first year of wto membership one area of cross-cutting concern involved transparency in particular china implemented its [commitment] to greater transparency in the adoption and operation of new laws and regulations unevenly at best while some ministries and agencies did take steps to...
+
+[TAR_2002]
+  ...to provide appropriate wto enquiry points the administration found china's overall effort to be plagued by uncertainty and a lack of uniformity the administration is [committed] to seeking improvements in china's efforts in this area apart from this systemic concern three other areas generated significant problems and warrant continued u.s scrutiny...
+
+[TAR_2002]
+  ...some of these problems particularly with regard to biotechnology other problems remain unresolved however with the most troublesome being china's inadequate implementation of its trq [commitments] in the area of intellectual property rights ipr china did make significant improvements to its framework of laws and regulations however the lack of effective...
+
+[TAR_2002]
+  ...coordination among relevant ministries in the chinese government another source of compliance problems has been a lack of effective or uniform application of china's wto [commitments] at local and provincial levels china is taking steps to address both of these concerns through more effective inter-ministerial mechanisms at the national level and...
+
+[TAR_2002]
+  ...far-reaching and are complicated further by china’s highly decentralized administrative structure at the same time they want to see china comply fully with its wto [commitments] as does the administration the united states working with fellow wto members will use all means at its disposal to ensure that china achieves full...
+
+[USTR_CT_100701]
+  ...merely the u.s china relationship as important as that is my colleagues from the departments of state and commerce will discuss with this and other [committees] why the granting of normal trade relations status is in the broad u.s national interest my testimony will focus on the ongoing negotiations on china's...
+
+[USTR_CT_100701]
+  ...have made it difficult for u.s companies to do business in china and hindered the developments of china's economy as well these broad-based reforms include [commitments] to greater transparency in the operation of china's trade regime laws regulations and other measures will be published before they are enforced and interested parties...
+
+[USTR_CT_100701]
+  ...protocol of accession and the working party report these documents describe how wto rules will apply to china and how china intends to implement the [commitment] it is undertaking it is principally these negotiations that have occupied ambassador zoellick and our delegation first in shanghai last month and most recently at...
+
+[USTR_CT_100701]
+  ...agricultural domestic support that limits china's recourse to provisions of the wto agreement on agriculture to levels below that available for developing countries second a [commitment] from china to assure that its restrictions on chain stores do not inappropriately restrict the right of american retailers to operate fully owned distribution outlets...
+
+[USTR_CT_100701]
+  ...to assure that its restrictions on chain stores do not inappropriately restrict the right of american retailers to operate fully owned distribution outlets third a [commitment] from china on how it will allow foreign companies including those from the united states to export to china on a nondiscriminatory nondiscretionary basis without...
+
+[USTR_CT_100701]
+  ...on working party provisions on numerous issues crucial to assuring market access and fair trade with china just a few additional points about china's wto [commitments] first they are effective immediately upon accession most will phase in some will be effective on day one most will phase in in 3 years...
+
+[USTR_CT_100701]
+  ...with its benefits to u.s business labor farmers and ranchers will grind to a halt without china's accession to the wto the benefits of china's [commitments] in areas such as services and dispute settlements will be unavailable to u.s companies all of the tariff and tariff-rate quota concessions will be on...
+
+[USTR_CT_100701]
+  ...the u.s china trade relationship as important as that is my colleagues from the departments of state and commerce will discuss with this and other [committees] why the granting of normal trade relations status is in the broad u.s national interest and how it affects our global and regional security concerns...
+
+[USTR_CT_100701]
+  ...that have made it difficult for u.s companies to do business in china and hindered the development of china's economy these broad based reforms include [commitments] to greater transparency in the operation of china's trade regime laws regulations and other measures will be published before they are enforced and interested parties...
+
+[USTR_CT_100701]
+  ...protocol of accession and the working party report these documents describe how wto rules will apply to china and how china intends to implement the [commitments] it is undertaking in the area of goods services and intellectual property rights it is principally these negotiations that have occupied ambassador zoellick and our...
+
+[USTR_CT_100701]
+  ...on agricultural domestic support that limits china's recourse to provisions of the wto agreement on agriculture to levels below that available to developing countries a [commitment] from china to assure that its restrictions on chain stores do not inappropriately restrict the right of american retailers to operate fully-owned distribution outlets a...
+
+[USTR_CT_100701]
+  ...from china to assure that its restrictions on chain stores do not inappropriately restrict the right of american retailers to operate fully-owned distribution outlets a [commitment] from china on how it will allow foreign companies including those from the united states to export to china on a nondiscriminatory non-discretionary basis without...
+
+[USTR_CT_100701]
+  ...barriers to trade standards anti-dumping safeguards administration of tariff-rate quotas intellectual property rights industrial subsidies and the transitional mechanism to monitor china's implementation of its [commitments] i want to make a few additional points about china's wto commitments first our agreements will reduce china's trade barriers across a broad range of...
+
+[USTR_CT_100701]
+  ...rights industrial subsidies and the transitional mechanism to monitor china's implementation of its commitments i want to make a few additional points about china's wto [commitments] first our agreements will reduce china's trade barriers across a broad range of goods services and agricultural products eliminate or significantly reduce restrictions on freedom...
+
+[USTR_CT_100701]
+  ...reduce restrictions on freedom to import and distribute goods within china and rectify industrial policies intended to draw jobs and technology to china second china's [commitments] are effective immediately upon accession china will be required to take concrete steps to open its market from day one in virtually every sector the...
+
+[USTR_CT_100701]
+  ...further concessions will be limited to five years in almost all cases and in many cases to three years third the agreements are enforceable china's [commitments] are specific with timetables and dates for staged and full implementation we will enforce them through our trade laws wto dispute settlement processes as necessary...
+
+[USTR_CT_100701]
+  ...with which it has been negotiating intensively along with our other trading partners we are in the process of verifying and rectifying each of the [commitments] china has made in its various bilateral agreements to assure the most liberalizing one makes it into the final accession documents i will be going...
+
+[USTR_CT_100701]
+  ...and jobs going to u.s competitors as was clear in last year's debate on pntr without china's accession to the wto the benefits of china's [commitments] in areas such as services and dispute settlement will be unavailable to u.s companies all of the tariff and tariff-rate quota concessions will be on...
+
+[USTR_CT_100701]
+  ...wto will be a benefit to china of course but it is not a favor to china indeed it contains the most rigorous and broad-ranging [commitments] ever required of a new member to the gatt or wto major beneficiaries will be american companies workers and agriculture it would significantly open the...
+
+Total occurrences: 68 
+
+>>> KWIC: implement <<<
+
+[SPS_GWB_271201]
+  ...of more than a decade of bilateral and multilateral negotiations and the beginning of a process of working constructively with china to help it fully [implement] its commitments on trade liberalization congress authorized these actions subject to the president's certification that the final terms of entry for china into the wto...
+
+[TAR_2001]
+  ...an expert group was formed under the tpsc in washington and a wto coordination committee was established within the mission in beijing to monitor china's [implementation] of its commitments the departments of commerce and state continued to devote considerable resources to building an understanding among the chinese of china's wto obligations...
+
+[TAR_2001]
+  ...area are set forth in its protocol of accession and an accompanying report of the working party with its accession to the wto china is [implementing] significant changes to its trade regime at all levels of government although it has been gradually transitioning toward a market economy from what had been...
+
+[TAR_2001]
+  ...out of their old role of directing and controlling how and with whom chinese enterprises do business increasingly they will need to focus on the [implementation] and enforcement of laws regulations and other measures that will help to promote the smooth functioning of markets meanwhile state-owned enterprises will face greater accountability...
+
+[TAR_2001]
+  ...and together with other chinese enterprises they will face the full forces of global competition for the first time ii systemic reforms china committed to [implementing] broad reforms in the areas of transparency notice and comment uniform application of laws and judicial review each of these reforms will strengthen the rule...
+
+[TAR_2001]
+  ...tariffs on computers semiconductors and other information technology products china's elimination of these tariffs will be completed by january 1 2005 china also agreed to [implement] tariff reductions on more than two-thirds of the 1,100-plus products covered by the wto's chemical tariff harmonization agreement in addition tariffs on autos were to...
+
+[TAR_2001]
+  ...8 years after china's accession with a final review in year 10 it requires china to provide detailed information to report to washington on its [implementation] efforts and to give all wto members the opportunity to raise questions in a multilateral setting about how china is complying with its commitments before...
+
+[TAR_2001]
+  ...1999 aca china also agreed to remove phytosanitary barriers to citrus exports from arizona california florida and texas over a two-year phase-in period while it [implemented] the first tranche on schedule china delayed implementation for remaining counties in california and florida three months beyond the october 2000 deadline finally implementing the...
+
+[TAR_2001]
+  ...barriers to citrus exports from arizona california florida and texas over a two-year phase-in period while it implemented the first tranche on schedule china delayed [implementation] for remaining counties in california and florida three months beyond the october 2000 deadline finally implementing the agreement for those counties on january 18 2001...
+
+[TAR_2001]
+  ...it implemented the first tranche on schedule china delayed implementation for remaining counties in california and florida three months beyond the october 2000 deadline finally [implementing] the agreement for those counties on january 18 2001 china has not responded to the february 2001 animal and plant health inspection service's request to...
+
+[TAR_2001]
+  ...developing countries and that includes the same elements that developed countries use in determining whether the cap has been reached in addition china committed to [implement] tariff-rate quotas that provide significant market access for bulk goods of special importance to american farmers such as grains soy oil and cotton upon accession...
+
+[TAR_2001]
+  ...our 1995 ipr agreement and the administration's continuing bilateral efforts china has developed a basic infrastructure for the protection and enforcement of intellectual property rights [implementation] of our bilateral intellectual property rights agreements provided a basis for china's commitment to implement the wto agreement on trade-related aspects of intellectual property rights...
+
+[TAR_2001]
+  ...infrastructure for the protection and enforcement of intellectual property rights implementation of our bilateral intellectual property rights agreements provided a basis for china's commitment to [implement] the wto agreement on trade-related aspects of intellectual property rights trips upon accession to the wto additional improvements to china's laws and training of judges...
+
+[TAR_2001]
+  ...decree to address the end-user computer software piracy issue in connection with government purchase and use of legitimate software as a result of intensive bilateral [implementation] and enforcement negotiations in 1996 china has made further progress on enforcement of intellectual property rights for example chinese authorities have shut down over 100...
+
+[TAR_2001]
+  ...market access china's last major revisions to its intellectual property rights laws and regulations occurred after the 1992 bilateral agreement based on its experience in [implementing] its intellectual property rights laws chinese authorities have revised the copyright patent and trademark laws and are taking further steps necessary to comply with the...
+
+[TAR_2001]
+  ...comply with the requirements of the trips agreement the united states has also urged china to do a comprehensive amendment to its copyright laws to [implement] two copyright-related agreements negotiated under the auspices of the world intellectual property organization wipo that china has signed but not yet ratified chinese enforcement of...
+
+[TAR_2001]
+  ...an exchange of information on the commercial satellite launch market and new developments in china's commercial space program as well as a review of the [implementation] of the agreement the agreement expired pursuant to its terms on december 31 2001 no determination has been made regarding any future arrangement with china...
+
+[TAR_2002]
+  ...commitments assessing china's wto compliance efforts is not a simple task overall during the first year of its wto membership china made significant progress in [implementing] its wto commitments although much is left to do progress was made both in making many of the required systemic changes and in implementing specific...
+
+[TAR_2002]
+  ...in implementing its wto commitments although much is left to do progress was made both in making many of the required systemic changes and in [implementing] specific commitments at the same time serious concerns arose in some areas where implementation had not yet occurred or was inadequate as expected the principal...
+
+[TAR_2002]
+  ...both in making many of the required systemic changes and in implementing specific commitments at the same time serious concerns arose in some areas where [implementation] had not yet occurred or was inadequate as expected the principal focus of china's first year of wto membership was on its framework of laws...
+
+[TAR_2002]
+  ...with many private sector groups contributed substantial technical assistance and capacity building resources to this effort as a general matter china took positive steps to [implement] many of its specific wto commitments during the past year it made required tariff reductions notably for information technology products chemicals autos and auto parts...
+
+[TAR_2002]
+  ...autos and auto parts wood and paper products and many agricultural goods including beef dairy products and citrus among others when discrepancies between committed and [implemented] rates were reported china usually made necessary adjustments china also began the process of removing numerous non-tariff trade barriers that had affected a range of...
+
+[TAR_2002]
+  ...financial services telecommunications audio-visual services tourism and travel-related services constructions and engineering services educational services and environmental services while the efforts of china's leadership to [implement] china's wto commitments should be recognized the administration also found a number of causes for serious concern during china's first year of wto membership one...
+
+[TAR_2002]
+  ...found a number of causes for serious concern during china's first year of wto membership one area of cross-cutting concern involved transparency in particular china [implemented] its commitment to greater transparency in the adoption and operation of new laws and regulations unevenly at best while some ministries and agencies did take...
+
+[TAR_2002]
+  ...make progress toward resolving some of these problems particularly with regard to biotechnology other problems remain unresolved however with the most troublesome being china's inadequate [implementation] of its trq commitments in the area of intellectual property rights ipr china did make significant improvements to its framework of laws and regulations however...
+
+[TAR_2002]
+  ...as does the administration the united states working with fellow wto members will use all means at its disposal to ensure that china achieves full [implementation] for a more detailed discussion of trade-related issues involving china in 2002 see ustr's 2002 report to congress on china's wto compliance issued on december...
+
+[USTR_CT_100701]
+  ...and other measures will be published before they are enforced and interested parties will have an opportunity to comment on the provisions before they are [implemented] administrative actions relating to trade matters will be subject to judicial review beijing has been systematically reviewing and revising or abolishing laws and regulations inconsistent...
+
+[USTR_CT_100701]
+  ...package the protocol of accession and the working party report these documents describe how wto rules will apply to china and how china intends to [implement] the commitment it is undertaking it is principally these negotiations that have occupied ambassador zoellick and our delegation first in shanghai last month and most...
+
+[USTR_CT_100701]
+  ...enforceable we will enforce them through our trade laws wto dispute settlement processes as necessary and other mechanisms including an annual multilateral review of china's [implementation] and compliance for 8 years with an additional review in the 10th year third the agreement helps ensure that trade with china does not injure...
+
+[USTR_CT_100701]
+  ...legislation allows the u.s to act quickly to address rapidly increasing imports from china and fourth the increased transparency and accountability that wto membership and [implementation] of wto rules compel will have a positive effect in other areas the essence of the wto is that it is a rules-based system that...
+
+[USTR_CT_100701]
+  ...this agreement requires china to apply sanitary and phytosanitary measures consistent with sound scientific principles and to accept u.s certification of meat products with proper [implementation] these requirements will be of particular benefit to u.s growers of wheat and citrus products previously barred from china and should facilitate export of u.s...
+
+[USTR_CT_100701]
+  ...and other measures will be published before they are enforced and interested parties will have an opportunity to comment on these provisions before they are [implemented] administrative actions relating to trade matters will be subject to judicial review and china has agreed that the practices of all levels of government will...
+
+[USTR_CT_100701]
+  ...package the protocol of accession and the working party report these documents describe how wto rules will apply to china and how china intends to [implement] the commitments it is undertaking in the area of goods services and intellectual property rights it is principally these negotiations that have occupied ambassador zoellick...
+
+[USTR_CT_100701]
+  ...inter alia technical barriers to trade standards anti-dumping safeguards administration of tariff-rate quotas intellectual property rights industrial subsidies and the transitional mechanism to monitor china's [implementation] of its commitments i want to make a few additional points about china's wto commitments first our agreements will reduce china's trade barriers across a...
+
+[USTR_CT_100701]
+  ...cases and in many cases to three years third the agreements are enforceable china's commitments are specific with timetables and dates for staged and full [implementation] we will enforce them through our trade laws wto dispute settlement processes as necessary and other mechanisms including an annual multilateral review of china's implementation...
+
+[USTR_CT_100701]
+  ...implementation we will enforce them through our trade laws wto dispute settlement processes as necessary and other mechanisms including an annual multilateral review of china's [implementation] and compliance for eight years with an additional review in the tenth year we intend to set up a network to help us identify and...
+
+[USTR_CT_100701]
+  ...two people to what was a four-person china office and one attorney to our general counsel's office all of whom will focus on monitoring and [implementation] efforts fourth the agreement helps ensure that trade with china does not injure u.s industry and workers the special anti dumping provision we negotiated allows...
+
+[USTR_CT_100701]
+  ...textile and apparel industry will be able to use this safeguard until january 1 2009 fifth the increased transparency and accountability that wto membership and [implementation] of wto rules compel can only have a positive effect in other areas the essence of the wto is that it is a rules-based system...
+
+Total occurrences: 38 
