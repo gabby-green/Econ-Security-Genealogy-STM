@@ -1,0 +1,75 @@
+Topic 1 Top Words:
+ 	 Highest Prob: european_union, import, barrier, negoti, world_trade_organ, measur, trade, product, export, india, russia, requir, issu, concern, restrict, china, invest, commiss, sector, market 
+ 	 FREX: brazil, argentina, india, tibr, japan, economic_coercion, free_trade_agr, sps, restrict, local, russia, regard, certif, negoti, procedur, russian, indian, burdensom, mercosur, content 
+ 	 Lift: economic_coercion, catalogu, tyre, ntbs, argentina, indigen, cotton, tibr, non-automat, scan, fee, justif, termin, brazil, far-reach, preparatori, substitut, spite, brazilian, concess 
+ 	 Score: economic_coercion, argentina, tibr, brazil, sps, investment_barri, cotton, tbt, edit, catalogu, india, tyre, barrier, indian, burdensom, russian, free_trade_agr, russia, trade-restrict, dispute_settl 
+Topic 2 Top Words:
+ 	 Highest Prob: european_union, industri, energi, steel, commiss, sector, metal, product, market, use, support, ensur, measur, decarbonis, import, action, suppli, european, competit, cost 
+ 	 FREX: metal, steel, decarbonis, energi, aluminium, recycl, clean, circular, industri, suppli, critical_raw_materi, scrap, materi, carbon, gas, demand, transit, project, fund, wast 
+ 	 Lift: shipbuild, decarbonis, secondari, metal, tonn, scrap, recycl, primari, copper, downstream, grid, gas, low-carbon, pipelin, wast, steel, oil, extract, aluminium, premium 
+ 	 Score: metal, decarbonis, shipbuild, critical_raw_materi, scrap, steel, aluminium, secondari, recycl, tonn, circular, grid, downstream, primari, copper, carbon, leakag, low-carbon, overcapac, resili 
+Topic 3 Top Words:
+ 	 Highest Prob: united_st, trade, world, need, world_trade_organ, work, european_union, global, time, togeth, rule, europ, partner, system, open, state, china, order, countri, good 
+ 	 FREX: united_st, transatlant, mexico, unit, global_trad, alli, friend, rules-bas, strand, togeth, aluminium, updat, built, rulebook, order, car, democraci, decad, tri, deal 
+ 	 Lift: strand, fascin, trump, grate, memori, rulebook, gatt, explicit, nato, disagr, alli, glad, rhetor, washington, unabl, holiday, ramp, escal, stood, transatlant 
+ 	 Score: strand, aluminium, transatlant, mexico, democraci, rhetor, alli, rulebook, trump, war, nato, disagr, friend, car, gatt, memori, liber, glad, overcapac, grate 
+Topic 4 Top Words:
+ 	 Highest Prob: china, european_union, cooper, european_union-china, summit, trade, agreement, discuss, invest, side, chines, agre, econom, european, minist, presid, partnership, commission, meet, import 
+ 	 FREX: summit, commission, minist, cooper, european_union-china, exchang, premier, vice-presid, sign, prime, presid, agre, hed, side, discuss, memorandum, innov, european_commiss, welcom, mutual 
+ 	 Lift: china-european_union, merger, vice-minist, urbanis, hed, memorandum, wen, katainen, vice-premi, vice-presid, premier, co-chair, silk, tourism, wen_jiabao, cross, attend, fraud, likeqiang, prime 
+ 	 Score: merger, hed, premier, memorandum, wen, european_union-china, vice-presid, vice-premi, urbanis, tourism, minist, summit, prime, china-european_union, katainen, side, co-chair, climate_chang, ocean, onlin 
+Topic 5 Top Words:
+ 	 Highest Prob: china, chines, trade, world_trade_organ, european_union, import, relationship, issu, need, area, relat, united_st, problem, busi, commit, economi, econom, exampl, time, current 
+ 	 FREX: doha_development_agenda, round, hope, chamber, euro, minist, problem, inde, chines, word, world_trade_organ, geneva, abl, visit, qualiti, final, difficult, doha, great, impress 
+ 	 Lift: wang, zhu_rongji, plenti, geneva, chamber, news, versa, eager, shi, moder, delight, doha_development_agenda, hear, plenum, influenti, guangzhou, supervis, keen, surpass, stride 
+ 	 Score: wang, doha_development_agenda, chamber, zhu_rongji, geneva, word, matur, round, chines, provinc, hear, doha, shi, minist, chanc, feel, delight, textil, hope, impress 
+Topic 6 Top Words:
+ 	 Highest Prob: european_union, china, trade, export, market, import, invest, compani, european, econom, chines, billion, increas, busi, servic, open, competit, good, access, product 
+ 	 FREX: intellectual_property_right, billion, export, public_procur, total, regulatori, market, servic, signific, oper, compani, raw_materi, investor, reciproc, foreign, grant, procur, studi, intellectual_properti, gdp 
+ 	 Lift: lithuania, high-valu, reviv, market_economy_status, rational, fraction, street, read, untap, impedi, hide, illustr, cap, segment, aggrav, fastest, counterfeit, piraci, detriment, own 
+ 	 Score: lithuania, market_economy_status, counterfeit, intellectual_property_right, mandelson, regulatori, high-valu, china, hide, illustr, market_access, gpa, export, street, procur, fastest, public_procur, trade_polici, cap, imbal 
+Topic 7 Top Words:
+ 	 Highest Prob: china, global, russia, europ, need, world, european_union, trade, econom, secur, economi, relationship, ukrain, must, discuss, war, open, concern, import, european 
+ 	 FREX: ukrain, de-risk, war, aggress, russia, decoupl, rare_earth, geopolit, climat, magnet, militari, shock, diversifi, climate_chang, tech, debt, territori, eur, discuss, depend 
+ 	 Lift: kill, cop28, lithium, decoupl, putin, magnet, shock, aggress, invas, de-risk, resumpt, flood, civilian, macron, fossil, coercion, low-incom, tripl, unbalanc, turbin 
+ 	 Score: de-risk, kill, war, aggress, critical_raw_materi, decoupl, ukrain, militari, russia, climate_chang, cop28, tech, magnet, geopolit, invas, resili, lithium, diversifi, shock, putin 
+Topic 8 Top Words:
+ 	 Highest Prob: trade, duti, european, european_union, china, export, import, leather, europ, rule, price, product, competit, commiss, unfair, case, dump, shoe, measur, anti-dump 
+ 	 FREX: leather, duti, dump, shoe, anti-dump, unfair, footwear, price, vietnam, trade_defence_instru, investig, textil, trade_def, lesser, injuri, provision, advantag, evid, distort, case 
+ 	 Lift: leather, uncompetit, shoe, dump, injuri, lesser, footwear, trade_def, retali, vietnam, unaccept, anti-dump, provision, preliminari, equival, sudden, prize, bought, circumst, sport 
+ 	 Score: leather, shoe, injuri, lesser, footwear, dump, textil, vietnam, provision, uncompetit, trade_def, duti, trade_defence_instru, anti-dump, calcul, retail, bought, prize, price, mandelson 
+Topic 9 Top Words:
+ 	 Highest Prob: european_union, trade, invest, agreement, commiss, negoti, trade_polici, support, econom, intern, global, countri, develop, servic, world_trade_organ, polici, free_trade_agr, import, implement, partner 
+ 	 FREX: trade_polici, free_trade_agr, trade_agr, labour, sustainable_develop, regulatori, servic, digit, negoti, value_chain, promot, green, sustain, support, gsp, smes, enhanc, enforc, review, ambiti 
+ 	 Lift: mine, gsp, bangladesh, erad, southern, claus, drawn, multin, trade_polici, open_strategic_autonomi, smes, chief, latin, generalis, ilo, african, trade_agr, autonom, analyt, decent 
+ 	 Score: mine, trade_polici, gsp, free_trade_agr, trade_agr, human_right, smes, regulatori, digit, ilo, african, sustainable_develop, decent, value_chain, open_strategic_autonomi, societi, chapter, enforc, data, doha 
+Topic 10 Top Words:
+ 	 Highest Prob: china, europ, open, world, trade, econom, european, need, invest, market, chines, economi, global, polit, challeng, relationship, develop, united_st, respons, european_union 
+ 	 FREX: global_economi, boom, huge, europ, globalis, mandelson, open, centuri, currenc, say, consumpt, save, polit, model, grow, argument, world, growth, brand, fundament 
+ 	 Lift: brand, boom, anxieti, catch, continent, grand, phenomenon, mandelson, provok, courag, class, throw, consumpt, say, argument, backlash, low-cost, sum, abund, loser 
+ 	 Score: brand, boom, mandelson, argument, peopl, globalis, china, centuri, global_economi, huge, grand, textil, say, continent, phenomenon, save, climate_chang, europ, rest, currenc 
+Topic 11 Top Words:
+ 	 Highest Prob: european_union, risk, economic_secur, technolog, secur, commiss, member_st, critic, invest, research, resili, assess, strateg, industri, develop, support, european, ensur, use, action 
+ 	 FREX: economic_secur, risk, critic, resili, research, control, assess, foreign_subsidi, technolog, dual-us, tool, infrastructur, coordin, mitig, supply_chain, depend, identifi, entiti, member_st, secur 
+ 	 Lift: dual, chip, outbound, critical_technolog, quantum, economic_secur, dual-us, foreign_subsidi, start-up, white, cyber, articul, semiconductor, acquir, weaponis, entiti, net-zero, capabl, leakag, mitig 
+ 	 Score: economic_secur, dual, critical_technolog, resili, dual-us, foreign_subsidi, leakag, quantum, outbound, cyber, intellig, weaponis, critical_raw_materi, militari, export_control, chip, capabl, coordin, vulner, white 
+Topic 12 Top Words:
+ 	 Highest Prob: barrier, european_union, measur, trade, export, sector, import, resolv, report, affect, product, china, commiss, market_access, requir, remov, number, russia, record, restrict 
+ 	 FREX: resolv, barrier, record, trade_flow, turkey, remov, investment_barri, breakdown, trade_barri, per, cosmet, wine, affect, regist, type, report, ban, algeria, figur, percent 
+ 	 Lift: made_in_china_2025, breakdown, algeria, european_union-india, databas, percent, wine, pork, vat, egypt, facto, turkey, cosmet, regist, bse, saudi, pend, arabia, chees, overview 
+ 	 Score: investment_barri, barrier, breakdown, turkey, algeria, cosmet, sps, percent, made_in_china_2025, horizont, egypt, tbt, trade_barri, resolv, trade-restrict, market_access, information_communications_technolog, bovin, record, ban 
+Topic 13 Top Words:
+ 	 Highest Prob: china, european_union, co-oper, dialogu, polici, develop, european_union-china, issu, intern, chines, relat, support, polit, econom, programm, area, continu, reform, region, world_trade_organ 
+ 	 FREX: co-oper, programm, dialogu, co-ordin, migrat, societi, european_union-china, illeg, assist, human_right, rule_of_law, reinforc, region, project, civil, polit, social, reform, beij, human 
+ 	 Lift: friendship, coven, disarma, dissemin, co-ordin, co-oper, galileo, cfsp, penalti, judici, non-prolifer, traffick, satellit, migrant, religion, journalist, arm, navig, human_rights_dialogu, donor 
+ 	 Score: co-oper, friendship, co-ordin, migrat, human_right, traffick, human_rights_dialogu, european_union-china, coven, societi, rule_of_law, programm, assist, people-to-peopl, disarma, galileo, satellit, illeg, reconcili, penalti 
+Topic 14 Top Words:
+ 	 Highest Prob: european_union, china, invest, intern, commit, agreement, global, engag, market, presid, work, secur, negoti, econom, continu, european_union-china, import, need, leader, council 
+ 	 FREX: level_playing_field, reciproc, leader, presid, engag, council, reiter, law, comprehensive_agreement_on_invest, principl, call, human_right, digit, connect, commit, encourag, joint, peac, subsidi, underlin 
+ 	 Lift: charles_michel, ursula_von_der_leyen, values-bas, videoconfer, coronavirus, xijinp, reiter, peacekeep, comprehensive_agreement_on_invest, eros, virus, eea, von_der_leyen, uphold, peak, adher, uneven, lawyer, asymmetri, recal 
+ 	 Score: values-bas, charles_michel, ursula_von_der_leyen, comprehensive_agreement_on_invest, human_right, reiter, videoconfer, xijinp, peacekeep, pari, china, peac, hong_kong, uphold, humanitarian, adher, reciproc, climate_chang, covid-19, ocean 
+Topic 15 Top Words:
+ 	 Highest Prob: europ, countri, china, european_union, asia, world, econom, develop, intern, polit, social, region, united_st, polici, relationship, must, exampl, issu, european, state 
+ 	 FREX: asia, asian, popul, east, great, histori, social, asean, life, seem, asem, huge, tri, age, north, terror, region, scientif, cultur, countri 
+ 	 Lift: bolster, pakistan, endeavour, terribl, prestigi, admir, superpow, asem, empir, learnt, poorest, school, men, life, cope, north, accomplish, end, west, asia 
+ 	 Score: bolster, asem, asia, terror, popul, histori, north, poorest, pakistan, school, afghanistan, provinc, superpow, crime, democraci, peopl, matur, asian, reconcili, militari 

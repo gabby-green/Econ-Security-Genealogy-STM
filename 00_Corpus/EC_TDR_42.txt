@@ -1,0 +1,266 @@
+Executive summary
+
+
+This is the 42nd Report on the European Union’s (EU) trade defence activity. It covers the EU’s anti-dumping, anti-subsidy and safeguard activities, third countries’ trade defence activities with respect to goods imported from the EU and the Hearing Officer’s activities in 2023. It is accompanied by a Commission staff working document providing more detailed information and statistics.
+
+
+In 2023, the EU initiated more than twice as many new cases as in 2022. The figure is closer to the pre-2022 average. One new case in 2023 involved an anti-subsidy investigation into battery electric vehicles from China launched by the Commission on its own initiative in response to the threat of economic injury.
+
+
+As a result of the EU’s continued robust approach to addressing unfair trade, 182 measures were in place at the end of 2023, protecting almost half a million direct jobs. The effectiveness of these measures relies on proper enforcement to ensure they achieve the desired impact. Therefore, the Commission continues to prioritise monitoring and action where exporters try to evade duties. In 2023, 4 measures were investigated where circumvention was suspected and 2 other measures were extended to other countries to deal with transhipment practices. Over a fifth of the current measures tackle circumvention practices, thus reflecting the Commission’s robust response to the problem.
+
+
+The increase in new investigations initiated by the EU in 2023 was mirrored by an increase in third-country cases opened against the EU or its Member States. In 2023, 20 such cases were initiated, up from 7 in 2022. This poses a challenge for the EU exporters concerned, which is compounded by a worrying increase in the use of safeguards by some of the EU’s trading partners. An important part of the work of the EU trade defence services is to guide and support exporters and highlight weaknesses in these third-country investigations to ensure continued access to third countries’ markets. In 2023, the Commission successfully intervened in 2 safeguard investigations, 1 in Morocco which was terminated and the other in India where no restrictions have been recommended on imports from the EU.
+
+
+The report also focuses on small and medium-sized enterprises (SMEs) and how the Commission helps this important economic group to navigate the trade defence instruments. SMEs have been disproportionately affected by the sequence of crises over the past years: from Covid, Russia’s military aggression against Ukraine, the energy crisis and the rise in inflation. SMEs still face volatility and are more vulnerable to supply constraints, labour shortages, but also unfair competition distorting the level playing field. The Commission is committed to ensuring that SMEs have the same access to and possibility to benefit from the trade defence instruments as larger companies. Trade defence measures have a significant impact on SMEs, with the anti-dumping measures on ceramic tiles alone protecting over 100 000 jobs.
+
+
+Lastly, the report highlights some of the major challenges, developments and achievements in the area of trade defence over the last 5 years.
+
+I    Application of Trade Defence Instruments (TDI) in 2023
+
+1.Investigative activity
+
+1.1.General overview
+
+At the end of 2023, the EU had 182 definitive trade defence measures in force, including 120 definitive anti-dumping measures (extended in 36 cases following anti-circumvention investigations), 21 anti-subsidy measures (extended in 4 cases following anti-circumvention investigations) and 1 safeguard measure. There were 5 more such measures than in 2022, protecting around 493 000 direct jobs in the EU.
+
+In 2023, 91 investigations were carried out, a similar number to previous years (99 in 2022). These included 21 original investigations and 70 reviews. At the end of 2023, 39 investigations were ongoing.
+
+This report is accompanied by a Commission staff working document which provides more information and statistics and includes annexes for the sections below.
+
+1.2.Anti-dumping (AD) and anti-subsidy (AS) investigations (see Annexes A to I)
+
+In 2023, the Commission initiated 12 investigations (10 AD and 2 AS), marking a return to pre-2022 period. In 2022, for reasons outlined in last year’s report, the Commission initiated the exceptionally low number of 5 new AD and AS investigations.
+
+Although investigations are normally based on complaints from industry, in 2023, the Commission exceptionally initiated an investigation on its own initiative. This concerned imports of battery electric vehicles (BEVs) from China. The Commission had collected evidence showing the existence of a large range of Chinese subsidies, as well as a threat of injury to the EU BEV industry due to a massive increase in Chinese overcapacities. There was also evidence of rapidly growing low-priced and subsidised imports of BEVs into the EU.
+
+The number of reviews initiated dropped from 41 in 2022 to 31 in 2023. These included 10 expiry reviews of existing measures and interim reviews to revise or adjust the level of the measures in place. The drop, particularly in expiry reviews, is linked to the fact that fewer measures were due to expire in 2023 than in previous years.
+
+ 
+
+In total, 43 new and review AD and AS investigations were initiated, which is broadly in line with annual levels of activity over the last 5 years.
+
+
+The Commission imposed provisional duties in 5 AD investigations and concluded 6 AD investigations by imposing definitive duties. The Commission terminated 1 AS investigation (fatty acid) without imposing measures as the complaint was withdrawn. However, it continued the AD investigation into the same product since termination was not in the EU’s interest. In 2023, 23 expiry reviews were concluded with the duty being confirmed. Two AD measures expired automatically at the end of the 5-year period of imposition.
+
+
+
+1.3.Safeguard investigations
+
+Two safeguard measures were examined in 2023.
+
+
+The Commission carried out a review 1 of the safeguard measure which the EU imposed on imports of certain steel products in 2019 with the view to assess whether an early termination of the measure was warranted. The review showed that the import pressure remained high: EU market continued to be attractive for exporting countries both in terms of volume and prices, and that there was still a high level of import penetration in the EU market. Imports had increased from 2021 to 2022, despite a reduction in consumption. Global overcapacity in the sector continued to rise and exporting countries had not found other outlets to compensate for the trade volumes lost in the US and EU markets since 2018 and therefore the risk of trade diversion was still relevant/present. The Commission therefore concluded that an early termination of the safeguard measure by 30 June 2023 would   have jeopardised the EU steel industry and its economic situation. On the basis of import data from the previous year, the Commission also updated the list of developing countries subject to, and excluded from, the measure. Other amendments were made to the steel safeguard measure to facilitate trade flows of certain products between Great Britain and Northern Ireland 2 .
+
+
+In January 2023, the Commission opened a review to implement a General Court judgment regarding the bilateral safeguard measure imposed in 2019 3 on imports of Indica rice from Cambodia and Myanmar under the Generalised Scheme of Preferences. The review was concluded in March 2024 with the re-imposition of the safeguard measure.
+
+
+1.4.Verifications in investigations
+
+To ensure sound decision-making and a correct outcome, it is crucial that the information used in the trade defence investigations is accurate and complete.
+
+
+In 2023, the Commission verified data from 136 companies, 78 within the EU and 58 in third countries. Most of these verification exercises took place on site at the companies, with only 15 companies’ data being verified remotely – a process which had been introduced in 2020 to cope with COVID-19 travel restrictions.
+
+
+2. Effective application and enforcement of TDI
+
+2.1.Monitoring, surveillance and enforcement of measures (see Annexes J, K, M, Q)
+
+Ensuring the effectiveness of trade defence measures continues to be a high priority for the Commisssion. It therefore monitors the impact of anti-dumping and countervailing duties on import flows and takes prompt action where measures are being circumvented or duties evaded. This monitoring strengthens the EU’s trade defence policy by ensuring that measures in place are respected and ultimately achieve their intended purpose. The ultimate aim of monitoring is to combat circumvention and absorption practices 4 , including fraud.
+
+
+Circumvention is defined as a change in the pattern of trade between third countries and the EU that stems from a practice, process or work for which there is insufficient cause or economic justification, other than the imposition of the duty. Unchecked, it erodes the effectiveness of trade defence and weakens the impact of remedies, making it harder for countries to address and rectify unfair trade practices.
+
+
+In recent years, the Commission has been confronted with increasingly complex circumvention practices. More basic schemes such as the ‘screwdriver assembly’ of parts or the mere transhipment of goods through third countries are used less often. They are giving way to assembly processes that require some level of industrial activity that may change the nature of the product while adding very limited value to the final goods. These are then imported into the EU evading the payment of the previously imposed duty.
+
+
+Monitoring involves continuously analysing trade flows, taking into account all necessary factors to interpret market developments following the imposition of measures.
+
+
+One aspect which is closely monitored is where lower or zero duty rates for specific exporters, granted on the basis of individual circumstances, open up possibilities for fraudulent operators to evade duties through channelling 5 . These risks are countered by special monitoring provisions. In 2023, such clauses were included in all regulations imposing definitive measures with different individual duty rates, bringing the total number of measures with a special monitoring clause to 62.
+
+
+If the Commission has sufficient evidence, either from its own monitoring activities or from industry, that measures are being circumvented, it will open an anti-circumvention investigation.
+
+
+In 2023, the Commission initiated anti-circumvention investigations into four measures targeting transshipment and assembly operations:
+
+·AS measures on imports of biodiesel from Indonesia via China and the United Kingdom;
+
+·AD measures on imports of plywood from Russia via Türkiye and Kazakhstan; and
+
+·AD and AS measures on imports of stainless-steel cold-rolled flat products from Indonesia via Taiwan, Türkiye and Vietnam.
+
+
+The Commission concluded two anti-circumvention investigations in 2023 concerning anti-dumping measures on stainless-steel hot-rolled flat products (SSHR) originating in Indonesia and on certain stainless-steel tube and pipe butt-welding fittings originating in China. In both cases the Commission found that the measures were being circumvented via operations in other countries. In the SSHR case, the measures were extended to imports from Türkiye and in the steel tube and pipe fittings case, the measures were extended to imports from Malaysia.
+
+
+In 2023, the Commission also concluded an anti-absorption investigation into the measures on optical fibre cables originating in China, which resulted in a significant increase in the duties imposed.
+
+
+In addition to the anti-circumvention and anti-absorption actions described above, the Commission also alerts customs authorities and EU industry associations to cases where problems could arise. Thus, it encourages them also to monitor and check trade flows, imported consignments and provide feedback. This is bolstered by close cooperation with enforcement authorities (European Anti-Fraud Office (OLAF) and Member States’ authorities).
+
+
+In 2023, the Commission continued to monitor the undertakings it had accepted from exporting producers of citric acid in China and of biodiesel in Argentina to ensure that the exporters complied with their obligations and that the duty suspensions granted to them were indeed justified. However, early in 2024, the Commission withdrew its acceptance of the undertakings on citric acid owing to a breach of the conditions and trust, and the exporters were made subject to the anti-dumping duty.
+
+
+The ex-post monitoring system on steel and aluminium imports continued in 2023 with the data published monthly on the trade section of the Commission website 6 . This monitoring provides information on import flows of products covered by the US Section 232 measures.
+
+
+2.2.Judicial review by EU Courts (Annex S)
+
+In 2023, the General Court and the Court of Justice issued 25 judgments and orders in TDI cases. The General Court handed down 14 rulings whereas the Court of Justice decided on 10 appeals (of which one concerned an application to intervene) and one request for a preliminary ruling. In 2023, 18 new court proceedings for TDI cases were lodged – 9 before the General Court and 9 before the Court of Justice.
+
+
+Several important topics were addressed by the jurisprudence in 2023 which are described in the staff working document. Two particularly notable issues which were subject to judicial review for the first time, and confirmed by the Court, were: how the Commission deals with the attribution of cross-border financial contributions in anti-subsidy investigations; and, the methodology for calculating dumping in cases involving imports from countries where there are State induced distortions in the economy - i.e., Article 2(6a) of the basic AD Regulation 7 . Other claims which arose in the court cases included: the consequences of violating undertakings; price effects, undercutting and underselling (injury margin 8 ); the definition of a representative association of importers or exporters and the analysis of significant distortions and the initiation of expiry reviews. The Commission prevailed in all the issues mentioned except for the latter which is under appeal.
+
+
+3.Social and environmental standards in TDI
+
+Changes to the EU’s trade defence legislation in 2017 and 2018 reflect the EU’s commitment to high social and environmental standards.
+
+With the introduction in 2017 of the dumping calculation methodology for where state interference significantly distorts the market, an appropriate representative country must be selected to establish an undistorted normal value. Where there is more than one country with suitable data available, the Commission may take into account differences in levels of social and environmental protection in the countries proposed when selecting the representative country.
+
+In 2023, in two anti-dumping cases where the significant distortions methodology was used, the issue of social and environmental standards did not come into play in the selection process of a representative country. In both cases, only one potential representative country had the appropriate available data.
+
+The legislative changes made in June 2018 to modernise trade defence introduced further instances where investigations take social and environmental considerations into account when calculating an injury margin. Specifically, EU industry’s costs of production can include the cost of compliance with multilateral environmental agreements and International Labour Organisation Conventions during the lifetime of any measures. For instance, they include the additional future cost to ensure compliance with the EU Emissions Trading System, which is a cornerstone of the EU’s policy to comply with multilateral environmental agreements. In each case, the additional cost to EU producers was based on the estimated price of the EU Allowances which would have to be purchased during the period when the measures were in place. These costs featured in the following 5 (out of a total of 6) anti-dumping cases that ended in 2023 with the imposition of definitive measures: aluminium road wheels (Morocco), fatty acid (Indonesia), ceramic tiles (India/Türkiye) and polyester yarn (China). The addition of these costs increased the non-injurious prices 9 and hence the injury margins. However, in all the cases, the measures imposed were not directly affected because they were based on dumping margins 10 . There is an impact on the final level of measures only where the duties imposed are based on injury margins.
+
+4.Activities of the Hearing Officer
+
+The role of the Hearing Officer is to ensure that interested parties affected by procedures or measures under EU legislation concerning international trade can effectively exercise their procedural rights, such as the right to be heard. In 2023, the Hearing Officer received 16 requests to intervene, of which 15 concerned trade defence proceedings (13 requests from exporting producers and 2 from EU users), including 3 requests for the extension of the deadline for comments. The main issues raised in the requests concerned additional disclosure or objections to the facts and findings. In 2 cases, the interested parties raised issues outside the mandate of the Hearing Officer, such as immediate termination of the investigation, and granting a company the status of interested party. In another case, the interested party withdrew their request, and in a few cases the Hearing Officer received requests that were essentially addressed to the departments responsible for the investigation.
+
+No hearings were held in 2023 due to the Hearing Officer’s established practice of asking interested parties to raise their concerns first with the Commission departments responsible for the investigation, rather than granting a hearing immediately. In 2023, the interested parties succeeded in resolving their concerns directly with the investigation teams. The Hearing Officer followed the resolution process closely and remained at the disposal of the interested parties.
+
+The Hearing Officer found that the parties’ procedural rights had been respected in all cases.
+
+In conclusion, during 2023, there was exemplary cooperation between the Hearing Officer and the TDI services.
+
+5.Dealing with trade defence activity against the EU
+
+As one of the world's leading exporters, the EU is often the target of trade defence investigations by third countries. While the right to use trade defence instruments in accordance with WTO rules is not disputed, investigations by third countries can sometimes fall short of the required standards. Measures imposed following such investigations become a serious and unjustified obstacle for the EU industry to access third-country markets.
+
+The Commission therefore regularly monitors investigations carried out by third countries and intervenes to support EU industry or Member States. The Commission's interventions aim to minimise the negative impact that unjustified or unfair trade defence measures may have on EU companies in export markets.
+
+When a third country initiates a TDI investigation against the EU, the Commission intervenes where appropriate to challenge procedures or allegations that may not comply with WTO rules. On average, the Commission will intervene in around 50 cases a year, through written submissions to investigating authorities and by participating in hearings to ensure that the rights and interests of EU exporters are respected.
+
+On several occasions, the Commission's interventions have resulted in a more favourable outcome for EU exporters than may otherwise have been the case. The Commission's accomplishments in 2023 are described in the accompanying staff working document, some examples are provided below.
+
+
+·In October 2022, Morocco initiated a safeguard investigation into imports of inner tubes for bicycles, velocipedes, motorcycles and scooters, potentially impacting EU exports of around EUR 2 million. The Commission intervened immediately, highlighting shortcomings in the initiation as well as in the injury and causality analysis. On 3 July 2023, Morocco decided to terminate the investigation without imposing measures.
+
+·In October 2022, India initiated a safeguard investigation on imports of polyvinyl chloride. The Commission strongly defended EU exports worth EUR 48 million, made a written submission and participated in a public hearing. In May 2023, India issued findings recommending the imposition of quantitative restrictions on imports from China, the US, Taiwan and Russia. No restrictions were recommended to be imposed on imports from the EU. The investigation is still ongoing.
+
+·The Commission also intervened in 2023 in an anti-dumping investigation on ammonium nitrate from Lithuania initiated by the Australian Anti-Dumping Commission in June 2022. The EU economic interest was around €5 million. The investigation was terminated in August 2023, owing to lack of injury.
+
+·In February 2023, the US initiated an anti-dumping investigation on tin mill products from Germany and the Netherlands. The economic interest in the case was very significant at €1 billion, higher than in any other US trade defence case against the EU or its Member States. The Commission was very active in the investigation and in January 2024, the investigation was officially terminated.
+
+
+At the end of 2023, there were 176 trade defence measures in force affecting EU exports, 6 more than in 2022. The total number of measures in force has started to rise again, after falling briefly to 170 in 2022. AD remains the most used trade defence instrument. There were 127 AD measures, 42 safeguard (SFG) measures and 7 AS measures in 2023, compared to 126 AD, 37 SFG and 7 AS measures in 2022.
+
+
+The US remains the most frequent user of TDIs against EU exports, with 38 measures in force. It is followed by China and Türkiye with 18 measures each, while Brazil and Indonesia have 11 measures each. Other active users of TDIs are Canada, with 9 definitive measures in place, followed by Australia, Madagascar, and South Africa, each with 7 measures in force against EU exports in 2023.
+
+
+In 2023, 20 new investigations were initiated against the EU/Member States, a significant increase on 2022, when there were only 7, one of the lowest numbers in the last decade. New SFG investigations accounted for 60% of new cases (12 of 20 cases), while the other 8 were AD investigations. Indonesia and Madagascar stand out as having initiated a significant number of new SFG investigations in the past year, with 5 and 4 investigations respectively.
+
+
+A similar trend has been observed in the imposition of new measures. Out of 11 new measures affecting EU exports imposed in 2023, 7 were SFG and the rest AD. This compares to 12 measures imposed in 2022, only 2 of which were SFG, with the rest being AD. In 2023, Madagascar alone introduced 3 new SFG measures.
+
+
+This increase in the use of safeguard investigations is particularly worrying given that under the WTO rules, safeguard measures apply to imports from all origins, as opposed to targeting only origins where unfair trading conditions are present. This makes safeguards the most restrictive of all trade remedies, and they should be used only in response to an import surge caused by an unforeseen development and when strict criteria are met. The Commission has intervened in all cases where systemic problems and deficiencies have been identified.
+
+
+6.WTO-related activities
+
+Twice yearly, in spring and autumn, the WTO hosts meetings of the Subsidies and Countervailing, Anti-dumping and Safeguards Committees. In connection with the Anti-dumping Committee, the WTO also hosts working groups on implementation where members share their practical approach to such investigations. There are also informal sessions for ‘Friends of Safeguards Investigations’. In addition, in May 2023, the WTO hosted a workshop for the heads of investigating authorities.
+
+These meetings give WTO members the opportunity to monitor the implementation of the agreements by investigating authorities and provide a forum for exchanging views and concerns on trade defence cases. The EU plays an active part in all the committees, raising issues of concern and defending its own actions.
+
+In the AD Committee, the EU raised concerns about the US investigation on tin mill products from Germany and the Netherlands, among other countries (the investigation against the Netherlands was terminated in January 2024). The EU highlighted the lack of evidence of dumping and argued that the case was tantamount to a safeguard investigation covering almost all imports into the US. The EU defended its actions against criticisms levelled by other members in some cases, including cases involving bulb flats from Türkiye, fatty acid from Indonesia and ductile tubes and pipes from India. It also rebutted unfounded criticisms from China regarding the long duration of some measures.
+
+The EU participated in the Anti-dumping Working Group on Implementation which was held only once in 2023. The discussion centred around price analysis and assessment of the causes of injury in AD investigations.
+
+Under the WTO Agreement on Subsidies and Countervailing Measures (ASCM), subsidy notifications, which are made every second year, were due in 2023. The WTO Secretariat’s update on notifications showed that just over a third of members had complied with their notification obligations under the ASCM. The Commission submitted the EU’s subsidy notification covering subsidies granted at EU level as well as those of the Member States. The EU pushed for greater compliance with notification obligations. To help other WTO members in this exercise, the Commission participated in an event organised by the WTO Secretariat in June 2023 on how to make a subsidy notification.
+
+In the regular Committee on Subsidies and Countervailing Measures, the EU defended its decision to open an anti-subsidy investigation into battery electric vehicles from China in response to China’s criticisms. The EU raised the issue of China’s decision, following an expiry review, to continue measures on potato starch from the EU, despite the subsidies being neither specific nor actionable. Committee members also discussed the impact of subsidies in creating overcapacities and the effects on developing countries.
+
+In the Safeguards Committee, several countries criticised the proliferation of safeguard measures globally and the fact that they are imposed for long periods with extensions becoming the default. Also, concerns were raised that safeguard measures are often imposed concurrently with AD, CVD and other unilateral measures on the same product. The EU defended its steel safeguard in the face of criticism from several countries who argued that the measure should have been terminated and not extended. The EU raised concerns about the general safeguard practices of other members, particularly Indonesia’s worrying tendency to overuse and misuse the instrument, with poor standards of initiation, disclosure and transparency. No consensus was reached on a US proposal to transfer the informal ‘Friends of Safeguard Investigations’ group to the Committee due to India's opposition.
+
+
+In May 2023, the WTO hosted the workshop for the heads of investigating authorities which is designed to bring together decision-making officials for an open exchange of information, ideas, and best practices. There were discussions on topics such as developments in legislation and practice, challenges related to resources & training, conducting investigations during the pandemic, as well as administrative, arbitral and judicial reviews.
+
+
+In June 2023, the EU, on behalf of the 27 Member States, accepted the WTO Agreement on Fisheries Subsidies which had been concluded at the 12th Ministerial Conference the previous year. The Agreement will enter into force once two thirds of WTO members have accepted it. WTO negotiations continued on the outstanding issues to achieve a comprehensive agreement.
+
+
+Also in 2023, the EU and other like-minded WTO members continued subsidies-related work strands under the WTO Fossil Fuel Subsidy Reform initiative 11  and under the Trade and Environmental Sustainability Structured Discussions 12 .
+
+
+In 2023, trilateral cooperation with the US and Japan continued to focus on tackling market-distortive policies and practices, including subsidies that currently are not sufficiently addressed by WTO rules. The partners also concentrated on identifying specific examples and exchanging information on non-market behaviour across various sectors, and on potential tools to address the identified practices.
+
+
+II    SMEs and TDIs
+
+Small and medium-sized enterprises (SMEs) are the backbone of the European economy. The 24 million SMEs in the EU account for 99% of all EU businesses, provide two thirds of jobs in the private sector in the EU and are deeply embedded in local communities. They account for more than half of value added in the EU’s non-financial business sector and are Europe’s breeding ground for innovation, diversity and equality. SMEs are essential to the EU’s green and digital transitions and its long-term prosperity 13 .
+
+
+For these companies, a level playing field is particularly important as they are especially vulnerable to the harmful effects of unfair competition. Generally, though not always, they have less experience, knowledge and resources when it comes to participating in trade defence investigations.
+
+
+Yet, at the same time, SMEs are subject to the same rights and obligations in trade defence investigations as larger companies since the legal requirements are the same, regardless of the size of the company. These include the level of evidence required in a complaint, the deadlines for replying to questionnaires or submitting information, access to files, cooperation, etc. In view of SMEs’ limited resources and capacity, the Commission has tried to find practical ways of minimising any difficulties they may encounter in using trade defence.
+
+The importance of helping SMEs to access the TDIs was formally acknowledged in 2018 when the TDIs were modernised and the European Parliament and the Council included specific references in the basic Anti-Dumping Regulation 14 (Article 5(1a)) and the Anti-Subsidy Regulation 15 (Article 10(1a)).
+
+Information for SMEs
+
+As early as 2004, a Trade Defence Helpdesk for SMEs was set up to address SMEs’ questions of a general or a case-specific nature. Since then, many such companies have used this service and, in 2018, the SME Helpdesk was upgraded and given official status in the modernisation exercise.
+
+At the same time, the Commission published a guide on the TDIs aimed specifically at SMEs 16  on a dedicated SME web page 17 , which was also launched in June 2018. The web page helps these companies navigate the system, not only within the EU, but also if they are affected by trade defence investigations in third countries.
+
+The European Court of Auditors praised these initiatives in its audit report on the EU’s TDIs in 2020 18 . However, the report urged the Commission to go further and ‘Raise awareness about trade defence instruments […] paying particular attention to the specific needs of SMEs’. In 2021, the Commission acted on that recommendation by developing and publishing a detailed seven-module guide to trade defence investigations, which it made available online in all official EU languages 19  in 2022.
+
+The various guides have been complemented by training and information sessions provided directly to SMEs, be they producers, users or importers, through Market Access Days in France, Croatia, Italy and Estonia as well as online to ensure wider outreach across the EU. These sessions, which were held more frequently in 2023, were often some SMEs’ first encounter with trade defence. Member States have been encouraged to inform their SMEs about these information sessions to step up outreach to the SMEs and raise their awareness about the possibilities and opportunities under TDIs available to them.
+
+
+Practical assistance for SMEs in investigations
+
+The Commission supports EU industry, including when consisted of SMEs, at all stages of trade defence investigations. Lodging complaints can be a challenging exercise for these companies and the recently updated guide in all official EU languages provides useful assistance in this regard 20 . The Office of Complaints in the Trade Defence Services can also guide SMEs through the process. For instance, in 2022, the Commission opened an anti-dumping investigation into imports of steel bulb flats from China and Türkiye. The producers of this product in the EU are exclusively SMEs, and the complaint was prepared by a single SME producer under the guidance of the Office of Complaints. That investigation resulted in measures being imposed in early January 2024.
+
+
+In conducting investigations, the Commission, where possible, aligns investigation periods with financial years. This helps SMEs by reducing the burden and complexity in replying to questionnaires. The Commission also helps SMEs in completing these questionnaires necessary for conducting the investigation.
+
+
+In investigations where sampling is required, and where an industry is fragmented and comprised of SMEs, the Commission ensures that the sample is representative of all company sizes. Furthermore, the composition of an industry is acknowledged in injury analysis. For instance, in 2023, the Commission imposed definitive anti-dumping duties on ceramic tiles from India and Türkiye. It took into account the fragmentation of the EU’s ceramic tiles industry, which is made up of over 300 companies of which around 240 are SMEs. Therefore, some injury data were weighted to ensure that the results of large producers were not overrepresented in the findings on injury and that the situation of small and medium-sized producers was properly taken into account.
+
+
+In 2022, more than 690 000 EU SMEs exported outside the EU, representing 95% of EU total exporting companies and generating 30% of the EU total exports value 21 . This export activity can be affected by trade defence investigations in third countries. The Guide for SMEs 22 encourages SMEs affected by third-country trade defence cases to contact the DG Trade departments that monitor these cases to seek information and guidance on how to proceed.
+
+
+Investigations involving SMEs
+
+Despite the challenges posed by the legal and technical nature of trade defence investigations, there are several manufacturing sectors in the EU with a high proportion of SMEs that successfully use and benefit from the protection of the EU’s TDIs. The ceramics industry is a prime example where trade defence has had an impact. Measures on ceramic tableware and tiles from China, and on ceramic tiles from India and Türkiye have been critical to safeguard domestic production, foster investments and save over 100 000 jobs in the EU. The European bicycle industry is another industry that largely attributes its existence in the EU to the protection afforded against dumped bicycles from China.
+
+
+There are other industries with a strong SME presence which also benefit from the protection afforded by the TDIs. These include trout producers, comprised of more than 700 SMEs, where countervailing measures on imports from Türkiye were imposed in 2015 and renewed in May 2021. Anti-dumping and anti-subsidy measures imposed in 2018 on tyres originating in China are currently subject to expiry reviews. In the original investigation, the industry comprised at least 380 tyre retreader SMEs. In 2023, the Commission imposed definitive anti-dumping duties on stainless-steel refillable kegs from China, thereby protecting the EU industry composed of a small number of SMEs.
+
+
+The Commission is committed to ensuring equal access for all industries suffering as a result of dumped and subsidised imports. Its approach – raising awareness and providing SMEs with more practical assistance in trade defence investigations – is yielding results. This is also due in no small part to good organisation and coordination on the industry side, with support from established industry associations or ad hoc associations set up specifically for trade defence purposes.
+
+
+III    Charting Progress: A 5-Year Retrospective of TDI
+
+This annual report provides an opportunity to zoom out and take a wider view of trade defence activity over the last 5 years, i.e., from 2019, which was the first year of full implementation of modernised trade defence legislation, to 2023. This was a challenging and dynamic period. That period also saw, following the first such audit, the European Court of Auditors’ endorsement of the application of the rules and the emergence of a more robust approach to tackle increasingly complex unfair trade practices used by trading partners. The Commission also ensured that the challenges posed by the COVID-19 pandemic did not weaken its resolve and actions to apply trade defence correctly when industry needed it.
+
+By the end of 2023, there were 53 more trade defence measures in place than at the end of 2018. This rise from 133 to 186 measures represents an increase of 40%. These additional measures mean that trade defence is now responsible for protecting almost half a million (493 000) manufacturing jobs in Europe compared to 365 000 at the end of 2018. These jobs cover several sectors including steel, ceramics, aluminium, bicycle manufacturing and products that are important in the sustainable energy value chain, such as solar glass, products that are vital for our green transition, such as wind towers, as well as products that are critical for our digital transition, such as optical fibres.
+
+This 5-year period saw the first investigations completed using the significant distortions dumping methodology. In all the investigations concerning imports from China during that period, this methodology was used to calculate dumping, as complainants had provided evidence of significant distortions across the products or sectors concerned. A comprehensive report documenting State-induced distortions in China 23 ,as well as its updated version, provides solid evidence of distortions in the Chinese economy along with other specific evidence from complainants. The methodology has uncovered the real extent of dumping in Chinese cases, as opposed to margins derived from the distorted prices or costs in China. In October 2020 Commission also published a report on significant government-induced distortions in Russia 24 .
+
+While anti-dumping measures against China account for the bulk of the activity, there have also been significant developments on the anti-subsidy side in the last 5 years. The EU was the first jurisdiction to take anti-subsidy action against ‘cross-border’ financial support by a WTO Member to companies established in the territory of another WTO Member. This means not only tackling China’s traditional subsidies, but also confronting China’s channelling of financial support to enable its companies in third countries to establish themselves, e.g. in economic free zones, and from there to export their goods on to the EU. In 2020, the Commission countervailed such a financial support as subsidies granted by the country of origin or export for the first time in a case involving glass fibre fabrics and glass fibre products from Egypt, and in a second case in 2022 involving stainless-steel cold-rolled products from Indonesia. In March 2023, the General Court confirmed the Commission’s approach in these cases in landmark judgments, which are under appeal.
+
+
+Finally, the last 5 years have seen emphasis placed on the monitoring and enforcement of the measures. Improved monitoring and effective action against circumvention practices mean that over a fifth (40) of the total 182 measures currently in place specifically tackle evasion practices by economic operators. The Commission remains fully committed to robust use of trade defence instruments to continue protecting EU industry against unfair and injurious trading practices and ensure their effective implementation.

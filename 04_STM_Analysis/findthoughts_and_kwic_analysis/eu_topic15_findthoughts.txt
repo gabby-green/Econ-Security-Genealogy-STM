@@ -1,0 +1,1166 @@
+=============================================================
+EU Corpus -- Topic 15 
+Generated: 2026-05-09 13:05 
+=============================================================
+
+PROB:  europ, countri, china, european_union, asia, world, econom, develop, intern, polit, social, region, united_st, polici, relationship 
+FREX:  asia, asian, popul, east, great, histori, social, asean, life, seem, asem, huge, tri, age, north 
+
+-------------------------------------------------------------
+TOP DOCUMENTS
+-------------------------------------------------------------
+
+[ 1] EC_S_040402 (2002) -- theta=0.994
+     The Rt Hon Chris Patten Commissioner for External Relations Developing Europe's External Policy in the Age of Globalisation Central Party School Beijing, China, 4 April 2002
+
+[ 2] EC_S_060902 (2002) -- theta=0.967
+     The Rt Hon Chris Patten Commissioner for External Relations The relationship between the EU and Asia - one or many? Chatham House London, 6 September 2002
+
+[ 3] EC_S_150705 (2005) -- theta=0.595
+     José Manuel BARROSO President of the European Commission The EU and China: painting a brighter future together
+
+[ 4] EC_S_271107 (2007) -- theta=0.562
+     José Manuel Barroso  President of the European Commission The EU and China: shaping the future together Chinese Communist Party Central School
+
+[ 5] EC_S_180907 (2007) -- theta=0.459
+     Joaquín Almunia European Commissioner for Economic and Monetary Affairs The European Economy and China – Common Challenges and Shared Solutions Qinghua University Beijing
+
+[ 6] EC_S_260505 (2005) -- theta=0.391
+     Peter Mandelson EU Trade Commissioner Trade policy for a ‘Social Europe'
+
+[ 7] EC_S_180107 (2007) -- theta=0.348
+     Benita Ferrero-Waldner  European Commissioner for External Relations and European Neighbourhood Policy The EU and China – Moving Forward
+
+[ 8] EC_S_290615 (2015) -- theta=0.315
+     The EU and China: A solid partnership - Speech by President Juncker at the EU-China Business Summit
+
+[ 9] EC_S_050625A (2025) -- theta=0.284
+     Keynote speech by Commissioner Hoekstra at the Brussels Economic Security Forum (BESF)
+
+[10] EC_S_091204 (2004) -- theta=0.279
+     Peter Mandelson  EU Commissioner for Trade The EU-China relationship The EU-China Business Summit
+
+-------------------------------------------------------------
+TEXT EXCERPTS
+-------------------------------------------------------------
+
+[1] EC_S_040402 (2002)
+Developing Europe's External Policy in the Age of Globalisation Central Party School Beijing,
+China, 4 April 2002 A recent study by a political scientist if that is not an oxymoron from the
+United States suggests that much of the last century from 1914 to 1990 consisted of a long epochal
+war. Professor Philip Bobbitt who has been a White House advisor and is a historian of nuclear
+strategy argues that this long war embraced conflicts that we at present call the First World War,
+the Bolshevik Revolution, the Spanish Civil War, the Second World War, the wars in Korea and
+Vietnam and the Cold War. This seems to make the twentieth century even grimmer for those who
+endured it than perhaps it felt for many particularly during the second half. I was born in 1944.
+My father was fighting with Brit
+...
+
+[2] EC_S_060902 (2002)
+Let me begin this whodunnit, against all tradition, by revealing the denouement. It is absurd to
+think of a single relationship between the EU and a region as diverse as Asia: a region, as Dryden
+said of George Villiers: "So various that he seemed to be; Not one, but all mankind's epitome." One
+cannot live in Asia as I have without being struck by its astonishing variety. From the teeming
+billions of China and India to small archipelagos; from military dictatorships to thriving
+democracies; from Islam to Christianity to Buddhism; from the most densely populated country in the
+world Singapore to the least Mongolia; from the wealth of a Japan to the penury of a North Korea.
+The contrast between North and South Korea, indeed, might stand as a paradigm for the variety of
+the whole were it not
+...
+
+[3] EC_S_150705 (2005)
+Ladies and gentlemen, It is a real pleasure to be with you today. This is my fourth visit to China
+but my first official visit as President of the European Commission. I have come here - on this
+special occasion of the 30th anniversary of our diplomatic relations - with one central message:
+the EU is deeply committed to developing its strategic partnership with China further. World peace,
+prosperity, progress, harmony, friendship, protection of the environment – these were key themes
+for hundreds of Chinese children when they took part in a painting contest held by the European
+Commission Delegation in Beijing to mark the thirtieth anniversary. The bright and colourful
+pictures clearly demonstrated the very high expectations our children have for our relationship and
+its benefits. Have we
+...
+
+[4] EC_S_271107 (2007)
+Mr. President, It is a great honour for me to be here, in this prestigious School which plays a
+central role in the forming of men and women who shoulder the heavy burden of leading this country
+and pursuing China's reforms and opening up to the rest of the world. The last 25 years have
+witnessed spectacular developments in China. Hundreds of millions have been lifted from the
+infernal cycle of poverty and underdevelopment, and today China can look to her future with
+confidence. Since its beginnings, the EU has actively supported China's opening up and reform
+policy. We have opened European markets and our companies helped with your economic revitalisation
+and employment in China, as well as by transferring technology and know-how through our
+investments. We have developed cooperation in a
+...
+
+[5] EC_S_180907 (2007)
+It is a great pleasure to be in Beijing, and a particular honour to address students of one of the
+world's most prestigious universities. The EU is China's most important trading partner. We import
+more from China than any other nation. But the relations between our countries have moved far
+beyond the economic sphere. China is one of the very few 'strategic partners' for the EU, and today
+we cooperate on a range of political, social, environmental and scientific levels. China and Europe
+have many similarities. The EU consists of 27 Member States and we must contend with a level of
+diversity that here in China is well known. Indeed, the variation of languages and traditions among
+Chinese regions could be even greater than between the countries of the European Union. For
+example, the differe
+...
+
+[6] EC_S_260505 (2005)
+My theme today is that progressive market opening and trade liberalisation are not hostile to the
+social and labour standards we seek internationally and in Europe. On the contrary, rising economic
+growth and wealth generation are the conditions we need for these standards to be achieved and
+sustained. It is right for us to focus on this because in my judgement, the ‘social dimension' is
+back. The question of a ‘Social Europe' will be at the heart of the debate about Europe's future.
+‘Oui' or ‘non', this conclusion will be widely drawn from Sunday's referendum in France. And I have
+no doubt at all that social discontents and reform fatigue played a central part in last Sunday's
+political earthquake in Germany. In my remarks today, I want to reflect on what this renewed focus
+on the social
+...
+
+[7] EC_S_180107 (2007)
+Dear Mr. Vice Chairman, Dear Mr. Dean, Excellencies, students, ladies and gentlemen, It is always a
+pleasure to be in Beijing, and it is a particular pleasure to have the opportunity to address
+students from such a prestigious university. You represent China's future at a time when China's
+role, and its relations with the EU are of crucial importance. The EU and China are comprehensive
+strategic partners. That is a phrase you may have often heard. But what does it mean in practice?
+It means a number of things. It includes our strong bilateral co-operation on political issues
+including international and regional issues, such as climate change and non-proliferation as well
+as the economy and trade, and co-operation on a huge range of different sectors, from transport, to
+science and technolo
+...
+
+[8] EC_S_290615 (2015)
+The EU and China: A solid partnership - Speech by President Juncker at the EU-China Business Summit
+Mister Prime Minister, Dear Emma, I do not know how to apologise, but I had to do what I had to do
+this morning because we are trying to resolve what we call the Greek crisis in Europe and I had to
+spend some hours on that. I would have preferred to be together with the Prime Minister this
+morning to address the EU-China Business Summit, but it was not possible. So, on my knees, I am
+apologising to you, but before apologising to you, I am apologising to the Chinese Prime Minister.
+I wanted to see him as early as possible because I am a great admirer of China. My first official
+visit in my former capacity as Luxembourgish Prime Minister to China was in 1996 and I went back to
+the country five
+...
+
+[9] EC_S_050625A (2025)
+This Commission is now seven months in office and so much has changed in that intervening period.
+In just a couple of months, we've experienced the onset on a geopolitical winter, marked by greater
+power competition. On the climate front, the landscape has also changed: The US pulling out of the
+Paris Agreement. Here in Europe, people worrying about the impact of climate policies on their
+finances and way of life. And immediate pressures like cost of living and security threats
+garnering more public attention. All of which makes climate politics more complicated than it was,
+even just one year ago. But it will continue to be as relevant as before. (Security and economic
+implications of climate change) Contrary to what some want you to believe, climate action is not a
+bleeding heart ideolog
+...
+
+[10] EC_S_091204 (2004)
+When President Barroso asked me to represent him in opening this Summit with the Prime Ministers
+and Minister Bo Xilai, I agreed with great pleasure. It is heartening to see European and Chinese
+companies gathered here. On President Barroso's behalf, I extend a warm welcome to you all. The
+clear message I want you to take away today is this: the new European Commission recognises the
+economic importance of China and will place it firmly and centrally on its radar screen. We must
+review and lift our relations with China to a new and higher, more intense level. We should ask -
+are the conditions ripe to establish a new more comprehensive, overarching framework for the EU
+China relationship. Why do I say this? We are polities at the extremities of the same land mass.
+Asia and Europe are no lo
+...
+
+-------------------------------------------------------------
+KEYWORD-IN-CONTEXT
+Search terms: china | asia | asean | asem | terror | histor | region | popul | east 
+-------------------------------------------------------------
+
+>>> KWIC: china <<<
+
+[EC_S_040402]
+  ...developing europe's external policy in the age of globalisation central party school beijing [china] 4 april 2002 a recent study by a political scientist if that is not an oxymoron from the united states suggests that much of the...
+
+[EC_S_040402]
+  ...all grant aid it is one of the most significant economic players on the world stage and its economic importance to asia in general and [china] in particular is clear before the asian financial crash asia had a surplus of € 20 billion with the european union today that figure stands...
+
+[EC_S_040402]
+  ...asian financial crash asia had a surplus of € 20 billion with the european union today that figure stands at around € 125 billion and [china's] surplus alone at € 45 billion europe is also a huge investor in china and asia between 1998 and 2000 europe was the largest outside...
+
+[EC_S_040402]
+  ...union today that figure stands at around € 125 billion and china's surplus alone at € 45 billion europe is also a huge investor in [china] and asia between 1998 and 2000 europe was the largest outside investor in china in terms of utilised foreign investment not including the diaspora so...
+
+[EC_S_040402]
+  ...at € 45 billion europe is also a huge investor in china and asia between 1998 and 2000 europe was the largest outside investor in [china] in terms of utilised foreign investment not including the diaspora so as an economic giant europe is an important partner for america for japan for...
+
+[EC_S_040402]
+  ...in terms of utilised foreign investment not including the diaspora so as an economic giant europe is an important partner for america for japan for [china] and that is likely to increase as the size of the union itself expands and as the accession candidates which are quite poor today enjoy...
+
+[EC_S_040402]
+  ...trying to develop a dialogue with pyongyang and to support president kim dae jung's sunshine policy of reconciliation on the korean peninsular i was in [china] for the meeting of foreign ministers from asia and europe and then in vietnam for the asean regional forum in the autumn i was in...
+
+[EC_S_040402]
+  ...their lives transformed by globalisation they live longer they are healthier and they are more prosperous the improvement of living standards for so many in [china] has itself had a global impact however while many people have seen real improvements in living standards too many have been left behind throughout the...
+
+[EC_S_040402]
+  ...as well to bury the individual and devastate the communities that he cherishes i have not spoken specifically today about the relationship between europe and [china] but you only have to reflect for a moment on the points i have raised to see how much value we attach to that relationship...
+
+[EC_S_040402]
+  ...attach to that relationship the integrity and effectiveness of multilateralism and success in making globalisation fairer for more people depend crucially on what happens in [china] on your relationship with the rest of the world and on your relationship with us we recognise that your relationship with the united states the...
+
+[EC_S_060902]
+  ...one but all mankind's epitome one cannot live in asia as i have without being struck by its astonishing variety from the teeming billions of [china] and india to small archipelagos from military dictatorships to thriving democracies from islam to christianity to buddhism from the most densely populated country in the...
+
+[EC_S_060902]
+  ...of history the british will be judged to have brought something valuable to asia that the stain of such events as the opium wars in [china] will be effaced by the positive legacy from pakistan to hong kong to kiribati given the sprawling variety of asia it is absurd to think...
+
+[EC_S_060902]
+  ...more comprehensive and forward european policy towards asia including for example new summit dialogues in the asia-europe meeting asem as well as bilateral summits with [china] india japan and korea our ministerial dialogue was also deepened through eu participation in the asean regional forum but that initiative was over 7 years...
+
+[EC_S_060902]
+  ...with the enlargement of asean to burma cambodia and laos and there have been dramatic changes in particular countries not least in indonesia and in [china] hence the decision to revisit the asia strategy for the coming decade this is no soviet-style 10-year plan rather it sets out six key objectives...
+
+[EC_S_060902]
+  ...to reduce temptations in the us towards exceptionalism the presence in asia not of a superpower but of two or three supercountries including not just [china] and india but indonesia the country with the biggest muslim population in the world gives asia a shared interest with europe in ensuring a strong...
+
+[EC_S_060902]
+  ...of course the eu cannot force asia to promote itself here but we have taken the lead by for example launching a scholarship scheme in [china] funding cultural programmes across asia and extending the network of european commission delegation offices in the region to malaysia singapore cambodia laos and nepal it...
+
+[EC_S_060902]
+  ...annual summit meetings and maintain excellent personal relations yet i am conscious that europe's links with india lack the breadth that we have seen with [china] for example india still ranks only 18th among the eu's trading partners perhaps indians have some difficulty seeing us as a single union rather than...
+
+[EC_S_060902]
+  ...our belief in a vibrant civil society i want in coming months to explore with indian leaders how we can give our relationship more weight [china] no survey of eu-asia relations can ignore china where developments over the coming period will determine the future not just of the region but of...
+
+[EC_S_060902]
+  ...want in coming months to explore with indian leaders how we can give our relationship more weight china no survey of eu-asia relations can ignore [china] where developments over the coming period will determine the future not just of the region but of the world every day the headlines alert us...
+
+[EC_S_060902]
+  ...future not just of the region but of the world every day the headlines alert us to the awesome social economic and environmental problems confronting [china] but however much i read the papers i still find it difficult to change my view i am bullish on china to be a bear...
+
+[EC_S_060902]
+  ...and environmental problems confronting china but however much i read the papers i still find it difficult to change my view i am bullish on [china] to be a bear on china's prospects is after all to be gloomy about the outlook for mankind china represents between a fifth and a...
+
+[EC_S_060902]
+  ...however much i read the papers i still find it difficult to change my view i am bullish on china to be a bear on [china's] prospects is after all to be gloomy about the outlook for mankind china represents between a fifth and a quarter of humanity with more than...
+
+[EC_S_060902]
+  ...my view i am bullish on china to be a bear on china's prospects is after all to be gloomy about the outlook for mankind [china] represents between a fifth and a quarter of humanity with more than its share of creative and hard-working men and women if they cannot overcome...
+
+[EC_S_060902]
+  ...men and women if they cannot overcome the challenges that face them the future for all of us will be bleak so it is not [china's] success that should worry us but rather what happens if china fails any visitor to china is overwhelmed by the contradictions inherent in its helter-skelter...
+
+[EC_S_060902]
+  ...them the future for all of us will be bleak so it is not china's success that should worry us but rather what happens if [china] fails any visitor to china is overwhelmed by the contradictions inherent in its helter-skelter progress during a journey in any direction but particularly from the...
+
+[EC_S_060902]
+  ...of us will be bleak so it is not china's success that should worry us but rather what happens if china fails any visitor to [china] is overwhelmed by the contradictions inherent in its helter-skelter progress during a journey in any direction but particularly from the rich coastal provinces into the...
+
+[EC_S_060902]
+  ...subsistence agriculture to high-tech industrialisation travelling from shanghai through jiangsu province last easter i was amazed by the pace of economic change yet even in [china's] richest provinces there were pockets of severe underdevelopment and backwaters of tradition reminders of how difficult it must be to govern a country so extreme...
+
+[EC_S_060902]
+  ...astonishing but the changes that most excited me were more personal there was first the candour with which people talked about their own experiences during [china's] darkest days of revolution and tumult there was the sight of a packed cathedral with over a thousand shanghai catholics gathered for good friday services...
+
+[EC_S_060902]
+  ...adam smith and alexis de tocqueville hardly there are still terrible human rights abuses capital punishment is meted out with mindless frequency too many of [china's] most thoughtful dissidents have been expelled from incarceration at home to exile abroad the treatment of the falun gong betrays the nervousness of a regime...
+
+[EC_S_060902]
+  ...treatment of the falun gong betrays the nervousness of a regime that remembers too well the dramas of the last chinese dynasty i will grant [china's] sceptics these points but even when you have thrown into the balance the country's haemorrhaging banks the sinking public finance system and creaking social services...
+
+[EC_S_060902]
+  ...the weight of the human casualties of rust belt industries you still have not in my judgement won the argument for the pessimists why because [china] crackles with energy the young people i met and spoke to can no longer be sequestered from the rest of the world the implications of...
+
+[EC_S_060902]
+  ...and modern communications including the internet for the political system seem to me ineluctable and they will be beneficial many historians and commentators doubt that [china] can manage a peaceful process of political change they point to the bloody history of the last century as a harbinger of things to come...
+
+[EC_S_060902]
+  ...history of the last century as a harbinger of things to come and their doubts are reinforced by the modern problems that crowd in on [china's] leaders but we can do more than just to watch nervously as events unfold we should first make clear that we regard china's success as...
+
+[EC_S_060902]
+  ...in on china's leaders but we can do more than just to watch nervously as events unfold we should first make clear that we regard [china's] success as good for all of us and encourage china to take its full place in the institutions of global governance its entry into the...
+
+[EC_S_060902]
+  ...just to watch nervously as events unfold we should first make clear that we regard china's success as good for all of us and encourage [china] to take its full place in the institutions of global governance its entry into the wto is an excellent development from this point of view...
+
+[EC_S_060902]
+  ...of global governance its entry into the wto is an excellent development from this point of view the eu has been engaged in consultations with [china] on illegal migration and trafficking in human beings we must continue to engage china across the whole international multilateral agenda at the same time we...
+
+[EC_S_060902]
+  ...point of view the eu has been engaged in consultations with china on illegal migration and trafficking in human beings we must continue to engage [china] across the whole international multilateral agenda at the same time we must continue to talk about human rights and the rule of law in china...
+
+[EC_S_060902]
+  ...china across the whole international multilateral agenda at the same time we must continue to talk about human rights and the rule of law in [china] these are not topics to be swept under the carpet we do china no service when we blow hot and cold on these issues better...
+
+[EC_S_060902]
+  ...continue to talk about human rights and the rule of law in china these are not topics to be swept under the carpet we do [china] no service when we blow hot and cold on these issues better for us to raise our human rights concerns consistently and openly controlling passing...
+
+[EC_S_060902]
+  ...rights concerns consistently and openly controlling passing convulsions of commercial ambition i have long argued that it is impossible to open up any society even [china] in economic and social terms while indefinitely keeping an iron grip on politics whatever the stated ambitions of today's communist party leaders it is difficult...
+
+[EC_S_060902]
+  ...winston churchill replied that there didn't seem much to be said for spending one's life in the opposite camp a pretty good way of approaching [china] too it seems to me significant personnel changes are expected in the chinese leadership during the next months we must all hope that the changeover...
+
+[EC_S_060902]
+  ...is smooth whatever happens i do not expect dramatic or immediate changes in policy but the overall trend is i believe inexorable south east asia [china] has a very strong sense of itself of its past glories and of its destiny as a nation it stands alone but that is not...
+
+[EC_S_060902]
+  ...meeting asem has come into being this is an informal process of dialogue and co-operation bringing together the eu and its member states with brunei [china] indonesia japan south korea malaysia the philippines singapore thailand and vietnam since the first asem summit in 1996 this grouping has proved an excellent forum...
+
+[EC_S_150705]
+  ...ladies and gentlemen it is a real pleasure to be with you today this is my fourth visit to [china] but my first official visit as president of the european commission i have come here on this special occasion of the 30th anniversary of our...
+
+[EC_S_150705]
+  ...special occasion of the 30th anniversary of our diplomatic relations with one central message the eu is deeply committed to developing its strategic partnership with [china] further world peace prosperity progress harmony friendship protection of the environment these were key themes for hundreds of chinese children when they took part in...
+
+[EC_S_150705]
+  ...come a long way together in these last thirty years yes we have when sir christopher soames then european commissioner for external relations arrived in [china] in 1975 to establish diplomatic relations who could have imagined that thirty years later the eu and china would be global players enjoying such a...
+
+[EC_S_150705]
+  ...european commissioner for external relations arrived in china in 1975 to establish diplomatic relations who could have imagined that thirty years later the eu and [china] would be global players enjoying such a rich partnership with total annual trade between us at € 175 billion the eu is now china's largest...
+
+[EC_S_150705]
+  ...and china would be global players enjoying such a rich partnership with total annual trade between us at € 175 billion the eu is now [china's] largest trading partner and china is our second largest but the relationship has now gone well beyond the commercial our manifold achievements range from trade...
+
+[EC_S_150705]
+  ...players enjoying such a rich partnership with total annual trade between us at € 175 billion the eu is now china's largest trading partner and [china] is our second largest but the relationship has now gone well beyond the commercial our manifold achievements range from trade and tourism to environment and...
+
+[EC_S_150705]
+  ...up europe to thousands of chinese tour groups and taken our scientific cooperation to a new level and the eu remains a key contributor to [china's] development and reforms by providing access to our huge market through inward investment of € 10 billion per year by fostering exchanges of expertise and...
+
+[EC_S_150705]
+  ...in programmes such as the international thermonuclear fusion project and last but by no means least through eu financial cooperation which is used to support [china's] reform process do we have difficulties of course we do as in any relationship we do not always see eye to eye on all issues...
+
+[EC_S_150705]
+  ...our overall relationship should we take this relationship even further no doubt about it this is in the clear interest of both sides looking ahead [china] will certainly remain at the top of our external relations priorities and we are interested in extending our partnership to cover even more areas undoubtedly...
+
+[EC_S_150705]
+  ...be in play at the 8th eu-china summit on 5 september in beijing i will be back then for my second visit this year to [china] as you can see key players in europe and china meet each other frequently at all levels but is that sufficient to ensure true long-term...
+
+[EC_S_150705]
+  ...september in beijing i will be back then for my second visit this year to china as you can see key players in europe and [china] meet each other frequently at all levels but is that sufficient to ensure true long-term sustainability in eu-china relations i don't think so we need...
+
+[EC_S_150705]
+  ...would also pay dividends for our economic and trade relations now let me talk for a moment about the eu i have been told that [china] is concerned about recent developments in the eu and their possible effects on our relationship with china i would like to reassure you that the...
+
+[EC_S_150705]
+  ...about the eu i have been told that china is concerned about recent developments in the eu and their possible effects on our relationship with [china] i would like to reassure you that the eu is not about to turn its back on the world on the contrary we have had...
+
+[EC_S_150705]
+  ...on climate change and development the eu is as active as ever and playing its full part we in europe are full of admiration for [china's] spectacular economic growth china's economic development is truly impressive by any measure if current annual growth rates persist china will soon be one of the...
+
+[EC_S_150705]
+  ...development the eu is as active as ever and playing its full part we in europe are full of admiration for china's spectacular economic growth [china's] economic development is truly impressive by any measure if current annual growth rates persist china will soon be one of the world's largest economies barely...
+
+[EC_S_150705]
+  ...europe are full of admiration for china's spectacular economic growth china's economic development is truly impressive by any measure if current annual growth rates persist [china] will soon be one of the world's largest economies barely three years after china joined the world trade organisation the country has risen to be...
+
+[EC_S_150705]
+  ...truly impressive by any measure if current annual growth rates persist china will soon be one of the world's largest economies barely three years after [china] joined the world trade organisation the country has risen to be the third largest global trader this is really impressive the eu has been supportive...
+
+[EC_S_150705]
+  ...the world trade organisation the country has risen to be the third largest global trader this is really impressive the eu has been supportive of [china's] transition and opening up and we stand ready to assist in china's political and economic reform process further drawing from our own experience we have...
+
+[EC_S_150705]
+  ...largest global trader this is really impressive the eu has been supportive of china's transition and opening up and we stand ready to assist in [china's] political and economic reform process further drawing from our own experience we have also welcomed china's increasing international and multilateral engagement both in the political...
+
+[EC_S_150705]
+  ...opening up and we stand ready to assist in china's political and economic reform process further drawing from our own experience we have also welcomed [china's] increasing international and multilateral engagement both in the political and economic field of course we are aware of the huge challenges china is facing while...
+
+[EC_S_150705]
+  ...have also welcomed china's increasing international and multilateral engagement both in the political and economic field of course we are aware of the huge challenges [china] is facing while development has lifted millions out of poverty it has also created huge income disparities between both urban and rural areas and between...
+
+[EC_S_150705]
+  ...in europe we have learnt from our experience that without a sufficient level of political reform growth may eventually be slowed or disrupted by instability [china's] internal long-term sustainability also depends on its ability to introduce political reform allowing for more democracy and civil liberties we are of the opinion that...
+
+[EC_S_150705]
+  ...human rights good governance and the rule of law and the development of a strong civil society are key elements for the sustained success of [china's] reform process economic growth may also be slowed by environmental problems such as the depletion of natural resources and the impact of high pollution levels...
+
+[EC_S_150705]
+  ...the impact of high pollution levels on human health the environment is just one area where the eu is keen to collaborate more closely with [china] looking at the post-kyoto framework and better ways of using existing or alternative forms of energy for example further risks are increasing unemployment related to...
+
+[EC_S_150705]
+  ...enterprises and instability of the financial and fiscal system the eu as the largest trader in the world greatly values its important trade relations with [china] nonetheless i will not hide from you that in the eu there is also some concern about china as you know unemployment in parts of...
+
+[EC_S_150705]
+  ...greatly values its important trade relations with china nonetheless i will not hide from you that in the eu there is also some concern about [china] as you know unemployment in parts of the eu is quite high and our citizens are increasingly worried about job losses that are perceived to...
+
+[EC_S_150705]
+  ...high and our citizens are increasingly worried about job losses that are perceived to be caused by outsourcing the rapidly growing bilateral trade surplus in [china's] favour € 78 billion or some $ 100 billion in 2004 makes these perceptions more difficult to manage the eu is facing structural and global...
+
+[EC_S_150705]
+  ...competitiveness and remain an attractive economic partner in doing so it is nonetheless important to convince public opinion and our citizens that our partnership with [china] is a great opportunity china's new prosperity will also create additional chances for us by providing us with new markets our recent agreement over textiles...
+
+[EC_S_150705]
+  ...economic partner in doing so it is nonetheless important to convince public opinion and our citizens that our partnership with china is a great opportunity [china's] new prosperity will also create additional chances for us by providing us with new markets our recent agreement over textiles has shown us how dialogue...
+
+[EC_S_150705]
+  ...certainly hope that the new eu-china framework agreement will include an ambitious trade and investment agenda that will take our relationship to the next level [china's] growing economic role has also generated political responsibilities in the region and china's regional diplomacy has been positive china has engaged with virtually all its...
+
+[EC_S_150705]
+  ...and investment agenda that will take our relationship to the next level china's growing economic role has also generated political responsibilities in the region and [china's] regional diplomacy has been positive china has engaged with virtually all its neighbours signing free trade agreements with asean taking a moderate stance on the...
+
+[EC_S_150705]
+  ...our relationship to the next level china's growing economic role has also generated political responsibilities in the region and china's regional diplomacy has been positive [china] has engaged with virtually all its neighbours signing free trade agreements with asean taking a moderate stance on the south china sea territorial disputes driving...
+
+[EC_S_150705]
+  ...diplomacy has been positive china has engaged with virtually all its neighbours signing free trade agreements with asean taking a moderate stance on the south [china] sea territorial disputes driving the new shanghai cooperation organisation in central asia and above all hosting the six party talks with north korea i congratulated...
+
+[EC_S_150705]
+  ...organisation in central asia and above all hosting the six party talks with north korea i congratulated pm wen yesterday for the positive role of [china] in this regard the degree of economic integration in east asia is already impressive but to make east asia a more peaceful place in the...
+
+[EC_S_150705]
+  ...east asia needs to be overcome and regional integration should not be undertaken to the exclusion of others reconciliation and renewed cooperation between india and [china] as two emerging powers in asia are encouraging for their neighbours as well chinese–japanese reconciliation is equally important for a stable asia and for further...
+
+[EC_S_150705]
+  ...encouraging for their neighbours as well chinese–japanese reconciliation is equally important for a stable asia and for further integration in this area we also encourage [china] to persuade the regime in burma to pursue national reconciliation and progress towards democracy the eu shares china's desire for peace and stability in asia...
+
+[EC_S_150705]
+  ...integration in this area we also encourage china to persuade the regime in burma to pursue national reconciliation and progress towards democracy the eu shares [china's] desire for peace and stability in asia and will continue to actively support asian integration and dialogue through the asem process and the eu-asean dialogue...
+
+[EC_S_150705]
+  ...the eu-asean dialogue in the run-up to the beijing olympic games in 2008 and the 2010 world expo in shanghai the international community would welcome [china] starting a direct dialogue with taiwan as a sign of great maturity this would also greatly advance china's international standing and reputation as a global...
+
+[EC_S_150705]
+  ...in shanghai the international community would welcome china starting a direct dialogue with taiwan as a sign of great maturity this would also greatly advance [china's] international standing and reputation as a global player with a particular responsibility for peace and security in east asia both the region and the world...
+
+[EC_S_150705]
+  ...peace and security in east asia both the region and the world as a whole cannot afford conflict in east asia the eu wholeheartedly welcomes [china's] growing international role and its increased international and multilateral engagement in tackling global challenges there are many recent examples where china has made a difference...
+
+[EC_S_150705]
+  ...the eu wholeheartedly welcomes china's growing international role and its increased international and multilateral engagement in tackling global challenges there are many recent examples where [china] has made a difference for example through its growing participation in un peacekeeping missions through its appointment of a middle east envoy and its hosting...
+
+[EC_S_150705]
+  ...in un peacekeeping missions through its appointment of a middle east envoy and its hosting of a un conference on peace in the middle east [china] has also become an important partner in the global fight against nuclear proliferation the eu and china have many common multilateral priorities such as non-proliferation...
+
+[EC_S_150705]
+  ...un conference on peace in the middle east china has also become an important partner in the global fight against nuclear proliferation the eu and [china] have many common multilateral priorities such as non-proliferation and the reform of the un system and international cooperation is already a basic part of our...
+
+[EC_S_150705]
+  ...crime terrorism illegal immigration and epidemics reform of the united nations is essential for successfully tackling the challenges of the 21st century the eu and [china] should cooperate in the preparation of the millennium review summit in september and in the achievement of the millennium development goals together we can encourage...
+
+[EC_S_150705]
+  ...the achievement of the millennium development goals together we can encourage effective multilateralism whether within the un specialised international agencies or the wto we applaud [china's] increasing acceptance of globally-accepted rules and standards in particular its ratification of the international covenant on economic social and cultural rights we look forward to...
+
+[EC_S_150705]
+  ...on economic social and cultural rights we look forward to its ratification of the international covenant on civil and political rights the eu expects a [china] that is open democratic committed to the rule of law at home and abroad acting responsibly as a global player in helping to maintain regional...
+
+[EC_S_150705]
+  ...global player in helping to maintain regional and global security as i said earlier the development of a strategic mutually beneficial and enduring relationship with [china] is one of the eu's top foreign policy priorities for this century in achieving this goal we must convince the international community that the eu-china...
+
+[EC_S_150705]
+  ...anniversary of our diplomatic ties we should be proud of our accomplishments so far and look to the future with confidence both the eu and [china] face many internal challenges but we have the will and courage to tackle them in doing so we will earn our place as key players...
+
+[EC_S_271107]
+  ...prestigious school which plays a central role in the forming of men and women who shoulder the heavy burden of leading this country and pursuing [china's] reforms and opening up to the rest of the world the last 25 years have witnessed spectacular developments in china hundreds of millions have been...
+
+[EC_S_271107]
+  ...leading this country and pursuing china's reforms and opening up to the rest of the world the last 25 years have witnessed spectacular developments in [china] hundreds of millions have been lifted from the infernal cycle of poverty and underdevelopment and today china can look to her future with confidence since...
+
+[EC_S_271107]
+  ...last 25 years have witnessed spectacular developments in china hundreds of millions have been lifted from the infernal cycle of poverty and underdevelopment and today [china] can look to her future with confidence since its beginnings the eu has actively supported china's opening up and reform policy we have opened european...
+
+[EC_S_271107]
+  ...the infernal cycle of poverty and underdevelopment and today china can look to her future with confidence since its beginnings the eu has actively supported [china's] opening up and reform policy we have opened european markets and our companies helped with your economic revitalisation and employment in china as well as...
+
+[EC_S_271107]
+  ...has actively supported china's opening up and reform policy we have opened european markets and our companies helped with your economic revitalisation and employment in [china] as well as by transferring technology and know-how through our investments we have developed cooperation in all fields from scientific research to education from energy...
+
+[EC_S_271107]
+  ...in all fields from scientific research to education from energy to the environment from transport to tourism and in many other areas we have supported [china's] accession to the wto and have welcomed china's increasingly important role in various international organisations in other words we have demonstrated through our policies and...
+
+[EC_S_271107]
+  ...from energy to the environment from transport to tourism and in many other areas we have supported china's accession to the wto and have welcomed [china's] increasingly important role in various international organisations in other words we have demonstrated through our policies and actions our interest in your stability prosperity and...
+
+[EC_S_271107]
+  ...in other words we have demonstrated through our policies and actions our interest in your stability prosperity and success we will continue to engage in [china's] development just as we wish for china itself to become more and more engaged in global affairs in a way that its china's growing global...
+
+[EC_S_271107]
+  ...our policies and actions our interest in your stability prosperity and success we will continue to engage in china's development just as we wish for [china] itself to become more and more engaged in global affairs in a way that its china's growing global position i would like here to welcome...
+
+[EC_S_271107]
+  ...engage in china's development just as we wish for china itself to become more and more engaged in global affairs in a way that its [china's] growing global position i would like here to welcome your recent 17th party congress the congress caught the attention not only of the chinese people...
+
+[EC_S_271107]
+  ...recent 17th party congress the congress caught the attention not only of the chinese people but also of the whole world because what happens in [china] is now of interest to the whole planet we noted the arrival of new talent in the party's leading organs as well as the concept...
+
+[EC_S_271107]
+  ...a whole as you know today the eu has 27 member states we started 50 years ago with six now we are 27 europe and [china] do not share the same political system even so we believe we face the same political and social challenges to manage complex issues and our...
+
+[EC_S_271107]
+  ...currency inspires global confidence there are even some europeans who say the euro is too strong therefore we are determined to make progress together with [china] both on our bilateral relationship and also global issues notably the problems of energy and global warming the effective dynamic and fair trade system and...
+
+[EC_S_271107]
+  ...made achievements across the board one issue however deserves sustained political attention from leaders on both sides the growing trade deficit between the eu and [china] the current situation is not sustainable we need to work together in a spirit of reciprocity to eliminate obstacles preventing the access in many sectors...
+
+[EC_S_271107]
+  ...better mutual understanding and alleviate several of our mutual concerns for my part i want to make things in a way that european citizens view [china] positively and in no way as a threat this reservoir of goodwill allowed us for example to face the recent crisis about the quality of...
+
+[EC_S_271107]
+  ...no way as a threat this reservoir of goodwill allowed us for example to face the recent crisis about the quality of products imported from [china] in a spirit of responsibility and partnership as china recognised the eu dealt with this issue without any resort to protectionism our sole concern being...
+
+[EC_S_271107]
+  ...allowed us for example to face the recent crisis about the quality of products imported from china in a spirit of responsibility and partnership as [china] recognised the eu dealt with this issue without any resort to protectionism our sole concern being the protection of our consumers we need to keep...
+
+[EC_S_271107]
+  ...deficit is adding to eu citizens anxiety about globalisation and is growing in political importance indeed there is a risk that the economic emergence of [china] is seen by europeans as a threat that is why we need to deal with this question responsibly to avoid protectionist pressures which would be...
+
+[EC_S_271107]
+  ...acting but cannot act alone we have fixed new and very ambitious objectives for ourselves but these will serve little purpose if other countries including [china] a huge consumer of fossil fuels do not join in common actions yes there is a cost to reducing emissions but the cost of climate...
+
+[EC_S_271107]
+  ...do not join in common actions yes there is a cost to reducing emissions but the cost of climate change is far higher including for [china] furthermore policies and investments dedicated to energy saving as well as renewable sources of energy will also foster growth technological development and employment mr president...
+
+[EC_S_271107]
+  ...i attach to the role of this central party school we are ready to work with the chinese authorities on the most important questions for [china] and the eu one issue that is a matter of concern for china is the question of taiwan as you know the eu has a...
+
+[EC_S_271107]
+  ...to work with the chinese authorities on the most important questions for china and the eu one issue that is a matter of concern for [china] is the question of taiwan as you know the eu has a clear and consistent one china policy which we adhere to in every aspect...
+
+[EC_S_271107]
+  ...issue that is a matter of concern for china is the question of taiwan as you know the eu has a clear and consistent one [china] policy which we adhere to in every aspect of our relations i am convinced that stability across the taiwan straits is integral to the stability...
+
+Total occurrences: 114 
+
+>>> KWIC: asia <<<
+
+[EC_S_040402]
+  ...nearly two thirds of all grant aid it is one of the most significant economic players on the world stage and its economic importance to [asia] in general and china in particular is clear before the asian financial crash asia had a surplus of € 20 billion with the european union...
+
+[EC_S_040402]
+  ...the most significant economic players on the world stage and its economic importance to asia in general and china in particular is clear before the [asian] financial crash asia had a surplus of € 20 billion with the european union today that figure stands at around € 125 billion and china's...
+
+[EC_S_040402]
+  ...economic players on the world stage and its economic importance to asia in general and china in particular is clear before the asian financial crash [asia] had a surplus of € 20 billion with the european union today that figure stands at around € 125 billion and china's surplus alone at...
+
+[EC_S_040402]
+  ...that figure stands at around € 125 billion and china's surplus alone at € 45 billion europe is also a huge investor in china and [asia] between 1998 and 2000 europe was the largest outside investor in china in terms of utilised foreign investment not including the diaspora so as an...
+
+[EC_S_040402]
+  ...to support president kim dae jung's sunshine policy of reconciliation on the korean peninsular i was in china for the meeting of foreign ministers from [asia] and europe and then in vietnam for the asean regional forum in the autumn i was in pakistan and iran after the atrocities of 11...
+
+[EC_S_040402]
+  ...and speeds up the results so typically where it took european economies after the industrial revolution a century or so to double their national wealth [asian] countries have managed that during the present technological age in 10 or 20 years by and large most people have seen their lives transformed by...
+
+[EC_S_060902]
+  ...against all tradition by revealing the denouement it is absurd to think of a single relationship between the eu and a region as diverse as [asia] a region as dryden said of george villiers so various that he seemed to be not one but all mankind's epitome one cannot live in...
+
+[EC_S_060902]
+  ...a region as dryden said of george villiers so various that he seemed to be not one but all mankind's epitome one cannot live in [asia] as i have without being struck by its astonishing variety from the teeming billions of china and india to small archipelagos from military dictatorships to...
+
+[EC_S_060902]
+  ...might stand as a paradigm for the variety of the whole were it not for the close kinship between the peoples on that peninsula yet [asia] is a cornucopia of different races languages traditions and histories further complicated by the imprint of invasion the british conquest of parts of the indian...
+
+[EC_S_060902]
+  ...looked that way to harold i hope that in the long sweep of history the british will be judged to have brought something valuable to [asia] that the stain of such events as the opium wars in china will be effaced by the positive legacy from pakistan to hong kong to...
+
+[EC_S_060902]
+  ...as the opium wars in china will be effaced by the positive legacy from pakistan to hong kong to kiribati given the sprawling variety of [asia] it is absurd to think of a monolithic eu-asia relationship a single policy or approach equally valid across the whole region that may help to...
+
+[EC_S_060902]
+  ...region that may help to explain why almost exactly one year ago when the commission set out a new strategic framework for europe's relationship with [asia] over the coming decade some critics accused us of being unfocussed let me first summarise what was in the 2001 strategy paper in part this...
+
+[EC_S_060902]
+  ...was in the 2001 strategy paper in part this answers the charge of lack of focus because it identifies themes which are equally valid throughout [asia] which serve as it were as threads to pull our policy together the 2001 asia strategy last year's paper followed a substantial 1994 initiative that...
+
+[EC_S_060902]
+  ...focus because it identifies themes which are equally valid throughout asia which serve as it were as threads to pull our policy together the 2001 [asia] strategy last year's paper followed a substantial 1994 initiative that had launched a more comprehensive and forward european policy towards asia including for example new...
+
+[EC_S_060902]
+  ...policy together the 2001 asia strategy last year's paper followed a substantial 1994 initiative that had launched a more comprehensive and forward european policy towards [asia] including for example new summit dialogues in the asia-europe meeting asem as well as bilateral summits with china india japan and korea our ministerial dialogue...
+
+[EC_S_060902]
+  ...followed a substantial 1994 initiative that had launched a more comprehensive and forward european policy towards asia including for example new summit dialogues in the [asia-europe] meeting asem as well as bilateral summits with china india japan and korea our ministerial dialogue was also deepened through eu participation in the asean...
+
+[EC_S_060902]
+  ...common foreign and security policy as well as plans for the rapid reaction force meanwhile the 1997 crisis precipitated welcome economic and political reforms in [asia] regional integration has gained a new dynamism with the enlargement of asean to burma cambodia and laos and there have been dramatic changes in particular...
+
+[EC_S_060902]
+  ...cambodia and laos and there have been dramatic changes in particular countries not least in indonesia and in china hence the decision to revisit the [asia] strategy for the coming decade this is no soviet-style 10-year plan rather it sets out six key objectives for more coherent and balanced relations with...
+
+[EC_S_060902]
+  ...strategy for the coming decade this is no soviet-style 10-year plan rather it sets out six key objectives for more coherent and balanced relations with [asia] and then suggests some specific eu initiatives in asia's four sub-regions in the various regional fora and in particular countries let me briefly review the...
+
+[EC_S_060902]
+  ...10-year plan rather it sets out six key objectives for more coherent and balanced relations with asia and then suggests some specific eu initiatives in [asia's] four sub-regions in the various regional fora and in particular countries let me briefly review the six objectives first we want to contribute to peace...
+
+[EC_S_060902]
+  ...the various regional fora and in particular countries let me briefly review the six objectives first we want to contribute to peace and security in [asia] by broadening our engagement with the region this is what we have been doing for example in east timor and in north korea where we...
+
+[EC_S_060902]
+  ...been doing for example in east timor and in north korea where we have remained deeply committed to the korean peninsula energy development organisation kedo [asia] we must not forget is the source of some of the world's major tensions and conflicts whether in kashmir sri lanka afghanistan acheh mindanao across...
+
+[EC_S_060902]
+  ...of the world's major tensions and conflicts whether in kashmir sri lanka afghanistan acheh mindanao across the taiwan straits or in the korean peninsula several [asian] states have nuclear capacities and there are also concerns related to the proliferation of weapons of mass destruction to contribute to the solution of such...
+
+[EC_S_060902]
+  ...the rule of law as i have said on many occasions i utterly reject the idea that such ideas are western and somehow incompatible with [asian] values more than once during my days in hong kong i was afforded the delight of hearing this view propounded by one distinguished person or...
+
+[EC_S_060902]
+  ...during my days in hong kong i was afforded the delight of hearing this view propounded by one distinguished person or another for such speakers [asian] values seemed to exclude democracy human rights civil liberties and other such noxious ideas identified with the degenerate west personally i rather enjoyed these moments...
+
+[EC_S_060902]
+  ...a lot of time to reflect on the issue had these speakers never heard of aung san suu kyi in burma i wondered a very [asian] inspiration to freedom-lovers across the whole world had they forgotten the words of malaysia's deputy prime minister anwar ibrahim who perhaps in defence of asian...
+
+[EC_S_060902]
+  ...asian inspiration to freedom-lovers across the whole world had they forgotten the words of malaysia's deputy prime minister anwar ibrahim who perhaps in defence of [asian] values is now languishing in a prison cell in 1994 he argued that calling freedom western or un-asian is to offend our own traditions as...
+
+[EC_S_060902]
+  ...own traditions as well as our forefathers who gave their lives in the struggle against tyrannies and injustices a meeting of more than one hundred [asian] ngos in bangkok the year before had concluded that universal human rights standards are rooted in many cultures they called for cultural pluralism with the...
+
+[EC_S_060902]
+  ...derogate from universally accepted human rights must not be tolerated europe today has a relatively better record in the field of human rights than some [asian] countries but we have no reason to feel smug or morally superior about this until recently so-called western values were almost unheard of in europe...
+
+[EC_S_060902]
+  ...to put these down to a time lag rather than to profound cultural differences just as europe in mediaeval times lagged far behind parts of [asia] in this respect there are solid economic and political arguments for such values as well as moral ones peace security and prosperity too are more...
+
+[EC_S_060902]
+  ...successful if they have contented educated motivated workforces the third key objective in our strategy is to develop trade and investment relations between europe and [asia] the main focus here has been on the doha development round where we have worked closely with asian partners to reduce non-tariff trade barriers to...
+
+[EC_S_060902]
+  ...trade and investment relations between europe and asia the main focus here has been on the doha development round where we have worked closely with [asian] partners to reduce non-tariff trade barriers to encourage investment and to support co-operation between economic operators europe and asia have a joint interest in developing...
+
+[EC_S_060902]
+  ...where we have worked closely with asian partners to reduce non-tariff trade barriers to encourage investment and to support co-operation between economic operators europe and [asia] have a joint interest in developing and modernising the multilateral trading system embodied in the wto trade with asia has expanded substantially in recent years...
+
+[EC_S_060902]
+  ...co-operation between economic operators europe and asia have a joint interest in developing and modernising the multilateral trading system embodied in the wto trade with [asia] has expanded substantially in recent years despite the 1997 crisis at the millennium asia accounted for over 20 of eu exports making it our third-largest...
+
+[EC_S_060902]
+  ...modernising the multilateral trading system embodied in the wto trade with asia has expanded substantially in recent years despite the 1997 crisis at the millennium [asia] accounted for over 20 of eu exports making it our third-largest regional partner ahead of the mediterranean central and south america the gulf and acp...
+
+[EC_S_060902]
+  ...regional partner ahead of the mediterranean central and south america the gulf and acp countries combined around 17 and the european market matters hugely to [asia] the region's trade surplus with europe increased from $ 28.5bn in 1995 to $ 122bn five years later access to europe's market has been a...
+
+[EC_S_060902]
+  ...with europe increased from $ 28.5bn in 1995 to $ 122bn five years later access to europe's market has been a key contributing factor in [asia's] post-crash recovery as two of the major international trading blocks europe and asia must do everything in their power to maintain business confidence despite insecurity...
+
+[EC_S_060902]
+  ...later access to europe's market has been a key contributing factor in asia's post-crash recovery as two of the major international trading blocks europe and [asia] must do everything in their power to maintain business confidence despite insecurity generated by the events of 11 september last year and other factors depressing...
+
+[EC_S_060902]
+  ...events of 11 september last year and other factors depressing the global economy the business downturn has especially dire consequences for less developed countries in [asia] and this brings me to the fourth strand in our strategy to contribute to the international development in the region it is not just a...
+
+[EC_S_060902]
+  ...strategy to contribute to the international development in the region it is not just a moral duty to address the root causes of poverty in [asia] but a matter of enlightened self interest not least because the struggle against international terrorism must concern itself with causes of alienation as well as...
+
+[EC_S_060902]
+  ...but arms initiative is also designed to enhance market opportunities for the poorest it is also crucial that we should encourage middle-income countries on the [asian] side to improve their own contribution to this vital work european co-operation programmes with the developing countries of asia grew fast in the late 90s...
+
+[EC_S_060902]
+  ...should encourage middle-income countries on the asian side to improve their own contribution to this vital work european co-operation programmes with the developing countries of [asia] grew fast in the late 90s averaging some € 410m a year in the last years of the decade overall the eu and its member...
+
+[EC_S_060902]
+  ...in the last years of the decade overall the eu and its member states account for around 30 of global overseas development aid going to [asia] some way behind japan 50 but well ahead of the us 9 the size of our programme increased substantially with the crisis in afghanistan next...
+
+[EC_S_060902]
+  ...behind japan 50 but well ahead of the us 9 the size of our programme increased substantially with the crisis in afghanistan next year our [asia] budget will total € 546m the fifth objective of our strategy is to build global partnerships and alliances to help to address the challenges and...
+
+[EC_S_060902]
+  ...eu-asian approaches and initiatives we can make a real contribution and we can help to reduce temptations in the us towards exceptionalism the presence in [asia] not of a superpower but of two or three supercountries including not just china and india but indonesia the country with the biggest muslim population...
+
+[EC_S_060902]
+  ...but of two or three supercountries including not just china and india but indonesia the country with the biggest muslim population in the world gives [asia] a shared interest with europe in ensuring a strong rule-based multilateral system the sixth and final objective of our new asia strategy is to help...
+
+[EC_S_060902]
+  ...in the world gives asia a shared interest with europe in ensuring a strong rule-based multilateral system the sixth and final objective of our new [asia] strategy is to help to strengthen awareness of europe in asia and of asia in europe this is not an optional extra a convenient excuse...
+
+[EC_S_060902]
+  ...ensuring a strong rule-based multilateral system the sixth and final objective of our new asia strategy is to help to strengthen awareness of europe in [asia] and of asia in europe this is not an optional extra a convenient excuse for mayors to go on taxpayer-funded boondoggles to exotic places it...
+
+[EC_S_060902]
+  ...rule-based multilateral system the sixth and final objective of our new asia strategy is to help to strengthen awareness of europe in asia and of [asia] in europe this is not an optional extra a convenient excuse for mayors to go on taxpayer-funded boondoggles to exotic places it is about promoting...
+
+[EC_S_060902]
+  ...taxpayer-funded boondoggles to exotic places it is about promoting educational scientific cultural and yes political exchanges at all levels of course the eu cannot force [asia] to promote itself here but we have taken the lead by for example launching a scholarship scheme in china funding cultural programmes across asia and...
+
+[EC_S_060902]
+  ...force asia to promote itself here but we have taken the lead by for example launching a scholarship scheme in china funding cultural programmes across [asia] and extending the network of european commission delegation offices in the region to malaysia singapore cambodia laos and nepal it is my sincere hope that...
+
+[EC_S_060902]
+  ...network of european commission delegation offices in the region to malaysia singapore cambodia laos and nepal it is my sincere hope that the nations of [asia] will reciprocate in these efforts they have much to share there are still many tensions prejudices and misunderstandings deriving from europe and asia's often tangled...
+
+[EC_S_060902]
+  ...nations of asia will reciprocate in these efforts they have much to share there are still many tensions prejudices and misunderstandings deriving from europe and [asia's] often tangled and turbulent past the events of 11 september a year ago have further complicated things because of the islamic camouflage used by the...
+
+[EC_S_060902]
+  ...to some more specific issues and relationships inevitably in a speech of this kind i must be selective afghanistan afghanistan is clearly high on our [asian] agenda at present it is hardly surprising that since the events of 11 september this country and the entire subregion have been at the centre...
+
+[EC_S_060902]
+  ...are the biggest single contributor to the operating costs of the government and so on india pakistan 11 september cast its shadow much further across [asia] than just afghanistan within days of the attack i was on a troika visit to the region where the eu agreed new assistance to pakistan...
+
+[EC_S_060902]
+  ...pakistan those tensions reached such a pitch that it has been difficult even to develop a regional strategy between the eu and saarc the south [asian] association for regional co-operation of course i would like to see the eu being pro-active in its relations with saarc but we should not hide...
+
+[EC_S_060902]
+  ...changeover is smooth whatever happens i do not expect dramatic or immediate changes in policy but the overall trend is i believe inexorable south east [asia] china has a very strong sense of itself of its past glories and of its destiny as a nation it stands alone but that is...
+
+[EC_S_060902]
+  ...like the european union they are looking for regional partnerships and unions to maximise their potential and to assure their security the association of south-east [asian] nations asean was the first serious effort of this kind and the eu entered into a formal inter-institutional agreement with it as long ago as...
+
+[EC_S_060902]
+  ...first serious effort of this kind and the eu entered into a formal inter-institutional agreement with it as long ago as 1980 more recently the [asia-europe] meeting asem has come into being this is an informal process of dialogue and co-operation bringing together the eu and its member states with brunei...
+
+[EC_S_060902]
+  ...a beauty contest between asem and asean they serve quite different and complementary purposes and asem has a wider reach as it includes north east [asian] countries i will come to asem in a moment but let me first confess to a nagging unhappiness about the way in which asean has...
+
+[EC_S_060902]
+  ...a moment but let me first confess to a nagging unhappiness about the way in which asean has developed as a vehicle for south east [asian] political consciousness and economic development and about the eu's relations with south east asia we need a more results-oriented approach it is no secret that...
+
+[EC_S_060902]
+  ...in which asean has developed as a vehicle for south east asian political consciousness and economic development and about the eu's relations with south east [asia] we need a more results-oriented approach it is no secret that the commission is currently re-evaluating the relationship and assessing how this should be carried...
+
+[EC_S_060902]
+  ...this year it was given a negative spin the paper noted that countries in the region had had difficulties wooing back european investors since the [asian] crisis of 1997 it maintained that some eu officials are now questioning the value of the partnership between the eu and asean that is certainly...
+
+[EC_S_060902]
+  ...against terror we should engage together on the doha development agenda above all perhaps we should enhance the eu's political visibility in the south east [asian] region i am keen to avoid heavy new institutional obligations for either side we all attend too many meeting and need if anything to streamline...
+
+[EC_S_060902]
+  ...attend too many meeting and need if anything to streamline what already exists but there is a great deal of untapped potential in south east [asia] as a region and in the eu's relations with it i have commissioned a communication on this issue for next year and i hope we...
+
+[EC_S_060902]
+  ...a communication on this issue for next year and i hope we can launch a more active and productive phase in our relations asem the [asia-europe] meeting asem meanwhile goes from strength to strength we are now only a few days away from the fourth asem summit meeting in copenhagen it...
+
+[EC_S_060902]
+  ...the economic field we must send a strong political signal to try to restore confidence in the international economy both sides europe as well as [asia] must commit themselves to improve market access and investment conditions we need to make more efficient use of existing instruments in defining key priorities and...
+
+[EC_S_060902]
+  ...encourage sound economic reform in the financial and corporate sector europe's own experience in regional co-operation on these fields may be of particular interest to [asia] and our asian partners should take maximum advantage of the new possibilities offered by the euro we will also be reviewing the results of the...
+
+[EC_S_060902]
+  ...reform in the financial and corporate sector europe's own experience in regional co-operation on these fields may be of particular interest to asia and our [asian] partners should take maximum advantage of the new possibilities offered by the euro we will also be reviewing the results of the johannesburg sustainable development...
+
+[EC_S_060902]
+  ...to hold back waiting for formal political cover for initiatives even of the most modest kind copenhagen will offer a unique opportunity for european and [asian] leaders to promote a better understanding between our cultures civilisations and religions for the first time there will be an informal retreat to allow an...
+
+[EC_S_060902]
+  ...through a happy accident of democracy though it did not seem so happy at the time to spend 5 years of my political career in [asia] this occurred at a time when asia's vitality made some exaggerate what was being achieved there after 1997 some were equally hasty in exaggerating asia's...
+
+[EC_S_060902]
+  ...it did not seem so happy at the time to spend 5 years of my political career in asia this occurred at a time when [asia's] vitality made some exaggerate what was being achieved there after 1997 some were equally hasty in exaggerating asia's problems predictions that the future belonged to...
+
+[EC_S_060902]
+  ...asia this occurred at a time when asia's vitality made some exaggerate what was being achieved there after 1997 some were equally hasty in exaggerating [asia's] problems predictions that the future belonged to asia were followed by predictions of doom i never believed the gung-ho optimism and i have no time...
+
+[EC_S_060902]
+  ...vitality made some exaggerate what was being achieved there after 1997 some were equally hasty in exaggerating asia's problems predictions that the future belonged to [asia] were followed by predictions of doom i never believed the gung-ho optimism and i have no time for the excessive gloom either what is clear...
+
+[EC_S_060902]
+  ...integration which can make an asset of diversity that has been europe's own experience i am convinced that it can apply with equal force in [asia] ...
+
+[EC_S_150705]
+  ...signing free trade agreements with asean taking a moderate stance on the south china sea territorial disputes driving the new shanghai cooperation organisation in central [asia] and above all hosting the six party talks with north korea i congratulated pm wen yesterday for the positive role of china in this regard...
+
+[EC_S_150705]
+  ...talks with north korea i congratulated pm wen yesterday for the positive role of china in this regard the degree of economic integration in east [asia] is already impressive but to make east asia a more peaceful place in the long-run political cooperation should also be intensified growing nationalism in east...
+
+[EC_S_150705]
+  ...yesterday for the positive role of china in this regard the degree of economic integration in east asia is already impressive but to make east [asia] a more peaceful place in the long-run political cooperation should also be intensified growing nationalism in east asia needs to be overcome and regional integration...
+
+[EC_S_150705]
+  ...is already impressive but to make east asia a more peaceful place in the long-run political cooperation should also be intensified growing nationalism in east [asia] needs to be overcome and regional integration should not be undertaken to the exclusion of others reconciliation and renewed cooperation between india and china as...
+
+[EC_S_150705]
+  ...and regional integration should not be undertaken to the exclusion of others reconciliation and renewed cooperation between india and china as two emerging powers in [asia] are encouraging for their neighbours as well chinese–japanese reconciliation is equally important for a stable asia and for further integration in this area we also...
+
+[EC_S_150705]
+  ...between india and china as two emerging powers in asia are encouraging for their neighbours as well chinese–japanese reconciliation is equally important for a stable [asia] and for further integration in this area we also encourage china to persuade the regime in burma to pursue national reconciliation and progress towards democracy...
+
+[EC_S_150705]
+  ...china to persuade the regime in burma to pursue national reconciliation and progress towards democracy the eu shares china's desire for peace and stability in [asia] and will continue to actively support asian integration and dialogue through the asem process and the eu-asean dialogue in the run-up to the beijing olympic...
+
+[EC_S_150705]
+  ...to pursue national reconciliation and progress towards democracy the eu shares china's desire for peace and stability in asia and will continue to actively support [asian] integration and dialogue through the asem process and the eu-asean dialogue in the run-up to the beijing olympic games in 2008 and the 2010 world...
+
+[EC_S_150705]
+  ...maturity this would also greatly advance china's international standing and reputation as a global player with a particular responsibility for peace and security in east [asia] both the region and the world as a whole cannot afford conflict in east asia the eu wholeheartedly welcomes china's growing international role and its...
+
+[EC_S_150705]
+  ...with a particular responsibility for peace and security in east asia both the region and the world as a whole cannot afford conflict in east [asia] the eu wholeheartedly welcomes china's growing international role and its increased international and multilateral engagement in tackling global challenges there are many recent examples where...
+
+[EC_S_271107]
+  ...to in every aspect of our relations i am convinced that stability across the taiwan straits is integral to the stability and prosperity of east [asia] and the wider international community we welcome initiatives by both sides aimed at promoting dialogue practical co-operation and increased confidence building i therefore noted with...
+
+Total occurrences: 86 
+
+>>> KWIC: asean <<<
+
+[EC_S_040402]
+  ...reconciliation on the korean peninsular i was in china for the meeting of foreign ministers from asia and europe and then in vietnam for the [asean] regional forum in the autumn i was in pakistan and iran after the atrocities of 11 september negotiating an increase in development assistance for pakistan...
+
+[EC_S_060902]
+  ...asia-europe meeting asem as well as bilateral summits with china india japan and korea our ministerial dialogue was also deepened through eu participation in the [asean] regional forum but that initiative was over 7 years ago and if a week is a long time in politics as harold wilson famously said...
+
+[EC_S_060902]
+  ...reaction force meanwhile the 1997 crisis precipitated welcome economic and political reforms in asia regional integration has gained a new dynamism with the enlargement of [asean] to burma cambodia and laos and there have been dramatic changes in particular countries not least in indonesia and in china hence the decision to...
+
+[EC_S_060902]
+  ...european union they are looking for regional partnerships and unions to maximise their potential and to assure their security the association of south-east asian nations [asean] was the first serious effort of this kind and the eu entered into a formal inter-institutional agreement with it as long ago as 1980 more...
+
+[EC_S_060902]
+  ...the highest political level and through its many working groups at the coal-face too there should and cannot be a beauty contest between asem and [asean] they serve quite different and complementary purposes and asem has a wider reach as it includes north east asian countries i will come to asem...
+
+[EC_S_060902]
+  ...east asian countries i will come to asem in a moment but let me first confess to a nagging unhappiness about the way in which [asean] has developed as a vehicle for south east asian political consciousness and economic development and about the eu's relations with south east asia we need...
+
+[EC_S_060902]
+  ...investors since the asian crisis of 1997 it maintained that some eu officials are now questioning the value of the partnership between the eu and [asean] that is certainly not my view i have no doubt of the potential of asean and of the eu's relationship with this grouping but both...
+
+[EC_S_060902]
+  ...questioning the value of the partnership between the eu and asean that is certainly not my view i have no doubt of the potential of [asean] and of the eu's relationship with this grouping but both sides should be getting more out of it an eu-asean ministerial is planned for next...
+
+[EC_S_060902]
+  ...for our relations which still rest on an agreement which is now more than 20 years old if that is not at once possible with [asean] as a grouping we should look at what might be done on a bilateral basis through new co-operation agreements with asean's members we should raise...
+
+[EC_S_060902]
+  ...at once possible with asean as a grouping we should look at what might be done on a bilateral basis through new co-operation agreements with [asean's] members we should raise the level and substance of our dialogue on everything from human rights to economic governance from environmental issues to the fight...
+
+[EC_S_150705]
+  ...political responsibilities in the region and china's regional diplomacy has been positive china has engaged with virtually all its neighbours signing free trade agreements with [asean] taking a moderate stance on the south china sea territorial disputes driving the new shanghai cooperation organisation in central asia and above all hosting the...
+
+Total occurrences: 11 
+
+>>> KWIC: asem <<<
+
+[EC_S_060902]
+  ...substantial 1994 initiative that had launched a more comprehensive and forward european policy towards asia including for example new summit dialogues in the asia-europe meeting [asem] as well as bilateral summits with china india japan and korea our ministerial dialogue was also deepened through eu participation in the asean regional forum...
+
+[EC_S_060902]
+  ...effort of this kind and the eu entered into a formal inter-institutional agreement with it as long ago as 1980 more recently the asia-europe meeting [asem] has come into being this is an informal process of dialogue and co-operation bringing together the eu and its member states with brunei china indonesia...
+
+[EC_S_060902]
+  ...bringing together the eu and its member states with brunei china indonesia japan south korea malaysia the philippines singapore thailand and vietnam since the first [asem] summit in 1996 this grouping has proved an excellent forum for developing relations at the highest political level and through its many working groups at...
+
+[EC_S_060902]
+  ...relations at the highest political level and through its many working groups at the coal-face too there should and cannot be a beauty contest between [asem] and asean they serve quite different and complementary purposes and asem has a wider reach as it includes north east asian countries i will come...
+
+[EC_S_060902]
+  ...groups at the coal-face too there should and cannot be a beauty contest between asem and asean they serve quite different and complementary purposes and [asem] has a wider reach as it includes north east asian countries i will come to asem in a moment but let me first confess to...
+
+[EC_S_060902]
+  ...asean they serve quite different and complementary purposes and asem has a wider reach as it includes north east asian countries i will come to [asem] in a moment but let me first confess to a nagging unhappiness about the way in which asean has developed as a vehicle for south...
+
+[EC_S_060902]
+  ...have commissioned a communication on this issue for next year and i hope we can launch a more active and productive phase in our relations [asem] the asia-europe meeting asem meanwhile goes from strength to strength we are now only a few days away from the fourth asem summit meeting in...
+
+[EC_S_060902]
+  ...on this issue for next year and i hope we can launch a more active and productive phase in our relations asem the asia-europe meeting [asem] meanwhile goes from strength to strength we are now only a few days away from the fourth asem summit meeting in copenhagen it has a...
+
+[EC_S_060902]
+  ...in our relations asem the asia-europe meeting asem meanwhile goes from strength to strength we are now only a few days away from the fourth [asem] summit meeting in copenhagen it has a broad and ambitious agenda let me briefly recall our ambitions for copenhagen on the political side we shall...
+
+[EC_S_060902]
+  ...in defining key priorities and refocusing activities in trade facilitation and investment promotion likewise we should invite economic operators to engage more actively in the [asem] economic dialogue to ensure that activities are business-driven and to obtain more focused and practical recommendations from industry another ambition for the asem summit is...
+
+[EC_S_060902]
+  ...in the asem economic dialogue to ensure that activities are business-driven and to obtain more focused and practical recommendations from industry another ambition for the [asem] summit is to encourage sound economic reform in the financial and corporate sector europe's own experience in regional co-operation on these fields may be of...
+
+[EC_S_060902]
+  ...of the johannesburg sustainable development summit making sure that the agreed decisions are carried through into action my hope is that one consequence of this [asem] summit is that we shall institute structures that enable experts to consult in the eu-asem framework on an informal ad hoc basis as needs dictate...
+
+[EC_S_150705]
+  ...towards democracy the eu shares china's desire for peace and stability in asia and will continue to actively support asian integration and dialogue through the [asem] process and the eu-asean dialogue in the run-up to the beijing olympic games in 2008 and the 2010 world expo in shanghai the international community...
+
+Total occurrences: 13 
+
+>>> KWIC: terror <<<
+
+[EC_S_040402]
+  ...have witnessed violence but the nearest that it has come to touching me has been as a politician associated with tackling the problem of irish [terrorism] by and large i seem to have lived through an era when things have got better for most people in my own region of the...
+
+[EC_S_040402]
+  ...have to discuss money laundering which accounts for somewhere between 2 and 5 of global income they focus on trafficking in human beings international crime [terrorism] state failure these are all problems which can only be resolved through international cooperation on an unprecedented scale to tackle these problems we need international...
+
+[EC_S_040402]
+  ...the present decade we are also seeking to broaden our political cooperation with the countries along the mediterranean shore to our south on issues like [terrorism] the environment drugs and demographic change european and islamic countries have shared a great deal of history much of it turbulent but we have learnt...
+
+[EC_S_040402]
+  ...economic process it has a dark side as i said earlier we have to contend with drug trafficking international organised crime trafficking in human beings [terrorism] epidemic disease the sexual exploitation of children money laundering and so on the poor suffer most from these evils but rich countries cannot isolate themselves...
+
+[EC_S_060902]
+  ...moral duty to address the root causes of poverty in asia but a matter of enlightened self interest not least because the struggle against international [terrorism] must concern itself with causes of alienation as well as a simple determination to confront evil enhancing market access for the poorest developing countries is...
+
+[EC_S_060902]
+  ...which the member states of the eu look to us for a lead because it is so clear that these problems from transnational crime and [terrorism] to climate change from hiv aids to nuclear proliferation transcend national boundaries the world is still taking its first tentative steps in addressing such issues...
+
+[EC_S_060902]
+  ...often tangled and turbulent past the events of 11 september a year ago have further complicated things because of the islamic camouflage used by the [terrorists] but we need to confront such issues for all their sensitivity we now have solid fora for mature political dialogue we must use them so...
+
+[EC_S_060902]
+  ...promote development there conscious too of the political dangers inherent in failed states and the emergence of a phenomenon that might be called not state-sponsored [terrorism] but terrorist-sponsored states through the 1990s the eu provided more than € 450m in humanitarian assistance in the light of september 2001 the us military...
+
+[EC_S_060902]
+  ...there conscious too of the political dangers inherent in failed states and the emergence of a phenomenon that might be called not state-sponsored terrorism but [terrorist-sponsored] states through the 1990s the eu provided more than € 450m in humanitarian assistance in the light of september 2001 the us military response and...
+
+[EC_S_060902]
+  ...we should raise the level and substance of our dialogue on everything from human rights to economic governance from environmental issues to the fight against [terror] we should engage together on the doha development agenda above all perhaps we should enhance the eu's political visibility in the south east asian region...
+
+[EC_S_060902]
+  ...has a broad and ambitious agenda let me briefly recall our ambitions for copenhagen on the political side we shall discuss new security issues including [terrorism] and its root causes and transnational crime i am particularly keen to discuss the delicate issue of the balance that needs to be struck between...
+
+[EC_S_150705]
+  ...global partnership to promote international cooperation global security and governance and forge new alliances to counter the darker side of globalisation which includes international crime [terrorism] illegal immigration and epidemics reform of the united nations is essential for successfully tackling the challenges of the 21st century the eu and china should...
+
+Total occurrences: 12 
+
+>>> KWIC: histor <<<
+
+[EC_S_040402]
+  ...last century from 1914 to 1990 consisted of a long epochal war professor philip bobbitt who has been a white house advisor and is a [historian] of nuclear strategy argues that this long war embraced conflicts that we at present call the first world war the bolshevik revolution the spanish civil...
+
+[EC_S_040402]
+  ...france and germany together at the heart of a supranational entity which would involve its members in a pooling of sovereignty unique in the world's [history] this political objective was to be pursued initially through economic means at the beginning through the establishment of a coal and steel community there were...
+
+[EC_S_040402]
+  ...united states will join us in this endeavour i want secondly to make a point about the geographical ambit of our policies given the varied [histories] and experiences of the member states of the european union we have global interests and commitments when i look at my diary over the last...
+
+[EC_S_040402]
+  ...mediterranean shore to our south on issues like terrorism the environment drugs and demographic change european and islamic countries have shared a great deal of [history] much of it turbulent but we have learnt much from one another and our respective civilisations bear the imprint of our cultural interchange we have...
+
+[EC_S_040402]
+  ...fair to everyone with developments in nuclear physics in the 1920 s we asserted the centrality of man of the individual in the sweep of [history] but at the same time this scientific advance unlocked a terrible threat to man's very survival i think there is a sense in which the...
+
+[EC_S_040402]
+  ...can deepen our partnership and our relationship in both the political and economic fields i suspect it is also true that with your sense of [history] and ability to think in the long term you have a fairly clear idea of how europe is likely to look as a partner of...
+
+[EC_S_040402]
+  ...in 1989 and the end of the cold war a japanese-american writer called francis fukayama wrote a book with the captivating title the end of [history] to be fair to the author he did not mean the end of interesting times what he was arguing was that the sharp and divisive...
+
+[EC_S_060902]
+  ...whole were it not for the close kinship between the peoples on that peninsula yet asia is a cornucopia of different races languages traditions and [histories] further complicated by the imprint of invasion the british conquest of parts of the indian subcontinent for example overlay an already subjugated country the subcontinent...
+
+[EC_S_060902]
+  ...country was immeasurably enriched by the norman invasion though it cannot have looked that way to harold i hope that in the long sweep of [history] the british will be judged to have brought something valuable to asia that the stain of such events as the opium wars in china will...
+
+[EC_S_060902]
+  ...the implications of economic development and modern communications including the internet for the political system seem to me ineluctable and they will be beneficial many [historians] and commentators doubt that china can manage a peaceful process of political change they point to the bloody history of the last century as a...
+
+[EC_S_060902]
+  ...and they will be beneficial many historians and commentators doubt that china can manage a peaceful process of political change they point to the bloody [history] of the last century as a harbinger of things to come and their doubts are reinforced by the modern problems that crowd in on china's...
+
+[EC_S_150705]
+  ...member states is certainly a setback for us but it is also a great opportunity to reflect on the future direction of europe take a [historic] perspective think of europe 60 years ago wwii europe divided by a terrible war this was one of the worst events in european history then...
+
+[EC_S_150705]
+  ...a historic perspective think of europe 60 years ago wwii europe divided by a terrible war this was one of the worst events in european [history] then think of europe 30 years ago some european states e.g portugal were not democracies and only 15 years ago an iron curtain divided europe...
+
+[EC_S_150705]
+  ...ago an iron curtain divided europe today most of the countries that used to be separated by the iron curtain are in the union think [historically] and you will see there are only reasons for optimism twenty-five member states with 500 million people share the same values never in history had...
+
+[EC_S_150705]
+  ...think historically and you will see there are only reasons for optimism twenty-five member states with 500 million people share the same values never in [history] had twenty-five independent states shared a common future europe is not built around an empire imposing its will but consists of independent countries of course...
+
+[EC_S_150705]
+  ...but we have the will and courage to tackle them in doing so we will earn our place as key players in the 21st century [history] will judge us by the contribution we make towards world peace prosperity progress and the respect and protection of the environment those young artists who...
+
+Total occurrences: 16 
+
+>>> KWIC: region <<<
+
+[EC_S_040402]
+  ...of irish terrorism by and large i seem to have lived through an era when things have got better for most people in my own [region] of the world year by year whether or not this will continue whether for example the events of last september in america are the harbinger...
+
+[EC_S_040402]
+  ...on the korean peninsular i was in china for the meeting of foreign ministers from asia and europe and then in vietnam for the asean [regional] forum in the autumn i was in pakistan and iran after the atrocities of 11 september negotiating an increase in development assistance for pakistan and...
+
+[EC_S_040402]
+  ...on underpinning political and economic reform and the development of greater stability in the west balkans while there is still much to do in this [region] the situation has been transformed over the last couple of years each of the countries in the region is now more or less democratic violence...
+
+[EC_S_040402]
+  ...is still much to do in this region the situation has been transformed over the last couple of years each of the countries in the [region] is now more or less democratic violence has abated there is a commitment to reform we have used three instruments in order to help secure...
+
+[EC_S_040402]
+  ...reform we have used three instruments in order to help secure these objectives first of all we are heavily involved in the security of the [region] eighty five percent of the soldiers in the west balkans are from european countries we are also helping to build and train the forces of...
+
+[EC_S_040402]
+  ...the condition that they open their markets to one another as well thirdly we are providing a huge amount of development assistance to reconstruct the [region] this year we will be spending about 800 million euro and in all over six years we are spending 4.65 billion euro in addition we...
+
+[EC_S_060902]
+  ...me begin this whodunnit against all tradition by revealing the denouement it is absurd to think of a single relationship between the eu and a [region] as diverse as asia a region as dryden said of george villiers so various that he seemed to be not one but all mankind's epitome...
+
+[EC_S_060902]
+  ...tradition by revealing the denouement it is absurd to think of a single relationship between the eu and a region as diverse as asia a [region] as dryden said of george villiers so various that he seemed to be not one but all mankind's epitome one cannot live in asia as...
+
+[EC_S_060902]
+  ...the sprawling variety of asia it is absurd to think of a monolithic eu-asia relationship a single policy or approach equally valid across the whole [region] that may help to explain why almost exactly one year ago when the commission set out a new strategic framework for europe's relationship with asia...
+
+[EC_S_060902]
+  ...meeting asem as well as bilateral summits with china india japan and korea our ministerial dialogue was also deepened through eu participation in the asean [regional] forum but that initiative was over 7 years ago and if a week is a long time in politics as harold wilson famously said seven...
+
+[EC_S_060902]
+  ...foreign and security policy as well as plans for the rapid reaction force meanwhile the 1997 crisis precipitated welcome economic and political reforms in asia [regional] integration has gained a new dynamism with the enlargement of asean to burma cambodia and laos and there have been dramatic changes in particular countries...
+
+[EC_S_060902]
+  ...six key objectives for more coherent and balanced relations with asia and then suggests some specific eu initiatives in asia's four sub-regions in the various [regional] fora and in particular countries let me briefly review the six objectives first we want to contribute to peace and security in asia by broadening...
+
+[EC_S_060902]
+  ...countries let me briefly review the six objectives first we want to contribute to peace and security in asia by broadening our engagement with the [region] this is what we have been doing for example in east timor and in north korea where we have remained deeply committed to the korean...
+
+[EC_S_060902]
+  ...destruction to contribute to the solution of such problems we need to work in the closest possible co-operation with the countries involved and through the [regional] groupings to which they belong second we want to contribute to the protection of human rights and to the spreading of democracy good governance and...
+
+[EC_S_060902]
+  ...are solid economic and political arguments for such values as well as moral ones peace security and prosperity too are more likely to flourish in [regions] where free and fair elections are the norm where administrations are not blighted with corruption and where laws are not subordinated to the day-to-day whims...
+
+[EC_S_060902]
+  ...has expanded substantially in recent years despite the 1997 crisis at the millennium asia accounted for over 20 of eu exports making it our third-largest [regional] partner ahead of the mediterranean central and south america the gulf and acp countries combined around 17 and the european market matters hugely to asia...
+
+[EC_S_060902]
+  ...ahead of the mediterranean central and south america the gulf and acp countries combined around 17 and the european market matters hugely to asia the [region's] trade surplus with europe increased from $ 28.5bn in 1995 to $ 122bn five years later access to europe's market has been a key contributing...
+
+[EC_S_060902]
+  ...for less developed countries in asia and this brings me to the fourth strand in our strategy to contribute to the international development in the [region] it is not just a moral duty to address the root causes of poverty in asia but a matter of enlightened self interest not least...
+
+[EC_S_060902]
+  ...by for example launching a scholarship scheme in china funding cultural programmes across asia and extending the network of european commission delegation offices in the [region] to malaysia singapore cambodia laos and nepal it is my sincere hope that the nations of asia will reciprocate in these efforts they have much...
+
+[EC_S_060902]
+  ...11 september cast its shadow much further across asia than just afghanistan within days of the attack i was on a troika visit to the [region] where the eu agreed new assistance to pakistan to help that country to cope with the predicted consequences and increased textile quotas by 15 president...
+
+[EC_S_060902]
+  ...kashmir ratcheting up antagonism and tensions between india and pakistan those tensions reached such a pitch that it has been difficult even to develop a [regional] strategy between the eu and saarc the south asian association for regional co-operation of course i would like to see the eu being pro-active in...
+
+[EC_S_060902]
+  ...reached such a pitch that it has been difficult even to develop a regional strategy between the eu and saarc the south asian association for [regional] co-operation of course i would like to see the eu being pro-active in its relations with saarc but we should not hide our head in...
+
+[EC_S_060902]
+  ...far from playing a serious role as a partner of the eu at present our greatest hope for stabilisation and for advancing the agenda of [regionalisation] lies with the civil society in the region when we offered to help in pakistan last year one of the other reasons for doing so...
+
+[EC_S_060902]
+  ...partner of the eu at present our greatest hope for stabilisation and for advancing the agenda of regionalisation lies with the civil society in the [region] when we offered to help in pakistan last year one of the other reasons for doing so was that we recognised the commitment made by...
+
+[EC_S_060902]
+  ...more weight china no survey of eu-asia relations can ignore china where developments over the coming period will determine the future not just of the [region] but of the world every day the headlines alert us to the awesome social economic and environmental problems confronting china but however much i read...
+
+[EC_S_060902]
+  ...past glories and of its destiny as a nation it stands alone but that is not a choice open to many other countries in the [region] like the european union they are looking for regional partnerships and unions to maximise their potential and to assure their security the association of south-east...
+
+[EC_S_060902]
+  ...it stands alone but that is not a choice open to many other countries in the region like the european union they are looking for [regional] partnerships and unions to maximise their potential and to assure their security the association of south-east asian nations asean was the first serious effort of...
+
+[EC_S_060902]
+  ...was picked up in the daily yomiuri in tokyo earlier this year it was given a negative spin the paper noted that countries in the [region] had had difficulties wooing back european investors since the asian crisis of 1997 it maintained that some eu officials are now questioning the value of...
+
+[EC_S_060902]
+  ...terror we should engage together on the doha development agenda above all perhaps we should enhance the eu's political visibility in the south east asian [region] i am keen to avoid heavy new institutional obligations for either side we all attend too many meeting and need if anything to streamline what...
+
+[EC_S_060902]
+  ...meeting and need if anything to streamline what already exists but there is a great deal of untapped potential in south east asia as a [region] and in the eu's relations with it i have commissioned a communication on this issue for next year and i hope we can launch a...
+
+[EC_S_060902]
+  ...recommendations from industry another ambition for the asem summit is to encourage sound economic reform in the financial and corporate sector europe's own experience in [regional] co-operation on these fields may be of particular interest to asia and our asian partners should take maximum advantage of the new possibilities offered by...
+
+[EC_S_060902]
+  ...clear to me is that the future does not belong to this or that country even the world's only superpower or to this or that [region] it belongs to ideas to good governance transparency the rule of law open markets and international co-operation it belongs also to regional integration which can...
+
+[EC_S_060902]
+  ...this or that region it belongs to ideas to good governance transparency the rule of law open markets and international co-operation it belongs also to [regional] integration which can make an asset of diversity that has been europe's own experience i am convinced that it can apply with equal force in...
+
+[EC_S_150705]
+  ...is facing while development has lifted millions out of poverty it has also created huge income disparities between both urban and rural areas and between [regions] we know that addressing these disparities is an urgent priority of your government not only in the interest of equity but also in the interest...
+
+[EC_S_150705]
+  ...ambitious trade and investment agenda that will take our relationship to the next level china's growing economic role has also generated political responsibilities in the [region] and china's regional diplomacy has been positive china has engaged with virtually all its neighbours signing free trade agreements with asean taking a moderate stance...
+
+[EC_S_150705]
+  ...investment agenda that will take our relationship to the next level china's growing economic role has also generated political responsibilities in the region and china's [regional] diplomacy has been positive china has engaged with virtually all its neighbours signing free trade agreements with asean taking a moderate stance on the south...
+
+[EC_S_150705]
+  ...east asia a more peaceful place in the long-run political cooperation should also be intensified growing nationalism in east asia needs to be overcome and [regional] integration should not be undertaken to the exclusion of others reconciliation and renewed cooperation between india and china as two emerging powers in asia are...
+
+[EC_S_150705]
+  ...also greatly advance china's international standing and reputation as a global player with a particular responsibility for peace and security in east asia both the [region] and the world as a whole cannot afford conflict in east asia the eu wholeheartedly welcomes china's growing international role and its increased international and...
+
+[EC_S_150705]
+  ...china that is open democratic committed to the rule of law at home and abroad acting responsibly as a global player in helping to maintain [regional] and global security as i said earlier the development of a strategic mutually beneficial and enduring relationship with china is one of the eu's top...
+
+Total occurrences: 39 
+
+>>> KWIC: popul <<<
+
+[EC_S_040402]
+  ...the european union that number has now grown to fifteen we are likely to see the accession of ten more members by 2004 taking the [population] of the european union to not far short of half a billion it is worth noting that paradoxically there are more nation states today in...
+
+[EC_S_040402]
+  ...on less than a dollar a day one fifth of humanity takes home four fifths of global income during the next twenty years the world's [population] is set to grow from six to eight billion and most of this increase will be in the poorest countries globalisation is of course not...
+
+[EC_S_060902]
+  ...teeming billions of china and india to small archipelagos from military dictatorships to thriving democracies from islam to christianity to buddhism from the most densely [populated] country in the world singapore to the least mongolia from the wealth of a japan to the penury of a north korea the contrast between...
+
+[EC_S_060902]
+  ...asia not of a superpower but of two or three supercountries including not just china and india but indonesia the country with the biggest muslim [population] in the world gives asia a shared interest with europe in ensuring a strong rule-based multilateral system the sixth and final objective of our new...
+
+Total occurrences: 4 
+
+>>> KWIC: east <<<
+
+[EC_S_040402]
+  ...perhaps it felt for many particularly during the second half i was born in 1944 my father was fighting with british forces in the middle [east] my wife who was also born in the same year never saw her own father he was killed before she was born shortly after the...
+
+[EC_S_040402]
+  ...members we were deliberately attempting to consolidate democracy in countries which had endured many years of authoritarian dictatorship equally the planned enlargement to central and [eastern] europe accomplishes a specific foreign policy objective this policy of enlargement has i am sure been the main reason why the dismantling of the soviet...
+
+[EC_S_040402]
+  ...g8 foreign ministers while the agenda continues to range over the traditional problems of foreign policy the dispute in kashmir the conflict in the middle [east] and so on more and more foreign ministers find themselves faced with issues which are rather new to the foreign policy debate they have to...
+
+[EC_S_040402]
+  ...reforming the way they manage their own affairs we will accept them as potential members of the european union once again as in central and [eastern] europe we are using the prospect of eu membership as a specific and successful tool of foreign policy in the neighbourhood to our south we...
+
+[EC_S_040402]
+  ...europe a particular responsibility to deepen our dialogue with the islamic world and to develop our political and economic partnership with countries of the middle [east] and beyond we are trying in particular to create a free trade area and single market around the mediterranean if we can manage it we...
+
+[EC_S_040402]
+  ...feud between israel and palestine third an enlarged european union will need to pay particular attention to our strategic relationship with our neighbours to the [east] principally russia and the ukraine it would for example be destabilising if we were to allow a gulf in living standards and standards of government...
+
+[EC_S_040402]
+  ...be destabilising if we were to allow a gulf in living standards and standards of government to open up between the european union and its [eastern] neighbours we have supported not least financially economic and political reform in russia and the ukraine and we have begun discussions with russia about creating...
+
+[EC_S_060902]
+  ...to contribute to peace and security in asia by broadening our engagement with the region this is what we have been doing for example in [east] timor and in north korea where we have remained deeply committed to the korean peninsula energy development organisation kedo asia we must not forget is...
+
+[EC_S_060902]
+  ...and defending diversity in india the simple fact is that it feels much the same being beaten up by a policeman wherever you live an [eastern] mother is just as devastated as a western one if her son is locked up without reason or simply disappears in the middle of the...
+
+[EC_S_060902]
+  ...their opinions to be respected and to have accountable leaders these are universal values if there are differences in implementation of such values in the [east] and in the west i am inclined to put these down to a time lag rather than to profound cultural differences just as europe in...
+
+[EC_S_060902]
+  ...space of a few hundred miles every stage of economic development from primitive subsistence agriculture to high-tech industrialisation travelling from shanghai through jiangsu province last [easter] i was amazed by the pace of economic change yet even in china's richest provinces there were pockets of severe underdevelopment and backwaters of tradition...
+
+[EC_S_060902]
+  ...the changeover is smooth whatever happens i do not expect dramatic or immediate changes in policy but the overall trend is i believe inexorable south [east] asia china has a very strong sense of itself of its past glories and of its destiny as a nation it stands alone but that...
+
+[EC_S_060902]
+  ...be a beauty contest between asem and asean they serve quite different and complementary purposes and asem has a wider reach as it includes north [east] asian countries i will come to asem in a moment but let me first confess to a nagging unhappiness about the way in which asean...
+
+[EC_S_060902]
+  ...in a moment but let me first confess to a nagging unhappiness about the way in which asean has developed as a vehicle for south [east] asian political consciousness and economic development and about the eu's relations with south east asia we need a more results-oriented approach it is no secret...
+
+[EC_S_060902]
+  ...way in which asean has developed as a vehicle for south east asian political consciousness and economic development and about the eu's relations with south [east] asia we need a more results-oriented approach it is no secret that the commission is currently re-evaluating the relationship and assessing how this should be...
+
+[EC_S_060902]
+  ...fight against terror we should engage together on the doha development agenda above all perhaps we should enhance the eu's political visibility in the south [east] asian region i am keen to avoid heavy new institutional obligations for either side we all attend too many meeting and need if anything to...
+
+[EC_S_060902]
+  ...all attend too many meeting and need if anything to streamline what already exists but there is a great deal of untapped potential in south [east] asia as a region and in the eu's relations with it i have commissioned a communication on this issue for next year and i hope...
+
+[EC_S_150705]
+  ...party talks with north korea i congratulated pm wen yesterday for the positive role of china in this regard the degree of economic integration in [east] asia is already impressive but to make east asia a more peaceful place in the long-run political cooperation should also be intensified growing nationalism in...
+
+[EC_S_150705]
+  ...wen yesterday for the positive role of china in this regard the degree of economic integration in east asia is already impressive but to make [east] asia a more peaceful place in the long-run political cooperation should also be intensified growing nationalism in east asia needs to be overcome and regional...
+
+[EC_S_150705]
+  ...asia is already impressive but to make east asia a more peaceful place in the long-run political cooperation should also be intensified growing nationalism in [east] asia needs to be overcome and regional integration should not be undertaken to the exclusion of others reconciliation and renewed cooperation between india and china...
+
+[EC_S_150705]
+  ...great maturity this would also greatly advance china's international standing and reputation as a global player with a particular responsibility for peace and security in [east] asia both the region and the world as a whole cannot afford conflict in east asia the eu wholeheartedly welcomes china's growing international role and...
+
+[EC_S_150705]
+  ...player with a particular responsibility for peace and security in east asia both the region and the world as a whole cannot afford conflict in [east] asia the eu wholeheartedly welcomes china's growing international role and its increased international and multilateral engagement in tackling global challenges there are many recent examples...
+
+[EC_S_150705]
+  ...many recent examples where china has made a difference for example through its growing participation in un peacekeeping missions through its appointment of a middle [east] envoy and its hosting of a un conference on peace in the middle east china has also become an important partner in the global fight...
+
+[EC_S_150705]
+  ...participation in un peacekeeping missions through its appointment of a middle east envoy and its hosting of a un conference on peace in the middle [east] china has also become an important partner in the global fight against nuclear proliferation the eu and china have many common multilateral priorities such as...
+
+[EC_S_271107]
+  ...adhere to in every aspect of our relations i am convinced that stability across the taiwan straits is integral to the stability and prosperity of [east] asia and the wider international community we welcome initiatives by both sides aimed at promoting dialogue practical co-operation and increased confidence building i therefore noted...
+
+Total occurrences: 25 

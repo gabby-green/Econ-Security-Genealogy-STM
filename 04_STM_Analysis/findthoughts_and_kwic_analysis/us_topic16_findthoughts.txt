@@ -1,0 +1,1239 @@
+=============================================================
+US Corpus -- Topic 16 
+Generated: 2026-05-09 13:05 
+=============================================================
+
+PROB:  china, trade, united_st, econom, world, countri, american, time, peopl, economi, benefit, need, agreement, open, good 
+FREX:  doha, round, real, pacif, minist, asia, speak, debat, tough, tabl, tri, might, apec, hope, must 
+
+-------------------------------------------------------------
+TOP DOCUMENTS
+-------------------------------------------------------------
+
+[ 1] USTR_S_141105 (2005) -- theta=0.989
+     Ambassador Rob Portman Press Conference US Embassy Beijing China
+
+[ 2] USTR_S_100117 (2017) -- theta=0.705
+     Remarks by Ambassador Michael Froman at the Washington International Trade Association
+
+[ 3] USTR_S_171214 (2014) -- theta=0.586
+     Remarks By Ambassador Froman at The Chicago Council on Global Affairs
+
+[ 4] USTR_S_190312 (2012) -- theta=0.582
+     Remarks by Deputy United States Trade Representative Michael Punke at the U.S. Chamber of Commerce-BusinessEurope Joint Conference
+
+[ 5] USTR_S_180510 (2010) -- theta=0.538
+     Remarks by Ambassador Ron Kirk at the U.S. Chamber of Commerce for World Trade Week
+
+[ 6] PS_GWB_111101 (2001) -- theta=0.500
+     Statement on the Ministerial Decision To Admit the People's Republic of China and Taiwan Into the World Trade Organization
+
+[ 7] USTR_S_290806 (2006) -- theta=0.499
+     Remarks by U.S. Trade Representative Susan C. Schwab AmCham China – US China Business Council Event
+
+[ 8] TPA_2001 (2001) -- theta=0.490
+     2001 Trade Policy Agenda
+
+[ 9] USTR_S_130116 (2016) -- theta=0.468
+     Remarks by Ambassador Michael Froman at the Woodrow Wilson International Center for Scholars
+
+[10] USTR_S_190916 (2016) -- theta=0.456
+     Remarks by U.S. Trade Representative Michael Froman at Rice University’s Baker Institute for Public Policy
+
+-------------------------------------------------------------
+TEXT EXCERPTS
+-------------------------------------------------------------
+
+[1] USTR_S_141105 (2005)
+Ambassador Portman: Thank you all very much for coming this afternoon. I hope we haven’t held you
+up. I’m here today with Ambassador Sandy Randt, who some of you know. Any tough questions I will be
+referring to him. [Laughter] Although, he’s leaving early I think, actually, for another
+appointment. We’ve had a great day today; it’s been a busy day. This morning I got to sit down with
+business leaders represented through the American Chamber of Commerce. They were able to give me
+specific instances of some of their concerns as they tried to expand investment and exports in and
+to China. I also gave remarks at the JP Morgan Business Conference and delivered a keynote speech
+at the conference on China-US relations that is being hosted by former President George HW Bush.
+I’ve also met with Chi
+...
+
+[2] USTR_S_100117 (2017)
+Thank you for that kind introduction. Good morning and Happy New Year to you all. It’s great to be
+here at WITA. I’ve always wondered what the trade prom would look like when they turned on the
+lights. Let me begin with some words from Winston Churchill, who admitted, “I am an optimist. It
+does not seem too much use being anything else.” Anyone who knows me knows that I too am an eternal
+optimist. As a trade negotiator, optimism is an occupational hazard. My staff and I drafted a
+beautiful, long speech about all of the Obama Administration’s trade accomplishments, but I think
+you all are well aware of them, so I am inclined just to share a few parting observations. When
+President Kennedy created what was called STR back in 1962, it reflected a conscious effort to make
+sure the United State
+...
+
+[3] USTR_S_171214 (2014)
+“Thank you, Ivo, and thank you for organizing this event, and thanks to the Chicago Council on
+Global Affairs and the World Business Chicago for hosting us here. “Over the last couple of days,
+the Vice Premier, Secretary Pritzker, and I have gone from event to event. At each event, I think
+we each have used various Chinese proverbs to make a point. So for change of pace, I thought today
+I would cite an American poet, Carl Sandburg, who grew up here in Illinois and spent a lot of time
+here in Chicago. He once said, ‘I’m an idealist. I don’t know where I’m going, but I’m on my way.’
+“Now, Sandburg went on to become one of America’s most accomplished poets, but for those of us who
+may be better at writing prose than poetry, we need to have some sense of where we’re going. And
+that vision is a
+...
+
+[4] USTR_S_190312 (2012)
+“Many thanks to the Chamber and to BusinessEurope for the invitation today. This morning’s
+discussions have stimulated some terrific thinking about the question, ‘Where do we want to take
+the WTO?’ It’s been an enriching day, and I’m very glad to have been able to benefit from your
+views. “It’s especially gratifying – and important – that this exploration of future directions for
+the multilateral trading system is a joint endeavor of American and European business
+organizations. “It may be a bit of a cliché, and it’s a reality that may make some WTO members
+nervous, but the fact remains that solid partnership between the United States and the European
+Union is essential to finding viable paths forward for the WTO. This has always been the case, but
+it is particularly crucial in light of th
+...
+
+[5] USTR_S_180510 (2010)
+“Good morning. Greetings to my fellow trade minister here today – Minister Van Loan of Canada.
+Greetings to the distinguished Ambassadors here in the audience. And thank you to the Chamber of
+Commerce for hosting today. I am so pleased to be here with you to mark World Trade Week. “Lately
+as U.S. Trade Representative, I’ve been racking up frequent flyer miles on the domestic front. The
+reason for my recent trips to Detroit, Tampa, Chicago, and Seattle is simple: I’m trying to ensure
+that as the Obama Administration takes its next steps on trade, Americans – and Congress, and
+business communities across the nation – are ready for all of us to walk together. “That’s a pretty
+tall order. To me, the trade debate in this country shares too many characteristics with the health
+care debate. Every
+...
+
+[6] PS_GWB_111101 (2001)
+I welcome the unanimous decisions made this week by trade ministers meeting in Doha, Qatar, to
+admit the People's Republic of China and Taiwan into the World Trade Organization (WTO). I believe
+that the entry of China and Taiwan into the WTO will strengthen the global trading system and
+expand world economic growth. China, with more than 1.2 billion people and a one trillion dollar
+annual gross domestic product, is one of the fastest growing economies in the world. Taiwan is the
+world's 16th largest economy. The decision in Doha—reached following many years of
+negotiations—marks a formal agreement by the 142 members of the WTO on the steps that China and
+Taiwan must take to open their markets as WTO members. Taking these steps will introduce greater
+competition into both economies and mean
+...
+
+[7] USTR_S_290806 (2006)
+Good afternoon. Thank you Bob, and thanks to the U.S.-China Business Council and AmCham China for
+hosting this event here today. It is a great pleasure for me to be back in Beijing. I’ve enjoyed
+visiting this great city many times over my career, and in many different capacities – including as
+an executive for Motorola in the 1990s when I was negotiating joint ventures, and as a US Senate
+staffer in the 1980’s. But this is my first visit in my new capacity as U.S. Trade Representative –
+and I am delighted to be here. There are few trade relationships more important than that between
+our two countries. And while we have issues that divide us in our bilateral trade relations, we
+still have fundamental interests in common. This is a trade relationship that is obviously
+important because of th
+...
+
+[8] TPA_2001 (2001)
+THE 2001 AGENDA I. Overview and the 2001 Agenda I am pleased to submit to the Congress the Trade
+Policy Agenda for 2001 and the 2000 Annual Report of the President of the United States on the
+Trade Agreements Program. The United States faces key decisions about the future course of our
+trade policy. Just as the World War II generation forged a bipartisan consensus that sustained
+successful trade expansion throughout the Cold War, we must build a new consensus to promote open
+markets for trade in the decades to come. I know that accomplishing this goal has drawn intense
+interest and creative ideas from many quarters, and I want to work with the Congress to mobilize
+broad support for freer trade. There have been some encouraging developments in the area of open
+trade, including Congress's im
+...
+
+[9] USTR_S_130116 (2016)
+“Thank you, Jane, for the kind introduction. And thank you for your service, both during your
+distinguished career in Congress and now here at the helm of the Wilson Center. “Last night, we
+heard quite a speech from President Obama. It’s hard to be the follow-up act. You could feel the
+President’s optimism about the United States and its future. His speech was infused with a sense of
+possibility. He focused on the importance of not turning inward from the world, of not being scared
+about the future, but of asking ‘Why not?’ when it comes to taking on big issues. “I’m here to talk
+about just one of those issues: the Trans-Pacific Partnership. “The full text of the agreement has
+been out for over two months now, and day after day, as more Americans delve into its details, the
+momentum is bui
+...
+
+[10] USTR_S_190916 (2016)
+As [Secretary Baker] said, trade has long been a bipartisan issue. For more than 70 years,
+Democratic and Republican administrations alike have worked to open markets for American exports,
+and to establish open and fair rules through American leadership. In fact, Secretary Baker played a
+key role in some of the major bipartisan trade achievements, working closely with Dan Rostenkowski
+and Lloyd Bentsen on the launch of the Uruguay Round, and design of the U.S.-Canada Free Trade
+Agreement. And it's in that same bipartisan spirit that we are working closely now with Chairman
+Brady of Texas and Chairman Hatch of Utah to move the Trans-Pacific Partnership, or TPP, forward.
+Today, we find ourselves in the midst of a major national debate about America's role in the world.
+Whether to engage with
+...
+
+-------------------------------------------------------------
+KEYWORD-IN-CONTEXT
+Search terms: china | doha | pacific | asia | america | hope | people | benefit | agreement | open 
+-------------------------------------------------------------
+
+>>> KWIC: china <<<
+
+[USTR_S_141105]
+  ...commerce they were able to give me specific instances of some of their concerns as they tried to expand investment and exports in and to [china] i also gave remarks at the jp morgan business conference and delivered a keynote speech at the conference on china-us relations that is being hosted...
+
+[USTR_S_141105]
+  ...and exports in and to china i also gave remarks at the jp morgan business conference and delivered a keynote speech at the conference on [china-us] relations that is being hosted by former president george hw bush i’ve also met with chinese officials including minister of commerce bo xilai whom i...
+
+[USTR_S_141105]
+  ...also the national people’s congress economy and finance committee chairman shi guangsheng who is as many of you know the former minister of trade for [china] in each of these settings i have emphasized that the us-china bilateral relationship is of critical importance to both of our countries and for the...
+
+[USTR_S_141105]
+  ...beneficial relationship but i’ve also made the point that to preserve and grow our economic ties there are important trade issues that must be resolved [china] must open up more to our exports and investment it must address limitation and market access that continue to hamper us companies seeking to participate...
+
+[USTR_S_141105]
+  ...mutually beneficial clearly i think its good for american exporters and american jobs but i also think greater opening will help support the development of [china] and will help chinese citizens china must also act vigorously to address intellectual property infringement this was raised at every one of my meetings today...
+
+[USTR_S_141105]
+  ...good for american exporters and american jobs but i also think greater opening will help support the development of china and will help chinese citizens [china] must also act vigorously to address intellectual property infringement this was raised at every one of my meetings today 1 the piracy not only deprives...
+
+[USTR_S_141105]
+  ...that want to do business here and want to do so in an environment where their property is protected it is also very much in [china’s] interest the bigger loser is not the us it is actually the chinese economy and chinese innovators entrepreneurs artists authors singers this is something that...
+
+[USTR_S_141105]
+  ...we can see more balance in the trade statistics where now we have this year i believe an over 200 billion dollar trade deficit with [china] we must begin to level that and one of the ways to do that is to see more balance in terms of market access and...
+
+[USTR_S_141105]
+  ...must begin to level that and one of the ways to do that is to see more balance in terms of market access and investment [china] continues to grow and grow quickly and for the united states that’s a welcome development but china must also recognize that as its economic and...
+
+[USTR_S_141105]
+  ...balance in terms of market access and investment china continues to grow and grow quickly and for the united states that’s a welcome development but [china] must also recognize that as its economic and political heft expand so do its responsibilities in the rules-based international trading system that it has benefited...
+
+[USTR_S_141105]
+  ...barriers to trade all around the world i encouraged my chinese counterparts today to play an even more active role here the united states and [china] have many interests in common including a strong multilateral trading system we are at a very crucial stage in these negations that’s in part why...
+
+[USTR_S_141105]
+  ...at a very crucial stage in these negations that’s in part why i have taken this trip from geneva and london to africa india and [china] over the last ten days tomorrow i will attend the apec summit in busan korea to continue working on the wto talks and to see...
+
+[USTR_S_141105]
+  ...we can build a consensus this is again a once-in-a-generation opportunity to bring down trade barriers to generate worldwide economic growth and to alleviate poverty [china] and its neighbors in asia have as much to gain as anyone from a successful doha round because these countries in the pacific rim and...
+
+[USTR_S_141105]
+  ...and its neighbors in asia have as much to gain as anyone from a successful doha round because these countries in the pacific rim and [china] trade substantially that’s why we need their voice at the negotiating table to push for an ambitious and successful result in the doha round i’ll...
+
+[USTR_S_141105]
+  ...happy to take your questions on the trip today or doha round or other topics question i am with global radio news how well is [china] complying with its wto commitment ambassador portman since china joined the wto in 2001 it has undertaken a number of steps the united states should...
+
+[USTR_S_141105]
+  ...or doha round or other topics question i am with global radio news how well is china complying with its wto commitment ambassador portman since [china] joined the wto in 2001 it has undertaken a number of steps the united states should give china credit for that in terms of meeting...
+
+[USTR_S_141105]
+  ...with its wto commitment ambassador portman since china joined the wto in 2001 it has undertaken a number of steps the united states should give [china] credit for that in terms of meeting the obligations but it still falls short in a number of areas one is intellectual property here there...
+
+[USTR_S_141105]
+  ...number of areas one is intellectual property here there is a responsibility for wto members to prohibit the kind of piracy that we see throughout [china] there are other specific obligations they undertook as part of market openings where we believe that china may have been meeting the very specific letter...
+
+[USTR_S_141105]
+  ...the kind of piracy that we see throughout china there are other specific obligations they undertook as part of market openings where we believe that [china] may have been meeting the very specific letter of the law but we’d like to see more in terms of the spirit of the wto...
+
+[USTR_S_141105]
+  ...product tupperware may be the best example in the united states from my generation or maybe now it’s a cosmetic company or something here in [china] direct sales companies have not been able to operate with the same business model they use all around the world including in the united states...
+
+[USTR_S_141105]
+  ...business model they use all around the world including in the united states again in my view i believe it would be very good for [china] also to allow direct sales because it gets chinese entrepreneurs directly involved in selling i have found no lack of energy or enthusiasm or entrepreneurial...
+
+[USTR_S_141105]
+  ...kinds of characteristics that make you a successful direct marketer and direct seller so i think it would be good for small business development in [china] but it also is something where us companies again are disproportionately affected because this is an area where we have a comparative advantage so that’s...
+
+[USTR_S_141105]
+  ...is an area where we have a comparative advantage so that’s just one example i can give you more later if you like we think [china] has made a lot of strides since 2001 and they deserve credit for that but in some other areas there’s still more to go in...
+
+[USTR_S_141105]
+  ...some other areas there’s still more to go in terms of meeting their wto commitments yes sir question i’m with cnn why is it in [china’s] interest to effectively curve ipr violations and do the chinese agree what do the chinese say to explain why they haven’t yet effectively done anything...
+
+[USTR_S_141105]
+  ...and anybody who wants to protect their knowledge-based property would benefit it’s also a sign of a mature economy though it’s very difficult to see [china] taking the next step in terms of its economic development without providing more protection for intellectual property we’ve seen this around the world in countries...
+
+[USTR_S_141105]
+  ...say to say to the members of congress that represent that shoe factory that this is fair trade because again we’re not just competing in [china] for the business we’re competing globally these same pirated shoes are now going to a third country where the legitimate us producer and company which...
+
+[USTR_S_141105]
+  ...these same pirated shoes are now going to a third country where the legitimate us producer and company which is by the way producing in [china] also is being disadvantaged and the consumers frankly aren’t getting the product that they’re promised so i think there’s more of an acknowledgement of it...
+
+[USTR_S_141105]
+  ...of an acknowledgement of it but we need to see more action and more tangible examples of intellectual property enforcement yes question larry sun of [china] business news two questions about the doha round from the talks last week in geneva from your talks with chinese officials in which areas do...
+
+[USTR_S_141105]
+  ...business news two questions about the doha round from the talks last week in geneva from your talks with chinese officials in which areas do [china] and the us have common ground in the doha rounds and in which areas do they have the main disagreements second question is on the...
+
+[USTR_S_141105]
+  ...have common ground in the doha rounds and in which areas do they have the main disagreements second question is on the upcoming visit to [china] by president bush can you tell us what will be the focus in the trade areas in his meetings with chinese leaders ambassador portman well...
+
+[USTR_S_141105]
+  ...his meetings with chinese leaders ambassador portman well it’s interesting the response to your first question there are very few areas i can identify where [china] and the united states have a disagreement over doha we agree on the overall goal of a successful round because it will reduce barriers to...
+
+[USTR_S_141105]
+  ...barriers to trade make our economies more efficient and increase global economic growth it also has the added benefit in the developing world including in [china] where there are hundreds of millions of people outside of beijing and guangzhou and shanghai who will be benefited because the economies will improve the...
+
+[USTR_S_141105]
+  ...out of poverty if the doha round were successful by that they mean a real reduction of barriers subsidies and tariffs other non-tariff barriers so [china] and the united states have a mutual interest in seeing this be successful right now the specific issue is how do you work through agriculture...
+
+[USTR_S_141105]
+  ...the other issues like reducing industrial tariffs reducing the barriers on services being more specific on development and also trade facilitation which is important to [china] the 5 ease with which goods can be traded which can reduce the cost of the those goods and help the economy so we’re working...
+
+[USTR_S_141105]
+  ...that is what is blocking the talks in my discussions with chinese officials today we had a very honest exchange about that and i think [china] can be helpful in this regard in encouraging the european union to take on its part of the responsibility with agriculture and then working with...
+
+[USTR_S_141105]
+  ...i would guess that two of the issues that will come up again and again will be market access that the united states would like [china] to open up just as we have opened up to china and second is the issue of intellectual property which is related there again i...
+
+[USTR_S_141105]
+  ...up again and again will be market access that the united states would like china to open up just as we have opened up to [china] and second is the issue of intellectual property which is related there again i hope we will be able to see some progress some tangible...
+
+[USTR_S_141105]
+  ...progress some tangible progress yes sir cough sorry i have a cold and my voice is not too good sorry 6 question voice of america [china] and united states have reached an agreement on limiting textile imports to the united states but this is only a short-term measure to address the...
+
+[USTR_S_141105]
+  ...for the next three years some certainty and stability in the way in which the safeguards will be transformed into a comprehensive agreement it helps [china] because it gives chinese exporters and chinese manufacturers some predictability so they can plan for employment it also helps them in the sense that if...
+
+[USTR_S_141105]
+  ...sense that if we had invoked the safeguards on all these products the annual increases would be less the safeguards were put in place during [china’s] succession in 2001 they only last until the end of 2008 so you’re right this gentlemen’s right it’s for 2006 2007 and 2008 we have...
+
+[USTR_S_141105]
+  ...around the world that have traditionally been exporters to the united states and other countries because some of their market share has been taken by [china] but you know we’re in this transition we are working through it and i think this agreement will help in that transition in that the...
+
+[USTR_S_141105]
+  ...and also frankly in having asia continue to grow and prosper it’s in our interest so when the president goes to japan and korea and [china] i think you will see an emphasis on strengthening and deepening those ties as you may know we have free trade discussions ongoing with thailand...
+
+[USTR_S_141105]
+  ...the next day in korea and we’re spending quite a bit of time on those issues we’re also spending quite a bit of time on [china] issues and japan issues some of those are trade concerns or disputes but others are ways in which we can work together the textile agreement...
+
+[USTR_S_141105]
+  ...we can come together and find mutually beneficial ways to solve our problems so we have a lot of emphasis on the pacific rim and [china] and this area right now and i think it’s appropriate in a sense it’s the most dynamic region in the world in terms of trade...
+
+[USTR_S_141105]
+  ...think we need to make this the final question ambassador portman two more quickly yes question i’m from caijing magazine i’m curious whether you think [china] has done enough on tabling its own offers specifically with regard to agricultural and financial services and then as an extension of that are you...
+
+[USTR_S_141105]
+  ...the most challenging aspects of that ambassador portman well this is going to sound a little different from what some might expect but i want [china] to be more engaged not less engaged in doha so my answer would be although they have tabled some offers including services i’d like to...
+
+[USTR_S_141105]
+  ...they can play a role here in a sense as a bridge between some of the parties some might think gee the united states and [china] have these trade problems we have a big deficit we must not want china to be as engaged we do want china to be engaged...
+
+[USTR_S_141105]
+  ...of the parties some might think gee the united states and china have these trade problems we have a big deficit we must not want [china] to be as engaged we do want china to be engaged china’s economic growth is in our interest we do want the trade to be...
+
+[USTR_S_141105]
+  ...united states and china have these trade problems we have a big deficit we must not want china to be as engaged we do want [china] to be engaged china’s economic growth is in our interest we do want the trade to be fair more balanced but we want china to...
+
+[USTR_S_141105]
+  ...have these trade problems we have a big deficit we must not want china to be as engaged we do want china to be engaged [china’s] economic growth is in our interest we do want the trade to be fair more balanced but we want china to be more engaged your...
+
+[USTR_S_141105]
+  ...want china to be engaged china’s economic growth is in our interest we do want the trade to be fair more balanced but we want [china] to be more engaged your question about hong kong was it specifically what my expectations are or question there’s been a lot of inaudible ambassador...
+
+[USTR_S_141105]
+  ...kong i hope i’m wrong and i’m still hopeful that we can pull something together because as i’ve said when you go to india or [china] wherever i am everybody says the same thing they want to have a strong round so hopefully those good intentions will get us to a...
+
+[USTR_S_141105]
+  ...for the round one more question question from reuters one last question about doha could you say more specifically what you would like to see [china] do in the next few weeks in the lead-up to hong kong and secondly what are you preparing to do over the next few weeks...
+
+[USTR_S_141105]
+  ...next few weeks to try to bring about agreement to hong kong ambassador portman that’s a good question a fair question i’d like to see [china] play a more active role in doha generally specifically in apec i think they have an opportunity as a major player to step up and...
+
+[USTR_S_141105]
+  ...anybody else it’s hard enough for me to speak for my own country with all of our diverse interests but i think it is in [china’s] interest clearly to have a strong multilateral trading system and specifically it’s in their interest to see tariff barriers be reduced so acknowledging that and...
+
+[USTR_S_141105]
+  ...specifically it’s in their interest to see tariff barriers be reduced so acknowledging that and acknowledging their interest in development and in developing countries including [china] i think they ought to play a more active role in suggesting how we do come to a compromise i’m sorry how we do reach...
+
+[USTR_S_141105]
+  ...and i think they should just to give you some background to this i think traditionally there has been this sense among many countries not [china] in particular but among most countries frankly that that maybe its better to sit back a little bit and allow the eu and the us...
+
+[USTR_S_141105]
+  ...the world but other economies are growing rapidly and the world trading system is a lot more diverse with a lot more important players and [china] is clearly one so commensurate with that new role they have in the global trading system i encourage them today to be more active what...
+
+[USTR_S_171214]
+  ...where the world’s two largest economies are concerned good vision begins with an appreciation for the past when it comes to our economic relationship with [china] there’s plenty to appreciate consider how far that relationship has come since 1983 when the first jcct was established then u.s exports to china were...
+
+[USTR_S_171214]
+  ...with china there’s plenty to appreciate consider how far that relationship has come since 1983 when the first jcct was established then u.s exports to [china] were just over $ 2 billion and china was our 20th largest trading partner now u.s exports are more than $ 120 billion and china...
+
+[USTR_S_171214]
+  ...far that relationship has come since 1983 when the first jcct was established then u.s exports to china were just over $ 2 billion and [china] was our 20th largest trading partner now u.s exports are more than $ 120 billion and china is our number two trading partner then china...
+
+[USTR_S_171214]
+  ...china were just over $ 2 billion and china was our 20th largest trading partner now u.s exports are more than $ 120 billion and [china] is our number two trading partner then china had no appreciable investment in the united states and now china is the fastest growing source of...
+
+[USTR_S_171214]
+  ...china was our 20th largest trading partner now u.s exports are more than $ 120 billion and china is our number two trading partner then [china] had no appreciable investment in the united states and now china is the fastest growing source of investment in the united states supporting jobs here...
+
+[USTR_S_171214]
+  ...more than $ 120 billion and china is our number two trading partner then china had no appreciable investment in the united states and now [china] is the fastest growing source of investment in the united states supporting jobs here as well as in their own country we can see the...
+
+[USTR_S_171214]
+  ...choice and the list goes on and nowhere is that more clear than here in chicago last year the greater chicago area exported more to [china] than ever before and now there are more than 50 chinese-owned companies investing and creating jobs here in the chicago area a century ago carl...
+
+[USTR_S_171214]
+  ...chicago area a century ago carl sandburg dubbed chicago the nation’s freight handler today chicago is america’s leading hub for exports shipped by air to [china] responsible for more than one-quarter of all american air exports to china in that same poem sandburg described chicago as planning building breaking rebuilding today...
+
+[USTR_S_171214]
+  ...handler today chicago is america’s leading hub for exports shipped by air to china responsible for more than one-quarter of all american air exports to [china] in that same poem sandburg described chicago as planning building breaking rebuilding today chicago architects shape not only america’s skylines but also china’s in shanghai...
+
+[USTR_S_171214]
+  ...exports to china in that same poem sandburg described chicago as planning building breaking rebuilding today chicago architects shape not only america’s skylines but also [china’s] in shanghai our people are working side-by-side on what will be the world’s second largest building when it’s completed next year that tower isn’t intended...
+
+[USTR_S_171214]
+  ...look forward together let me describe what a shared vision might look like first and foremost it’s a shared vision that’s based on a u.s [china] relationship that is founded on mutual interest and mutual respect mutual interest in unlocking opportunity expanding exports creating a level playing field for our workers...
+
+[USTR_S_171214]
+  ...other issues that impact our economies it’s also a vision of a shared commitment to rules we welcome the rise of a peaceful and prosperous [china] that upholds the rules-based trading system as china’s domestic demand grows and as it continues to open its economy to fair competition american workers farmers...
+
+[USTR_S_171214]
+  ...a vision of a shared commitment to rules we welcome the rise of a peaceful and prosperous china that upholds the rules-based trading system as [china’s] domestic demand grows and as it continues to open its economy to fair competition american workers farmers and businesses will find more customers among china’s...
+
+[USTR_S_171214]
+  ...china’s domestic demand grows and as it continues to open its economy to fair competition american workers farmers and businesses will find more customers among [china’s] 1.3 billion population and burgeoning middle class finally it’s a vision of shared responsibility because with greater economic power comes greater responsibility and as the...
+
+[USTR_S_190312]
+  ...of a revised government procurement agreement presents important opportunities to explore valuable work in this economically significant area notably through work on the accession of [china] and other wto members as we look to strengthen the wto and set it on constructive new paths the huge and complex intersection of trade...
+
+[USTR_S_190312]
+  ...fully from the strong wto accession package negotiated laboriously over nearly two decades second no discussion of current trade issues would be complete without mentioning [china] another area where u.s and eu interests and concerns very often converge in the context of doha we worked together closely developing and advocating tougher...
+
+[USTR_S_190312]
+  ...advance new disciplines on state-owned enterprises in the context of the trans-pacific partnership more broadly we must continue to monitor and take action to combat [china’s] trade-distorting industrial policies whether that be with respect to china’s policy of indigenous innovation or the plethora of five-year plans now being issued by china’s...
+
+[USTR_S_190312]
+  ...the trans-pacific partnership more broadly we must continue to monitor and take action to combat china’s trade-distorting industrial policies whether that be with respect to [china’s] policy of indigenous innovation or the plethora of five-year plans now being issued by china’s economic planners and of course our efforts regarding china’s export...
+
+[USTR_S_190312]
+  ...china’s trade-distorting industrial policies whether that be with respect to china’s policy of indigenous innovation or the plethora of five-year plans now being issued by [china’s] economic planners and of course our efforts regarding china’s export restraints are well-known and have been quite successful thus far which we hope and expect...
+
+[USTR_S_190312]
+  ...to china’s policy of indigenous innovation or the plethora of five-year plans now being issued by china’s economic planners and of course our efforts regarding [china’s] export restraints are well-known and have been quite successful thus far which we hope and expect will continue into the future finally and on a...
+
+[USTR_S_180510]
+  ...and trade skeptics are eager to see ustr confront and those are definite steps i’ll take in the near future next week i’ll head to [china] for this year’s strategic and economic dialogue chaired by secretary of state clinton and treasury secretary geithner the s ed is an important forum to...
+
+[USTR_S_180510]
+  ...the joint commission on commerce and trade in seattle washington last month tech leaders were very direct about how much they lose to piracy in [china] and other countries protection and enforcement of america’s intellectual property rights is not only a concern to the big boys in technology but also to...
+
+[USTR_S_180510]
+  ...technology but also to startup companies who can’t afford to have their ip stolen through a test order from beijing so our next steps with [china] include continued pressure to strengthen their ipr regime and to step back on flawed and troubling policies across the industrial sector like indigenous innovation many...
+
+[USTR_S_180510]
+  ...to strengthen their ipr regime and to step back on flawed and troubling policies across the industrial sector like indigenous innovation many companies have highlighted [china’s] recent measures to support indigenous innovation as a major concern among a growing set of industrial policy measures ustr has made clear at all levels...
+
+[USTR_S_180510]
+  ...the chinese government that even though it is in u.s and chinese interest to promote innovation innovation is no excuse for discrimination we appreciate efforts [china’s] government has made to address our concern but we have urged them to refrain from further steps down this path instead we need to sit...
+
+[USTR_S_180510]
+  ...benefit us all questions and potential trade barriers around american intellectual property goods and services will only multiply in the coming decades not just in [china] but with trading partners around the world the united states will have an opportunity to make progress on some crucial trade and investment issues when...
+
+[USTR_S_180510]
+  ...partners to engage in sustained meaningful negotiations make no mistake the success or failure of the doha round depends on whether advanced developing countries like [china] india and brazil will accept the responsibility that goes along with their growing roles in the global economy you and i agree that the pending...
+
+[USTR_S_100117]
+  ...more than ever we need a strong effective europe that is capable of showing leadership in the global trading system particularly at a time when [china] and other major emerging economies have yet to assume responsibilities commensurate with their role in the global economy let me say a word about china...
+
+[USTR_S_100117]
+  ...china and other major emerging economies have yet to assume responsibilities commensurate with their role in the global economy let me say a word about [china] arguably for 13 of the last 15 centuries china was the dominant force in asia only during the last two centuries did it find itself...
+
+[USTR_S_100117]
+  ...assume responsibilities commensurate with their role in the global economy let me say a word about china arguably for 13 of the last 15 centuries [china] was the dominant force in asia only during the last two centuries did it find itself eclipsed by others one of the defining features of...
+
+[USTR_S_100117]
+  ...last two centuries did it find itself eclipsed by others one of the defining features of our time is how to accommodate the rise of [china] into an international system that is far more interdependent economically politically and strategically than ever before our approach has been to give them a seat...
+
+[USTR_S_100117]
+  ...enforcement to hold their feet to the fire when they fall short of that objective there have been some notable achievements such as the u.s [china] accord on climate change which laid the foundation for the paris agreement and there have been tough responses when china failed to live up to...
+
+[USTR_S_100117]
+  ...achievements such as the u.s china accord on climate change which laid the foundation for the paris agreement and there have been tough responses when [china] failed to live up to its responsibilities we heard a lot about the importance of being tough on china during this recent campaign i agree...
+
+[USTR_S_100117]
+  ...there have been tough responses when china failed to live up to its responsibilities we heard a lot about the importance of being tough on [china] during this recent campaign i agree it’s important to be tough with china on trade even as we find ways to work with them on...
+
+[USTR_S_100117]
+  ...responsibilities we heard a lot about the importance of being tough on china during this recent campaign i agree it’s important to be tough with [china] on trade even as we find ways to work with them on challenges ranging from north korea to iran this administration has filed 15 disputes...
+
+[USTR_S_100117]
+  ...we find ways to work with them on challenges ranging from north korea to iran this administration has filed 15 disputes at the wto against [china] over the past 8 years more than any other country and we have won every case decided so far cases concerning barriers to u.s auto...
+
+[USTR_S_100117]
+  ...there simply is no way to reconcile a get-tough-on-china policy with withdrawing from tpp that would be the biggest gift any u.s president could give [china] one with broad and deep consequences economic and strategic it would be huge for china china has a regional strategy it has the one belt...
+
+[USTR_S_100117]
+  ...would be the biggest gift any u.s president could give china one with broad and deep consequences economic and strategic it would be huge for [china] china has a regional strategy it has the one belt one road initiative the silk road fund the aiib its south china sea excursions and...
+
+[USTR_S_100117]
+  ...be the biggest gift any u.s president could give china one with broad and deep consequences economic and strategic it would be huge for china [china] has a regional strategy it has the one belt one road initiative the silk road fund the aiib its south china sea excursions and rcep...
+
+[USTR_S_100117]
+  ...be huge for china china has a regional strategy it has the one belt one road initiative the silk road fund the aiib its south [china] sea excursions and rcep separate initiatives but in combination designed to position china at the center of the asia-pacific they are executing on their regional...
+
+[USTR_S_100117]
+  ...belt one road initiative the silk road fund the aiib its south china sea excursions and rcep separate initiatives but in combination designed to position [china] at the center of the asia-pacific they are executing on their regional strategy the question is whether we will execute on ours from our friends...
+
+[USTR_S_100117]
+  ...the u.s to move forward would be a debilitating blow to u.s leadership and credibility in the region one that would create a void that [china] is all too happy to fill and one that would leave our closest military allies and partners no choice but to line up behind china...
+
+[USTR_S_100117]
+  ...china is all too happy to fill and one that would leave our closest military allies and partners no choice but to line up behind [china] we see it happening in real time what we feared and what we warned would come true is coming true before our eyes as new...
+
+[USTR_S_100117]
+  ...can’t imagine why any president would want to abdicate our leadership in the asia-pacific to be responsible for handing the keys of the castle to [china] for driving our historic allies and china’s historic rivals into china’s arms it would be a strategic miscalculation of enormous proportions why would we cede...
+
+[USTR_S_100117]
+  ...to abdicate our leadership in the asia-pacific to be responsible for handing the keys of the castle to china for driving our historic allies and [china’s] historic rivals into china’s arms it would be a strategic miscalculation of enormous proportions why would we cede our role as a pacific power does...
+
+[USTR_S_100117]
+  ...in the asia-pacific to be responsible for handing the keys of the castle to china for driving our historic allies and china’s historic rivals into [china’s] arms it would be a strategic miscalculation of enormous proportions why would we cede our role as a pacific power does anyone really think u.s...
+
+[USTR_S_100117]
+  ...strategic miscalculation of enormous proportions why would we cede our role as a pacific power does anyone really think u.s interests are better served if [china] rather than the u.s writes the rules of the road would anyone here prefer china’s approach to the piracy of intellectual property or the cybertheft...
+
+[USTR_S_100117]
+  ...does anyone really think u.s interests are better served if china rather than the u.s writes the rules of the road would anyone here prefer [china’s] approach to the piracy of intellectual property or the cybertheft of trade secrets does anyone think our technology companies or our manufacturers would flourish in...
+
+[USTR_S_100117]
+  ...of intellectual property or the cybertheft of trade secrets does anyone think our technology companies or our manufacturers would flourish in a world bound by [china’s] definition of internet freedom or its rules on the free flow of data and for my progressive friends does anyone think workers or wildlife or...
+
+[USTR_S_100117]
+  ...the free flow of data and for my progressive friends does anyone think workers or wildlife or fish or oceans would be more protected under [china’s] rules than ours those sorts of distinctions seemed to get lost in our recent debate but our trading partners get it most of them are...
+
+[USTR_S_100117]
+  ...singapore and vietnam and is negotiating ftas with japan mexico australia new zealand and mercosur among others australia has negotiated ftas with japan korea and [china] in the last few years peru announced that if tpp did not move forward it would seek negotiations with china and russia chile and canada...
+
+[USTR_S_100117]
+  ...ftas with japan korea and china in the last few years peru announced that if tpp did not move forward it would seek negotiations with [china] and russia chile and canada have said the same about china china is negotiating rcep with 15 countries a trilateral fta with japan and korea...
+
+[USTR_S_100117]
+  ...peru announced that if tpp did not move forward it would seek negotiations with china and russia chile and canada have said the same about [china] china is negotiating rcep with 15 countries a trilateral fta with japan and korea and an array of other deals around the world so where...
+
+[USTR_S_100117]
+  ...announced that if tpp did not move forward it would seek negotiations with china and russia chile and canada have said the same about china [china] is negotiating rcep with 15 countries a trilateral fta with japan and korea and an array of other deals around the world so where does...
+
+Total occurrences: 112 
+
+>>> KWIC: doha <<<
+
+[USTR_S_141105]
+  ...that it has benefited from in my meetings today i have also emphasized the need for greater participation in the wto talks known as the [doha] round these are the once-in-a-generation world trade talks that give all of us the opportunity to reduce trade distorting subsidies and tariffs and other barriers...
+
+[USTR_S_141105]
+  ...to generate worldwide economic growth and to alleviate poverty china and its neighbors in asia have as much to gain as anyone from a successful [doha] round because these countries in the pacific rim and china trade substantially that’s why we need their voice at the negotiating table to push for...
+
+[USTR_S_141105]
+  ...rim and china trade substantially that’s why we need their voice at the negotiating table to push for an ambitious and successful result in the [doha] round i’ll be happy to take your questions on the trip today or doha round or other topics question i am with global radio news...
+
+[USTR_S_141105]
+  ...table to push for an ambitious and successful result in the doha round i’ll be happy to take your questions on the trip today or [doha] round or other topics question i am with global radio news how well is china complying with its wto commitment ambassador portman since china joined...
+
+[USTR_S_141105]
+  ...need to see more action and more tangible examples of intellectual property enforcement yes question larry sun of china business news two questions about the [doha] round from the talks last week in geneva from your talks with chinese officials in which areas do china and the us have common ground...
+
+[USTR_S_141105]
+  ...the talks last week in geneva from your talks with chinese officials in which areas do china and the us have common ground in the [doha] rounds and in which areas do they have the main disagreements second question is on the upcoming visit to china by president bush can you...
+
+[USTR_S_141105]
+  ...interesting the response to your first question there are very few areas i can identify where china and the united states have a disagreement over [doha] we agree on the overall goal of a successful round because it will reduce barriers to trade make our economies more efficient and increase global...
+
+[USTR_S_141105]
+  ...because the economies will improve the world bank has estimated as an example that 300 million people would be lifted out of poverty if the [doha] round were successful by that they mean a real reduction of barriers subsidies and tariffs other non-tariff barriers so china and the united states have...
+
+[USTR_S_141105]
+  ...issue to the benefit of the chinese people and the benefit of the american people what happens after that it depends on what happens in [doha] i suppose because the tariffs will be determined by the doha round there will still be tariffs in place but this is truly a transition...
+
+[USTR_S_141105]
+  ...of the american people what happens after that it depends on what happens in doha i suppose because the tariffs will be determined by the [doha] round there will still be tariffs in place but this is truly a transition you know this is tough for the united states it has...
+
+[USTR_S_141105]
+  ...and 08 begin to go up 7 on this side sorry yes question murray hiebert wall street journal i want to follow up on your [doha] comments you talked about how the talks were somewhat stalled as a result of no agreement in agriculture do you think that apec the apec...
+
+[USTR_S_141105]
+  ...been in the past what are your comments about that ambassador portman first i do think the meeting in korea can be very helpful for [doha] as you recall at our last apec trade ministerial i attended in korea a few months ago we focused very much on doha we issued...
+
+[USTR_S_141105]
+  ...helpful for doha as you recall at our last apec trade ministerial i attended in korea a few months ago we focused very much on [doha] we issued the statement that had all 21 countries of apec agree to a certain kind of formula for reducing tariffs on the non-agricultural side...
+
+[USTR_S_141105]
+  ...the focus in india to less protection more engagement so i think it’s a very promising area for both india and the united states on [doha] we’ve i don’t know how to characterize the conversations except to say again the indians do want to have a successful round they are again...
+
+[USTR_S_141105]
+  ...this is going to sound a little different from what some might expect but i want china to be more engaged not less engaged in [doha] so my answer would be although they have tabled some offers including services i’d like to see them get even more engaged and be at...
+
+[USTR_S_141105]
+  ...we can break this deadlock on agriculture it will be hard to make progress on all the other issues including development the development benefits of [doha] are primarily in the market openings in the reduction of trade distorting support in europe the united states japan but also in significantly in the...
+
+[USTR_S_141105]
+  ...means that you don’t reduce tariffs to a significant degree that means in the other areas how can you expect a country that sees the [doha] round primarily as a way to sell their agricultural products to agree to significant cuts in tariffs in their country on say industrial products this...
+
+[USTR_S_141105]
+  ...is what you’re hearing from argentina and brazil and other developing countries that have an offensive interest in selling more agricultural goods that was how [doha] started the developing countries that have a comparative advantage in agriculture wanted to have a fair shake here so compromising is not a solution right...
+
+[USTR_S_141105]
+  ...that’s the compromise they’re looking for and i don’t think that’s good for the round one more question question from reuters one last question about [doha] could you say more specifically what you would like to see china do in the next few weeks in the lead-up to hong kong and...
+
+[USTR_S_141105]
+  ...about agreement to hong kong ambassador portman that’s a good question a fair question i’d like to see china play a more active role in [doha] generally specifically in apec i think they have an opportunity as a major player to step up and be heard it’s presumptuous of me to...
+
+[USTR_S_190312]
+  ...this has always been the case but it is particularly crucial in light of the acknowledgment by all wto trade ministers last december that the [doha] round is at an impasse this is a strategic moment we should be thinking together about strategy and not just quibble with each other about...
+
+[USTR_S_190312]
+  ...about strategy and not just quibble with each other about tactics while it is the firm view of the united states that the acknowledgment of [doha’s] prospects was necessary and even overdue and that it was the only way to begin to tackle more productive trade liberalizing work in the wto...
+
+[USTR_S_190312]
+  ...be done without them means that nothing can be done the united states does not support that view we cannot afford to see the recent [doha] history repeat itself we must and we will approach an international services agreement with a keen awareness that a plurilateral structure should be a stepping...
+
+[USTR_S_190312]
+  ...what about the rest of the wto universe i think there are important silver linings to be found in the frank and honest acknowledgment of [doha’s] current impasse one of those is that we have greater latitude to revitalize the day-to-day work of the wto’s standing committees and working groups the...
+
+[USTR_S_190312]
+  ...agriculture sps and others has perhaps suffered from some neglect in recent years due to the overwhelming amount of time and resources devoted to the [doha] round but this is critical work and we need to work to make sure the committees are meeting their full potential these bodies can and...
+
+[USTR_S_190312]
+  ...current trade issues would be complete without mentioning china another area where u.s and eu interests and concerns very often converge in the context of [doha] we worked together closely developing and advocating tougher subsidy rules particularly regarding state-owned banks and state-owned industrial enterprises while those efforts have not borne fruit...
+
+[USTR_S_180510]
+  ...the trade initiatives that mean so much to all of you i know you’re all waiting to hear what i have to say about the [doha] round and the pending free trade agreements on doha the united states continues to lead efforts to shake loose the economic promise of an agreement...
+
+[USTR_S_180510]
+  ...of you i know you’re all waiting to hear what i have to say about the doha round and the pending free trade agreements on [doha] the united states continues to lead efforts to shake loose the economic promise of an agreement with real market access for all involved today the...
+
+[USTR_S_180510]
+  ...key roadblock is the continued resistance of some important partners to engage in sustained meaningful negotiations make no mistake the success or failure of the [doha] round depends on whether advanced developing countries like china india and brazil will accept the responsibility that goes along with their growing roles in the...
+
+[USTR_S_180510]
+  ...were crucial to the services and ipr provisions we appreciate today taking the time and effort to get agreements right whether panama colombia or korea [doha] or tpp produces a better product and building consensus on trade will pay huge dividends for our national economy for the business community and most...
+
+[USTR_S_100117]
+  ...manufactured goods more recently it was u.s leadership that helped navigate the wto supertanker with its 160 + captains off the sandbar that was the [doha] round and onto a more productive course of pragmatic multilateralism that led to the conclusion of the trade facilitation agreement that has the potential to...
+
+Total occurrences: 31 
+
+>>> KWIC: pacific <<<
+
+[USTR_S_141105]
+  ...alleviate poverty china and its neighbors in asia have as much to gain as anyone from a successful doha round because these countries in the [pacific] rim and china trade substantially that’s why we need their voice at the negotiating table to push for an ambitious and successful result in the...
+
+[USTR_S_141105]
+  ...good example where we can come together and find mutually beneficial ways to solve our problems so we have a lot of emphasis on the [pacific] rim and china and this area right now and i think it’s appropriate in a sense it’s the most dynamic region in the world in...
+
+[USTR_S_100117]
+  ...and agriculture can we depend on you when it comes to security and military arrangements but perhaps most important is what the commander of our [pacific] fleet admiral harry harris made clear when he said tpp would strengthen stability and security by deepening our relationships throughout the region and raising the...
+
+[USTR_S_100117]
+  ...allies and china’s historic rivals into china’s arms it would be a strategic miscalculation of enormous proportions why would we cede our role as a [pacific] power does anyone really think u.s interests are better served if china rather than the u.s writes the rules of the road would anyone here...
+
+Total occurrences: 4 
+
+>>> KWIC: asia <<<
+
+[USTR_S_141105]
+  ...this is again a once-in-a-generation opportunity to bring down trade barriers to generate worldwide economic growth and to alleviate poverty china and its neighbors in [asia] have as much to gain as anyone from a successful doha round because these countries in the pacific rim and china trade substantially that’s why...
+
+[USTR_S_141105]
+  ...were somewhat stalled as a result of no agreement in agriculture do you think that apec the apec talks in busan this week with the [asian] leaders can jump start those talks or because the europeans aren’t there it won’t make much difference and secondly there’s a bit of a perception...
+
+[USTR_S_141105]
+  ...a bit of a perception sometimes that us is busy in other parts of the world and it’s probably less committed and less active in [asia] than it has been in the past what are your comments about that ambassador portman first i do think the meeting in korea can be...
+
+[USTR_S_141105]
+  ...very focused on breaking the agricultural deadlock i think it can be helpful in the run-up to hong kong with regard to us emphasis in [asia] i’ve heard that elsewhere that perception it’s certainly not true now ustr and the commerce department and indeed our president as will be shown tomorrow...
+
+[USTR_S_141105]
+  ...and indeed our president as will be shown tomorrow and through the week when he’s here are very committed to deepening our economic ties in [asia] and also frankly in having asia continue to grow and prosper it’s in our interest so when the president goes to japan and korea and...
+
+[USTR_S_141105]
+  ...be shown tomorrow and through the week when he’s here are very committed to deepening our economic ties in asia and also frankly in having [asia] continue to grow and prosper it’s in our interest so when the president goes to japan and korea and china i think you will see...
+
+[USTR_S_180510]
+  ...some crucial trade and investment issues when we host apec in 2011 that will provide a significant platform to address barriers in markets in the [asia-pacific] and hosting apec in cities around the united states will let us show americans just how important exports and this dynamic region are to job...
+
+[USTR_S_180510]
+  ...this dynamic region are to job creation and u.s economic health this is also why our administration is working to develop a high-standard 21st century [asia-pacific] regional trade agreement the trans-pacific partnership will reflect this administration’s priorities job creation and retention integrating u.s companies into asia-pacific production and supply chains promoting...
+
+[USTR_S_180510]
+  ...develop a high-standard 21st century asia-pacific regional trade agreement the trans-pacific partnership will reflect this administration’s priorities job creation and retention integrating u.s companies into [asia-pacific] production and supply chains promoting new technologies and emerging economic sectors boosting small businesses and promoting environmental protection and conservation transparency worker rights and development...
+
+[USTR_S_100117]
+  ...in the global economy let me say a word about china arguably for 13 of the last 15 centuries china was the dominant force in [asia] only during the last two centuries did it find itself eclipsed by others one of the defining features of our time is how to accommodate...
+
+[USTR_S_100117]
+  ...road fund the aiib its south china sea excursions and rcep separate initiatives but in combination designed to position china at the center of the [asia-pacific] they are executing on their regional strategy the question is whether we will execute on ours from our friends and allies in the region to...
+
+[USTR_S_100117]
+  ...a vital demonstration of america’s enduring commitment to the region now i can’t imagine why any president would want to abdicate our leadership in the [asia-pacific] to be responsible for handing the keys of the castle to china for driving our historic allies and china’s historic rivals into china’s arms it...
+
+Total occurrences: 12 
+
+>>> KWIC: america <<<
+
+[USTR_S_141105]
+  ...appointment we’ve had a great day today it’s been a busy day this morning i got to sit down with business leaders represented through the [american] chamber of commerce they were able to give me specific instances of some of their concerns as they tried to expand investment and exports in...
+
+[USTR_S_141105]
+  ...that continue to hamper us companies seeking to participate in the chinese market i believe this is mutually beneficial clearly i think its good for [american] exporters and american jobs but i also think greater opening will help support the development of china and will help chinese citizens china must also...
+
+[USTR_S_141105]
+  ...hamper us companies seeking to participate in the chinese market i believe this is mutually beneficial clearly i think its good for american exporters and [american] jobs but i also think greater opening will help support the development of china and will help chinese citizens china must also act vigorously to...
+
+[USTR_S_141105]
+  ...received today was we’re moving but we can’t move that fast and my answer to that is given the deficit given the fact that the [american] people and their representatives in congress are getting more and more frustrated given the fact that they have the tools now they have some laws...
+
+[USTR_S_141105]
+  ...place its time to move it’s time to crack down today i gave an example of a company that is a copycat company of an [american] shoe company we know the city we know the factory and we 4 know what is going on these are pirated shoes and we need...
+
+[USTR_S_141105]
+  ...some progress some tangible progress yes sir cough sorry i have a cold and my voice is not too good sorry 6 question voice of [america] china and united states have reached an agreement on limiting textile imports to the united states but this is only a short-term measure to address...
+
+[USTR_S_141105]
+  ...being shared back and forth but we were able to resolve an issue to the benefit of the chinese people and the benefit of the [american] people what happens after that it depends on what happens in doha i suppose because the tariffs will be determined by the doha round there...
+
+[USTR_S_171214]
+  ...i think we each have used various chinese proverbs to make a point so for change of pace i thought today i would cite an [american] poet carl sandburg who grew up here in illinois and spent a lot of time here in chicago he once said i’m an idealist i...
+
+[USTR_S_171214]
+  ...he once said i’m an idealist i don’t know where i’m going but i’m on my way now sandburg went on to become one of [america’s] most accomplished poets but for those of us who may be better at writing prose than poetry we need to have some sense of where...
+
+[USTR_S_171214]
+  ...chinese-owned companies investing and creating jobs here in the chicago area a century ago carl sandburg dubbed chicago the nation’s freight handler today chicago is [america’s] leading hub for exports shipped by air to china responsible for more than one-quarter of all american air exports to china in that same poem...
+
+[USTR_S_171214]
+  ...chicago the nation’s freight handler today chicago is america’s leading hub for exports shipped by air to china responsible for more than one-quarter of all [american] air exports to china in that same poem sandburg described chicago as planning building breaking rebuilding today chicago architects shape not only america’s skylines but...
+
+[USTR_S_171214]
+  ...of all american air exports to china in that same poem sandburg described chicago as planning building breaking rebuilding today chicago architects shape not only [america’s] skylines but also china’s in shanghai our people are working side-by-side on what will be the world’s second largest building when it’s completed next year...
+
+[USTR_S_171214]
+  ...and prosperous china that upholds the rules-based trading system as china’s domestic demand grows and as it continues to open its economy to fair competition [american] workers farmers and businesses will find more customers among china’s 1.3 billion population and burgeoning middle class finally it’s a vision of shared responsibility because...
+
+[USTR_S_190312]
+  ...benefit from your views it’s especially gratifying and important that this exploration of future directions for the multilateral trading system is a joint endeavor of [american] and european business organizations it may be a bit of a cliché and it’s a reality that may make some wto members nervous but the...
+
+[USTR_S_190312]
+  ...actively engaged in this effort a positive congressional vote on jackson-vanik for russia is above all a matter of u.s national economic interest so that [american] businesses and workers can benefit fully from the strong wto accession package negotiated laboriously over nearly two decades second no discussion of current trade issues...
+
+[USTR_S_180510]
+  ...recent trips to detroit tampa chicago and seattle is simple i’m trying to ensure that as the obama administration takes its next steps on trade [americans] and congress and business communities across the nation are ready for all of us to walk together that’s a pretty tall order to me the...
+
+[USTR_S_180510]
+  ...policy that works for both trade champions and trade skeptics we face double-edged dangers either we lose the chance to create and sustain jobs for [american] workers here at home or we close deals at the cost of our values on labor the environment and other issues with unclear economic benefits...
+
+[USTR_S_180510]
+  ...seattle washington last month tech leaders were very direct about how much they lose to piracy in china and other countries protection and enforcement of [america’s] intellectual property rights is not only a concern to the big boys in technology but also to startup companies who can’t afford to have their...
+
+[USTR_S_180510]
+  ...path instead we need to sit down and talk about how to foster real innovation to benefit us all questions and potential trade barriers around [american] intellectual property goods and services will only multiply in the coming decades not just in china but with trading partners around the world the united...
+
+[USTR_S_180510]
+  ...provide a significant platform to address barriers in markets in the asia-pacific and hosting apec in cities around the united states will let us show [americans] just how important exports and this dynamic region are to job creation and u.s economic health this is also why our administration is working to...
+
+[USTR_S_180510]
+  ...than 6,000 additional jobs for every additional billion dollars of exports thirteen to 18-percent higher pay for jobs supported by exports but despite those numbers [americans] generally don’t believe in the value proposition of trade beyond its ability to bring us cheaper blue jeans and better electronics at worst americans believe...
+
+[USTR_S_180510]
+  ...numbers americans generally don’t believe in the value proposition of trade beyond its ability to bring us cheaper blue jeans and better electronics at worst [americans] believe that the real price for those cheaper commodities is the loss of good-paying jobs here at home the loss of our nation’s manufacturing sector...
+
+[USTR_S_180510]
+  ...and they believe those things have been lost to our trading partners so you and i can explain til we’re blue in the face how [america] is actually manufacturing more than ever and we are we can explain how increased productivity far more than trade has caused many of the shifts...
+
+[USTR_S_180510]
+  ...acknowledged and acted on the fact that sometimes trade does result in job displacement but we also need to do a better job of showing [america] that in many cases the changing global economy has brought better jobs to many working families and more are coming if only we do trade...
+
+[USTR_S_180510]
+  ...care where many people were calling out for help and in some cases begging for their lives i’m talking about financial reform where some hurting [americans] are asking for a financial system that gives them a fighting chance there are all kinds of business reasons to want to shape or change...
+
+[USTR_S_180510]
+  ...produces a better product and building consensus on trade will pay huge dividends for our national economy for the business community and most importantly for [america’s] working families they are the drivers of this economy they are the people who want and need the jobs that trade can bring they are...
+
+[USTR_S_180510]
+  ...the people who should be the stars of our good stories and examples of how trade can work for all of us and how more [americans] can work because of trade that’s a bright path to follow let’s walk forward together...
+
+[USTR_S_100117]
+  ...from political hacks they are the finest most-dedicated hardest-working most-committed public servants to be found anywhere focused like a laser on doing what’s right for [american] workers farmers ranchers and businesses of all sizes they don’t expect to be thanked but they do deserve our utmost respect we have just witnessed...
+
+[USTR_S_100117]
+  ...remarkable period in trade politics a period in which the gap between perception and reality was wider than ever before poll after poll show that [americans] understand that we live in a global economy that we cannot wall ourselves off from the forces of integration and that as a whole the...
+
+[USTR_S_100117]
+  ...whole the opportunity to engage internationally to open other markets to our goods and services to raise standards around the world has been good for [america] in fact long-term surveys suggest that support for trade is higher now than at almost any time since the 1970s and it is highest among...
+
+[USTR_S_100117]
+  ...bar to entry to protect the things that matter and obviously our partners who’ve signed up for tpp see it as a vital demonstration of [america’s] enduring commitment to the region now i can’t imagine why any president would want to abdicate our leadership in the asia-pacific to be responsible for...
+
+[USTR_S_100117]
+  ...to japan in beef sales to australia every day tpp is delayed but beyond the specific market access issues there is something bigger at stake [american] leadership over the past 70 years the u.s created shaped and led the open rules-based trading system it is not too much to say that...
+
+[USTR_S_100117]
+  ...leadership look back one generation during the reagan bush and clinton administrations it was u.s leadership that set down the global rules that today help [america’s] inventors and entertainment industry earn $ 125 billion a year nearly 40 of all global ip royalty and license payments that provide the foundation of...
+
+[USTR_S_100117]
+  ...and digital economy standards in history but moving ahead our capacity to deliver on these initiatives turns on our capacity to build support in the [american] public that brings us back to the debate in the united states as the last 18 months demonstrate there is a high degree of economic...
+
+[USTR_S_100117]
+  ...the containerization of shipping and the spread of broadband but we do get to vote on trade agreements so they become the vessel into which [americans] pour their legitimate economic anxieties the scapegoat for bigger forces and historical trends the fact is that trade agreements are how we shape globalization and...
+
+[USTR_S_100117]
+  ...if you can print a product anywhere anytime do you need factories in the traditional sense of the word one of the top jobs for [american] men with a high school education is as a truck driver last year we saw the first autonomous truck deliver a load of beer from...
+
+[USTR_S_100117]
+  ...of work as we know it are only beginning to be imagined all we know though is that ai could disrupt huge swaths of the [american] work force blue and white collar manufacturing services and knowledge-based jobs these are just three examples all across our economy we see technology disrupting the...
+
+[USTR_S_100117]
+  ...are ideas about wage insurance and relocation assistance to dig into thoughtful people like senator mark warner are delving into the future of work in [america] with ideas on portability of insurance benefits modernization of the social safety net and incentives for businesses to invest more in training and skills development...
+
+[USTR_S_100117]
+  ...this challenge if we are to rebuild the social compact in an age of rapid technological change but it will also be relevant to making [americans] feel more secure and confident in the global economy and that brings me to my last observation the importance of public engagement about trade and...
+
+[USTR_S_100117]
+  ...global economy and that brings me to my last observation the importance of public engagement about trade and what’s at stake for each and every [american] we in this room all know that increased exports mean more and better jobs with higher wages we all know that the u.s is already...
+
+[USTR_S_100117]
+  ...the workers they employ face significant barriers and unfair practices abroad we all know that we cannot maintain a strong middle class and reaffirm the [american] dream if we isolate ourselves selling our products to just 5 of global consumers but it is not enough that we have the facts on...
+
+[USTR_S_100117]
+  ...and using her cell phone to facetime with her kids during her break we need to make it clear that disrupting trade means working class [americans] paying more for the basics of life food clothing shoes tariffs are among the most regressive of all taxes they disproportionately affect working class americans...
+
+[USTR_S_100117]
+  ...americans paying more for the basics of life food clothing shoes tariffs are among the most regressive of all taxes they disproportionately affect working class [americans] not the wealthy increasing tariffs on imports means increasing costs on those who can least afford it we need to make it clear that much...
+
+[USTR_S_100117]
+  ...for the future the incoming administration will have a number of critical decisions to make decisions that will affect first and foremost the well-beings of [americans] but also the health and welfare of communities around the world trade is not a panacea for the world’s problems but it certainly isn’t the...
+
+[USTR_S_100117]
+  ...we do to support those who are working to earn a decent living create jobs and strengthen their communities their journey is the journey of [america] proud strong and yes great it has been an honor to serve to make some small contribution and to join you all on this journey...
+
+Total occurrences: 45 
+
+>>> KWIC: hope <<<
+
+[USTR_S_141105]
+  ...ambassador portman thank you all very much for coming this afternoon i [hope] we haven’t held you up i’m here today with ambassador sandy randt who some of you know any tough questions i will be referring to...
+
+[USTR_S_141105]
+  ...to open up just as we have opened up to china and second is the issue of intellectual property which is related there again i [hope] we will be able to see some progress some tangible progress yes sir cough sorry i have a cold and my voice is not too...
+
+[USTR_S_141105]
+  ...is a weak result i think it’s hard as a practical matter to get it through the political systems of democracies like ours so i [hope] hong kong can be successful it will be a bit ironic for me because i know that there will be people there protesting saying this...
+
+[USTR_S_141105]
+  ...kong meeting that is like cancun or even seattle will be a big disappointment to a lot of people but mostly it is to the [hopes] that would have been lost for global economic growth that can help alleviate poverty in the least developed countries so my concern is about hong...
+
+[USTR_S_141105]
+  ...have been lost for global economic growth that can help alleviate poverty in the least developed countries so my concern is about hong kong i [hope] i’m wrong and i’m still hopeful that we can pull something together because as i’ve said when you go to india or china wherever i...
+
+[USTR_S_141105]
+  ...growth that can help alleviate poverty in the least developed countries so my concern is about hong kong i hope i’m wrong and i’m still [hopeful] that we can pull something together because as i’ve said when you go to india or china wherever i am everybody says the same thing...
+
+[USTR_S_141105]
+  ...i’ve said when you go to india or china wherever i am everybody says the same thing they want to have a strong round so [hopefully] those good intentions will get us to a final point i was just told that i should clarify that the word compromise was the word...
+
+[USTR_S_190312]
+  ...breathe new life into the wto’s committees and to do so in a manner that reflects topical and meaningful u.s trade interests we expect and [hope] other members will do the same and we see signs that this is happening brazil for example has identified an issue that both it and...
+
+[USTR_S_190312]
+  ...issued by china’s economic planners and of course our efforts regarding china’s export restraints are well-known and have been quite successful thus far which we [hope] and expect will continue into the future finally and on a much broader note the work that we’re doing at the wto and the specific...
+
+[USTR_S_100117]
+  ...get lost in our recent debate but our trading partners get it most of them are continuing down the path of domestic approvals in the [hope] that someday either the u.s will join or they will move on to put tpp in place without us the rest of the world is...
+
+Total occurrences: 10 
+
+>>> KWIC: people <<<
+
+[USTR_S_141105]
+  ...president george hw bush i’ve also met with chinese officials including minister of commerce bo xilai whom i speak with regularly and also the national [people’s] congress economy and finance committee chairman shi guangsheng who is as many of you know the former minister of trade for china in each of...
+
+[USTR_S_141105]
+  ...because it gets chinese entrepreneurs directly involved in selling i have found no lack of energy or enthusiasm or entrepreneurial spirit among 3 the chinese [people] i see those in abundance and those are exactly the kinds of characteristics that make you a successful direct marketer and direct seller so i...
+
+[USTR_S_141105]
+  ...today was we’re moving but we can’t move that fast and my answer to that is given the deficit given the fact that the american [people] and their representatives in congress are getting more and more frustrated given the fact that they have the tools now they have some laws in...
+
+[USTR_S_141105]
+  ...and increase global economic growth it also has the added benefit in the developing world including in china where there are hundreds of millions of [people] outside of beijing and guangzhou and shanghai who will be benefited because the economies will improve the world bank has estimated as an example that...
+
+[USTR_S_141105]
+  ...beijing and guangzhou and shanghai who will be benefited because the economies will improve the world bank has estimated as an example that 300 million [people] would be lifted out of poverty if the doha round were successful by that they mean a real reduction of barriers subsidies and tariffs other...
+
+[USTR_S_141105]
+  ...meetings and a lot of information being shared back and forth but we were able to resolve an issue to the benefit of the chinese [people] and the benefit of the american people what happens after that it depends on what happens in doha i suppose because the tariffs will be...
+
+[USTR_S_141105]
+  ...shared back and forth but we were able to resolve an issue to the benefit of the chinese people and the benefit of the american [people] what happens after that it depends on what happens in doha i suppose because the tariffs will be determined by the doha round there will...
+
+[USTR_S_141105]
+  ...economic growth and alleviating poverty it is also is very tough to sell i think because at least in my country there will always be [people] opposed to a trade agreement and their voices will be heard whether it’s a small agreement or a large agreement on the other hand in...
+
+[USTR_S_141105]
+  ...like ours so i hope hong kong can be successful it will be a bit ironic for me because i know that there will be [people] there protesting saying this doesn’t help enough for the developing world the reality is unless the hong kong meeting is successful we won’t be able...
+
+[USTR_S_141105]
+  ...help the developing world an unsuccessful hong kong meeting that is like cancun or even seattle will be a big disappointment to a lot of [people] but mostly it is to the hopes that would have been lost for global economic growth that can help alleviate poverty in the least developed...
+
+[USTR_S_171214]
+  ...that same poem sandburg described chicago as planning building breaking rebuilding today chicago architects shape not only america’s skylines but also china’s in shanghai our [people] are working side-by-side on what will be the world’s second largest building when it’s completed next year that tower isn’t intended to be a monument...
+
+[USTR_S_190312]
+  ...of trade and development is to remind ourselves that trade and development are mutually reinforcing and deeply complementary trade has lifted hundreds of millions of [people] out of poverty expanded individual opportunity and accelerated economic development across the planet it has become ever more clear however that a one-size-fits-all approach to...
+
+[USTR_S_190312]
+  ...with all of you our stakeholders and our allies as we continue with this generation’s work to build a stable world and jobs for our [people] ...
+
+[USTR_S_180510]
+  ...photo of a shuttered factory blamed on nafta or another trade deal statistics about economic growth will never stand up to the stories of real [people] who have lost their jobs one of the obama administration’s first steps on trade was an unprecedented expansion and updating of trade adjustment assistance we...
+
+[USTR_S_180510]
+  ...being able to say they were hiring and i got a job and that is happening we have those stories to tell stories of real [people] at businesses of every kind like the new employees working at marlin steel in baltimore because marlin is exporting wire baskets to 20 other countries...
+
+[USTR_S_180510]
+  ...visionit in detroit where david segura is doubling his workforce providing well-paying jobs through what he calls urban onshoring of global it services if real [people] aren’t the reason we work to craft smart trade policy then our work isn’t worth much all our work is worth less when we forget...
+
+[USTR_S_180510]
+  ...the reason we work to craft smart trade policy then our work isn’t worth much all our work is worth less when we forget the [people] we serve i say this because as much as i appreciate the chamber’s support on trade sometimes it feels like you and me against the...
+
+[USTR_S_180510]
+  ...and me against the world you also need to remember some of those affected when you oppose initiatives i’m talking about health care where many [people] were calling out for help and in some cases begging for their lives i’m talking about financial reform where some hurting americans are asking for...
+
+[USTR_S_180510]
+  ...for our national economy for the business community and most importantly for america’s working families they are the drivers of this economy they are the [people] who want and need the jobs that trade can bring they are the people who should be the stars of our good stories and examples...
+
+[USTR_S_180510]
+  ...families they are the drivers of this economy they are the people who want and need the jobs that trade can bring they are the [people] who should be the stars of our good stories and examples of how trade can work for all of us and how more americans can...
+
+[USTR_S_100117]
+  ...fact long-term surveys suggest that support for trade is higher now than at almost any time since the 1970s and it is highest among young [people] who have grown up as global citizens in the internet era but as the most recent campaign demonstrates while public support for trade is high...
+
+[USTR_S_100117]
+  ...life-long learning demand-driven training community college access and apprenticeships to draw from there are ideas about wage insurance and relocation assistance to dig into thoughtful [people] like senator mark warner are delving into the future of work in america with ideas on portability of insurance benefits modernization of the social safety...
+
+[USTR_S_100117]
+  ...conception of the role of worker association makes unions key players in moving their members from one job to the next throughout their careers young [people] entering the workforce straight out of high school should have access to education that trains them to operate the computers and robots that are key...
+
+[USTR_S_100117]
+  ...have access to education that trains them to operate the computers and robots that are key to doing the work in factories nowadays so should [people] of all sorts trying to build new careers from long-term military veterans to older displaced workers to people exiting the criminal justice system this challenge...
+
+[USTR_S_100117]
+  ...the work in factories nowadays so should people of all sorts trying to build new careers from long-term military veterans to older displaced workers to [people] exiting the criminal justice system this challenge is not for the federal government alone but for governments at all levels the business community high schools...
+
+[USTR_S_100117]
+  ...the groundwork is laid in advance and if the ground is allowed to be poisoned by half-truths it is very difficult to recover back when [people] got paychecks in the mail one company inserted a note that said something like 40 of this company’s revenues come from exports 40 of your...
+
+[USTR_S_100117]
+  ...them either we don’t do trade for trade’s sake we do trade because trade done right is a powerful tool for improving the lives of [people] across the united states and around the world i saw that when i visited jet incorporated in cleveland jet’s 32 employees make wastewater treatment systems...
+
+[USTR_S_100117]
+  ...kate spade bags that you can buy at city center a few blocks from here i’ve had the unique opportunity to meet many of these [people] in person over these past eight years and each story is an inspiration it is people like these who remind me why we do what...
+
+[USTR_S_100117]
+  ...had the unique opportunity to meet many of these people in person over these past eight years and each story is an inspiration it is [people] like these who remind me why we do what we do to support those who are working to earn a decent living create jobs and...
+
+Total occurrences: 29 
+
+>>> KWIC: benefit <<<
+
+[USTR_S_141105]
+  ...rampant and it must be brought under control as i said repeatedly today in my meetings and my speeches this is not just for the [benefit] of us knowledge-based exports and us companies that want to do business here and want to do so in an environment where their property is...
+
+[USTR_S_141105]
+  ...actually the chinese economy and chinese innovators entrepreneurs artists authors singers this is something that we need to see more progress on in short the [benefits] of economic opportunity and market access must flow more evenly in both directions and that’s the point that i made by achieving more balance generally...
+
+[USTR_S_141105]
+  ...china must also recognize that as its economic and political heft expand so do its responsibilities in the rules-based international trading system that it has [benefited] from in my meetings today i have also emphasized the need for greater participation in the wto talks known as the doha round these are...
+
+[USTR_S_141105]
+  ...said earlier i think it’s in the interest of chinese innovators and entrepreneurs and authors and anybody who wants to protect their knowledge-based property would [benefit] it’s also a sign of a mature economy though it’s very difficult to see china taking the next step in terms of its economic development...
+
+[USTR_S_141105]
+  ...a successful round because it will reduce barriers to trade make our economies more efficient and increase global economic growth it also has the added [benefit] in the developing world including in china where there are hundreds of millions of people outside of beijing and guangzhou and shanghai who will be...
+
+[USTR_S_141105]
+  ...in the developing world including in china where there are hundreds of millions of people outside of beijing and guangzhou and shanghai who will be [benefited] because the economies will improve the world bank has estimated as an example that 300 million people would be lifted out of poverty if the...
+
+[USTR_S_141105]
+  ...took six or seven meetings and a lot of information being shared back and forth but we were able to resolve an issue to the [benefit] of the chinese people and the benefit of the american people what happens after that it depends on what happens in doha i suppose because...
+
+[USTR_S_141105]
+  ...lot of information being shared back and forth but we were able to resolve an issue to the benefit of the chinese people and the [benefit] of the american people what happens after that it depends on what happens in doha i suppose because the tariffs will be determined by the...
+
+[USTR_S_141105]
+  ...the indians do want to have a successful round they are again in a mindset not of protection or drawing back but in understanding the [benefits] to engagement in trade and they’ve seen the results of it i mean there economy grew at 8 this year as i understand it and...
+
+[USTR_S_141105]
+  ...that unless we can break this deadlock on agriculture it will be hard to make progress on all the other issues including development the development [benefits] of doha are primarily in the market openings in the reduction of trade distorting support in europe the united states japan but also in significantly...
+
+[USTR_S_141105]
+  ...support in europe the united states japan but also in significantly in the reduction of tariffs world bank economists have estimated that 93 of the [benefit] in agriculture will come from the reduction of tariffs and most of that goes to the developing world a lot of it is south-to-south trade...
+
+[USTR_S_141105]
+  ...this is good for me as a farmer or this is good for me as a worker you have got to be able to show [benefits] if it is a weak result i think it’s hard as a practical matter to get it through the political systems of democracies like ours...
+
+[USTR_S_171214]
+  ...is the fastest growing source of investment in the united states supporting jobs here as well as in their own country we can see the [benefit] of that growth in more jobs supported by exports more competitive businesses greater consumer choice and the list goes on and nowhere is that more...
+
+[USTR_S_171214]
+  ...responsibility and as the world’s leading economies every decision we make sets a precedent in our trade and investment relations we must set precedents that [benefit] not only our countries but also the rights of workers around the world and the environment that we all share in sum those are the...
+
+[USTR_S_190312]
+  ...about the question where do we want to take the wto it’s been an enriching day and i’m very glad to have been able to [benefit] from your views it’s especially gratifying and important that this exploration of future directions for the multilateral trading system is a joint endeavor of american...
+
+[USTR_S_190312]
+  ...out how an international services agreement will come together but there are strong core ideas on the table and a common recognition of the tremendous [benefits] that can be shared through expanding services market access and developing new internationally agreed rules and standards we need such work in order to deal...
+
+[USTR_S_190312]
+  ...a positive congressional vote on jackson-vanik for russia is above all a matter of u.s national economic interest so that american businesses and workers can [benefit] fully from the strong wto accession package negotiated laboriously over nearly two decades second no discussion of current trade issues would be complete without mentioning...
+
+[USTR_S_190312]
+  ...and the multilateral trading system embodied in the wto remains far and away the best and most important means of producing broad-based market opening that [benefits] economies companies and individuals around the globe the u.s commitment to the wto is founded on six decades of labor by 12 presidents republicans and...
+
+[USTR_S_180510]
+  ...american workers here at home or we close deals at the cost of our values on labor the environment and other issues with unclear economic [benefits] my cross-country travels are meant to inform a trade policy that’s true to our values and that provides real economic gains for u.s workers and...
+
+[USTR_S_180510]
+  ...urged them to refrain from further steps down this path instead we need to sit down and talk about how to foster real innovation to [benefit] us all questions and potential trade barriers around american intellectual property goods and services will only multiply in the coming decades not just in china...
+
+[USTR_S_180510]
+  ...want to ensure that the agreement is high standard and forward looking but also practical with enough flexibility to accommodate sensitivities we will retain the [benefits] in our existing free trade agreements with tpp partners while determining how to further facilitate trade regionally second we will discuss how best to incorporate...
+
+[USTR_S_180510]
+  ...of the future we want to support the way companies expect to do business in years to come we will also exchange views on value-added [benefits] we could see from this regional agreement for example greater regulatory coherence or cooperation on common concerns like food safety we also will explore environmental...
+
+[USTR_S_100117]
+  ...economic anxieties the scapegoat for bigger forces and historical trends the fact is that trade agreements are how we shape globalization and ensure that its [benefits] are broadly shared and the historical record on that looks pretty good notwithstanding the rhetoric that is commonly passed around as fact when the critics...
+
+[USTR_S_100117]
+  ...assistance to dig into thoughtful people like senator mark warner are delving into the future of work in america with ideas on portability of insurance [benefits] modernization of the social safety net and incentives for businesses to invest more in training and skills development in an era of multiple job shifts...
+
+[USTR_S_100117]
+  ...not unlike the ones that made the public aware of the importance of recycling and the health effects of smoking not one that oversells the [benefits] of trade but that situates trade in the context of a broader set of domestic policies designed to ensure that the benefits of trade are...
+
+[USTR_S_100117]
+  ...that oversells the benefits of trade but that situates trade in the context of a broader set of domestic policies designed to ensure that the [benefits] of trade are broadly shared and that those affected by change will have a path toward success and that’s where all of you the trade...
+
+Total occurrences: 26 
+
+>>> KWIC: agreement <<<
+
+[USTR_S_141105]
+  ...sorry i have a cold and my voice is not too good sorry 6 question voice of america china and united states have reached an [agreement] on limiting textile imports to the united states but this is only a short-term measure to address the deeper problem what’s the long term solution...
+
+[USTR_S_141105]
+  ...final meeting on textiles we had many meetings about this three and a half months of negations and we came up with a very sound [agreement] that provides for the next three years some certainty and stability in the way in which the safeguards will be transformed into a comprehensive agreement...
+
+[USTR_S_141105]
+  ...agreement that provides for the next three years some certainty and stability in the way in which the safeguards will be transformed into a comprehensive [agreement] it helps china because it gives chinese exporters and chinese manufacturers some predictability so they can plan for employment it also helps them in the...
+
+[USTR_S_141105]
+  ...of 2008 so you’re right this gentlemen’s right it’s for 2006 2007 and 2008 we have now have a pathway and by the way this [agreement] is a good agreement for the united states as well because it permits our textile manufacturers to have more predictability and certainty they are very...
+
+[USTR_S_141105]
+  ...right this gentlemen’s right it’s for 2006 2007 and 2008 we have now have a pathway and by the way this agreement is a good [agreement] for the united states as well because it permits our textile manufacturers to have more predictability and certainty they are very pleased with the agreement...
+
+[USTR_S_141105]
+  ...agreement for the united states as well because it permits our textile manufacturers to have more predictability and certainty they are very pleased with the [agreement] as are our importers retailers and costumers so it’s a good agreement it’s a win-win and i think it’s indicative of what we can do...
+
+[USTR_S_141105]
+  ...manufacturers to have more predictability and certainty they are very pleased with the agreement as are our importers retailers and costumers so it’s a good [agreement] it’s a win-win and i think it’s indicative of what we can do when we put our minds to it on this which has to...
+
+[USTR_S_141105]
+  ...of their market share has been taken by china but you know we’re in this transition we are working through it and i think this [agreement] will help in that transition in that the growth rates in 2006 07 and 08 begin to go up 7 on this side sorry yes...
+
+[USTR_S_141105]
+  ...street journal i want to follow up on your doha comments you talked about how the talks were somewhat stalled as a result of no [agreement] in agriculture do you think that apec the apec talks in busan this week with the asian leaders can jump start those talks or because...
+
+[USTR_S_141105]
+  ...non-agricultural side called nama nonagricultural market access this was quite a breakthrough at the time and helped to bring about three-quarters of world trade into [agreement] on a particular way to reduce tariffs we haven’t made a whole lot of progress since then on nama because those countries that do not...
+
+[USTR_S_141105]
+  ...deepening those ties as you may know we have free trade discussions ongoing with thailand we are discussing whether to launch a new free trade [agreement] with korea we haven’t launched it yet but i’ll be having discussions with 8 minister kim about that tomorrow and the next day in korea...
+
+[USTR_S_141105]
+  ...china issues and japan issues some of those are trade concerns or disputes but others are ways in which we can work together the textile [agreement] is a good example where we can come together and find mutually beneficial ways to solve our problems so we have a lot of emphasis...
+
+[USTR_S_141105]
+  ...is not a solution right now because compromising means lowering the ambitions at the end of the day what do you have you have an [agreement] that won’t help much in terms of economic growth and alleviating poverty it is also is very tough to sell i think because at least...
+
+[USTR_S_141105]
+  ...it is also is very tough to sell i think because at least in my country there will always be people opposed to a trade [agreement] and their voices will be heard whether it’s a small agreement or a large agreement on the other hand in order to get someone to...
+
+[USTR_S_141105]
+  ...at least in my country there will always be people opposed to a trade agreement and their voices will be heard whether it’s a small [agreement] or a large agreement on the other hand in order to get someone to stand by you and say this is good for me as...
+
+[USTR_S_141105]
+  ...country there will always be people opposed to a trade agreement and their voices will be heard whether it’s a small agreement or a large [agreement] on the other hand in order to get someone to stand by you and say this is good for me as a farmer or this...
+
+[USTR_S_141105]
+  ...compromise was the word i’m concerned about it is i mean the united states wants to build consensus the united states wants to reach an [agreement] with respect to our offer which i talked about earlier we did not say it’s a take-it-or-leave-it offer we said we’re willing to negotiate and...
+
+[USTR_S_141105]
+  ...which i talked about earlier we did not say it’s a take-it-or-leave-it offer we said we’re willing to negotiate and we very much want an [agreement] my only comment a moment ago was that when we’re being asked to compromise what that means with regard to the european union is 11...
+
+[USTR_S_141105]
+  ...weeks in the lead-up to hong kong and secondly what are you preparing to do over the next few weeks to try to bring about [agreement] to hong kong ambassador portman that’s a good question a fair question i’d like to see china play a more active role in doha generally...
+
+[USTR_S_190312]
+  ...perspective on some of the current focuses at the wto the enthusiasm within this group for the initiative we are exploring for an international services [agreement] is great to see and a confirmation of the strong appetite among u.s and european businesses to find practical meaningful ways to advance the ball...
+
+[USTR_S_190312]
+  ...members who actively want to pursue an honest-to-goodness trade-liberalizing initiative there’s a lot of work to be done to scope out how an international services [agreement] will come together but there are strong core ideas on the table and a common recognition of the tremendous benefits that can be shared through...
+
+[USTR_S_190312]
+  ...the u.s and the eu is particularly urgent while i can appreciate the impulse of some of my eu colleagues to encourage that a services [agreement] encompass the broadest possible circle of wto members the big emerging economies have made it abundantly clear that they are not ready to engage seriously...
+
+[USTR_S_190312]
+  ...does not support that view we cannot afford to see the recent doha history repeat itself we must and we will approach an international services [agreement] with a keen awareness that a plurilateral structure should be a stepping stone for advancing multilateral liberalization this is possible there are ways to do...
+
+[USTR_S_190312]
+  ...are ready to move now it’s been no surprise to me that we’ve also heard a lot today about interest in expanding the information technology [agreement] here again your identification of a product area ripe for additional liberalizing work is hugely welcome and we’re taking it very seriously our team is...
+
+[USTR_S_190312]
+  ...in this area taking into account the need to expand product coverage retain the commitment of existing ita members and expand the appeal of the [agreement] to wto members who aren’t yet ita participants here again close collaboration between the u.s and the eu is essential we’re not quite yet on...
+
+[USTR_S_190312]
+  ...eu colleagues would like to use ita expansion negotiations as a platform to pursue longstanding aspirations on non-tariff issues the ita is fundamentally a tariff [agreement] exceeding the current ita mandate is unlikely to garner the necessary consensus to move an ita expansion initiative forward let me also offer a brief...
+
+[USTR_S_190312]
+  ...characterized it for some time our intention is to continue contributing to the negotiation in this same spirit the economic gains from an eventual tf [agreement] for the u.s economy are important and merit our continued attention just as importantly trade facilitation has huge potential to advance development and it’s great...
+
+[USTR_S_190312]
+  ...greater latitude to revitalize the day-to-day work of the wto’s standing committees and working groups the work of the committees in overseeing the various wto [agreements] on subsidies ipr tbt agriculture sps and others has perhaps suffered from some neglect in recent years due to the overwhelming amount of time and...
+
+[USTR_S_190312]
+  ...been and will continue to be an active participant as this process unfolds i should also note that the conclusion of a revised government procurement [agreement] presents important opportunities to explore valuable work in this economically significant area notably through work on the accession of china and other wto members as...
+
+[USTR_S_180510]
+  ...are to job creation and u.s economic health this is also why our administration is working to develop a high-standard 21st century asia-pacific regional trade [agreement] the trans-pacific partnership will reflect this administration’s priorities job creation and retention integrating u.s companies into asia-pacific production and supply chains promoting new technologies and...
+
+[USTR_S_180510]
+  ...broad architectural questions we’ll discuss first how to structure market access negotiations relating to goods agriculture textiles and services we want to ensure that the [agreement] is high standard and forward looking but also practical with enough flexibility to accommodate sensitivities we will retain the benefits in our existing free trade...
+
+[USTR_S_180510]
+  ...is high standard and forward looking but also practical with enough flexibility to accommodate sensitivities we will retain the benefits in our existing free trade [agreements] with tpp partners while determining how to further facilitate trade regionally second we will discuss how best to incorporate provisions into each chapter that promote...
+
+[USTR_S_180510]
+  ...the way companies expect to do business in years to come we will also exchange views on value-added benefits we could see from this regional [agreement] for example greater regulatory coherence or cooperation on common concerns like food safety we also will explore environmental issues on which tpp partners share an...
+
+[USTR_S_180510]
+  ...explore environmental issues on which tpp partners share an interest such as climate change and marine conservation these objectives for a new kind of trade [agreement] have been developed in a new way through unprecedented outreach ustr is working constantly with congress and stakeholders old and new in all 50 states...
+
+[USTR_S_180510]
+  ...to all of you i know you’re all waiting to hear what i have to say about the doha round and the pending free trade [agreements] on doha the united states continues to lead efforts to shake loose the economic promise of an agreement with real market access for all involved...
+
+[USTR_S_180510]
+  ...doha round and the pending free trade agreements on doha the united states continues to lead efforts to shake loose the economic promise of an [agreement] with real market access for all involved today the key roadblock is the continued resistance of some important partners to engage in sustained meaningful negotiations...
+
+[USTR_S_180510]
+  ...agree that the pending ftas are important opportunities to grow well-paying jobs here at home that’s why ustr is working to address issues with these [agreements] and find ways to move them forward on the free trade agreement with panama our administration has engaged in extensive discussions with panama on outstanding...
+
+[USTR_S_180510]
+  ...here at home that’s why ustr is working to address issues with these agreements and find ways to move them forward on the free trade [agreement] with panama our administration has engaged in extensive discussions with panama on outstanding labor and tax transparency issues several labor reforms are already in force...
+
+[USTR_S_180510]
+  ...to address concerns regarding its labor law regime we have been conducting extensive fact-finding to identify additional steps colombia’s government should take korea is the [agreement] with the most economic potential and jobs potential we are consulting with congress and other u.s stakeholders to determine how best to address outstanding concerns...
+
+[USTR_S_180510]
+  ...and other u.s stakeholders to determine how best to address outstanding concerns and to move forward president obama has called for this i know these [agreements] are not moving as quickly as the chamber would like but i should remind you all the road to a trade agreement is often filled...
+
+[USTR_S_180510]
+  ...i know these agreements are not moving as quickly as the chamber would like but i should remind you all the road to a trade [agreement] is often filled with speed bumps some thought we’d all expire in the ditch before the uruguay round was settled but the last three years...
+
+[USTR_S_180510]
+  ...the last three years of that process were crucial to the services and ipr provisions we appreciate today taking the time and effort to get [agreements] right whether panama colombia or korea doha or tpp produces a better product and building consensus on trade will pay huge dividends for our national...
+
+[USTR_S_100117]
+  ...t-tip where it became clear long before our election that there was stiff political resistance across much of europe to moving forward with an ambitious [agreement] at this time and we saw it in ceta where the decision that trade agreements should require the approval not only of the european commission...
+
+[USTR_S_100117]
+  ...across much of europe to moving forward with an ambitious agreement at this time and we saw it in ceta where the decision that trade [agreements] should require the approval not only of the european commission the european council and the european parliament but also 38 regional parliaments has raised serious...
+
+[USTR_S_100117]
+  ...course have our own difficult trade politics but at least we know that there is a clear process laid out in tpa for considering trade [agreements] now more than ever we need a strong effective europe that is capable of showing leadership in the global trading system particularly at a time...
+
+[USTR_S_100117]
+  ...of that objective there have been some notable achievements such as the u.s china accord on climate change which laid the foundation for the paris [agreement] and there have been tough responses when china failed to live up to its responsibilities we heard a lot about the importance of being tough...
+
+[USTR_S_100117]
+  ...and an array of other deals around the world so where does that leave the united states well as other countries move forward with their [agreements] not only will we see opportunities lost but we will see current market share eroded just talk to the cattlemen who are losing $ 400,000...
+
+[USTR_S_100117]
+  ...the sandbar that was the doha round and onto a more productive course of pragmatic multilateralism that led to the conclusion of the trade facilitation [agreement] that has the potential to add an estimated $ 1 trillion to the global economy and to the conclusion of the information technology agreement eliminating...
+
+[USTR_S_100117]
+  ...facilitation agreement that has the potential to add an estimated $ 1 trillion to the global economy and to the conclusion of the information technology [agreement] eliminating tariffs on $ 1 trillion of high-tech exports and toward an environmental goods agreement a trade in services agreement and a fish subsidies agreement...
+
+[USTR_S_100117]
+  ...global economy and to the conclusion of the information technology agreement eliminating tariffs on $ 1 trillion of high-tech exports and toward an environmental goods [agreement] a trade in services agreement and a fish subsidies agreement and of course it was u.s leadership that forged a consensus among nearly 40 of...
+
+[USTR_S_100117]
+  ...conclusion of the information technology agreement eliminating tariffs on $ 1 trillion of high-tech exports and toward an environmental goods agreement a trade in services [agreement] and a fish subsidies agreement and of course it was u.s leadership that forged a consensus among nearly 40 of the global economy on the...
+
+[USTR_S_100117]
+  ...agreement eliminating tariffs on $ 1 trillion of high-tech exports and toward an environmental goods agreement a trade in services agreement and a fish subsidies [agreement] and of course it was u.s leadership that forged a consensus among nearly 40 of the global economy on the highest labor environmental ipr soe...
+
+[USTR_S_100117]
+  ...function of a number of factors such as the containerization of shipping and the spread of broadband but we do get to vote on trade [agreements] so they become the vessel into which americans pour their legitimate economic anxieties the scapegoat for bigger forces and historical trends the fact is that...
+
+[USTR_S_100117]
+  ...they become the vessel into which americans pour their legitimate economic anxieties the scapegoat for bigger forces and historical trends the fact is that trade [agreements] are how we shape globalization and ensure that its benefits are broadly shared and the historical record on that looks pretty good notwithstanding the rhetoric...
+
+[USTR_S_100117]
+  ...a note that said something like 40 of this company’s revenues come from exports 40 of your paycheck is dependent on exports we need trade [agreements] to open markets for our exports companies need to talk to their workers about how much they have to gain from open markets and higher...
+
+[USTR_S_100117]
+  ...well but we collectively need to do more to convey the importance of trade broadly not just around a specific vote or even a single [agreement] i have zero doubt that we have the facts on our side but it’s easy to blame foreign trade for all our ills even though...
+
+[USTR_S_100117]
+  ...jet’s 32 employees make wastewater treatment systems and export them to 33 countries ron swinko the ceo told us he was looking forward to trade [agreements] to simplify standards and eliminate tariffs on his products i saw it when i visited concord supply company in san antonio it makes among other...
+
+Total occurrences: 57 
+
+>>> KWIC: open <<<
+
+[USTR_S_141105]
+  ...but i’ve also made the point that to preserve and grow our economic ties there are important trade issues that must be resolved china must [open] up more to our exports and investment it must address limitation and market access that continue to hamper us companies seeking to participate in the...
+
+[USTR_S_141105]
+  ...the chinese market i believe this is mutually beneficial clearly i think its good for american exporters and american jobs but i also think greater [opening] will help support the development of china and will help chinese citizens china must also act vigorously to address intellectual property infringement this was raised...
+
+[USTR_S_141105]
+  ...for wto members to prohibit the kind of piracy that we see throughout china there are other specific obligations they undertook as part of market [openings] where we believe that china may have been meeting the very specific letter of the law but we’d like to see more in terms of...
+
+[USTR_S_141105]
+  ...guess that two of the issues that will come up again and again will be market access that the united states would like china to [open] up just as we have opened up to china and second is the issue of intellectual property which is related there again i hope we...
+
+[USTR_S_141105]
+  ...that will come up again and again will be market access that the united states would like china to open up just as we have [opened] up to china and second is the issue of intellectual property which is related there again i hope we will be able to see some...
+
+[USTR_S_141105]
+  ...agriculture it will be hard to make progress on all the other issues including development the development benefits of doha are primarily in the market [openings] in the reduction of trade distorting support in europe the united states japan but also in significantly in the reduction of tariffs world bank economists...
+
+[USTR_S_171214]
+  ...welcome the rise of a peaceful and prosperous china that upholds the rules-based trading system as china’s domestic demand grows and as it continues to [open] its economy to fair competition american workers farmers and businesses will find more customers among china’s 1.3 billion population and burgeoning middle class finally it’s...
+
+[USTR_S_190312]
+  ...another way trade liberalization is an essential complement to fiscal and monetary policies as we seek to grow our way back to prosperity ambitious market [opening] in manufacturing agriculture and services is a critical piece of the multidimensional challenge of creating growth and the multilateral trading system embodied in the wto...
+
+[USTR_S_190312]
+  ...creating growth and the multilateral trading system embodied in the wto remains far and away the best and most important means of producing broad-based market [opening] that benefits economies companies and individuals around the globe the u.s commitment to the wto is founded on six decades of labor by 12 presidents...
+
+[USTR_S_100117]
+  ...a global economy that we cannot wall ourselves off from the forces of integration and that as a whole the opportunity to engage internationally to [open] other markets to our goods and services to raise standards around the world has been good for america in fact long-term surveys suggest that support...
+
+[USTR_S_100117]
+  ...the specific market access issues there is something bigger at stake american leadership over the past 70 years the u.s created shaped and led the [open] rules-based trading system it is not too much to say that very little that is good in that system has happened without u.s leadership look...
+
+[USTR_S_100117]
+  ...broadly shared and the historical record on that looks pretty good notwithstanding the rhetoric that is commonly passed around as fact when the critics of [open] trade cite trade deficits as the litmus test we need to remind them that to the degree that trade deficits matter we run a trade...
+
+[USTR_S_100117]
+  ...with 214,000 workers while the auto industry of 1990 produced 9 million vehicles with 260,000 workers manufacturing is not alone in this amazon plans to [open] supermarkets where shoppers can walk in pick up what they want and walk out with no lines no cash registers no human contact of course...
+
+[USTR_S_100117]
+  ...in this room all know that increased exports mean more and better jobs with higher wages we all know that the u.s is already an [open] economy but that our businesses and the workers they employ face significant barriers and unfair practices abroad we all know that we cannot maintain a...
+
+[USTR_S_100117]
+  ...that said something like 40 of this company’s revenues come from exports 40 of your paycheck is dependent on exports we need trade agreements to [open] markets for our exports companies need to talk to their workers about how much they have to gain from open markets and higher standards around...
+
+[USTR_S_100117]
+  ...we need trade agreements to open markets for our exports companies need to talk to their workers about how much they have to gain from [open] markets and higher standards around the world and we all should help families appreciate just how strongly their living standards and often their employers competitiveness...
+
+[USTR_S_100117]
+  ...higher standards around the world and we all should help families appreciate just how strongly their living standards and often their employers competitiveness depend on [open] markets i remember meeting with a labor council for a member of congress in the midwest all the participants had their sheet of talking points...
+
+Total occurrences: 17 

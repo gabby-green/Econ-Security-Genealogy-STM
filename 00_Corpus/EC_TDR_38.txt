@@ -1,0 +1,412 @@
+Executive summary
+
+This 38th Report gives key information on the EU’s anti-dumping (AD), anti-subsidy (AS) and safeguard activities, as well as the trade defence activity of third countries against the EU in 2019.
+
+Casework was particularly important in 2019 with the initiation of 16 cases (compared to 10 in 2018), the imposition of measures in 12 new cases (compared to 6 in 2018), the non-imposition of measures in 5 new cases, and with an equally intensive activity in reviewing existing measures, with notably the conclusion of 18 expiry reviews (compared to 7 in 2018). The Commission also continued to firmly act against third country measures targeting EU exports. Such measures stood again at a high level (175), a trend expected to be maintained in the future, due to numerous foreign cases initiated in 2019.
+
+The Commission has also increased its efforts to enforce measures, notably by initiating four anti-circumvention cases, among which the most resource-intensive investigation of such kind to date on tableware and kitchenware from China, concluded with an extension of duty to 30 companies. In relation to strengthened enforcement of modernised trade defence rules, specific provisions have also been laid down in 2019 to extend the possibility of application of trade defence measures to the EU continental shelf.
+
+Since firmer enforcement goes on par with more effectiveness, this report also contains key figures illustrating the effects of the measures imposed recently. 1 The figures demonstrate the effectiveness of trade defence measures in restoring a level playing field in the EU market. Indeed, on average, the imposition of AD and AS duties brought unfair injurious imports down by 80% (within a range of 57% – 99%). At the same time, AD and AS duties also contributed to broaden the sources of supply that EU importers and users need, in the form of increased fair imports from other countries, in addition to the EU’s own production. Finally, it has to be noted that measures imposed in 2019 contributed to an increase of the number of jobs benefitting from TDI measures by 23,000, bringing the total number of direct EU jobs protected by TDI to 343,000.
+
+
+
+
+I.    Trade Defence Instruments (TDI) application in 2019 2
+
+I.1Investigative activity 
+
+I.1.1General overview
+
+At the end of 2019, the EU had 140 trade defence measures in force: 94 definitive AD measures (which were extended in 27 cases), 15 countervailing measures (extended in one case) and 3 safeguard measures. 3  This constitutes an increase of 7 measures as compared to 2018.
+
+Investigative work further increased compared to the already significant workload of 2018. The work consisted of many new investigations under the new sets of TDI rules, as well as of an even larger number of review investigations handled. At the end of 2019, 43 investigations were ongoing, as well as 2 refund investigations, covering 66 individual refund requests by importers.
+
+This Report is accompanied by a Commission Staff Working Document (SWD), providing more detailed information and statistics on the annual activity. 4 The SWD includes annexes relevant for certain sections below, as indicated.
+
+I.1.2AD and AS investigations (see Annexes A through I)
+
+In 2019, the Commission initiated as many as 16 new investigations (of which 11 anti-dumping, and 5 anti-subsidy proceedings). At the same time, it imposed provisional duties in 5 proceedings, while 7 cases were concluded with the imposition of definitive duties (of which 3 constituted countervailing measures). Five investigations were concluded without measures. 5
+
+Review investigations continued to represent a considerable part of the casework. In 2019, the Commission initiated 8 expiry reviews. In terms of re-imposition of measures, as many as 16 expiry reviews were concluded with a confirmation of the duty, whereas 2 such reviews were concluded by the termination of measures. One anti-dumping measure expired automatically after five years.
+
+In 2019, the Commission initiated 2 interim reviews, both on countervailing measures and terminated 1 such review without amending the measures.
+
+Finally, 7 reinvestigations (called also re-openings), which usually concern the implementation of court rulings, were initiated in 2019. Overall, the Commission concluded 22 reviews in 2019.
+
+I.1.3Safeguard investigations (see Annex L)
+
+On 2 February 2019, the EU imposed an erga omnes definitive safeguard duty on certain steel products 6 and carried out a review of the latter, which resulted in the modification of the measures on 1 October 2019. 7
+
+The Commission also concluded two bilateral safeguard investigations on imports of Indica rice from Cambodia and Myanmar, under the Generalised Scheme of Preferences (GSP): on 16 January 2019, the Commission re-established the Common Customs Tariff rate of 175 EUR/tonne, with a progressive liberalisation to 125 EUR/tonne over three years. 8  
+
+No new safeguard investigation was initiated in 2019.
+
+I.1.4Verification activities 
+
+In the course of its investigations, the Commission carries out visits to examine the records of companies or associations with the aim to verify the information provided during the proceedings. During 2019, EU TDI services carried out 137 such visits, which amounted to 1948 man-days of verification work.
+
+I.2Enforcement of measures (see Annexes J, K, M, Q)
+
+It is paramount to ensure the effective enforcement of trade defence measures in force, so that economic operators do not evade measures through duty absorption or circumvention. In 2019, the Commission initiated 4 anti-circumvention reviews, which were still all ongoing at the end of the year. In addition, 1 anti-absorption investigation was initiated (still ongoing at the end of 2019) and another was terminated without increase of duty.
+
+Monitoring of undertakings forms part of the enforcement activities. At the beginning of 2019, there were 3 undertakings in force. The Commission accepted 8 new undertakings, which brought the number of undertakings in force at the end of 2019 to 11.
+
+I.3    Small and Medium-sized Enterprises (SMEs)
+
+During 2019, in the spirit of the recent modernisation of TDI, the Commission maintained its focus on supporting SMEs, by providing assistance and guidance to SMEs who were involved in TDI investigations. Notably, the Commission supported SMEs by facilitating their cooperation in investigations: it limited information requirements as far as possible through less burdensome questionnaires and aligned investigation periods with the SME financial year where feasible. The Commission also initiated an investigation where the EU industry consists mainly in SMEs: the AD investigation on imports of Pins and staples from the People’s Republic of China (hereinafter China).
+
+The Commission also acted vigorously against certain practices by Chinese exporters to circumvent the EU measures on Ceramic tableware and kitchenware (see Section II). This ensured the continued effectiveness of these measures for the benefit of EU ceramics producers and their employees – many of this sector’s firms are SMEs.
+
+Finally, the Commission provided specific technical assistance to SMEs in a number of Member States, including Austria and Spain, to increase their awareness of TDI.
+
+I.4    Social and environmental standards
+
+When the Commission applies the new methodology of normal value calculation, it must choose an appropriate representative country to construct a non-distorted normal value of a product. The Commission uses price data from such a country, combined with input consumption data in the exporting country. According to Article 2(6a)(a) first indent in fine, when there is more than one such country with suitable and available data, the Commission should base its choice on an assessment of the adequate level of social and environmental protection in the countries at stake. 9
+
+In 2019, such analysis was required in the expiry review of measures concerning Organic coated steel products originating in China. In that proceeding, the Commission found two suitable countries, which could be considered as representative in order to construct the normal value: Malaysia and Mexico. The Commission therefore assessed their level of social and environmental protection to choose the preferable one. The Commission found that Malaysia had not ratified three out of the eight fundamental International Labour Organisation (ILO) conventions. 10 Furthermore, the Commission found that Malaysia had not ratified one of the major environmental agreements - the Stockholm Convention on Persistent Organic Pollutants. With regard to Mexico, the Commission established that the country had ratified almost all fundamental ILO conventions, except for one. In addition, Mexico had ratified all major environmental agreements. Consequently, the Commission chose Mexico as an appropriate representative country in the said expiry review.
+
+In the remaining investigations that were concluded in 2019, the Commission each time chose a representative country without the need to further resort to an analysis of the level of social and environmental protection, as suitable data was available for only one country. 11
+
+Multilateral environmental agreements (and their protocols), as well as the core ILO conventions also play a role when establishing the injury margin. Since the entry into force of modernized TDI rules, pursuant to Article 7(2d) of the basic AD regulation, when the Commission calculates the non-injurious target price of a product, it also reflects the actual or future costs of production of EU companies, which result or would result from the application of such agreements and conventions. 12
+
+Among the cases concluded in 2019, the Commission proceeded to calculating the said additional costs in the investigation concerning Urea and Ammonium Nitrate (UAN) originating in Russia, Trinidad and Tobago and the United States (US). The Commission decided to increase the target price of UAN by 3.7% in order to reflect additional costs resulting from the future compliance of EU producers with the EU Emissions Trading System (ETS). The ETS constitutes one of the instruments by which the EU aims at achieving the goals of the Paris Agreement - a relevant Multilateral Environmental Agreement to which the EU is party. The UAN production chain, which is emissions-intensive, is subject to the ETS in the EU. The 3.7% figure was based on the cost of average estimated ETS allowances to be procured by producers during the life of the measures.
+
+In the remaining cases concluded in 2019, the interested parties did not make any claims concerning current or future costs pursuant to Article 7(2d). Therefore, the Commission did not investigate whether such additional costs should be added to the target price.
+
+I.5    Judicial review by EU Courts (Annex S)
+
+In 2019, the General Court (GC) and the Court of Justice (CJ) rendered 31 judgments and orders in the TDI area: the GC handed down 14 rulings and the CJ decided on 8 appeals, 5 cases on taxation of costs and rendered 4 preliminary rulings. The most interesting judgments are described in the SWD.
+
+Twenty-four new cases were lodged in 2019 in relation to TDI.
+
+I.6    Third country activities targeting the EU
+
+The Commission not only protects EU industry against unfair injurious imports, but also acts vigorously against TDI measures taken by our trading partners, whenever it considers that such measures do not meet the exacting legal requirements. Such action is essential today as some of the major trading nations put frequently the WTO legal order into question. Unwarranted protective actions restrict market access and hence opportunities for creating jobs and growth for EU exporters. Therefore, avoiding unjustified foreign trade defence measures becomes even more important.
+
+Trade defence activity around the globe remained intense in 2019. The Commission services continued to intervene regularly in the vast majority of foreign investigations targeting EU exports. These interventions consisted inter alia in written submissions and participation in hearings at technical level. Where necessary, the Commission also intervened with third country authorities at higher political level.
+
+While the Commission intervenes in most cases that target the EU, it especially focuses on systemic issues and cases which would considerably affect the EU industry. With its actions, the Commission aims at ensuring a correct application of WTO rules, thereby preventing the abusive use of foreign TDI. Such persistent interventions, focusing on WTO inconsistencies and systemic flaws, prevented many unwarranted measures.
+
+For example, the Commission persuasively intervened in the third AD expiry review conducted by Brazil on imports of milk powder from the EU. These actions led to the discontinuation of measures, opening a market foreclosed for EU exporters since 2001. The export value before imposition of measures amounted to € 45 million.
+
+The Commission, together with the industry and Member States, also successfully intervened to remove remaining AD duties on Italian exports of canned tomatoes to Australia, some of them in place since 2014, and affecting EU yearly exports of € 22 million. Since the initiation of the first investigation, the Commission devoted considerable efforts to remove these duties, notably because of the questionable methodology applied by the Australian authorities and their systemic risk for imports of EU processed agricultural goods. Ultimately, Australia decided to terminate these duties.
+
+More examples of successful Commission interventions are described in the annexed SWD.
+
+Despite its interventions, the Commission did not always prevail and some unwarranted measures were nevertheless imposed. In cases with an important economic and/or systemic interest, the Commission resorted to WTO dispute settlement procedures in order to obtain the removal of unjustified measures. Such was the case for AD duties imposed by Colombia on frozen fries from Belgium, Germany and the Netherlands, as well as the AS and AD duties imposed by the US on imports of Spanish ripe olives (see the SWD for details). These two procedures are still ongoing.
+
+Where necessary, the Commission may also have recourse to the bilateral dispute settlement provided for in trade agreements, in cases where partners do not respect their obligations under such agreements. In this context, in 2019, the Commission continued to hold consultations with South Africa regarding the bilateral safeguards in force on imports of frozen chicken from the EU, which the Commission considers as illegal. As no mutually acceptable solution was found, the Commission intends to pursue the bilateral dispute settlement procedure.
+
+Foreign TDI activity in numbers
+
+Total TDI measures in force affecting EU exports amounted to 175 at the end of 2019 (174 in 2018). The overall high number of measures against the EU is expected to be maintained over the next years, also given the high number of new investigations in 2019 (37 – as in 2018), which may again lead to the imposition of many measures in 2020.
+
+The number of foreign safeguard measures remained high in 2019 with 37 measures in place at the end of 2019 (two more than in 2018), while AD remains the most used instrument globally, with 132 measures in force out of the 175. 13
+
+The US again accounted for the largest part of measures against EU exports, with 36 measures in force (33 in 2018). Compared to 2016, this represents an increase of 71%, which is mainly due to many new measures imposed, in particular in the steel sector. US actions also fuelled the global increase of measures since also countries such as Canada, Egypt, Morocco or the Eurasian Economic Union (EAEU) imposed or prolonged existing measures on certain steel products, most probably as a response to the US Section 232 measures on steel.
+
+China is the second biggest user of TDI targeting the EU with 20 measures in force (18 in 2018), followed by India (18 measures, against 21 in 2018).
+
+In terms of new investigations in 2019, India initiated 7, Indonesia and Madagascar 4 each, Ukraine 3, and the EAEU, Morocco and Philippines 2 new investigations each. Next to regular users of TDI, such as India, the appearance of new users is one of the factors that has contributed to the overall high level of new investigations.
+
+As to the 25 new measures imposed in 2019, the US leads with 4 new measures, followed by Australia and Morocco (3 new measures), and the Gulf Cooperation Council (2 new measures). China imposed 1 new measure in 2019 against the EU.
+
+When looking at sectors, steel products were subject to the highest share of measures in force targeting the EU in 2019 (72 out of 175). Chemical products too continued to be affected by a high number of measures (42). Regarding new investigations initiated, steel was again the sector most targeted, with 9 initiations out of 37, followed by chemicals (8 new cases) and the agricultural sector (7 cases).
+
+I.7    Activities in the framework of the WTO
+
+The Commission multiplied efforts in pushing the subsidies-related agenda in the WTO. The aim is to adapt the multilateral subsidy disciplines so that they are better suited for the challenges of the current trading environment. In the course of 2019, intensive negotiations on fisheries subsidies continued in Geneva. The EU continued to position itself as a leading proponent in these negotiations by submitting concrete textual proposals in both main areas of the talks: a prohibition of subsidies to illegal, unreported and unregulated (IUU) fishing and of subsidies contributing to overcapacity and overfishing. While no outcome was achieved in 2019, the EU and other WTO Members strive for an ambitious and comprehensive result to be reached at the 12th WTO Ministerial Conference in Nur-Sultan in June 2020.
+
+In April and November 2019, the Commission actively participated in the work of the WTO committees on Subsidies and Countervailing Measures (SCM), on Anti-dumping and on Safeguards, as well as the Informal Group on Anti-Circumvention and the Anti-dumping Working Group on Implementation (WGI).
+
+In the AD Committee, the EU continued to defend the changes to the EU’s TDI legislation of 2017 and 2018. The Commission also raised certain cases by third countries, which it considers not in compliance with the third countries’ WTO obligations and which negatively affect EU exporters (e.g. Colombia’s investigation concerning frozen fries). The EU also responded to questions and provided clarifications about some of its investigations.
+
+In the WGI, the EU engaged in discussions on a number of technical issues, for example in relation to the determination of the causal link or to the analysis of threat of injury.
+
+In the regular meetings of the SCM Committee, discussions continued on how subsidies contributed to excess capacity in various sectors. In this context, in April, the US and EU co-hosted a presentation of the OECD Report on distortions in the aluminium value chain. 14 At the November meeting, the Committee further discussed the issue of overcapacity alongside a presentation on the work of the Global Forum on Steel Excess Capacity. Discussions also took place on ways to improve transparency on subsidies by WTO members, with the EU reiterating the importance of abiding by the subsidy notification obligations of the WTO.
+
+Reviews of the 2017 subsidies notification continued in April at the special meeting of the SCM Committee. At the start of July 2019, the EU submitted its new and complete notification to the WTO covering subsidies granted in 2017 and 2018. This exercise is done every second year and covers the subsidies granted at both EU level and by the individual Member States. Reviews of the 2019 subsidies notifications commenced at the November special meeting of the SCM Committee and will continue into 2020.
+
+In the Committee on Safeguards, the EU raised a number of concerns relating to other Members’ safeguard investigations (e.g. Philippines – Ceramic floor and wall tiles, Turkey – Yarn of nylon and other polyamides, Ukraine – Nitrogen fertilizers, Polyurethane foams). The EU also responded to questions by other Members concerning the safeguard measures on certain steel products, notably the results of the recent review of these measures.
+
+I.8    Activities of the Hearing Officer
+
+Since 2018, as a result of the TDI legislative reforms, the Hearing Officer’s role is firmly embedded in the basic AD and AS Regulations. The Hearing Officer was asked to contribute to the procedures to be applied in the modernisation implementation, in order to increase transparency and guarantee the procedural rights of the parties under the new rules. As a follow-up, the Terms of Reference (TOR) of the Hearing Officer were modernised and adopted by the President of the Commission in 2019. They provide for clearer explanations to interested parties on the role and powers of the Hearing Officer, in light of the new realities. The Hearing Officer was further called upon to intervene in other areas beyond the “classical” domains of AD and AS investigations, domains that are also covered by the TOR. This concerned a safeguard investigation, and proceedings related to the application of the GSP.
+
+In 2019, the Hearing Officer received 19 intervention requests and held eight hearings. On one occasion, she extended the deadline for comments. In a number of cases, the request for an intervention was submitted by parties simultaneously with a request for a hearing with the Commission services responsible for the investigation. The Hearing Officer maintained that the interested parties should first address their concerns to the Commission services and only when a solution could not be reached, the Hearing Officer would intervene. This approach enabled the interested parties to find a solution directly with the investigation teams in most of the cases.
+
+In 2019, the number of investigations that led to intervention requests was relatively low, similarly to 2018. The interested parties mostly challenged the determinations, facts and conclusions of the investigations. In all cases, where warranted, an agreement with the services to provide clarifications or additional disclosures was reached.
+
+
+
+
+
+II.    Firmer enforcement of measures
+
+II.1    Anti-circumvention activities
+
+Circumvention takes place when exporting producers in third countries engage in specific activities for the sole purpose of avoiding paying anti-dumping or countervailing duties. Such practices include, e.g. shipping the product through a country not subject to duties to mask its real origin (transhipment), slightly modifying the product so that it does not attract duties (slight modification), or exporting through an exporting producer with lower individual rates of anti-dumping or countervailing duties (company channelling).
+
+The circumvention of AD and AS measures is not acceptable. It undermines the Union industry’s right to get relief from unfair trading practices and thus endangers jobs and growth in the Union.
+
+The proper enforcement of AD and AS measures has always been high on the Commission’s agenda. The Commission has a proven accomplishment record in forceful action against the circumvention of measures. Indeed, out of the 140 measures in force on 31 December 2019, 28 were anti-circumvention measures.
+
+In 2019, the Commission took its fight against circumvention to higher levels by stepping up ex officio anti-circumvention investigations and by strengthening the operative parts of regulations imposing TDI measures, in order to reduce the risk of abuse.
+
+Ex officio anti-circumvention investigations
+
+Whenever the Commission had sufficient information at its disposal that circumvention was taking place, it opened on its own initiative (and without having received an industry complaint) an investigation into the matter (ex officio investigation). The Commission was able to collect enough evidence to open the cases on its own initiative because of its monitoring activities.
+
+In 2019, the Commission opened four ex officio anti-circumvention investigations. This is unprecedented. The four cases concern:
+
+·company channelling practices concerning the imports of ceramic tableware and kitchenware from China (“tableware case”);
+
+·company channelling practices concerning the imports of peroxosulphates from China (currently ongoing);
+
+·slight modification practices concerning the imports of corrosion resistant steel from China (currently ongoing);
+
+·transhipment practices via Laos, India and Thailand concerning the imports of tungsten electrodes from China (currently ongoing).
+
+These cases are important. First, two out of four, i.e. the steel case and the tableware case concern industry sectors with important employment in Europe. By way of illustration, the tableware sector provides close to 27,000 direct jobs.
+
+Second, the four cases show the broad range of circumvention activities and the determination employed by Chinese exporting producers. The tableware anti-circumvention investigation was the Commission’s largest anti-circumvention proceeding to date in terms of resources: the Commission investigated 50 Chinese producers, and 20 Commission investigators carried out on-spot verifications at about 40 Chinese companies within the mandatory 9 months deadline. The Commission found that many exporters having a lower duty rate (mainly 17.9%) exported under their own name merchandise from producers having a higher duty rate (36.1%), thus deliberately wrongly benefitting from a lower duty.
+
+As a result, in many instances, customs authorities could not collect the right amount of anti-dumping duty on tableware imports. The Commission’s investigation identified more than 30 Chinese exporters that engaged in this type of unlawful behaviour. As these companies misused their individual and advantageous duty rate, the Commission made them subject to the higher duty rate applicable (36.1%).
+
+Better regulation
+
+The findings of the tableware investigation demonstrated the risk of channelling of exports under the wrong identity. In order to reduce this risk, the Commission has developed higher monitoring and enforcement standards.
+
+For instance, the Commission has strengthened the conditions for the application of the individual and advantageous duty rate. Importers that want to benefit from individual duty rates must submit a series of additional documents.
+
+Moreover, in future implementing regulations imposing measures, the Commission will reiterate that the Member States’ customs authorities have to make the necessary checks beyond the simple examination of these documents.
+
+OLAF
+
+With regard to the implementation of measures, the Commission works in close cooperation with the European Anti-Fraud Office (OLAF), with the aim of preventing and detecting fraud. More details can be found in the annexed SWD.
+
+II.2    Application of TDI to deliveries into the EU continental shelf/EEZ
+
+Before the full implementation of TDI modernisation, 15 there was a significant gap in the territorial application of AD and AS duties. These duties had the same territorial scope as customs duties, i.e. they could only be applied in relation to the customs territory of the EU. However, the latter does comprise neither the continental shelf nor the exclusive economic zone (EEZ) of Member States. Yet, the economic activity in the continental shelf/EZZ includes the use of merchandise that is typically subject to TDI measures, notably pipes and tubes, as well as products used in wind power generation.
+
+In order to close this important gap in the enforcement of its TDI rules, the EU followed a two-step approach. First, in the context of the modernisation of TDI, the co-legislators decided that AD and AS measures could in principle also apply for deliveries into the EU continental shelf/EEZ. Second, as customs law only applies to the customs territory, the Commission created an ad-hoc legislative customs tool that ensured that the EU’s customs legislation could apply mutatis mutandis for the collection of AD and AS duties for deliveries into the continental shelf/EEZ. The legislative process was completed on 3 July 2019 16 and the Customs Tool became operational and fully applicable as of 4 November 2019. 17 The new tool also provides for the possibility to register imports into the continental shelf/EEZ. This allows obtaining the necessary statistical data. It also enables the Commission to apply trade defence measures with retroactive effect, if necessary.
+
+
+
+
+
+III.    Effectiveness of application of recent measures
+
+The very purpose of the application of TDI is to restore fair conditions of trade between imports and goods produced in the EU. If a third country exports artificially low priced products (as a result of dumping or subsidisation), this will often cause injury to EU companies, and a distortion of trade flows from other origins (i.e. fair imports from third countries which are not dumped or subsidised). The purpose of EU TDI measures is to remedy the injurious effect caused by the unfairly traded imports. The remedy consists usually in adding an anti-dumping or a countervailing duty to the import price. As a result, such imports normally decrease, as they are no longer competitive - not benefitting on the EU market from dumping and/or subsidisation.
+
+III.1    Injurious imports decrease
+
+Once an investigation begins, the first action that the Commission can take is to register imports, with a view to collecting duties retroactively at the time of the imposition of definitive measures. In many cases, such registration has already a certain remedial effect – importers anticipate the risk of having to pay, in the near future, the duties that could result from the conclusions of the investigation.
+
+However, it is after the very imposition of measures, that dumped or subsidised imports decrease the most. The ratio by which imports decrease following the imposition of measures can constitute a good indicator of the efficiency of such measures. It shows the extent to which the unfairly priced imports are removed from the EU market. The evolution of this ratio allows, in many cases, to draw conclusions on whether EU measures are effective and properly enforced. Indeed, a small reduction of imports following the imposition of AD or AS duties can signal attempts to absorb or circumvent the latter. As mentioned earlier, the proper enforcement of measures is paramount to their efficiency.
+
+The table below shows the effect of EU measures adopted in years 2017-2018 on the import flows of the products concerned: 18  
+
+Product under measure (country of origin)
+
+% of imports decrease
+
+Cast iron articles from China
+
+-57%
+
+Corrosion resistant steels from China
+
+-100%
+
+Electric bicycles from China
+
+-83%
+
+Heavy plates from China
+
+-99%
+
+Hot rolled flat products from Brazil, China, Iran, Russia and Ukraine
+
+-71%
+
+New and retreaded tyres for buses or lorries from China
+
+-74%
+
+Rebars from Belarus
+
+-86%
+
+Seamless pipes of iron or steel from China
+
+-98%
+
+Stainless steel tube and pipe butt-welding fittings from China and Taiwan
+
+-81%
+
+Thermal paper from the Rep. of Korea (Korea)
+
+-90%
+
+Average decrease
+
+-80%
+
+Source: Own calculations based on Comext statistics (in kg), except for Electric bicycles and Tyres, for which Member States’ customs data on units imported was used
+
+As shown in the table above, in the case of cast iron articles, imports have decreased by 57% following the imposition of measures in February 2019. This is below the average ratio of decrease seen in recent cases. With respect to that product, the Commission initiated an anti-absorption investigation on 18 December 2019. The initiation was based on evidence showing that, after the original investigation period, and following the imposition of the provisional anti-dumping duties, Chinese export prices of the product had decreased. That decrease could have reduced the remedial effects of the measures in force. The evidence made available to the Commission indicated that the drop in export prices could not be explained by a decrease of the price of the major raw material or a change in product mix. Evidence also showed that imports of cast iron articles continued to enter the Union in significant volumes, as also corroborated by the above figures on imports. The results of this anti-absorption investigation will be available in 2020.
+
+III.2    More diversified sources of supply
+
+A well-functioning EU economy not only depends on exports but also on imports. In that respect, EU TDI measures only affect those imports, which are unfair and injurious. The effect of TDI measures is that such unfair and injurious imports are normally replaced by either EU production or imports from other countries, for which there is no evidence of unfair pricing (and which therefore are not subject to any measures). Thus, AD and AS duties restore the level playing field both for the EU producing industry and other third country suppliers, allowing EU users to continue enjoying diversified sources of supply. The table below shows how the share of EU-produced goods and non-injurious imports in the EU total consumption changed after the imposition of measures: 19
+
+ 
+
+Before measures 20
+
+After
+
+measures 21
+
+EU market share of EU-produced goods:
+
+ 
+
+ 
+
+Aluminium radiators from China
+
+76%
+
+95%
+
+Tube and pipe fittings from Korea, Malaysia, Russia and Turkey 22
+
+72%
+
+59%
+
+Organic coated steel products from China
+
+76%
+
+85%
+
+Aluminium foil in small rolls from China
+
+85%
+
+92%
+
+Ceramic tableware and kitchenware from China
+
+21%
+
+31%
+
+Threaded tube or pipe cast fittings of malleable cast iron from China and Thailand
+
+39%
+
+63%
+
+EU market share of unfair injurious imports: 23
+
+ 
+
+ 
+
+Aluminium radiators from China
+
+24%
+
+3%
+
+Tube and pipe fittings from Korea, Malaysia, Russia and Turkey
+
+22%
+
+21%
+
+Organic coated steel products from China
+
+14%
+
+0%
+
+Aluminium foil in small rolls from China
+
+13%
+
+2%
+
+Ceramic tableware and kitchenware from China 24  
+
+67%
+
+56%
+
+Threaded tube or pipe cast fittings of malleable cast iron from China and Thailand
+
+52%
+
+26%
+
+EU market share of fair imports: 25
+
+ 
+
+ 
+
+Aluminium radiators from China
+
+0%
+
+2%
+
+Tube and pipe fittings from Korea, Malaysia, Russia and Turkey
+
+6%
+
+20%
+
+Organic coated steel products from China
+
+10%
+
+15%
+
+Aluminium foil in small rolls from China
+
+1%
+
+6%
+
+Ceramic tableware and kitchenware from China
+
+12%
+
+13%
+
+Threaded tube or pipe cast fittings of malleable cast iron from China and Thailand
+
+8%
+
+10%
+
+Source: EU regulations
+
+III.3    EU jobs protected by trade defence measures
+
+As mentioned above, dumped or subsidised imports cause or threaten to cause injury to EU companies, putting at risk the viability of EU businesses, and hence also of EU jobs. Trade defence measures, by restoring non-injurious conditions of trade, contribute to protecting jobs in EU companies. In each investigation, the Commission calculates the number of EU jobs that are directly affected to the production of the product concerned in the companies injured by the dumped or subsidised imports. This number gives an idea about how EU trade defence measures contribute, by protecting industrial jobs, to maintain a thriving EU economy. At the end of 2019, the EU’s 137 antidumping and anti-subsidy measures were shielding from unfair competition circa 343,000 direct EU jobs. Measures imposed in 2019 contributed to an increase of the number of jobs benefitting from TDI measures by 23,000.
+
+III.4    A new system to monitor the effectiveness of measures
+
+The Commission is currently developing a new internal system that will improve the monitoring of the effectiveness of measures in force.
+
+The system will integrate into one storage place information on trade flows and employment figures related to investigations and measures. The Commission will regularly update the data.
+
+This will allow comparing figures on imports of products subject to measures with import reported for periods prior to the imposition of measures. It will permit a swift evaluation of the efficiency and impact of measures. In addition, the system will also store information on profitability, employment and investment from subsequent expiry reviews which will allow following the evolution of the Union industry’s economic condition.
