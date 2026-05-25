@@ -2,7 +2,7 @@
 
 Computational analysis accompanying a Master's thesis examining the evolution of Western 
 economic security discourse toward China (2001–2025), using Structural Topic Modeling (STM) 
-applied to separate US and EU official trade policy corpora.
+applied to separate US and EU official economic discourse corpora.
 
 ---
 
