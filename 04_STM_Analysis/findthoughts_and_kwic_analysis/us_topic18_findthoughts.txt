@@ -1,0 +1,1618 @@
+=============================================================
+US Corpus -- Topic 18 
+Generated: 2026-05-09 13:05 
+=============================================================
+
+PROB:  invest, econom, united_st, technolog, world, china, countri, american, manufactur, supply_chain, global, partner, industri, need, innov 
+FREX:  clean, semiconductor, president_biden, infrastructur, supply_chain, chip, vulner, invest, energi, decad, build, technolog, strength, steer, batteri 
+
+-------------------------------------------------------------
+TOP DOCUMENTS
+-------------------------------------------------------------
+
+[ 1] DOS_S_231024 (2024) -- theta=0.997
+     Remarks by APNSA Jake Sullivan at the Brookings Institution
+
+[ 2] NSA_S_300523 (2023) -- theta=0.965
+     Remarks by National Security Advisor Jake Sullivan on Renewing American Economic Leadership at the Brookings Institution
+
+[ 3] DOC_FS_140524 (2024) -- theta=0.831
+     President Biden Takes Action to Protect American Workers and Businesses from China’s Unfair Trade Practices
+
+[ 4] DOC_S_301122 (2022) -- theta=0.762
+     Remarks by U.S. Secretary of Commerce Gina Raimondo on the U.S. Competitiveness and the China Challenge
+
+[ 5] P10761_2024 (2024) -- theta=0.620
+     World Trade Week, 2024
+
+[ 6] USTR_S_150623 (2023) -- theta=0.515
+     Ambassador Katherine Tai's Remarks at the National Press Club on Supply Chain Resilience
+
+[ 7] NSS_2025 (2025) -- theta=0.408
+     National Security Strategy of the United States 2025
+
+[ 8] DOC_CT_300720 (2020) -- theta=0.406
+     The China Challenge: Realignment of US Economic Policies to Build Resiliency and Competitiveness: Statement of The Honorable Nazak Nikakhtar, Assistant Secretary, International Trade Administration, Industry and Analysis, U.S. Department of Commerce
+
+[ 9] DOC_O_150817 (2017) -- theta=0.343
+     American genius is under attack from China
+
+[10] USTR_S_191222 (2022) -- theta=0.324
+     Remarks by Ambassador Katherine Tai at the Council on Foreign Relations
+
+-------------------------------------------------------------
+TEXT EXCERPTS
+-------------------------------------------------------------
+
+[1] DOS_S_231024 (2024)
+Good morning, everyone. And thank you so much, David, for that introduction and for having me here
+today. It’s great to be back at Brookings. As many of you know, I was here last year to lay out
+President Biden’s vision for renewing American economic leadership, a vision that responded to
+several converging challenges our country faced: the return of intense geopolitical competition; a
+rise in inequality and a squeeze on the middle class; a less vibrant American industrial base; an
+accelerating climate crisis; vulnerable supply chains; and rapid technological change. For the
+preceding three decades, the U.S. economy had enjoyed stronger topline aggregate growth than other
+advanced democracies, and had generated genuine innovation and technological progress, but our
+economic policies had no
+...
+
+[2] NSA_S_300523 (2023)
+I want to start by thanking all of you for indulging a National Security Advisor to discuss
+economics. As most of you know, Secretary Yellen gave an important speech just down the street last
+week on our economic policy with respect to China. Today I'd like to zoom out to our broader
+international economic policy, particularly as it relates to President Biden's core
+commitment—indeed, to his daily direction to us—to more deeply integrate domestic policy and
+foreign policy. After the Second World War, the United States led a fragmented world to build a new
+international economic order. It lifted hundreds of millions of people out of poverty. It sustained
+thrilling technological revolutions. And it helped the United States and many other nations around
+the world achieve new levels of prosper
+...
+
+[3] DOC_FS_140524 (2024)
+President Biden’s economic plan is supporting investments and creating good jobs in key sectors
+that are vital for America’s economic future and national security. China’s unfair trade practices
+concerning technology transfer, intellectual property, and innovation are threatening American
+businesses and workers. China is also flooding global markets with artificially low-priced exports.
+In response to China’s unfair trade practices and to counteract the resulting harms, today,
+President Biden is directing his Trade Representative to increase tariffs under Section 301 of the
+Trade Act of 1974 on $18 billion of imports from China to protect American workers and businesses.
+The Biden-Harris Administration’s Investing in America agenda has already catalyzed more than $860
+billion in business i
+...
+
+[4] DOC_S_301122 (2022)
+This year marks the 50th anniversary of the opening of relations between China and the United
+States. For most of this period, the United States was committed to the idea that economic
+engagement with China would serve our mutual interests: first, as a counterweight to the Soviet
+Union, and later as a gateway to a deeper political and economic partnership. Engagement also
+provided U.S. companies with greater access to China’s market and helped open China’s economic
+system. And some even thought that over time China would take its place alongside the U.S. and
+other advanced economies to become a pillar of the post-war liberal international order. But now it
+is clear that China took a different path—and with that has come profound impacts on our bilateral
+relationship and on China’s behavior
+...
+
+[5] P10761_2024 (2024)
+This week, we recommit to ensuring that global trade reflects America's highest values: fairness,
+transparency, innovation, dignity, and opportunity for American workers, American businesses, and
+American families. For decades, our country embraced trickle-down economics which rewarded wealth,
+not work. Companies took their jobs overseas to get cheaper labor. Factories closed down.
+Manufacturing slowed. Entire communities became hollowed out as American workers lost their
+paychecks and sense of pride. My Administration is changing that. Since I came into office, we have
+focused on rebuilding our economy from the bottom up and middle out—not the top down. We have seen
+the results: We have created over 15 million jobs since I took office, including nearly 800,000
+manufacturing jobs. Unemploy
+...
+
+[6] USTR_S_150623 (2023)
+Thank you, Barry. It is a pleasure to be here with you today, and thank you to the Open Markets
+Institute and the National Press Club for hosting me. I do not know if you remember, but you and I
+first met almost ten years go. I was working on the Hill, and you had come in for a meeting to talk
+about supply chains. Supply chains were not yet the topic of kitchen table conversations back then,
+but they were an area of intense focus for trade policy, especially after the 2011 earthquake in
+Fukushima, Japan. That earthquake and its aftermath disrupted the famous “just-in-time” supply
+chains that Japan’s automakers had pioneered, with significant negative impacts for Detroit. Barry,
+you were the first to see the connection between supply chains and competition policy. In fact,
+your work on supp
+...
+
+[7] NSS_2025 (2025)
+President Trump single-handedly reversed more than three decades of mistaken American assumptions
+about China: namely, that by opening our markets to China, encouraging American business to invest
+in China, and outsourcing our manufacturing to China, we would facilitate China’s entry into the
+so-called “rulesbased international order.” This did not happen. China got rich and powerful, and
+used its wealth and power to its considerable advantage. American elites—over four successive
+administrations of both political parties—were either willing enablers of China’s strategy or in
+denial.The Indo-Pacific is already the source of almost half the world’s GDP based on purchasing
+power parity (PPP), and one third based on nominal GDP. That share is certain to grow over the 21st
+century. Which means
+...
+
+[8] DOC_CT_300720 (2020)
+Thank you, Chairman Sullivan, Ranking Member Markey, and Members of the Subcommittee. Good morning,
+and thank you for the opportunity to testify. We are at a historic crossroads in the U.S.-China
+relationship and the steps we take now will chart the course of U.S. economic and technological
+leadership for decades to come. In 2017, the U.S. began for the first time to confront head-on the
+challenges posed by China's predatory practices. Those practices had been ignored for decades and
+as a result the United States lost capabilities in sector after sector in manufacturing and
+technology that are so critical to this Nation's security. In order to understand the PRC's
+predatory economic strategy, it's important to understand the specific tactics or tools that it
+deploys. Indeed, China's most e
+...
+
+[9] DOC_O_150817 (2017)
+The US Department of Commerce houses the patent and trademark office, whose mission is to protect
+our nation’s innovators and their intellectual property. Above our entrance is inscribed a quote
+from Abraham Lincoln: “The patent system added fuel to the fire of genius.” But today the American
+patent system and the American genius it protects are under serious attack. Intellectual property
+theft and expropriation costs US businesses as much as $600bn a year, according to the Commission
+on the Theft of American Intellectual Property. Receive 4 weeks of unlimited digital access to the
+Financial Times for just $1. Think of what that means — more than 3 per cent of America’s gross
+domestic product is lost each year to theft, piracy and espionage. China is a primary culprit: it
+accounts for 87 p
+...
+
+[10] USTR_S_191222 (2022)
+Hello, everyone! Thank you, Afsaneh, for that kind introduction. For over a century, this Council
+has been one of the most important venues for discussing the critical foreign policy issues facing
+our nation and the world, and it is a pleasure to be here today. When I was sworn in as United
+States Trade Representative 641 days ago, we faced several profound questions. Why the world
+economy has proven so fragile in the midst of a global public health crisis. Whether the United
+States was withdrawing from the rest of the world. And whether the international trade and economic
+system is fundamentally fair. Two years later, our answers are clear. First, world economic
+governance must reform and realign to incentivize resilience. Second, as President Biden has
+instructed, America is back to lea
+...
+
+-------------------------------------------------------------
+KEYWORD-IN-CONTEXT
+Search terms: china | semiconductor | chip | supply chain | infrastructure | energ | battery | technolog | manufactur | resili | president biden 
+-------------------------------------------------------------
+
+>>> KWIC: china <<<
+
+[P10761_2024]
+  ...that too often robs workers of a fair share of the value they create i am taking action to protect american workers and businesses from [china's] unfair trade practices and ensure they compete on a level playing field including increasing tariffs on $ 18 billion of imports from china to protect...
+
+[P10761_2024]
+  ...businesses from china's unfair trade practices and ensure they compete on a level playing field including increasing tariffs on $ 18 billion of imports from [china] to protect american workers and businesses at the same time we are working to increase trade with kenya taiwan and other partners around the world.no...
+
+[NSA_S_300523]
+  ...economics as most of you know secretary yellen gave an important speech just down the street last week on our economic policy with respect to [china] today i'd like to zoom out to our broader international economic policy particularly as it relates to president biden's core commitment—indeed to his daily direction...
+
+[NSA_S_300523]
+  ...reality that a large non-market economy had been integrated into the international economic order in a way that posed considerable challenges the people's republic of [china] continued to subsidize at a massive scale both traditional industrial sectors like steel as well as key industries of the future like clean energy digital...
+
+[NSA_S_300523]
+  ...digital infrastructure and advanced biotechnologies america didn't just lose manufacturing—we eroded our competitiveness in critical technologies that would define the future economic integration didn't stop [china] from expanding its military ambitions in the region or stop russia from invading its democratic neighbors neither country had become more responsible or cooperative and...
+
+[NSA_S_300523]
+  ...republican opposition and frankly our domestic economic policies also failed to fully account for the consequences of our international economic policies for example the so-called [china] shock that hit pockets of our domestic manufacturing industry especially hard—with large and long-lasting impacts—wasn't adequately anticipated and wasn't adequately addressed as it unfolded and...
+
+[NSA_S_300523]
+  ...percent of the graphite required to meet current demand for electric vehicles meanwhile more than 80 percent of critical minerals are processed by one country [china] clean-energy supply chains are at risk of being weaponized in the same way as oil in the 1970s or natural gas in europe in 2022...
+
+[NSA_S_300523]
+  ...to see genuine relief not just extending and pretending and we need to see all bilateral official and private creditors share the burden that includes [china] which has worked to build its influence through massive lending to the emerging world almost always with strings attached we share the view of many...
+
+[NSA_S_300523]
+  ...worked to build its influence through massive lending to the emerging world almost always with strings attached we share the view of many others that [china] now needs to step up as a constructive force in assisting debt-stressed countries finally we are protecting our foundational technologies with a small yard and...
+
+[NSA_S_300523]
+  ...that next-generation technologies work for not against our democracies and our security we've implemented carefully tailored restrictions on the most advanced semiconductor technology exports to [china] those restrictions are premised on straightforward national security concerns key allies and partners have followed suit consistent with their own security concerns we're also enhancing...
+
+[NSA_S_300523]
+  ...emerging economies they are focused on a narrow slice of technology and a small number of countries intent on challenging us militarily a word on [china] more broadly as president von der leyen put it recently we are for de-risking and diversifying not decoupling we'll keep investing in our own capacities...
+
+[NSA_S_300523]
+  ...used against us we are not cutting off trade in fact the united states continues to have a very substantial trade and investment relationship with [china] bilateral trade between the united states and china set a new record last year now when you zoom out from economics we are competing with...
+
+[NSA_S_300523]
+  ...trade in fact the united states continues to have a very substantial trade and investment relationship with china bilateral trade between the united states and [china] set a new record last year now when you zoom out from economics we are competing with china on multiple dimensions but we are not...
+
+[NSA_S_300523]
+  ...bilateral trade between the united states and china set a new record last year now when you zoom out from economics we are competing with [china] on multiple dimensions but we are not looking for confrontation or conflict we're looking to manage competition responsibly and seeking to work together with china...
+
+[NSA_S_300523]
+  ...china on multiple dimensions but we are not looking for confrontation or conflict we're looking to manage competition responsibly and seeking to work together with [china] where we can president biden has made clear that the united states and china can and should work together on global challenges like climate like...
+
+[NSA_S_300523]
+  ...looking to manage competition responsibly and seeking to work together with china where we can president biden has made clear that the united states and [china] can and should work together on global challenges like climate like macroeconomic stability health security and food security managing competition responsibly ultimately takes two willing...
+
+[NSA_S_300523]
+  ...week in her speech on this topic we can defend our national security interests have a healthy economic competition and work together where possible but [china] has to be willing to play its part so what does success look like the world needs an international economic system that works for our...
+
+[DOC_FS_140524]
+  ...president biden’s economic plan is supporting investments and creating good jobs in key sectors that are vital for america’s economic future and national security [china’s] unfair trade practices concerning technology transfer intellectual property and innovation are threatening american businesses and workers china is also flooding global markets with artificially low-priced...
+
+[DOC_FS_140524]
+  ...vital for america’s economic future and national security china’s unfair trade practices concerning technology transfer intellectual property and innovation are threatening american businesses and workers [china] is also flooding global markets with artificially low-priced exports in response to china’s unfair trade practices and to counteract the resulting harms today president biden...
+
+[DOC_FS_140524]
+  ...technology transfer intellectual property and innovation are threatening american businesses and workers china is also flooding global markets with artificially low-priced exports in response to [china’s] unfair trade practices and to counteract the resulting harms today president biden is directing his trade representative to increase tariffs under section 301 of the...
+
+[DOC_FS_140524]
+  ...biden is directing his trade representative to increase tariffs under section 301 of the trade act of 1974 on $ 18 billion of imports from [china] to protect american workers and businesses the biden-harris administration’s investing in america agenda has already catalyzed more than $ 860 billion in business investments through...
+
+[DOC_FS_140524]
+  ...behind make a comeback as president biden says american workers and businesses can outcompete anyone—as long as they have fair competition but for too long [china’s] government has used unfair non-market practices china’s forced technology transfers and intellectual property theft have contributed to its control of 70 80 and even 90...
+
+[DOC_FS_140524]
+  ...says american workers and businesses can outcompete anyone—as long as they have fair competition but for too long china’s government has used unfair non-market practices [china’s] forced technology transfers and intellectual property theft have contributed to its control of 70 80 and even 90 percent of global production for the critical...
+
+[DOC_FS_140524]
+  ...our technologies infrastructure energy and health care—creating unacceptable risks to america’s supply chains and economic security furthermore these same non-market policies and practices contribute to [china’s] growing overcapacity and export surges that threaten to significantly harm american workers businesses and communities today’s actions to counter china’s unfair trade practices are carefully...
+
+[DOC_FS_140524]
+  ...policies and practices contribute to china’s growing overcapacity and export surges that threaten to significantly harm american workers businesses and communities today’s actions to counter [china’s] unfair trade practices are carefully targeted at strategic sectors—the same sectors where the united states is making historic investments under president biden to create and...
+
+[DOC_FS_140524]
+  ...and sustain good-paying jobs—unlike recent proposals by congressional republicans that would threaten jobs and raise costs across the board the previous administration’s trade deal with [china] failed to increase american exports or boost american manufacturing as it had promised under president biden’s investing in america agenda nearly 800,000 manufacturing jobs have...
+
+[DOC_FS_140524]
+  ...nearly 800,000 manufacturing jobs have been created and new factory construction has doubled after both fell under the previous administration and the trade deficit with [china] is the lowest in a decade—lower than any year under the last administration we will continue to work with our partners around the world to...
+
+[DOC_FS_140524]
+  ...any year under the last administration we will continue to work with our partners around the world to strengthen cooperation to address shared concerns about [china’s] unfair practices—rather than undermining our alliances or applying indiscriminate 10 percent tariffs that raise prices on all imports from all countries regardless whether they are...
+
+[DOC_FS_140524]
+  ...fair competition following an in-depth review by the united states trade representative president biden is taking action to protect american workers and american companies from [china’s] unfair trade practices to encourage china to eliminate its unfair trade practices regarding technology transfer intellectual property and innovation the president is directing increases in...
+
+[DOC_FS_140524]
+  ...by the united states trade representative president biden is taking action to protect american workers and american companies from china’s unfair trade practices to encourage [china] to eliminate its unfair trade practices regarding technology transfer intellectual property and innovation the president is directing increases in tariffs across strategic sectors such as...
+
+[DOC_FS_140524]
+  ...hydrogen into clean steel bolstering the u.s steel industry’s competitiveness as the world’s cleanest major steel producer american workers continue to face unfair competition from [china’s] non-market overcapacity in steel and aluminum which are among the world’s most carbon-intensive china’s policies and subsidies for their domestic steel and aluminum industries mean...
+
+[DOC_FS_140524]
+  ...major steel producer american workers continue to face unfair competition from china’s non-market overcapacity in steel and aluminum which are among the world’s most carbon-intensive [china’s] policies and subsidies for their domestic steel and aluminum industries mean high-quality low-emissions u.s products are undercut by artificially low-priced chinese alternatives produced with higher...
+
+[DOC_FS_140524]
+  ...low-emissions u.s products are undercut by artificially low-priced chinese alternatives produced with higher emissions today’s actions will shield the u.s steel and aluminum industries from [china’s] unfair trade practices semiconductors the tariff rate on semiconductors will increase from 25 to 50 by 2025 china’s policies in the legacy semiconductor sector have...
+
+[DOC_FS_140524]
+  ...the u.s steel and aluminum industries from china’s unfair trade practices semiconductors the tariff rate on semiconductors will increase from 25 to 50 by 2025 [china’s] policies in the legacy semiconductor sector have led to growing market share and rapid capacity expansion that risks driving out investment by market-driven firms over...
+
+[DOC_FS_140524]
+  ...have led to growing market share and rapid capacity expansion that risks driving out investment by market-driven firms over the next three to five years [china] is expected to account for almost half of all new capacity coming online to manufacture certain legacy semiconductor wafers during the pandemic disruptions to the...
+
+[DOC_FS_140524]
+  ...electric vehicles under section 301 will increase from 25 to 100 in 2024 with extensive subsidies and non-market practices leading to substantial risks of overcapacity [china’s] exports of evs grew by 70 from 2022 to 2023—jeopardizing productive investments elsewhere a 100 tariff rate on evs will protect american manufacturers from china’s...
+
+[DOC_FS_140524]
+  ...china’s exports of evs grew by 70 from 2022 to 2023—jeopardizing productive investments elsewhere a 100 tariff rate on evs will protect american manufacturers from [china’s] unfair trade practices this action advances president biden’s vision of ensuring the future of the auto industry will be made in america by american workers...
+
+[DOC_FS_140524]
+  ...2026 the tariff rate for certain other critical minerals will increase from zero to 25 in 2024 despite rapid and recent progress in u.s onshoring [china] currently controls over 80 percent of certain segments of the ev battery supply chain particularly upstream nodes such as critical minerals mining processing and refining...
+
+[DOC_FS_140524]
+  ...the ev battery supply chain particularly upstream nodes such as critical minerals mining processing and refining concentration of critical minerals mining and refining capacity in [china] leaves our supply chains vulnerable and our national security and clean energy goals at risk in order to improve u.s and global resiliency in these...
+
+[DOC_FS_140524]
+  ...tariff rate on solar cells whether or not assembled into modules will increase from 25 to 50 in 2024 the tariff increase will protect against [china’s] policy-driven overcapacity that depresses prices and inhibits the development of solar capacity outside of china china has used unfair practices to dominate upwards of 80...
+
+[DOC_FS_140524]
+  ...to 50 in 2024 the tariff increase will protect against china’s policy-driven overcapacity that depresses prices and inhibits the development of solar capacity outside of [china] china has used unfair practices to dominate upwards of 80 to 90 of certain parts of the global solar supply chain and is trying to...
+
+[DOC_FS_140524]
+  ...50 in 2024 the tariff increase will protect against china’s policy-driven overcapacity that depresses prices and inhibits the development of solar capacity outside of china [china] has used unfair practices to dominate upwards of 80 to 90 of certain parts of the global solar supply chain and is trying to maintain...
+
+[DOC_FS_140524]
+  ...status quo chinese policies and nonmarket practices are flooding global markets with artificially cheap solar modules and panels undermining investment in solar manufacturing outside of [china] the biden-harris administration has made historic investments in the u.s solar supply chain building on early u.s government-enabled research and development that helped create solar...
+
+[DOC_FS_140524]
+  ...the united states industrial capacity to produce port cranes with trusted partners a 25 tariff rate on ship-to-shore cranes will help protect u.s manufacturers from [china’s] unfair trade practices that have led to excessive concentration in the market port cranes are essential pieces of infrastructure that enable the continuous movement and...
+
+[USTR_S_150623]
+  ...met you brought one of your articles about the dangers that offshoring and the concentration of production outside our borders—and in the people’s republic of [china] in particular—present to u.s national security you had an excellent point at the time and in fact we were witnessing the first instances of what...
+
+[DOC_S_301122]
+  ...this year marks the 50th anniversary of the opening of relations between [china] and the united states for most of this period the united states was committed to the idea that economic engagement with china would serve our...
+
+[DOC_S_301122]
+  ...of relations between china and the united states for most of this period the united states was committed to the idea that economic engagement with [china] would serve our mutual interests first as a counterweight to the soviet union and later as a gateway to a deeper political and economic partnership...
+
+[DOC_S_301122]
+  ...to the soviet union and later as a gateway to a deeper political and economic partnership engagement also provided u.s companies with greater access to [china’s] market and helped open china’s economic system and some even thought that over time china would take its place alongside the u.s and other advanced...
+
+[DOC_S_301122]
+  ...later as a gateway to a deeper political and economic partnership engagement also provided u.s companies with greater access to china’s market and helped open [china’s] economic system and some even thought that over time china would take its place alongside the u.s and other advanced economies to become a pillar...
+
+[DOC_S_301122]
+  ...partnership engagement also provided u.s companies with greater access to china’s market and helped open china’s economic system and some even thought that over time [china] would take its place alongside the u.s and other advanced economies to become a pillar of the post-war liberal international order but now it is...
+
+[DOC_S_301122]
+  ...its place alongside the u.s and other advanced economies to become a pillar of the post-war liberal international order but now it is clear that [china] took a different path—and with that has come profound impacts on our bilateral relationship and on china’s behavior on the global stage over the past...
+
+[DOC_S_301122]
+  ...international order but now it is clear that china took a different path—and with that has come profound impacts on our bilateral relationship and on [china’s] behavior on the global stage over the past decade china’s leaders have made clear that they do not plan to pursue political and economic reform...
+
+[DOC_S_301122]
+  ...a different path—and with that has come profound impacts on our bilateral relationship and on china’s behavior on the global stage over the past decade [china’s] leaders have made clear that they do not plan to pursue political and economic reform and are instead pursuing an alternative vision of their country’s...
+
+[DOC_S_301122]
+  ...economy from the rest of the world and they are accelerating their efforts to fuse their economic and technology policies with their military ambitions as [china’s] economy has grown in size and influence so too has its commitment to using non-market trade and investment practices in ways that are forcing us...
+
+[DOC_S_301122]
+  ...using non-market trade and investment practices in ways that are forcing us to defend our businesses and workers and those of our allies and partners [china’s] reprioritization away from economic growth toward national security and its assertive military behavior means that we have to rethink how we protect our national security...
+
+[DOC_S_301122]
+  ...has four components first we are making transformational investments in american innovation second we are bolstering our domestic capabilities and creating new ones to prevent [china] from undermining our national security and democratic values third we are partnering with our allies in new ways to advance our shared values and shape...
+
+[DOC_S_301122]
+  ...and democratic values third we are partnering with our allies in new ways to advance our shared values and shape the strategic environment in which [china] operates and fourth we are advocating for u.s trade and investment and the benefits that come with it as well as working together with china...
+
+[DOC_S_301122]
+  ...china operates and fourth we are advocating for u.s trade and investment and the benefits that come with it as well as working together with [china] to address transnational issues such as climate change and global macroeconomic stability but u.s government policies are only part of the answer we need the...
+
+[DOC_S_301122]
+  ...america’s long-term prosperity and security we are pushing on all fronts all at once and we need to do it all together our competition with [china] is global but our economic strategy begins at home our economic competitiveness and national security depend on a bold domestic investment agenda in strategic and...
+
+[DOC_S_301122]
+  ...have seen manufacturing shut down businesses shutter and the local engines of innovation grind to a halt as we exported jobs and manufacturing capacity to [china] and the rest of asia and reduced investment in the workforce development and infrastructure necessary to maintain our long-term competitiveness i felt the effects of...
+
+[DOC_S_301122]
+  ...of this shift firsthand my father worked his whole career in the bulova watch factory in providence but after 28 years his job moved to [china] as the company chased cheap labor and just like all his friends my father was forced into early retirement what happened to my father is...
+
+[DOC_S_301122]
+  ...into early retirement what happened to my father is hardly unique it happened to millions of americans over the last 40 years while we watched [china] become a world leader in manufacturing and reap the massive benefits of manufacturing-driven innovation the u.s economy became less competitive and overly dependent on china...
+
+[DOC_S_301122]
+  ...china become a world leader in manufacturing and reap the massive benefits of manufacturing-driven innovation the u.s economy became less competitive and overly dependent on [china] for an increasing number of critical technologies and goods it is worth noting by the way that china achieved its success through massive state support...
+
+[DOC_S_301122]
+  ...became less competitive and overly dependent on china for an increasing number of critical technologies and goods it is worth noting by the way that [china] achieved its success through massive state support of its industries covid opened our eyes to the long-term risk for both the private sector and the...
+
+[DOC_S_301122]
+  ...support of its industries covid opened our eyes to the long-term risk for both the private sector and the american people of this over-dependence on [china] and the need to rebuild domestic manufacturing and innovation semiconductors are ground-zero in this technological competition and central to our new investment strategy they drive...
+
+[DOC_S_301122]
+  ...10 percent of global chip capacity meanwhile since 2020 nearly 75 percent of the new global capacity for certain mature chips has been added in [china] the chips and science act marks the beginning of a new chapter in u.s innovation where we reverse that decline and ensure that the united...
+
+[DOC_S_301122]
+  ...have been and will continue to be an essential part of this american story of renewal right now there are roughly 300 000 students from [china] studying in the united states we will continue to welcome chinese students and immigrants and we won’t hesitate to stand up to racism against people...
+
+[DOC_S_301122]
+  ...where americans can participate from anywhere and compete everywhere our transformative domestic investment agenda is at the heart of our long-term economic competitiveness but outcompeting [china] to shape and lead the global economy of the 21st century also demands that we move nimbly and quickly to harden our defenses against an...
+
+[DOC_S_301122]
+  ...an array of emerging and ongoing practices that tilt the playing field against american workers and businesses and in some cases threaten our national security [china] today poses a set of growing challenges to our national security it is deploying its military in ways that undermine the security of our allies...
+
+[DOC_S_301122]
+  ...are going to bolster our system of export controls enhance our investment screening regimes strengthen our supply chain resiliency and develop innovative solutions to counter [china’s] economic coercion and human rights abuses to begin with we are redoubling our efforts to safeguard our core technologies by strategically and continuously updating our...
+
+[DOC_S_301122]
+  ...our export control policies and investment screening frameworks in october we released a set of rules that impose systematic and technology-specific export controls to limit [china’s] ability to purchase and manufacture certain very advanced computing chips that are used to train large-scale artificial intelligence models and which power the country’s advanced...
+
+[DOC_S_301122]
+  ...cutting-edge chips in addition we restricted american citizens from supporting these advanced technology programs for too long america’s export control strategy was reactive—focused on preventing [china] from expanding its technological capabilities after it accessed american intellectual property but these new rules are strategic targeted and designed to protect our national security...
+
+[DOC_S_301122]
+  ...representatives mccaul lucas and delauro to implement historically strict guardrails to ensure the investments we make in research and innovation are never used to benefit [china’s] military efforts we are also modernizing our review of inbound investment a few months ago we issued presidential guidance—the first of its kind since the...
+
+[DOC_S_301122]
+  ...capital investments in critical technology sectors as one example we have prohibited companies receiving chips funding from investing in leading-edge or advanced technology facilities in [china] for ten years our strategy also includes the protection of our critical supply chains during the covid pandemic we witnessed how the concentration of personal...
+
+[DOC_S_301122]
+  ...strategy also includes the protection of our critical supply chains during the covid pandemic we witnessed how the concentration of personal protective equipment manufacturing in [china] put americans at risk i remember this time vividly i was governor when the pandemic hit like so many other states rhode island desperately needed...
+
+[DOC_S_301122]
+  ...industries so that we can address vulnerabilities as quickly as possible related to this we are exploring new avenues to defend ourselves and others from [china’s] economic coercion reducing our companies dependence on china for core parts of our critical supply chains is one part of the answer but not the...
+
+[DOC_S_301122]
+  ...quickly as possible related to this we are exploring new avenues to defend ourselves and others from china’s economic coercion reducing our companies dependence on [china] for core parts of our critical supply chains is one part of the answer but not the entire answer for example when china cut off...
+
+[DOC_S_301122]
+  ...dependence on china for core parts of our critical supply chains is one part of the answer but not the entire answer for example when [china] cut off trade with lithuania we opened our markets to lithuanian agricultural products and provided a $ 600 million export credit agreement focused on manufacturing...
+
+[DOC_S_301122]
+  ...for our partners and allies i also want to underscore the priority that we are placing on ensuring that our companies are not complicit in [china’s] gross human rights abuses our trade and investment with china should reflect our core democratic values that is why president biden signed the bipartisan uyghur...
+
+[DOC_S_301122]
+  ...the priority that we are placing on ensuring that our companies are not complicit in china’s gross human rights abuses our trade and investment with [china] should reflect our core democratic values that is why president biden signed the bipartisan uyghur forced labor prevention act into law requiring companies to certify...
+
+[DOC_S_301122]
+  ...trade and make investment decisions will profoundly shape our economic and national security for decades to come and i would note that mit’s recently released [china] strategy report on research integrity and collaboration with prc partners is an example of the type of initiative we need to help inform our policy...
+
+[DOC_S_301122]
+  ...not an only partnership between the u.s government and private sector but also between the u.s and our allies and partners in our competition with [china] to shape the 21st-century global economy we cannot go at it alone as secretary blinken articulated earlier this year the biden administration’s approach to china...
+
+[DOC_S_301122]
+  ...china to shape the 21st-century global economy we cannot go at it alone as secretary blinken articulated earlier this year the biden administration’s approach to [china] is centered not only on investment at home but also on alignment with our allies and partners abroad when i meet with my counterparts from...
+
+[DOC_S_301122]
+  ...home but also on alignment with our allies and partners abroad when i meet with my counterparts from other countries they voice similar concerns about [china’s] behavior and a shared desire to cooperate and coordinate our policies around the rules standards and values that advance our collective national security and economic...
+
+[DOC_S_301122]
+  ...to cooperate and coordinate our policies around the rules standards and values that advance our collective national security and economic well-being they too see how [china’s] direction has changed and are adjusting their strategies accordingly for example we have established the quad critical and emerging technologies working group with japan australia...
+
+[DOC_S_301122]
+  ...the future long-term u.s competitiveness also depends on our continued and active participation in international institutions that set data and technology standards in recent years [china] has assumed leadership positions in several important international standard setting bodies we have heard from our companies as well as those from other countries that...
+
+[DOC_S_301122]
+  ...has assumed leadership positions in several important international standard setting bodies we have heard from our companies as well as those from other countries that [china] often packs these organizations with government and business representatives who work together to push the country’s authoritarian standards and values these efforts to game the...
+
+[DOC_S_301122]
+  ...they amplify the power of u.s and they provide the basis for future global growth that is sustainable and inclusive now while much of our [china] economic strategy is necessarily focused on what we can do at home and with our allies to ensure our own competitiveness we also need to...
+
+[DOC_S_301122]
+  ...what we can do at home and with our allies to ensure our own competitiveness we also need to get the bilateral economic relationship with [china] right by protecting and also actively promoting our economic interests china’s government employs a range of economic practices that disadvantage foreign companies trying to compete...
+
+[DOC_S_301122]
+  ...ensure our own competitiveness we also need to get the bilateral economic relationship with china right by protecting and also actively promoting our economic interests [china’s] government employs a range of economic practices that disadvantage foreign companies trying to compete in the prc market china’s government also gives unfair advantages to...
+
+[DOC_S_301122]
+  ...also actively promoting our economic interests china’s government employs a range of economic practices that disadvantage foreign companies trying to compete in the prc market [china’s] government also gives unfair advantages to its own industries in ways that displace american workers and businesses and those of our allies and partners from...
+
+[DOC_S_301122]
+  ...industries in ways that displace american workers and businesses and those of our allies and partners from the global market we will continue to press [china] to address its non-market economic practices that result in an uneven playing field such as such as its massive support financial regulatory or otherwise to...
+
+[DOC_S_301122]
+  ...g7 allies on a shared approach to these issues at the same time we are not seeking the decoupling of our economy from that of [china’s] we want to promote trade and investment in areas that do not threaten our core economic and national security interests or human rights values annual...
+
+[DOC_S_301122]
+  ...1972 to more than $ 750 billion today this trade provides revenues for american companies jobs for american workers and connectivity with the chinese people [china] is now our third largest export market and those exports directly support 750,000 american jobs the benefits from these exports go not only to our...
+
+[DOC_S_301122]
+  ...these exports go not only to our large multinationals but also to more than 25,000 small and medium-sized enterprises that exported $ 33 billion to [china] in 2020 to support these smaller businesses the commerce department recently launched an export promotion initiative around personal care products we aim to boost exports...
+
+[DOC_S_301122]
+  ...export promotion initiative around personal care products we aim to boost exports by helping smes navigate the market while ensuring that their ip is protected [china] is also the u.s s largest agricultural market and our farmers are on track to export $ 36 billion in agricultural goods this year to...
+
+[DOC_S_301122]
+  ...is also the u.s s largest agricultural market and our farmers are on track to export $ 36 billion in agricultural goods this year to [china] u.s soft power also benefits from the popularity of our companies and brands in china’s consumer culture starbucks has built more than 5,000 stores in...
+
+[DOC_S_301122]
+  ...export $ 36 billion in agricultural goods this year to china u.s soft power also benefits from the popularity of our companies and brands in [china’s] consumer culture starbucks has built more than 5,000 stores in china when apple launched its iphone 13 shoppers in china stampeded through a mall to...
+
+[DOC_S_301122]
+  ...u.s soft power also benefits from the popularity of our companies and brands in china’s consumer culture starbucks has built more than 5,000 stores in [china] when apple launched its iphone 13 shoppers in china stampeded through a mall to be first in line our products signify not only high-quality but...
+
+[DOC_S_301122]
+  ...our companies and brands in china’s consumer culture starbucks has built more than 5,000 stores in china when apple launched its iphone 13 shoppers in [china] stampeded through a mall to be first in line our products signify not only high-quality but also our values of openness innovation and creativity we...
+
+[DOC_S_301122]
+  ...the tools at our disposal to protect our companies and counter unfair economic practices for example we maintain a team of intellectual property experts in [china] that helps address our companies needs while seeking to drive important changes to china’s ip laws over the longer term no-one can outcompete the u.s...
+
+[DOC_S_301122]
+  ...for example we maintain a team of intellectual property experts in china that helps address our companies needs while seeking to drive important changes to [china’s] ip laws over the longer term no-one can outcompete the u.s if we are playing by the same rules and as president biden made clear...
+
+[DOC_S_301122]
+  ...term no-one can outcompete the u.s if we are playing by the same rules and as president biden made clear during his recent meeting with [china’s] president xi jinping earlier this month we want to work with china on issues of global economic importance such as climate change food security health...
+
+[DOC_S_301122]
+  ...same rules and as president biden made clear during his recent meeting with china’s president xi jinping earlier this month we want to work with [china] on issues of global economic importance such as climate change food security health security and debt relief for that reason i met with china’s minister...
+
+[DOC_S_301122]
+  ...with china on issues of global economic importance such as climate change food security health security and debt relief for that reason i met with [china’s] minister of ecology and environment to advocate for our companies and to propose that we work together to reduce ocean pollution and marine plastic debris...
+
+[DOC_S_301122]
+  ...ocean pollution and marine plastic debris of course we want american workers to benefit from exporting and american companies to thrive in global markets including [china] but we also have to be sober about china’s current direction of travel for almost forty years we championed the benefits of a robust trade...
+
+[DOC_S_301122]
+  ...want american workers to benefit from exporting and american companies to thrive in global markets including china but we also have to be sober about [china’s] current direction of travel for almost forty years we championed the benefits of a robust trade and investment relationship with china often overlooking the long-term...
+
+[DOC_S_301122]
+  ...to be sober about china’s current direction of travel for almost forty years we championed the benefits of a robust trade and investment relationship with [china] often overlooking the long-term costs for the near-term benefits and above all we must remember that sustaining these benefits over the long term requires that...
+
+[DOC_S_301122]
+  ...remember that sustaining these benefits over the long term requires that we defend our security and values in the near term conclusion in recent years [china’s] leaders have promoted a narrative that the east is rising and the west is declining i hope you see something different i see something different...
+
+[DOC_S_301122]
+  ...all countries and that we have a strong and growing network of powerful allies and partners yet despite all of our strengths competing effectively with [china] will take hard work we are taking the steps necessary to address the full range of challenges that china now presents we are redoubling our...
+
+[DOC_S_301122]
+  ...of our strengths competing effectively with china will take hard work we are taking the steps necessary to address the full range of challenges that [china] now presents we are redoubling our commitment to invest at home we are aligning our policies with our allies around our values of freedom privacy...
+
+[DOS_S_231024]
+  ...american economic and geopolitical power in the 1990s after the collapse of the soviet union we took that order global embracing the old eastern bloc [china] india and many developing countries suddenly the major powers were no longer adversaries or competitors capital flowed freely across borders global supply chains became just...
+
+[DOS_S_231024]
+  ...global markets at artificially low prices driving manufacturers around the world out of business and creating a chokehold on supply chains to prevent a second [china] shock we’ve had to act that’s what drove the decisions about our 301 tariffs earlier this year now we know that indiscriminate broad-based tariffs will...
+
+[DOS_S_231024]
+  ...in the u.s government to implement this economic vision over the long haul this starts by significantly strengthening our bilateral tools answering a critique that [china] has a checkbook and the u.s has a checklist next year the united states is going to face a critical test of whether our country...
+
+Total occurrences: 114 
+
+>>> KWIC: semiconductor <<<
+
+[P10761_2024]
+  ...decades a record 17 million americans are starting small businesses as a result of investments during my administration factories are coming back producing everything from [semiconductors] to clean energy technology here at home we have launched over 56,000 infrastructure projects across the country—rebuilding our nation's roads highways bridges railroads ports airports...
+
+[NSA_S_300523]
+  ...growth was good growth so various reforms combined and came together to privilege some sectors of the economy like finance while other essential sectors like [semiconductors] and infrastructure atrophied our industrial capacity—which is crucial to any country's ability to continue to innovate—took a real hit the shocks of a global financial...
+
+[NSA_S_300523]
+  ...economic dependencies that had built up over the decades of liberalization had become really perilous—from energy uncertainty in europe to supply-chain vulnerabilities in medical equipment [semiconductors] and critical minerals these were the kinds of dependencies that could be exploited for economic or geopolitical leverage the third challenge we faced was an...
+
+[NSA_S_300523]
+  ...the course of the last couple of years the initial results of this strategy are remarkable the financial times has reported that large-scale investments in [semiconductor] and clean-energy production have already surged 20-fold since 2019 and a third of the investments announced since august involve a foreign investor investing here in...
+
+[NSA_S_300523]
+  ...estimated that the total public capital and private investment from president biden's agenda will amount to some $ 3.5 trillion over the next decade consider [semiconductors] which are as essential to our consumer goods today as they are to the technologies that will shape our future from artificial intelligence to quantum...
+
+[NSA_S_300523]
+  ...technologies that will shape our future from artificial intelligence to quantum computing to synthetic biology america now manufactures only around 10 percent of the world's [semiconductors] and production—in general and especially when it comes to the most advanced chips—is geographically concentrated elsewhere this creates a critical economic risk and a national...
+
+[NSA_S_300523]
+  ...risk and a national security vulnerability so thanks to the bipartisan chips and science act we've already seen an orders-of-magnitude increase in investment into america's [semiconductor] industry and it's still early days or consider critical minerals—the backbone of the clean-energy future today the united states produces only 4 percent of the...
+
+[NSA_S_300523]
+  ...of the economic and geopolitical realities will require all of our allies and partners to do more—and there's no time to lose for industries like [semiconductors] and clean energy we're nowhere near the global saturation point of investments needed public or private ultimately our goal is a strong resilient and leading-edge...
+
+[NSA_S_300523]
+  ...for example we're working with several countries—in europe the republic of korea japan taiwan and india—and we're also working with taiwan—to coordinate our approaches to [semiconductor] incentives analyst projections on where semiconductor investments will happen over the next three years have shifted dramatically with the united states and key partners now...
+
+[NSA_S_300523]
+  ...countries—in europe the republic of korea japan taiwan and india—and we're also working with taiwan—to coordinate our approaches to semiconductor incentives analyst projections on where [semiconductor] investments will happen over the next three years have shifted dramatically with the united states and key partners now topping the charts let me also...
+
+[NSA_S_300523]
+  ...most important partnerships are only with established economies not just by saying it but by proving it proving it with india—on everything from hydrogen to [semiconductors] proving it with angola—on carbon-free solar power proving it with indonesia—on its just energy transition partnership proving it with brazil—on climate-friendly growth this brings me...
+
+[NSA_S_300523]
+  ...digital revolution—one that ensures that next-generation technologies work for not against our democracies and our security we've implemented carefully tailored restrictions on the most advanced [semiconductor] technology exports to china those restrictions are premised on straightforward national security concerns key allies and partners have followed suit consistent with their own security...
+
+[DOC_FS_140524]
+  ...catalyzed more than $ 860 billion in business investments through smart public incentives in industries of the future like electric vehicles evs clean energy and [semiconductors] with support from the bipartisan infrastructure law chips and science act and inflation reduction act these investments are creating new american jobs in manufacturing and...
+
+[DOC_FS_140524]
+  ...unfair trade practices regarding technology transfer intellectual property and innovation the president is directing increases in tariffs across strategic sectors such as steel and aluminum [semiconductors] electric vehicles batteries critical minerals solar cells ship-to-shore cranes and medical products steel and aluminum the tariff rate on certain steel and aluminum products under...
+
+[DOC_FS_140524]
+  ...undercut by artificially low-priced chinese alternatives produced with higher emissions today’s actions will shield the u.s steel and aluminum industries from china’s unfair trade practices [semiconductors] the tariff rate on semiconductors will increase from 25 to 50 by 2025 china’s policies in the legacy semiconductor sector have led to growing market...
+
+[DOC_FS_140524]
+  ...alternatives produced with higher emissions today’s actions will shield the u.s steel and aluminum industries from china’s unfair trade practices semiconductors the tariff rate on [semiconductors] will increase from 25 to 50 by 2025 china’s policies in the legacy semiconductor sector have led to growing market share and rapid capacity expansion...
+
+[DOC_FS_140524]
+  ...industries from china’s unfair trade practices semiconductors the tariff rate on semiconductors will increase from 25 to 50 by 2025 china’s policies in the legacy [semiconductor] sector have led to growing market share and rapid capacity expansion that risks driving out investment by market-driven firms over the next three to five...
+
+[DOC_FS_140524]
+  ...over the next three to five years china is expected to account for almost half of all new capacity coming online to manufacture certain legacy [semiconductor] wafers during the pandemic disruptions to the supply chain including legacy chips led to price spikes in a wide variety of products including automobiles consumer...
+
+[DOC_FS_140524]
+  ...risks of overreliance on a few markets through the chips and science act president biden is making a nearly $ 53 billion investment in american [semiconductor] manufacturing capacity research innovation and workforce this will help counteract decades of disinvestment and offshoring that has reduced the united states capacity to manufacture semiconductors...
+
+[DOC_FS_140524]
+  ...semiconductor manufacturing capacity research innovation and workforce this will help counteract decades of disinvestment and offshoring that has reduced the united states capacity to manufacture [semiconductors] domestically the chips and science act includes $ 39 billion in direct incentives to build modernize and expand semiconductor manufacturing fabrication facilities as well as...
+
+[DOC_FS_140524]
+  ...the united states capacity to manufacture semiconductors domestically the chips and science act includes $ 39 billion in direct incentives to build modernize and expand [semiconductor] manufacturing fabrication facilities as well as a 25 investment tax credit for semiconductor companies raising the tariff rate on semiconductors is an important initial step...
+
+[DOC_FS_140524]
+  ...includes $ 39 billion in direct incentives to build modernize and expand semiconductor manufacturing fabrication facilities as well as a 25 investment tax credit for [semiconductor] companies raising the tariff rate on semiconductors is an important initial step to promote the sustainability of these investments electric vehicles evs the tariff rate...
+
+[DOC_FS_140524]
+  ...to build modernize and expand semiconductor manufacturing fabrication facilities as well as a 25 investment tax credit for semiconductor companies raising the tariff rate on [semiconductors] is an important initial step to promote the sustainability of these investments electric vehicles evs the tariff rate on electric vehicles under section 301 will...
+
+[USTR_S_150623]
+  ...the pain and fear of the supply chain disruptions we all experienced during the pandemic—including the panicked race to secure masks hand sanitizer ventilators and [semiconductors—barry’s] insight is no longer theoretical today labor leaders ceos foreign leaders and the president’s national security advisor all agree our global supply chains which have...
+
+[DOC_S_301122]
+  ...long-term risk for both the private sector and the american people of this over-dependence on china and the need to rebuild domestic manufacturing and innovation [semiconductors] are ground-zero in this technological competition and central to our new investment strategy they drive innovation in nearly every emerging technology and support critical national...
+
+[DOC_S_301122]
+  ...and central to our new investment strategy they drive innovation in nearly every emerging technology and support critical national security applications the u.s invented the [semiconductor] industry and once led the world in producing the most advanced chips today we no longer manufacture the world’s most advanced semiconductors and produce only...
+
+[DOC_S_301122]
+  ...u.s invented the semiconductor industry and once led the world in producing the most advanced chips today we no longer manufacture the world’s most advanced [semiconductors] and produce only 10 percent of global chip capacity meanwhile since 2020 nearly 75 percent of the new global capacity for certain mature chips has...
+
+[DOC_S_301122]
+  ...its leadership in the technologies and industries of the 21st century in the coming years the commerce department will invest $ 52 billion in domestic [semiconductor] manufacturing including workforce training and r d to create a vibrant domestic industry but this public investment is only a starting point it is designed...
+
+[DOC_S_301122]
+  ...the next ten years the administration also recently launched a national biotechnology and biomanufacturing initiative to ensure that what happened to the united states in [semiconductors] and telecommunications does not happen in biotech—ensuring we translate our leadership in biotech r d into leadership in biotech manufacturing and jobs i am proud...
+
+[DOC_S_301122]
+  ...proud to say that we are already seeing our strategy pay off companies such as micron technology and intel have announced significant new investments in [semiconductor] manufacturing in syracuse and columbus and they are partnering with local universities and community colleges to develop the courses and training programs necessary to support...
+
+[DOS_S_231024]
+  ...are doing is moving away from specific policies that frankly didn’t contemplate the urgent challenges we face the climate crisis vulnerable concentrated critical mineral and [semiconductor] supply chains persistent attacks on workers rights and not just more global competition but more competition with a country that uses pervasive non-market policies and...
+
+[DOS_S_231024]
+  ...supply chain vulnerabilities before they become widespread disruptions and within apep we’re working to make the western hemisphere a globally competitive supply chain hub for [semiconductors] clean energy and more and that leads to the next question i’ve often been asked in the last year and a half where does domestic...
+
+[DOS_S_231024]
+  ...hasn’t come at the expense of our partners we’ve done it alongside them we’re leveraging chips act funding to make complementary investments in the full [semiconductor] supply chain from costa rica to vietnam we’re building a network of ai safety institutes around the world from canada to singapore to japan to...
+
+Total occurrences: 33 
+
+>>> KWIC: chip <<<
+
+[NSA_S_300523]
+  ...synthetic biology america now manufactures only around 10 percent of the world's semiconductors and production—in general and especially when it comes to the most advanced [chips—is] geographically concentrated elsewhere this creates a critical economic risk and a national security vulnerability so thanks to the bipartisan chips and science act we've already...
+
+[NSA_S_300523]
+  ...comes to the most advanced chips—is geographically concentrated elsewhere this creates a critical economic risk and a national security vulnerability so thanks to the bipartisan [chips] and science act we've already seen an orders-of-magnitude increase in investment into america's semiconductor industry and it's still early days or consider critical minerals—the backbone...
+
+[DOC_FS_140524]
+  ...investments through smart public incentives in industries of the future like electric vehicles evs clean energy and semiconductors with support from the bipartisan infrastructure law [chips] and science act and inflation reduction act these investments are creating new american jobs in manufacturing and clean energy and helping communities that have been...
+
+[DOC_FS_140524]
+  ...for almost half of all new capacity coming online to manufacture certain legacy semiconductor wafers during the pandemic disruptions to the supply chain including legacy [chips] led to price spikes in a wide variety of products including automobiles consumer appliances and medical devices underscoring the risks of overreliance on a few...
+
+[DOC_FS_140524]
+  ...spikes in a wide variety of products including automobiles consumer appliances and medical devices underscoring the risks of overreliance on a few markets through the [chips] and science act president biden is making a nearly $ 53 billion investment in american semiconductor manufacturing capacity research innovation and workforce this will help...
+
+[DOC_FS_140524]
+  ...research innovation and workforce this will help counteract decades of disinvestment and offshoring that has reduced the united states capacity to manufacture semiconductors domestically the [chips] and science act includes $ 39 billion in direct incentives to build modernize and expand semiconductor manufacturing fabrication facilities as well as a 25 investment...
+
+[DOC_S_301122]
+  ...in strategic and critical sectors in just the first twenty months of the administration we worked with congress to enact the bipartisan infrastructure act the [chips] and science act and the inflation reduction act taken together it represents over $ 1 trillion of investment in america a once-in-a-generation commitment to innovation...
+
+[DOC_S_301122]
+  ...every emerging technology and support critical national security applications the u.s invented the semiconductor industry and once led the world in producing the most advanced [chips] today we no longer manufacture the world’s most advanced semiconductors and produce only 10 percent of global chip capacity meanwhile since 2020 nearly 75 percent...
+
+[DOC_S_301122]
+  ...the world in producing the most advanced chips today we no longer manufacture the world’s most advanced semiconductors and produce only 10 percent of global [chip] capacity meanwhile since 2020 nearly 75 percent of the new global capacity for certain mature chips has been added in china the chips and science...
+
+[DOC_S_301122]
+  ...advanced semiconductors and produce only 10 percent of global chip capacity meanwhile since 2020 nearly 75 percent of the new global capacity for certain mature [chips] has been added in china the chips and science act marks the beginning of a new chapter in u.s innovation where we reverse that decline...
+
+[DOC_S_301122]
+  ...of global chip capacity meanwhile since 2020 nearly 75 percent of the new global capacity for certain mature chips has been added in china the [chips] and science act marks the beginning of a new chapter in u.s innovation where we reverse that decline and ensure that the united states retains...
+
+[DOC_S_301122]
+  ...best innovate scale and compete through r d and manufacturing incentives we are facilitating new public-private partnerships to enable domestic production of the most advanced [chips] and expand the production of mature chips essential to national and economic security and we are looking to labor and educational institutions to provide the...
+
+[DOC_S_301122]
+  ...d and manufacturing incentives we are facilitating new public-private partnerships to enable domestic production of the most advanced chips and expand the production of mature [chips] essential to national and economic security and we are looking to labor and educational institutions to provide the workforce training and apprenticeship programs necessary to...
+
+[DOC_S_301122]
+  ...we released a set of rules that impose systematic and technology-specific export controls to limit china’s ability to purchase and manufacture certain very advanced computing [chips] that are used to train large-scale artificial intelligence models and which power the country’s advanced military and surveillance systems as well as the manufacturing equipment...
+
+[DOC_S_301122]
+  ...large-scale artificial intelligence models and which power the country’s advanced military and surveillance systems as well as the manufacturing equipment used to make these cutting-edge [chips] in addition we restricted american citizens from supporting these advanced technology programs for too long america’s export control strategy was reactive—focused on preventing china from...
+
+[DOC_S_301122]
+  ...after it accessed american intellectual property but these new rules are strategic targeted and designed to protect our national security and as part of the [chips] and science act we worked in a bipartisan way with senators cornyn and casey and representatives mccaul lucas and delauro to implement historically strict guardrails...
+
+[DOC_S_301122]
+  ...identify and mitigate the risks to our national security from outbound capital investments in critical technology sectors as one example we have prohibited companies receiving [chips] funding from investing in leading-edge or advanced technology facilities in china for ten years our strategy also includes the protection of our critical supply chains...
+
+[DOC_S_301122]
+  ...facilitating u.s companies with more competitive sources of production and suppliers and american workers will benefit too for example last summer we saw how covid-related [chip] manufacturing slowdowns in asia contributed to layoffs for auto workers in detroit ipef’s supply chain crisis response mechanism will help us avoid a similar situation...
+
+[DOS_S_231024]
+  ...believe that a nation that loses the capacity to build risks losing the capacity to innovate so we’re building again as a result of the [chips] and science act america is on track to have five leading-edge logic and memory chip manufacturers operating at scale no other economy has more than...
+
+[DOS_S_231024]
+  ...innovate so we’re building again as a result of the chips and science act america is on track to have five leading-edge logic and memory [chip] manufacturers operating at scale no other economy has more than two and we’re continuing to nurture american leadership in artificial intelligence including through actions we’re...
+
+[DOS_S_231024]
+  ...united states but all of this high-tech investment and development hasn’t come at the expense of our partners we’ve done it alongside them we’re leveraging [chips] act funding to make complementary investments in the full semiconductor supply chain from costa rica to vietnam we’re building a network of ai safety institutes...
+
+[DOS_S_231024]
+  ...to invest in ourselves there is more we can do now on a bipartisan basis for example congress still hasn’t appropriated the science part of [chips] and science even while the prc is increasing its science and technology budget by 10 percent year on year now whether we’re talking about investments...
+
+Total occurrences: 22 
+
+>>> KWIC: supply chain <<<
+
+[NSA_S_300523]
+  ...development and the clean-energy transition in sum in a world being transformed by that clean energy transition by dynamic emerging economies by a quest for [supply chain] resilience—by digitization by artificial intelligence and by a revolution in biotechnology—the game is not the same our international economic policy has to adapt to the...
+
+[DOC_FS_140524]
+  ...is expected to account for almost half of all new capacity coming online to manufacture certain legacy semiconductor wafers during the pandemic disruptions to the [supply chain] including legacy chips led to price spikes in a wide variety of products including automobiles consumer appliances and medical devices underscoring the risks of overreliance...
+
+[DOC_FS_140524]
+  ...to 25 in 2024 despite rapid and recent progress in u.s onshoring china currently controls over 80 percent of certain segments of the ev battery [supply chain] particularly upstream nodes such as critical minerals mining processing and refining concentration of critical minerals mining and refining capacity in china leaves our supply chains...
+
+[DOC_FS_140524]
+  ...clean energy goals at risk in order to improve u.s and global resiliency in these supply chains president biden has invested across the u.s battery [supply chain] to build a sufficient domestic industrial base through the bipartisan infrastructure law the defense production act and the inflation reduction act the biden-harris administration has...
+
+[DOC_FS_140524]
+  ...in the united states the president has also established the american battery materials initiative which will mobilize an all-of-government approach to secure a dependable robust [supply chain] for batteries and their inputs solar cells the tariff rate on solar cells whether or not assembled into modules will increase from 25 to 50...
+
+[DOC_FS_140524]
+  ...of solar capacity outside of china china has used unfair practices to dominate upwards of 80 to 90 of certain parts of the global solar [supply chain] and is trying to maintain that status quo chinese policies and nonmarket practices are flooding global markets with artificially cheap solar modules and panels undermining...
+
+[DOC_FS_140524]
+  ...artificially cheap solar modules and panels undermining investment in solar manufacturing outside of china the biden-harris administration has made historic investments in the u.s solar [supply chain] building on early u.s government-enabled research and development that helped create solar cell technologies the inflation reduction act provides supply-side tax incentives for solar components...
+
+[DOC_FS_140524]
+  ...through the president’s investing in america agenda this port security initiative includes bringing port crane manufacturing capabilities back to the united states to support u.s [supply chain] security and encourages ports across the country and around the world to use trusted vendors when sourcing cranes or other heavy equipment medical products the...
+
+[USTR_S_150623]
+  ...doing so—and i am delighted to be here with all of you today to begin connecting these conversations after the pain and fear of the [supply chain] disruptions we all experienced during the pandemic—including the panicked race to secure masks hand sanitizer ventilators and semiconductors—barry’s insight is no longer theoretical today labor...
+
+[USTR_S_150623]
+  ...at what those agreements did we see the ways in which they contributed to the very problems we are now trying to address the industrial [supply chain] rules in our traditional free trade agreements were based on that same premise of efficiency and low cost because of it they allow significant content...
+
+[USTR_S_150623]
+  ...labor and environmental standards that means these rules benefit the very countries that have used unfair competition to become production hubs that is how the [supply chain] rules in these ftas tend to reinforce existing supply chains that are fragile and make us vulnerable this does not make sense at a moment...
+
+[USTR_S_150623]
+  ...partnership for economic prosperity already have ftas with us but many partners especially governments like chile and colombia want something that reflects not just the [supply chain] concerns but the values our governments share our focus through initiatives like the ipef and the apep is on developing additional supply chains to de-risk...
+
+[DOC_S_301122]
+  ...accomplish this goal together with the private sector we are going to bolster our system of export controls enhance our investment screening regimes strengthen our [supply chain] resiliency and develop innovative solutions to counter china’s economic coercion and human rights abuses to begin with we are redoubling our efforts to safeguard our...
+
+[DOC_S_301122]
+  ...the united states was established decades ago—to direct a focus on certain critical new risk factors when evaluating potential inbound investment such as technological leadership [supply chain] dependency and foreign company access to our personal data and together with congress and the private sector we are working to identify and mitigate the...
+
+[DOC_S_301122]
+  ...connected resilient clean and fair and will provide a competitive and attractive new market for u.s exports and investment it will also be a kind-of-a [supply chain] diversity accelerator by facilitating u.s companies with more competitive sources of production and suppliers and american workers will benefit too for example last summer we...
+
+[DOC_S_301122]
+  ...will benefit too for example last summer we saw how covid-related chip manufacturing slowdowns in asia contributed to layoffs for auto workers in detroit ipef’s [supply chain] crisis response mechanism will help us avoid a similar situation in the future long-term u.s competitiveness also depends on our continued and active participation in...
+
+[DOS_S_231024]
+  ...we finalized three agreements with 13 partners to accelerate the clean energy transition to promote high labor standards to fight corruption and to shore up [supply chain] vulnerabilities before they become widespread disruptions and within apep we’re working to make the western hemisphere a globally competitive supply chain hub for semiconductors clean...
+
+[DOS_S_231024]
+  ...and to shore up supply chain vulnerabilities before they become widespread disruptions and within apep we’re working to make the western hemisphere a globally competitive [supply chain] hub for semiconductors clean energy and more and that leads to the next question i’ve often been asked in the last year and a half...
+
+[DOS_S_231024]
+  ...we forgot that along the way or at least we stopped talking about it but there was no plausible version of answers on decarbonization or [supply chain] resilience without recovering this tradition and so we have we’ve made the largest investment ever to diversify and accelerate clean energy deployment through the inflation...
+
+[DOS_S_231024]
+  ...come at the expense of our partners we’ve done it alongside them we’re leveraging chips act funding to make complementary investments in the full semiconductor [supply chain] from costa rica to vietnam we’re building a network of ai safety institutes around the world from canada to singapore to japan to harness the...
+
+Total occurrences: 20 
+
+>>> KWIC: infrastructure <<<
+
+[P10761_2024]
+  ...of investments during my administration factories are coming back producing everything from semiconductors to clean energy technology here at home we have launched over 56,000 [infrastructure] projects across the country—rebuilding our nation's roads highways bridges railroads ports airports and so much more as we rebuild at home we are also ensuring...
+
+[NSA_S_300523]
+  ...good growth so various reforms combined and came together to privilege some sectors of the economy like finance while other essential sectors like semiconductors and [infrastructure] atrophied our industrial capacity—which is crucial to any country's ability to continue to innovate—took a real hit the shocks of a global financial crisis and...
+
+[NSA_S_300523]
+  ...continued to subsidize at a massive scale both traditional industrial sectors like steel as well as key industries of the future like clean energy digital [infrastructure] and advanced biotechnologies america didn't just lose manufacturing—we eroded our competitiveness in critical technologies that would define the future economic integration didn't stop china from...
+
+[NSA_S_300523]
+  ...built the american middle class efforts to take a different approach during the obama administration—including efforts to pass policies to address climate change invest in [infrastructure] expand the social safety net and protect workers rights to organize—were stymied by republican opposition and frankly our domestic economic policies also failed to fully...
+
+[NSA_S_300523]
+  ...to build inclusiveness at home and with partners abroad the capacity to produce and innovate and to deliver public goods like strong physical and digital [infrastructure] and clean energy at scale the resilience to withstand natural disasters and geopolitical shocks and the inclusiveness to ensure a strong vibrant american middle class...
+
+[NSA_S_300523]
+  ...same way as oil in the 1970s or natural gas in europe in 2022 so through the investments in the inflation reduction act and bipartisan [infrastructure] law we're taking action at the same time it isn't feasible or desirable to build everything domestically our objective is not autarky—it's resilience and security...
+
+[NSA_S_300523]
+  ...a just clean energy transition and sustainable economic growth creating good jobs along the way family-supporting jobs ensuring trust safety and openness in our digital [infrastructure] stopping a race-to-the-bottom in corporate taxation enhancing protections for labor and the environment tackling corruption that is a different set of fundamental priorities than simply...
+
+[NSA_S_300523]
+  ...this vision a reality at the same time as we are evolving the multilateral development banks we've also launched a major effort to close the [infrastructure] gap in low and middle-income countries we call it the partnership for global infrastructure and investment—pgii pgii will mobilize hundreds of billions of dollars in...
+
+[NSA_S_300523]
+  ...development banks we've also launched a major effort to close the infrastructure gap in low and middle-income countries we call it the partnership for global [infrastructure] and investment—pgii pgii will mobilize hundreds of billions of dollars in energy physical and digital infrastructure financing between now and the end of the decade...
+
+[NSA_S_300523]
+  ...middle-income countries we call it the partnership for global infrastructure and investment—pgii pgii will mobilize hundreds of billions of dollars in energy physical and digital [infrastructure] financing between now and the end of the decade and unlike the financing that comes in the belt and road initiative projects under pgii are...
+
+[NSA_S_300523]
+  ...the world we need the hill's full partnership in our reform initiatives in development finance and we need to double down on our investments in [infrastructure] innovation and clean energy our national security and our economic vitality depend on it let me close with this president kennedy was fond of saying...
+
+[DOC_FS_140524]
+  ...in business investments through smart public incentives in industries of the future like electric vehicles evs clean energy and semiconductors with support from the bipartisan [infrastructure] law chips and science act and inflation reduction act these investments are creating new american jobs in manufacturing and clean energy and helping communities that...
+
+[DOC_FS_140524]
+  ...property theft have contributed to its control of 70 80 and even 90 percent of global production for the critical inputs necessary for our technologies [infrastructure] energy and health care—creating unacceptable risks to america’s supply chains and economic security furthermore these same non-market policies and practices contribute to china’s growing overcapacity...
+
+[DOC_FS_140524]
+  ...for 33 clean manufacturing projects including for steel and aluminum including the first new primary aluminum smelter in four decades made possible by the bipartisan [infrastructure] law and the inflation reduction act these investments will make the united states one of the first nations in the world to convert clean hydrogen...
+
+[DOC_FS_140524]
+  ...business tax credits for manufacturing of batteries and production of critical minerals consumer tax credits for ev adoption smart standards federal investments in ev charging [infrastructure] and grants to supply ev and battery manufacturing the increase in the tariff rate on electric vehicles will protect these investments and jobs from unfairly...
+
+[DOC_FS_140524]
+  ...resiliency in these supply chains president biden has invested across the u.s battery supply chain to build a sufficient domestic industrial base through the bipartisan [infrastructure] law the defense production act and the inflation reduction act the biden-harris administration has invested nearly $ 20 billion in grants and loans to expand...
+
+[DOC_FS_140524]
+  ...will help protect u.s manufacturers from china’s unfair trade practices that have led to excessive concentration in the market port cranes are essential pieces of [infrastructure] that enable the continuous movement and flow of critical goods to from and within the united states and the administration is taking action to mitigate...
+
+[DOC_FS_140524]
+  ...is taking action to mitigate risks that could disrupt american supply chains this action also builds off of ongoing work to invest in u.s port [infrastructure] through the president’s investing in america agenda this port security initiative includes bringing port crane manufacturing capabilities back to the united states to support u.s...
+
+[USTR_S_150623]
+  ...with jump-starting a historic equitable recovery from the pandemic through the american rescue plan the next step was rebuilding our country by investing in our [infrastructure] manufacturing capacity and technological strength today we are upgrading our roads bridges and airports expanding manufacturing here in the united states creating good-paying jobs including...
+
+[DOC_S_301122]
+  ...domestic investment agenda in strategic and critical sectors in just the first twenty months of the administration we worked with congress to enact the bipartisan [infrastructure] act the chips and science act and the inflation reduction act taken together it represents over $ 1 trillion of investment in america a once-in-a-generation...
+
+[DOC_S_301122]
+  ...reduction act taken together it represents over $ 1 trillion of investment in america a once-in-a-generation commitment to innovation technology manufacturing workforce training and the [infrastructure] including broadband we need to ensure our future competitiveness and national security it is what president biden has termed a modern industrial strategy an approach...
+
+[DOC_S_301122]
+  ...to a halt as we exported jobs and manufacturing capacity to china and the rest of asia and reduced investment in the workforce development and [infrastructure] necessary to maintain our long-term competitiveness i felt the effects of this shift firsthand my father worked his whole career in the bulova watch factory...
+
+[DOC_S_301122]
+  ...all of our talents we must give all americans the opportunity to participate in the economy of the 21st century with support from the bipartisan [infrastructure] law the department of commerce is connecting tens of millions of americans to affordable high-speed internet we will have an economy where americans can participate...
+
+[DOC_S_301122]
+  ...sustainable broad-based inclusive and transparent as an important first step president biden together with our g7 partners launched the $ 600 billion partnership for global [infrastructure] and investment or pgii to support climate-resilient infrastructure better healthcare and sustainable energy at the department of commerce for example we are partnering with u.s...
+
+[DOC_S_301122]
+  ...first step president biden together with our g7 partners launched the $ 600 billion partnership for global infrastructure and investment or pgii to support climate-resilient [infrastructure] better healthcare and sustainable energy at the department of commerce for example we are partnering with u.s exim-bank u.s businesses and the government of angola...
+
+[DOS_S_231024]
+  ...than two and we’re continuing to nurture american leadership in artificial intelligence including through actions we’re finalizing as i speak to ensure that the physical [infrastructure] needed to train the next generation of ai models is built right here in the united states but all of this high-tech investment and development...
+
+[DOS_S_231024]
+  ...expand it needlessly now beyond the realm of export controls and investment screening we will also take action to protect sensitive data and our critical [infrastructure] such as our recent action on connected vehicles from countries of concern i suspect almost no one here would argue that we should build out...
+
+[DOS_S_231024]
+  ...vehicles from countries of concern i suspect almost no one here would argue that we should build out our telecommunications architecture or our data center [infrastructure] with huawei millions of cars on the road with technology from the prc getting daily software updates from the prc sending reams of information back...
+
+[DOS_S_231024]
+  ...reams of information back to the prc similarly doesn’t make sense especially when we’ve already seen evidence of a prc cyber threat to our critical [infrastructure] we have to anticipate systemic cyber and data risks in ways that frankly we didn’t in the past including what that means for the future...
+
+[DOS_S_231024]
+  ...of billions in new imf lending and outside the world bank and the imf we’re asking congress to increase funding for the partnership for global [infrastructure] and investment which we launched at the g7 a couple of years ago this partnership catalyzes and concentrates investment in key corridors including africa and...
+
+[DOS_S_231024]
+  ...launched at the g7 a couple of years ago this partnership catalyzes and concentrates investment in key corridors including africa and asia to close the [infrastructure] gap in developing countries it strengthens countries economic growth it strengthens america’s supply chains and global trusted technology vendors and it strengthens our partnerships in...
+
+Total occurrences: 31 
+
+>>> KWIC: energ <<<
+
+[P10761_2024]
+  ...17 million americans are starting small businesses as a result of investments during my administration factories are coming back producing everything from semiconductors to clean [energy] technology here at home we have launched over 56,000 infrastructure projects across the country—rebuilding our nation's roads highways bridges railroads ports airports and so much...
+
+[P10761_2024]
+  ...with 13 nations across the indo-pacific we are creating a new economic framework that will strengthen our supply chains raise labor standards advance our clean [energy] transition and combat the corruption that too often robs workers of a fair share of the value they create i am taking action to protect...
+
+[NSA_S_300523]
+  ...ago the country faced from our perspective four fundamental challenges first america's industrial base had been hollowed out the vision of public investment that had [energized] the american project in the postwar years—and indeed for much of our history—had faded it had given way to a set of ideas that championed...
+
+[NSA_S_300523]
+  ...of china continued to subsidize at a massive scale both traditional industrial sectors like steel as well as key industries of the future like clean [energy] digital infrastructure and advanced biotechnologies america didn't just lose manufacturing—we eroded our competitiveness in critical technologies that would define the future economic integration didn't stop...
+
+[NSA_S_300523]
+  ...neither country had become more responsible or cooperative and ignoring economic dependencies that had built up over the decades of liberalization had become really perilous—from [energy] uncertainty in europe to supply-chain vulnerabilities in medical equipment semiconductors and critical minerals these were the kinds of dependencies that could be exploited for economic...
+
+[NSA_S_300523]
+  ...exploited for economic or geopolitical leverage the third challenge we faced was an accelerating climate crisis and the urgent need for a just and efficient [energy] transition when president biden came into office we were falling dramatically short of our climate ambitions without a clear pathway to abundant supplies of stable...
+
+[NSA_S_300523]
+  ...biden came into office we were falling dramatically short of our climate ambitions without a clear pathway to abundant supplies of stable and affordable clean [energy] despite the best efforts of the obama-biden administration to make significant headway too many people believed that we had to choose between economic growth and...
+
+[NSA_S_300523]
+  ...at home and with partners abroad the capacity to produce and innovate and to deliver public goods like strong physical and digital infrastructure and clean [energy] at scale the resilience to withstand natural disasters and geopolitical shocks and the inclusiveness to ensure a strong vibrant american middle class and greater opportunity...
+
+[NSA_S_300523]
+  ...and geopolitical realities will require all of our allies and partners to do more—and there's no time to lose for industries like semiconductors and clean [energy] we're nowhere near the global saturation point of investments needed public or private ultimately our goal is a strong resilient and leading-edge techno-industrial base that...
+
+[NSA_S_300523]
+  ...its heart what the statement said was the following bold public investments in our respective industrial capacity needs to be at the heart of the [energy] transition and president von der leyen and president biden committed to working together to ensure that the supply chains of the future are resilient secure...
+
+[NSA_S_300523]
+  ...i suspect you'll hear more on this at the g7 summit in hiroshima next month now our cooperation with partners is not limited to clean [energy] for example we're working with several countries—in europe the republic of korea japan taiwan and india—and we're also working with taiwan—to coordinate our approaches to...
+
+[NSA_S_300523]
+  ...by proving it proving it with india—on everything from hydrogen to semiconductors proving it with angola—on carbon-free solar power proving it with indonesia—on its just [energy] transition partnership proving it with brazil—on climate-friendly growth this brings me to the third step in our strategy moving beyond traditional trade deals to innovative...
+
+[NSA_S_300523]
+  ...1990s we know the problems we need to solve today creating diversified and resilient supply chains mobilizing public and private investment for a just clean [energy] transition and sustainable economic growth creating good jobs along the way family-supporting jobs ensuring trust safety and openness in our digital infrastructure stopping a race-to-the-bottom...
+
+[NSA_S_300523]
+  ...aren't fully embedded in the current wto framework like sustainable development and the clean-energy transition in sum in a world being transformed by that clean [energy] transition by dynamic emerging economies by a quest for supply chain resilience—by digitization by artificial intelligence and by a revolution in biotechnology—the game is not...
+
+[NSA_S_300523]
+  ...gap in low and middle-income countries we call it the partnership for global infrastructure and investment—pgii pgii will mobilize hundreds of billions of dollars in [energy] physical and digital infrastructure financing between now and the end of the decade and unlike the financing that comes in the belt and road initiative...
+
+[NSA_S_300523]
+  ...the hill's full partnership in our reform initiatives in development finance and we need to double down on our investments in infrastructure innovation and clean [energy] our national security and our economic vitality depend on it let me close with this president kennedy was fond of saying that a rising tide...
+
+[DOC_FS_140524]
+  ...has already catalyzed more than $ 860 billion in business investments through smart public incentives in industries of the future like electric vehicles evs clean [energy] and semiconductors with support from the bipartisan infrastructure law chips and science act and inflation reduction act these investments are creating new american jobs in...
+
+[DOC_FS_140524]
+  ...support from the bipartisan infrastructure law chips and science act and inflation reduction act these investments are creating new american jobs in manufacturing and clean [energy] and helping communities that have been left behind make a comeback as president biden says american workers and businesses can outcompete anyone—as long as they...
+
+[DOC_FS_140524]
+  ...theft have contributed to its control of 70 80 and even 90 percent of global production for the critical inputs necessary for our technologies infrastructure [energy] and health care—creating unacceptable risks to america’s supply chains and economic security furthermore these same non-market policies and practices contribute to china’s growing overcapacity and...
+
+[DOC_FS_140524]
+  ...mining processing and refining concentration of critical minerals mining and refining capacity in china leaves our supply chains vulnerable and our national security and clean [energy] goals at risk in order to improve u.s and global resiliency in these supply chains president biden has invested across the u.s battery supply chain...
+
+[DOC_FS_140524]
+  ...including polysilicon wafers cells modules and backsheet material as well as tax credits and grant and loan programs supporting deployment of utility-scale and residential solar [energy] projects as a result of president biden’s investing in america agenda solar manufacturers have already announced nearly $ 17 billion in planned investment under his...
+
+[USTR_S_150623]
+  ...we are working with congress stakeholders and partners to develop responses that help foster the kinds of supply chains we want to see for clean [energy] products—like commitments on export duties non-market policies best practices on investment screening and labor rights another example of a chokepoint is how russia’s invasion of...
+
+[DOC_S_301122]
+  ...invest in core critical and emerging fields of technology where we want to attain global leadership such as advanced computing biotechnologies and biomanufacturing and clean [energy] technologies we are also revitalizing u.s domestic manufacturing particularly advanced manufacturing over the past decades communities across the country have seen manufacturing shut down businesses...
+
+[DOC_S_301122]
+  ...reduction act—the ira we are investing $ 369 billion which is the largest federal investment ever made to transition the united states to a clean [energy] future and combat the climate crisis by one estimate that $ 369 billion will catalyze another $ 1.7 trillion in public and private investment over...
+
+[DOC_S_301122]
+  ...of particular importance over the coming decade first computing-related technologies including microelectronics quantum information systems and artificial intelligence second biotechnologies and biomanufacturing and third clean [energy] technologies we will continue to take action to protect our advantage and maintain as large a lead as possible in these foundational technologies we are...
+
+[DOC_S_301122]
+  ...lithuania we opened our markets to lithuanian agricultural products and provided a $ 600 million export credit agreement focused on manufacturing business services and renewable [energy] developing an effective deterrent against this kind of economic coercion is a priority for the biden administration as well as for our partners and allies...
+
+[DOC_S_301122]
+  ...with our g7 partners launched the $ 600 billion partnership for global infrastructure and investment or pgii to support climate-resilient infrastructure better healthcare and sustainable [energy] at the department of commerce for example we are partnering with u.s exim-bank u.s businesses and the government of angola to develop a $ 2...
+
+[DOC_S_301122]
+  ...and the government of angola to develop a $ 2 billion solar project this investment will not only help angola power its economy with clean [energy] but also support up to $ 1.3 billion in u.s exports taken together these new multilateral arrangements reflect the shared values of the u.s and...
+
+[DOS_S_231024]
+  ...that’s why president biden implemented a modern industrial strategy one premised on investing at home in ourselves and our national strength and on shifting the [energies] of u.s foreign policy to help our partners around the world do the same in practice that’s meant mobilizing public investment to unlock private sector...
+
+[DOS_S_231024]
+  ...the world do the same in practice that’s meant mobilizing public investment to unlock private sector investment to deliver on big challenges like the clean [energy] transition and artificial intelligence revitalizing our capacity to innovate and to build creating diversified and resilient global supply chains setting high standards for everything from...
+
+[DOS_S_231024]
+  ...for economic prosperity that’s why we also gave them such catchy names within ipef we finalized three agreements with 13 partners to accelerate the clean [energy] transition to promote high labor standards to fight corruption and to shore up supply chain vulnerabilities before they become widespread disruptions and within apep we’re...
+
+[DOS_S_231024]
+  ...vulnerabilities before they become widespread disruptions and within apep we’re working to make the western hemisphere a globally competitive supply chain hub for semiconductors clean [energy] and more and that leads to the next question i’ve often been asked in the last year and a half where does domestic investment fit...
+
+[DOS_S_231024]
+  ...on decarbonization or supply chain resilience without recovering this tradition and so we have we’ve made the largest investment ever to diversify and accelerate clean [energy] deployment through the inflation reduction act and investments are generating hundreds of billions of dollars in private investment all across the country rapid growth in...
+
+[DOS_S_231024]
+  ...commitments this will advance our national security and this will ensure that american workers and communities can seize the vast economic opportunities of the clean [energy] transition and that those opportunities are broadly shared and that last part is crucial the fact is that many communities hard hit in decades past...
+
+[DOS_S_231024]
+  ...which is why we’ve made them central to our approach in fact as a result of the incentives in the ira to build in traditional [energy] communities investment in those communities has doubled under president joe biden now initially when we rolled this all out our foreign partners worried that it...
+
+[DOS_S_231024]
+  ...we rolled this all out our foreign partners worried that it was designed to undercut them that we were attempting to shift all the clean [energy] investment and production around the world to the united states but that wasn’t the case and it isn’t the case we know that our partners...
+
+[DOS_S_231024]
+  ...that our partners need to invest in fact we want them to invest the whole world benefits from the spillover effects of advances in clean [energy] that these investments bring and we are nowhere near the saturation point of investment required to meet our clean energy deployment goals nor will markets...
+
+[DOS_S_231024]
+  ...effects of advances in clean energy that these investments bring and we are nowhere near the saturation point of investment required to meet our clean [energy] deployment goals nor will markets alone generate the resources necessary either so we’ve encouraged our partners to invest in their own industrial strength we’ve steered...
+
+[DOS_S_231024]
+  ...more helpful partner in this endeavor and our partners have begun to join us look at japan’s green transformation policy india’s production-linked incentives canada’s clean [energy] tax credit the european union’s green deal as more and more countries adopt this approach we will continue to build out the cooperative mechanisms that...
+
+[DOS_S_231024]
+  ...from billions to trillions in investment to help emerging and developing countries tackle modern challenges including massively accelerating the speed and scale of the clean [energy] transition we need a marshall plan-style effort investing in partners around the world and supporting homegrown u.s innovation in growing markets like storage nuclear and...
+
+[DOS_S_231024]
+  ...we need a marshall plan-style effort investing in partners around the world and supporting homegrown u.s innovation in growing markets like storage nuclear and geothermal [energy] now trillions may sound lofty and unachievable but there is a very clear path to get there without requiring anywhere near that level of taxpayer...
+
+Total occurrences: 41 
+
+>>> KWIC: battery <<<
+
+[DOC_FS_140524]
+  ...and production of critical minerals consumer tax credits for ev adoption smart standards federal investments in ev charging infrastructure and grants to supply ev and [battery] manufacturing the increase in the tariff rate on electric vehicles will protect these investments and jobs from unfairly priced chinese imports batteries battery components and...
+
+[DOC_FS_140524]
+  ...ev and battery manufacturing the increase in the tariff rate on electric vehicles will protect these investments and jobs from unfairly priced chinese imports batteries [battery] components and parts and critical minerals the tariff rate on lithium-ion ev batteries will increase from 7.5 to 25 in 2024 while the tariff rate...
+
+[DOC_FS_140524]
+  ...7.5 to 25 in 2024 while the tariff rate on lithium-ion non-ev batteries will increase from 7.5 to 25 in 2026 the tariff rate on [battery] parts will increase from 7.5 to 25 in 2024 the tariff rate on natural graphite and permanent magnets will increase from zero to 25 in...
+
+[DOC_FS_140524]
+  ...zero to 25 in 2024 despite rapid and recent progress in u.s onshoring china currently controls over 80 percent of certain segments of the ev [battery] supply chain particularly upstream nodes such as critical minerals mining processing and refining concentration of critical minerals mining and refining capacity in china leaves our...
+
+[DOC_FS_140524]
+  ...and clean energy goals at risk in order to improve u.s and global resiliency in these supply chains president biden has invested across the u.s [battery] supply chain to build a sufficient domestic industrial base through the bipartisan infrastructure law the defense production act and the inflation reduction act the biden-harris...
+
+[DOC_FS_140524]
+  ...inflation reduction act the biden-harris administration has invested nearly $ 20 billion in grants and loans to expand domestic production capacity of advanced batteries and [battery] materials the inflation reduction act also contains manufacturing tax credits to incentivize investment in battery and battery material production in the united states the president...
+
+[DOC_FS_140524]
+  ...loans to expand domestic production capacity of advanced batteries and battery materials the inflation reduction act also contains manufacturing tax credits to incentivize investment in [battery] and battery material production in the united states the president has also established the american battery materials initiative which will mobilize an all-of-government approach to...
+
+[DOC_FS_140524]
+  ...expand domestic production capacity of advanced batteries and battery materials the inflation reduction act also contains manufacturing tax credits to incentivize investment in battery and [battery] material production in the united states the president has also established the american battery materials initiative which will mobilize an all-of-government approach to secure a...
+
+[DOC_FS_140524]
+  ...also contains manufacturing tax credits to incentivize investment in battery and battery material production in the united states the president has also established the american [battery] materials initiative which will mobilize an all-of-government approach to secure a dependable robust supply chain for batteries and their inputs solar cells the tariff rate...
+
+Total occurrences: 9 
+
+>>> KWIC: technolog <<<
+
+[P10761_2024]
+  ...million americans are starting small businesses as a result of investments during my administration factories are coming back producing everything from semiconductors to clean energy [technology] here at home we have launched over 56,000 infrastructure projects across the country—rebuilding our nation's roads highways bridges railroads ports airports and so much more...
+
+[P10761_2024]
+  ...emissions intensity in the steel and aluminum sectors which threaten the competitiveness of our workers and producers together we created the u.s e.u trade and [technology] council that has deepened our cooperation on sustainable high-standard trade.the united states is also working with our partners to combat non-market policies and practices and...
+
+[NSA_S_300523]
+  ...states led a fragmented world to build a new international economic order it lifted hundreds of millions of people out of poverty it sustained thrilling [technological] revolutions and it helped the united states and many other nations around the world achieve new levels of prosperity but the last few decades revealed...
+
+[NSA_S_300523]
+  ...a modern industrial and innovation strategy—both at home and with partners around the world one that invests in the sources of our own economic and [technological] strength that promotes diversified and resilient global supply chains that sets high standards for everything from labor and the environment to trusted technology and good...
+
+[NSA_S_300523]
+  ...economic and technological strength that promotes diversified and resilient global supply chains that sets high standards for everything from labor and the environment to trusted [technology] and good governance and that deploys capital to deliver on public goods like climate and health now the idea that a new washington consensus as...
+
+[NSA_S_300523]
+  ...well as key industries of the future like clean energy digital infrastructure and advanced biotechnologies america didn't just lose manufacturing—we eroded our competitiveness in critical [technologies] that would define the future economic integration didn't stop china from expanding its military ambitions in the region or stop russia from invading its democratic...
+
+[NSA_S_300523]
+  ...to some $ 3.5 trillion over the next decade consider semiconductors which are as essential to our consumer goods today as they are to the [technologies] that will shape our future from artificial intelligence to quantum computing to synthetic biology america now manufactures only around 10 percent of the world's semiconductors...
+
+[NSA_S_300523]
+  ...those problems we're negotiating chapters with thirteen indo-pacific nations that will hasten the clean-energy transition implement tax fairness and fight corruption set high standards for [technology] and ensure more resilient supply chains for critical goods and inputs let me speak a bit more concretely had ipef been in place when covid...
+
+[NSA_S_300523]
+  ...number of our key partners here in the americas is aimed at the same basic set of objectives meanwhile through the u.s eu trade and [technology] council and through our trilateral coordination with japan and korea we are coordinating on our industrial strategies to complement one another and avert a race-to-the-bottom...
+
+[NSA_S_300523]
+  ...view of many others that china now needs to step up as a constructive force in assisting debt-stressed countries finally we are protecting our foundational [technologies] with a small yard and high fence as i've argued before our charge is to usher in a new wave of the digital revolution—one that...
+
+[NSA_S_300523]
+  ...yard and high fence as i've argued before our charge is to usher in a new wave of the digital revolution—one that ensures that next-generation [technologies] work for not against our democracies and our security we've implemented carefully tailored restrictions on the most advanced semiconductor technology exports to china those restrictions...
+
+[NSA_S_300523]
+  ...revolution—one that ensures that next-generation technologies work for not against our democracies and our security we've implemented carefully tailored restrictions on the most advanced semiconductor [technology] exports to china those restrictions are premised on straightforward national security concerns key allies and partners have followed suit consistent with their own security concerns...
+
+[NSA_S_300523]
+  ...we're also enhancing the screening of foreign investments in critical areas relevant to national security and we're making progress in addressing outbound investments in sensitive [technologies] with a core national security nexus these are tailored measures they are not as beijing says a technology blockade they are not targeting emerging economies...
+
+[NSA_S_300523]
+  ...progress in addressing outbound investments in sensitive technologies with a core national security nexus these are tailored measures they are not as beijing says a [technology] blockade they are not targeting emerging economies they are focused on a narrow slice of technology and a small number of countries intent on challenging...
+
+[NSA_S_300523]
+  ...tailored measures they are not as beijing says a technology blockade they are not targeting emerging economies they are focused on a narrow slice of [technology] and a small number of countries intent on challenging us militarily a word on china more broadly as president von der leyen put it recently...
+
+[NSA_S_300523]
+  ...we'll keep pushing for a level playing field for our workers and companies and defending against abuses our export controls will remain narrowly focused on [technology] that could tilt the military balance we are simply ensuring that u.s and allied technology is not used against us we are not cutting off...
+
+[NSA_S_300523]
+  ...against abuses our export controls will remain narrowly focused on technology that could tilt the military balance we are simply ensuring that u.s and allied [technology] is not used against us we are not cutting off trade in fact the united states continues to have a very substantial trade and investment...
+
+[NSA_S_300523]
+  ...essential to our own core interests it also means building new norms that allow us to address the challenges posed by the intersection of advanced [technology] and national security without obstructing broader trade and innovation this strategy will take resolve—it will take a dedicated commitment to overcoming the barriers that have...
+
+[DOC_FS_140524]
+  ...is supporting investments and creating good jobs in key sectors that are vital for america’s economic future and national security china’s unfair trade practices concerning [technology] transfer intellectual property and innovation are threatening american businesses and workers china is also flooding global markets with artificially low-priced exports in response to china’s...
+
+[DOC_FS_140524]
+  ...workers and businesses can outcompete anyone—as long as they have fair competition but for too long china’s government has used unfair non-market practices china’s forced [technology] transfers and intellectual property theft have contributed to its control of 70 80 and even 90 percent of global production for the critical inputs necessary...
+
+[DOC_FS_140524]
+  ...intellectual property theft have contributed to its control of 70 80 and even 90 percent of global production for the critical inputs necessary for our [technologies] infrastructure energy and health care—creating unacceptable risks to america’s supply chains and economic security furthermore these same non-market policies and practices contribute to china’s growing...
+
+[DOC_FS_140524]
+  ...is taking action to protect american workers and american companies from china’s unfair trade practices to encourage china to eliminate its unfair trade practices regarding [technology] transfer intellectual property and innovation the president is directing increases in tariffs across strategic sectors such as steel and aluminum semiconductors electric vehicles batteries critical...
+
+[DOC_FS_140524]
+  ...biden-harris administration has made historic investments in the u.s solar supply chain building on early u.s government-enabled research and development that helped create solar cell [technologies] the inflation reduction act provides supply-side tax incentives for solar components including polysilicon wafers cells modules and backsheet material as well as tax credits and...
+
+[USTR_S_150623]
+  ...becomes increasingly consolidated in one economy—such as the prc—which manipulates cost structures controls key industries and became a dominant supplier for many important goods and [technologies] i recently had an important conversation with uaw president shawn fain and afl-cio secretary-treasurer frederick redmond in detroit during the apec ministers responsible for trade...
+
+[USTR_S_150623]
+  ...equitable recovery from the pandemic through the american rescue plan the next step was rebuilding our country by investing in our infrastructure manufacturing capacity and [technological] strength today we are upgrading our roads bridges and airports expanding manufacturing here in the united states creating good-paying jobs including 800,000 manufacturing jobs many...
+
+[USTR_S_150623]
+  ...silo we must be agile in making connections between our work in trade policy and what is happening in domestic policy that includes digital and [technology] policy which i would be remiss in failing to mention at a time of rapid change and constant developments trade policy must respect the space...
+
+[USTR_S_150623]
+  ...policy must respect the space for our domestic policymakers regulators enforcement officials and legislators to debate and determine appropriate frameworks governing the relationship between government [technology] business and the public interest what is at stake is the ability of americans—as workers consumers innovators inventors content creators entrepreneurs and community members—to enjoy...
+
+[DOC_S_301122]
+  ...the state in society and the economy constraining the free flow of capital and information and decoupling economically in a number of areas including many [technology] sectors of the future they have firewalled their data economy from the rest of the world and they are accelerating their efforts to fuse their...
+
+[DOC_S_301122]
+  ...the future they have firewalled their data economy from the rest of the world and they are accelerating their efforts to fuse their economic and [technology] policies with their military ambitions as china’s economy has grown in size and influence so too has its commitment to using non-market trade and investment...
+
+[DOC_S_301122]
+  ...in trade and investment in the face of this dramatically transformed strategic environment our economic priorities are clear ensuring that the u.s builds the talent [technologies] and manufacturing capabilities necessary to lead the global economy in the 21st century—to be at the forefront of global innovation in an era of unprecedented...
+
+[DOC_S_301122]
+  ...and manufacturing capabilities necessary to lead the global economy in the 21st century—to be at the forefront of global innovation in an era of unprecedented [technological] change and competition to provide our workforce with the education and training necessary to compete for the jobs of the future to safeguard our national...
+
+[DOC_S_301122]
+  ...and science act and the inflation reduction act taken together it represents over $ 1 trillion of investment in america a once-in-a-generation commitment to innovation [technology] manufacturing workforce training and the infrastructure including broadband we need to ensure our future competitiveness and national security it is what president biden has termed...
+
+[DOC_S_301122]
+  ...the 21st century with these transformational investments we are also reimagining our national innovation ecosystem well beyond silicon valley and silicon alley to create new [technology] innovation and manufacturing hubs throughout the country these hubs will take advantage of our nation’s diversity foster new collaborations among businesses universities labor and local...
+
+[DOC_S_301122]
+  ...d we are working across the government and with leading university and industry experts to identify and invest in core critical and emerging fields of [technology] where we want to attain global leadership such as advanced computing biotechnologies and biomanufacturing and clean energy technologies we are also revitalizing u.s domestic manufacturing...
+
+[DOC_S_301122]
+  ...in core critical and emerging fields of technology where we want to attain global leadership such as advanced computing biotechnologies and biomanufacturing and clean energy [technologies] we are also revitalizing u.s domestic manufacturing particularly advanced manufacturing over the past decades communities across the country have seen manufacturing shut down businesses shutter...
+
+[DOC_S_301122]
+  ...and reap the massive benefits of manufacturing-driven innovation the u.s economy became less competitive and overly dependent on china for an increasing number of critical [technologies] and goods it is worth noting by the way that china achieved its success through massive state support of its industries covid opened our eyes...
+
+[DOC_S_301122]
+  ...private sector and the american people of this over-dependence on china and the need to rebuild domestic manufacturing and innovation semiconductors are ground-zero in this [technological] competition and central to our new investment strategy they drive innovation in nearly every emerging technology and support critical national security applications the u.s invented...
+
+[DOC_S_301122]
+  ...domestic manufacturing and innovation semiconductors are ground-zero in this technological competition and central to our new investment strategy they drive innovation in nearly every emerging [technology] and support critical national security applications the u.s invented the semiconductor industry and once led the world in producing the most advanced chips today we...
+
+[DOC_S_301122]
+  ...the beginning of a new chapter in u.s innovation where we reverse that decline and ensure that the united states retains its leadership in the [technologies] and industries of the 21st century in the coming years the commerce department will invest $ 52 billion in domestic semiconductor manufacturing including workforce training...
+
+[DOC_S_301122]
+  ...into leadership in biotech manufacturing and jobs i am proud to say that we are already seeing our strategy pay off companies such as micron [technology] and intel have announced significant new investments in semiconductor manufacturing in syracuse and columbus and they are partnering with local universities and community colleges to...
+
+[DOC_S_301122]
+  ...added more than 700,000 manufacturing jobs to the u.s economy—the most in almost three decades going forward we are not only going to invent the [technologies] of the future in america but we are going to manufacture them here too we are also investing in america’s massive talent pipeline the united...
+
+[DOC_S_301122]
+  ...is blessed with universities that consistently produce world-class scientists innovators and entrepreneurs here at mit your graduates and professors have contributed to pathbreaking scientific and [technological] advancements for more than 150 years but we want—and need—more americans to be part of this exciting innovation ecosystem we are increasing the amount of...
+
+[DOC_S_301122]
+  ...of many critical materials and goods and has exploited other economies dependence on its market for political coercion it also seeks to dominate certain advanced [technology] sectors while using many of those technologies to advance its military modernization and undermine fundamental human rights at home and abroad we believe there are...
+
+[DOC_S_301122]
+  ...has exploited other economies dependence on its market for political coercion it also seeks to dominate certain advanced technology sectors while using many of those [technologies] to advance its military modernization and undermine fundamental human rights at home and abroad we believe there are three families of technologies that will be...
+
+[DOC_S_301122]
+  ...many of those technologies to advance its military modernization and undermine fundamental human rights at home and abroad we believe there are three families of [technologies] that will be of particular importance over the coming decade first computing-related technologies including microelectronics quantum information systems and artificial intelligence second biotechnologies and biomanufacturing...
+
+[DOC_S_301122]
+  ...rights at home and abroad we believe there are three families of technologies that will be of particular importance over the coming decade first computing-related [technologies] including microelectronics quantum information systems and artificial intelligence second biotechnologies and biomanufacturing and third clean energy technologies we will continue to take action to protect...
+
+[DOC_S_301122]
+  ...particular importance over the coming decade first computing-related technologies including microelectronics quantum information systems and artificial intelligence second biotechnologies and biomanufacturing and third clean energy [technologies] we will continue to take action to protect our advantage and maintain as large a lead as possible in these foundational technologies we are moving...
+
+[DOC_S_301122]
+  ...third clean energy technologies we will continue to take action to protect our advantage and maintain as large a lead as possible in these foundational [technologies] we are moving aggressively to reform our current capabilities and create new ones to accomplish this goal together with the private sector we are going...
+
+[DOC_S_301122]
+  ...and develop innovative solutions to counter china’s economic coercion and human rights abuses to begin with we are redoubling our efforts to safeguard our core [technologies] by strategically and continuously updating our export control policies and investment screening frameworks in october we released a set of rules that impose systematic and...
+
+[DOC_S_301122]
+  ...by strategically and continuously updating our export control policies and investment screening frameworks in october we released a set of rules that impose systematic and [technology-specific] export controls to limit china’s ability to purchase and manufacture certain very advanced computing chips that are used to train large-scale artificial intelligence models and...
+
+[DOC_S_301122]
+  ...and surveillance systems as well as the manufacturing equipment used to make these cutting-edge chips in addition we restricted american citizens from supporting these advanced [technology] programs for too long america’s export control strategy was reactive—focused on preventing china from expanding its technological capabilities after it accessed american intellectual property but...
+
+[DOC_S_301122]
+  ...we restricted american citizens from supporting these advanced technology programs for too long america’s export control strategy was reactive—focused on preventing china from expanding its [technological] capabilities after it accessed american intellectual property but these new rules are strategic targeted and designed to protect our national security and as part of...
+
+[DOC_S_301122]
+  ...investment in the united states was established decades ago—to direct a focus on certain critical new risk factors when evaluating potential inbound investment such as [technological] leadership supply chain dependency and foreign company access to our personal data and together with congress and the private sector we are working to identify...
+
+[DOC_S_301122]
+  ...with congress and the private sector we are working to identify and mitigate the risks to our national security from outbound capital investments in critical [technology] sectors as one example we have prohibited companies receiving chips funding from investing in leading-edge or advanced technology facilities in china for ten years our...
+
+[DOC_S_301122]
+  ...security from outbound capital investments in critical technology sectors as one example we have prohibited companies receiving chips funding from investing in leading-edge or advanced [technology] facilities in china for ten years our strategy also includes the protection of our critical supply chains during the covid pandemic we witnessed how the...
+
+[DOC_S_301122]
+  ...dependent on one country for the goods we need to keep our people safe we have mounted a whole-of-government effort to identify the commodities and [technologies] where our inability to source process or manufacture domestically could cause great damage to our security in these areas we are working with the private...
+
+[DOC_S_301122]
+  ...long-term investment decisions and while i certainly understand this challenge our policies cannot be static they need to adapt continuously to the dynamic interaction between [technological] change and national security but in such a complex environment it’s on us in the government to provide clear and consistent guidance that the business...
+
+[DOC_S_301122]
+  ...well-being they too see how china’s direction has changed and are adjusting their strategies accordingly for example we have established the quad critical and emerging [technologies] working group with japan australia and india as well as the u.s eu trade and technology council or ttc which will be meeting next week...
+
+[DOC_S_301122]
+  ...example we have established the quad critical and emerging technologies working group with japan australia and india as well as the u.s eu trade and [technology] council or ttc which will be meeting next week in dc to align our approaches secure supply chains export controls data governance and investment screening...
+
+[DOC_S_301122]
+  ...avoid a similar situation in the future long-term u.s competitiveness also depends on our continued and active participation in international institutions that set data and [technology] standards in recent years china has assumed leadership positions in several important international standard setting bodies we have heard from our companies as well as...
+
+[DOC_S_301122]
+  ...push the country’s authoritarian standards and values these efforts to game the system undermine good governance place our companies at a disadvantage in the global [technology] competition and put at risk many of our fundamental values such as the free flow of information and data privacy we are taking steps to...
+
+[DOC_S_301122]
+  ...that result in an uneven playing field such as such as its massive support financial regulatory or otherwise to its state-owned and private firms forced [technology] transfer and egregious intellectual property theft and we are working with our g7 allies on a shared approach to these issues at the same time...
+
+[DOS_S_231024]
+  ...rise in inequality and a squeeze on the middle class a less vibrant american industrial base an accelerating climate crisis vulnerable supply chains and rapid [technological] change for the preceding three decades the u.s economy had enjoyed stronger topline aggregate growth than other advanced democracies and had generated genuine innovation and...
+
+[DOS_S_231024]
+  ...change for the preceding three decades the u.s economy had enjoyed stronger topline aggregate growth than other advanced democracies and had generated genuine innovation and [technological] progress but our economic policies had not been adapted to deal effectively with these challenges that’s why president biden implemented a modern industrial strategy one...
+
+[DOS_S_231024]
+  ...our capacity to innovate and to build creating diversified and resilient global supply chains setting high standards for everything from labor to the environment to [technology] because on that level playing field our logic goes america can compete and win preserving open markets and also protecting our national security and doing...
+
+[DOS_S_231024]
+  ...we’re seeing the return of great power competition but unlike the cold war era our economies are closely intertwined we’re on the verge of revolutionary [technological] change with ai with economic and geopolitical implications the pandemic laid bare the fragilities in global supply chains that have been growing for decades the...
+
+[DOS_S_231024]
+  ...and investment enhanced and enabled by bold public investment in key sectors bounded in rare but essential cases by principled controls on key national security [technologies] protected against harmful non-market practices labor and environment abuses and economic coercion and critically coordinated with a broad range of partners the challenges we face...
+
+[DOS_S_231024]
+  ...the inflation reduction act and investments are generating hundreds of billions of dollars in private investment all across the country rapid growth in emerging climate [technologies] like sustainable aviation fuels carbon management clean hydrogen with investments increasing 6 to 15-fold from pre-ira levels this will help us meet our climate commitments...
+
+[DOS_S_231024]
+  ...and partners and that will make all of us more competitive now all this leads to another question that is frequently asked what about your [technology] protection policies how does that fit into a positive-sum approach the united states and our allies and partners have long limited the export of dual-use...
+
+[DOS_S_231024]
+  ...protection policies how does that fit into a positive-sum approach the united states and our allies and partners have long limited the export of dual-use [technologies] this is logical and uncontroversial it doesn’t make sense to allow companies to sell advanced technology to countries that could use them to gain military...
+
+[DOS_S_231024]
+  ...and partners have long limited the export of dual-use technologies this is logical and uncontroversial it doesn’t make sense to allow companies to sell advanced [technology] to countries that could use them to gain military advantage over the united states and our friends now it would be a mistake to attempt...
+
+[DOS_S_231024]
+  ...united states and our friends now it would be a mistake to attempt to return to the cold war paradigm of almost no trade including [technological] trade among geopolitical rivals but as i’ve noted we’re in a fundamentally different geopolitical context so we’ve got to meet somewhere in the middle that...
+
+[DOS_S_231024]
+  ...different geopolitical context so we’ve got to meet somewhere in the middle that means being targeted in what we restrict controlling only the most sensitive [technologies] that will define national security and strategic competition this is part of what we mean when we say de-risking not decoupling to strike the right...
+
+[DOS_S_231024]
+  ...controls in an arbitrary or reflexive manner we have a framework that informs our decision-making we ask ourselves at least four questions one which sensitive [technologies] are or will likely become foundational to u.s national security two across those sensitive technologies where do we have distinct advantages and are likely to...
+
+[DOS_S_231024]
+  ...we ask ourselves at least four questions one which sensitive technologies are or will likely become foundational to u.s national security two across those sensitive [technologies] where do we have distinct advantages and are likely to see maximal effort by our competitors to close the gap conversely where are we behind...
+
+[DOS_S_231024]
+  ...gap conversely where are we behind and therefore most vulnerable to coercion three to what extent do our competitors have immediate substitutes for u.s sensitive [technology] either through indigenous development or from third countries that would undercut the controls four what is the breadth and depth of the coalition we could...
+
+[DOS_S_231024]
+  ...breadth and depth of the coalition we could plausibly build and sustain around a given control when it comes to a narrow set of sensitive [technologies] yes the fence is high as it should be and in the context of broader commerce the yard is small and we’re not looking to...
+
+[DOS_S_231024]
+  ...here would argue that we should build out our telecommunications architecture or our data center infrastructure with huawei millions of cars on the road with [technology] from the prc getting daily software updates from the prc sending reams of information back to the prc similarly doesn’t make sense especially when we’ve...
+
+[DOS_S_231024]
+  ...a bipartisan priority and i have to believe that we’ll rise to the occasion that we won’t needlessly give up america’s position of economic and [technological] leadership because we can no longer generate the political consensus to invest in ourselves there is more we can do now on a bipartisan basis...
+
+[DOS_S_231024]
+  ...a bipartisan basis for example congress still hasn’t appropriated the science part of chips and science even while the prc is increasing its science and [technology] budget by 10 percent year on year now whether we’re talking about investments in fundamental research or grants and loans for firms developing critical technologies...
+
+[DOS_S_231024]
+  ...technology budget by 10 percent year on year now whether we’re talking about investments in fundamental research or grants and loans for firms developing critical [technologies] we also have to update our approach to risk some research paths are dead ends some startups won’t survive our innovation base and our private...
+
+[DOS_S_231024]
+  ...including africa and asia to close the infrastructure gap in developing countries it strengthens countries economic growth it strengthens america’s supply chains and global trusted [technology] vendors and it strengthens our partnerships in critical regions the private sector has been enthusiastic together with them and our g7 partners we’ve already mobilized...
+
+Total occurrences: 82 
+
+>>> KWIC: manufactur <<<
+
+[P10761_2024]
+  ...families for decades our country embraced trickle-down economics which rewarded wealth not work companies took their jobs overseas to get cheaper labor factories closed down [manufacturing] slowed entire communities became hollowed out as american workers lost their paychecks and sense of pride my administration is changing that since i came into...
+
+[P10761_2024]
+  ...and middle out—not the top down we have seen the results we have created over 15 million jobs since i took office including nearly 800,000 [manufacturing] jobs unemployment has been at under 4 percent for more than 2 years for the first time in more than 6 decades a record 17...
+
+[P10761_2024]
+  ...of workers rights which is key to achieving sustainable economic growth my administration has launched historic trade initiatives with the european union to promote clean [manufacturing] and create new jobs on both sides of the atlantic for example through the global arrangement on sustainable steel and aluminum we are partnering to...
+
+[NSA_S_300523]
+  ...traditional industrial sectors like steel as well as key industries of the future like clean energy digital infrastructure and advanced biotechnologies america didn't just lose [manufacturing—we] eroded our competitiveness in critical technologies that would define the future economic integration didn't stop china from expanding its military ambitions in the region or...
+
+[NSA_S_300523]
+  ...those gains failed to reach a lot of working people the american middle class lost ground while the wealthy did better than ever and american [manufacturing] communities were hollowed out while cutting-edge industries moved to metropolitan areas now the drivers of economic inequality—as many of you know even better than i—are...
+
+[NSA_S_300523]
+  ...also failed to fully account for the consequences of our international economic policies for example the so-called china shock that hit pockets of our domestic [manufacturing] industry especially hard—with large and long-lasting impacts—wasn't adequately anticipated and wasn't adequately addressed as it unfolded and collectively these forces had frayed the socioeconomic foundations...
+
+[NSA_S_300523]
+  ...consumer goods today as they are to the technologies that will shape our future from artificial intelligence to quantum computing to synthetic biology america now [manufactures] only around 10 percent of the world's semiconductors and production—in general and especially when it comes to the most advanced chips—is geographically concentrated elsewhere this...
+
+[NSA_S_300523]
+  ...states and japan signed an agreement deepening our cooperation on critical-mineral supply chains so we are leveraging the inflation reduction act to build a clean-energy [manufacturing] ecosystem rooted in supply chains here in north america and extending to europe japan and elsewhere this is how we will turn the ira from...
+
+[DOC_FS_140524]
+  ...and semiconductors with support from the bipartisan infrastructure law chips and science act and inflation reduction act these investments are creating new american jobs in [manufacturing] and clean energy and helping communities that have been left behind make a comeback as president biden says american workers and businesses can outcompete anyone—as...
+
+[DOC_FS_140524]
+  ...that would threaten jobs and raise costs across the board the previous administration’s trade deal with china failed to increase american exports or boost american [manufacturing] as it had promised under president biden’s investing in america agenda nearly 800,000 manufacturing jobs have been created and new factory construction has doubled after...
+
+[DOC_FS_140524]
+  ...deal with china failed to increase american exports or boost american manufacturing as it had promised under president biden’s investing in america agenda nearly 800,000 [manufacturing] jobs have been created and new factory construction has doubled after both fell under the previous administration and the trade deficit with china is the...
+
+[DOC_FS_140524]
+  ...for the american economy and american companies are leading the future of clean steel recently the biden-harris administration announced $ 6 billion for 33 clean [manufacturing] projects including for steel and aluminum including the first new primary aluminum smelter in four decades made possible by the bipartisan infrastructure law and the...
+
+[DOC_FS_140524]
+  ...by market-driven firms over the next three to five years china is expected to account for almost half of all new capacity coming online to [manufacture] certain legacy semiconductor wafers during the pandemic disruptions to the supply chain including legacy chips led to price spikes in a wide variety of products...
+
+[DOC_FS_140524]
+  ...of overreliance on a few markets through the chips and science act president biden is making a nearly $ 53 billion investment in american semiconductor [manufacturing] capacity research innovation and workforce this will help counteract decades of disinvestment and offshoring that has reduced the united states capacity to manufacture semiconductors domestically...
+
+[DOC_FS_140524]
+  ...american semiconductor manufacturing capacity research innovation and workforce this will help counteract decades of disinvestment and offshoring that has reduced the united states capacity to [manufacture] semiconductors domestically the chips and science act includes $ 39 billion in direct incentives to build modernize and expand semiconductor manufacturing fabrication facilities as well...
+
+[DOC_FS_140524]
+  ...united states capacity to manufacture semiconductors domestically the chips and science act includes $ 39 billion in direct incentives to build modernize and expand semiconductor [manufacturing] fabrication facilities as well as a 25 investment tax credit for semiconductor companies raising the tariff rate on semiconductors is an important initial step to...
+
+[DOC_FS_140524]
+  ...of overcapacity china’s exports of evs grew by 70 from 2022 to 2023—jeopardizing productive investments elsewhere a 100 tariff rate on evs will protect american [manufacturers] from china’s unfair trade practices this action advances president biden’s vision of ensuring the future of the auto industry will be made in america by...
+
+[DOC_FS_140524]
+  ...as part of the president’s investing in america agenda the administration is incentivizing the development of a robust ev market through business tax credits for [manufacturing] of batteries and production of critical minerals consumer tax credits for ev adoption smart standards federal investments in ev charging infrastructure and grants to supply...
+
+[DOC_FS_140524]
+  ...production of critical minerals consumer tax credits for ev adoption smart standards federal investments in ev charging infrastructure and grants to supply ev and battery [manufacturing] the increase in the tariff rate on electric vehicles will protect these investments and jobs from unfairly priced chinese imports batteries battery components and parts...
+
+[DOC_FS_140524]
+  ...nearly $ 20 billion in grants and loans to expand domestic production capacity of advanced batteries and battery materials the inflation reduction act also contains [manufacturing] tax credits to incentivize investment in battery and battery material production in the united states the president has also established the american battery materials initiative...
+
+[DOC_FS_140524]
+  ...to maintain that status quo chinese policies and nonmarket practices are flooding global markets with artificially cheap solar modules and panels undermining investment in solar [manufacturing] outside of china the biden-harris administration has made historic investments in the u.s solar supply chain building on early u.s government-enabled research and development that...
+
+[DOC_FS_140524]
+  ...and grant and loan programs supporting deployment of utility-scale and residential solar energy projects as a result of president biden’s investing in america agenda solar [manufacturers] have already announced nearly $ 17 billion in planned investment under his administration—an 8-fold increase in u.s manufacturing capacity enough to supply panels for millions...
+
+[DOC_FS_140524]
+  ...president biden’s investing in america agenda solar manufacturers have already announced nearly $ 17 billion in planned investment under his administration—an 8-fold increase in u.s [manufacturing] capacity enough to supply panels for millions of homes each year by 2030 ship-to-shore cranes the tariff rate on ship-to-shore cranes will increase from 0...
+
+[DOC_FS_140524]
+  ...by rebuilding the united states industrial capacity to produce port cranes with trusted partners a 25 tariff rate on ship-to-shore cranes will help protect u.s [manufacturers] from china’s unfair trade practices that have led to excessive concentration in the market port cranes are essential pieces of infrastructure that enable the continuous...
+
+[DOC_FS_140524]
+  ...off of ongoing work to invest in u.s port infrastructure through the president’s investing in america agenda this port security initiative includes bringing port crane [manufacturing] capabilities back to the united states to support u.s supply chain security and encourages ports across the country and around the world to use trusted...
+
+[DOC_FS_140524]
+  ...daily in every hospital across the country to deliver essential care the federal government and the private sector have made substantial investments to build domestic [manufacturing] for these and other medical products to ensure american health care workers and patients have access to critical medical products when they need them american...
+
+[USTR_S_150623]
+  ...jump-starting a historic equitable recovery from the pandemic through the american rescue plan the next step was rebuilding our country by investing in our infrastructure [manufacturing] capacity and technological strength today we are upgrading our roads bridges and airports expanding manufacturing here in the united states creating good-paying jobs including 800,000...
+
+[USTR_S_150623]
+  ...step was rebuilding our country by investing in our infrastructure manufacturing capacity and technological strength today we are upgrading our roads bridges and airports expanding [manufacturing] here in the united states creating good-paying jobs including 800,000 manufacturing jobs many that do not require a college degree these are groundbreaking down payments...
+
+[USTR_S_150623]
+  ...capacity and technological strength today we are upgrading our roads bridges and airports expanding manufacturing here in the united states creating good-paying jobs including 800,000 [manufacturing] jobs many that do not require a college degree these are groundbreaking down payments on our nation’s future and our people and our new story...
+
+[DOC_S_301122]
+  ...and investment in the face of this dramatically transformed strategic environment our economic priorities are clear ensuring that the u.s builds the talent technologies and [manufacturing] capabilities necessary to lead the global economy in the 21st century—to be at the forefront of global innovation in an era of unprecedented technological change...
+
+[DOC_S_301122]
+  ...science act and the inflation reduction act taken together it represents over $ 1 trillion of investment in america a once-in-a-generation commitment to innovation technology [manufacturing] workforce training and the infrastructure including broadband we need to ensure our future competitiveness and national security it is what president biden has termed a...
+
+[DOC_S_301122]
+  ...and national security it is what president biden has termed a modern industrial strategy an approach rooted deeply in america’s history—from alexander hamilton’s report on [manufacturers] to president lincoln’s intercontinental railroad—but calibrated to the new forward-looking challenges and opportunities of the 21st century with these transformational investments we are also reimagining...
+
+[DOC_S_301122]
+  ...with these transformational investments we are also reimagining our national innovation ecosystem well beyond silicon valley and silicon alley to create new technology innovation and [manufacturing] hubs throughout the country these hubs will take advantage of our nation’s diversity foster new collaborations among businesses universities labor and local communities and position...
+
+[DOC_S_301122]
+  ...technology where we want to attain global leadership such as advanced computing biotechnologies and biomanufacturing and clean energy technologies we are also revitalizing u.s domestic [manufacturing] particularly advanced manufacturing over the past decades communities across the country have seen manufacturing shut down businesses shutter and the local engines of innovation grind...
+
+[DOC_S_301122]
+  ...want to attain global leadership such as advanced computing biotechnologies and biomanufacturing and clean energy technologies we are also revitalizing u.s domestic manufacturing particularly advanced [manufacturing] over the past decades communities across the country have seen manufacturing shut down businesses shutter and the local engines of innovation grind to a halt...
+
+[DOC_S_301122]
+  ...biomanufacturing and clean energy technologies we are also revitalizing u.s domestic manufacturing particularly advanced manufacturing over the past decades communities across the country have seen [manufacturing] shut down businesses shutter and the local engines of innovation grind to a halt as we exported jobs and manufacturing capacity to china and the...
+
+[DOC_S_301122]
+  ...across the country have seen manufacturing shut down businesses shutter and the local engines of innovation grind to a halt as we exported jobs and [manufacturing] capacity to china and the rest of asia and reduced investment in the workforce development and infrastructure necessary to maintain our long-term competitiveness i felt...
+
+[DOC_S_301122]
+  ...my father is hardly unique it happened to millions of americans over the last 40 years while we watched china become a world leader in [manufacturing] and reap the massive benefits of manufacturing-driven innovation the u.s economy became less competitive and overly dependent on china for an increasing number of critical...
+
+[DOC_S_301122]
+  ...to millions of americans over the last 40 years while we watched china become a world leader in manufacturing and reap the massive benefits of [manufacturing-driven] innovation the u.s economy became less competitive and overly dependent on china for an increasing number of critical technologies and goods it is worth noting...
+
+[DOC_S_301122]
+  ...eyes to the long-term risk for both the private sector and the american people of this over-dependence on china and the need to rebuild domestic [manufacturing] and innovation semiconductors are ground-zero in this technological competition and central to our new investment strategy they drive innovation in nearly every emerging technology and...
+
+[DOC_S_301122]
+  ...critical national security applications the u.s invented the semiconductor industry and once led the world in producing the most advanced chips today we no longer [manufacture] the world’s most advanced semiconductors and produce only 10 percent of global chip capacity meanwhile since 2020 nearly 75 percent of the new global capacity...
+
+[DOC_S_301122]
+  ...leadership in the technologies and industries of the 21st century in the coming years the commerce department will invest $ 52 billion in domestic semiconductor [manufacturing] including workforce training and r d to create a vibrant domestic industry but this public investment is only a starting point it is designed to...
+
+[DOC_S_301122]
+  ...our goal is to lay a foundation for american business to do what american business does best innovate scale and compete through r d and [manufacturing] incentives we are facilitating new public-private partnerships to enable domestic production of the most advanced chips and expand the production of mature chips essential to...
+
+[DOC_S_301122]
+  ...economic security and we are looking to labor and educational institutions to provide the workforce training and apprenticeship programs necessary to build and operate new [manufacturing] facilities we have adopted a similar approach to public investment in the inflation reduction act—the ira we are investing $ 369 billion which is the...
+
+[DOC_S_301122]
+  ...to the united states in semiconductors and telecommunications does not happen in biotech—ensuring we translate our leadership in biotech r d into leadership in biotech [manufacturing] and jobs i am proud to say that we are already seeing our strategy pay off companies such as micron technology and intel have announced...
+
+[DOC_S_301122]
+  ...to say that we are already seeing our strategy pay off companies such as micron technology and intel have announced significant new investments in semiconductor [manufacturing] in syracuse and columbus and they are partnering with local universities and community colleges to develop the courses and training programs necessary to support tens...
+
+[DOC_S_301122]
+  ...they are partnering with local universities and community colleges to develop the courses and training programs necessary to support tens of thousands of new well-paying [manufacturing] jobs already we have added more than 700,000 manufacturing jobs to the u.s economy—the most in almost three decades going forward we are not only...
+
+[DOC_S_301122]
+  ...to develop the courses and training programs necessary to support tens of thousands of new well-paying manufacturing jobs already we have added more than 700,000 [manufacturing] jobs to the u.s economy—the most in almost three decades going forward we are not only going to invent the technologies of the future in...
+
+[DOC_S_301122]
+  ...in almost three decades going forward we are not only going to invent the technologies of the future in america but we are going to [manufacture] them here too we are also investing in america’s massive talent pipeline the united states is blessed with universities that consistently produce world-class scientists innovators...
+
+[DOC_S_301122]
+  ...investments in stem education for underrepresented students such as people of color girls and low-income youth and we are building new onramps to high-skilled well-paying [manufacturing] jobs many of which don’t require a college degree we must also continue to attract the most talented people from around the world our history...
+
+[DOC_S_301122]
+  ...is deploying its military in ways that undermine the security of our allies and partners and the free flow of global trade it dominates the [manufacturing] of many critical materials and goods and has exploited other economies dependence on its market for political coercion it also seeks to dominate certain advanced...
+
+[DOC_S_301122]
+  ...investment screening frameworks in october we released a set of rules that impose systematic and technology-specific export controls to limit china’s ability to purchase and [manufacture] certain very advanced computing chips that are used to train large-scale artificial intelligence models and which power the country’s advanced military and surveillance systems as...
+
+[DOC_S_301122]
+  ...computing chips that are used to train large-scale artificial intelligence models and which power the country’s advanced military and surveillance systems as well as the [manufacturing] equipment used to make these cutting-edge chips in addition we restricted american citizens from supporting these advanced technology programs for too long america’s export control...
+
+[DOC_S_301122]
+  ...years our strategy also includes the protection of our critical supply chains during the covid pandemic we witnessed how the concentration of personal protective equipment [manufacturing] in china put americans at risk i remember this time vividly i was governor when the pandemic hit like so many other states rhode island...
+
+[DOC_S_301122]
+  ...need to keep our people safe we have mounted a whole-of-government effort to identify the commodities and technologies where our inability to source process or [manufacture] domestically could cause great damage to our security in these areas we are working with the private sector to re-shore or friend-shore core parts of...
+
+[DOC_S_301122]
+  ...china cut off trade with lithuania we opened our markets to lithuanian agricultural products and provided a $ 600 million export credit agreement focused on [manufacturing] business services and renewable energy developing an effective deterrent against this kind of economic coercion is a priority for the biden administration as well as...
+
+[DOC_S_301122]
+  ...u.s companies with more competitive sources of production and suppliers and american workers will benefit too for example last summer we saw how covid-related chip [manufacturing] slowdowns in asia contributed to layoffs for auto workers in detroit ipef’s supply chain crisis response mechanism will help us avoid a similar situation in...
+
+[DOS_S_231024]
+  ...these realities will not help us chart a viable path forward our approach to trade responds to these challenges climate is a good example american [manufacturers] are global leaders in clean steel production yet they’ve had to compete against companies that produce steel more cheaply but with higher emissions intensity that’s...
+
+[DOS_S_231024]
+  ...we see a broad pattern emerging the prc is producing far more than domestic demand dumping excess onto global markets at artificially low prices driving [manufacturers] around the world out of business and creating a chokehold on supply chains to prevent a second china shock we’ve had to act that’s what...
+
+[DOS_S_231024]
+  ...instead to target tariffs at unfair practices in strategic sectors where we and our allies are investing hundreds of billions of dollars to rebuild our [manufacturing] and our resilience and crucially we’re seeing partners in both advanced and emerging economies reach similar conclusions regarding overcapacity and take similar steps to ward...
+
+[DOS_S_231024]
+  ...total global investment not competing with each other over where a fixed set of investments is located the same goes for investing in our high-tech [manufacturing] strength we believe that a nation that loses the capacity to build risks losing the capacity to innovate so we’re building again as a result...
+
+[DOS_S_231024]
+  ...so we’re building again as a result of the chips and science act america is on track to have five leading-edge logic and memory chip [manufacturers] operating at scale no other economy has more than two and we’re continuing to nurture american leadership in artificial intelligence including through actions we’re finalizing...
+
+Total occurrences: 62 
+
+>>> KWIC: resili <<<
+
+[P10761_2024]
+  ...the united states more directly than the western hemisphere together with 11 partners we have launched the americas partnership for economic prosperity to build more [resilient] supply chains mobilize high-standard investments in our partners economies and ensure that trade-enabled growth means inclusive growth across all of our nations my administration is...
+
+[NSA_S_300523]
+  ...at home and with partners around the world one that invests in the sources of our own economic and technological strength that promotes diversified and [resilient] global supply chains that sets high standards for everything from labor and the environment to trusted technology and good governance and that deploys capital to...
+
+[NSA_S_300523]
+  ...long-lasting impacts—wasn't adequately anticipated and wasn't adequately addressed as it unfolded and collectively these forces had frayed the socioeconomic foundations on which any strong and [resilient] democracy rests now these four challenges were not unique to the united states established and emerging economies were confronting them too—in some cases more acutely...
+
+[NSA_S_300523]
+  ...was to restore an economic mentality that champions building and that is the core of our economic approach to build to build capacity to build [resilience] to build inclusiveness at home and with partners abroad the capacity to produce and innovate and to deliver public goods like strong physical and digital...
+
+[NSA_S_300523]
+  ...partners abroad the capacity to produce and innovate and to deliver public goods like strong physical and digital infrastructure and clean energy at scale the [resilience] to withstand natural disasters and geopolitical shocks and the inclusiveness to ensure a strong vibrant american middle class and greater opportunity for working people around...
+
+[NSA_S_300523]
+  ...and bipartisan infrastructure law we're taking action at the same time it isn't feasible or desirable to build everything domestically our objective is not autarky—it's [resilience] and security in our supply chains now building our domestic capacity is the starting point but the effort extends beyond our borders and this brings...
+
+[NSA_S_300523]
+  ...extends beyond our borders and this brings me to the second step in our strategy working with our partners to ensure they are building capacity [resilience] and inclusiveness too our message to them has been consistent we will unapologetically pursue our industrial strategy at home—but we are unambiguously committed to not...
+
+[NSA_S_300523]
+  ...industries like semiconductors and clean energy we're nowhere near the global saturation point of investments needed public or private ultimately our goal is a strong [resilient] and leading-edge techno-industrial base that the united states and its like-minded partners established and emerging economies alike can invest in and rely upon together president...
+
+[NSA_S_300523]
+  ...the energy transition and president von der leyen and president biden committed to working together to ensure that the supply chains of the future are [resilient] secure and reflective of our values—including on labor they laid out practical steps in the statement to achieve those goals—like aligning respective clean-energy incentives on...
+
+[NSA_S_300523]
+  ...the 2020s and the 2030s is different from the project of the 1990s we know the problems we need to solve today creating diversified and [resilient] supply chains mobilizing public and private investment for a just clean energy transition and sustainable economic growth creating good jobs along the way family-supporting jobs...
+
+[NSA_S_300523]
+  ...chapters with thirteen indo-pacific nations that will hasten the clean-energy transition implement tax fairness and fight corruption set high standards for technology and ensure more [resilient] supply chains for critical goods and inputs let me speak a bit more concretely had ipef been in place when covid wreaked havoc on our...
+
+[NSA_S_300523]
+  ...the clean-energy transition in sum in a world being transformed by that clean energy transition by dynamic emerging economies by a quest for supply chain [resilience—by] digitization by artificial intelligence and by a revolution in biotechnology—the game is not the same our international economic policy has to adapt to the world...
+
+[NSA_S_300523]
+  ...president von der leyen put it recently we are for de-risking and diversifying not decoupling we'll keep investing in our own capacities and in secure [resilient] supply chains we'll keep pushing for a level playing field for our workers and companies and defending against abuses our export controls will remain narrowly...
+
+[DOC_FS_140524]
+  ...capacity in china leaves our supply chains vulnerable and our national security and clean energy goals at risk in order to improve u.s and global [resiliency] in these supply chains president biden has invested across the u.s battery supply chain to build a sufficient domestic industrial base through the bipartisan infrastructure...
+
+[USTR_S_150623]
+  ...national security advisor all agree our global supply chains which have been created to maximize short-term efficiency and minimize costs need to be redesigned for [resilience] because resilient supply chains are vital for greater national and economic security by this we mean production that can more easily and quickly adapt to...
+
+[USTR_S_150623]
+  ...advisor all agree our global supply chains which have been created to maximize short-term efficiency and minimize costs need to be redesigned for resilience because [resilient] supply chains are vital for greater national and economic security by this we mean production that can more easily and quickly adapt to and recover...
+
+[USTR_S_150623]
+  ...that comprise a vibrant middle class our focus has shifted from liberalization and the pursuit of efficiency and low costs—at any cost—to raising standards building [resiliency] driving sustainability and fostering more inclusive prosperity at home and abroad like other aspects of the administration’s economic policies we are using trade to create...
+
+[USTR_S_150623]
+  ...fragile and make us vulnerable this does not make sense at a moment in history when we are trying to diversify and make them more [resilient] what we need is a trade policy that fosters and creates opportunities for good and diversified jobs here in our communities revitalizes u.s based production...
+
+[USTR_S_150623]
+  ...our communities revitalizes u.s based production at high middle and low ends and puts workers back at the center because they are the foundation for [resilience] that is exactly what we have been doing through the u.s mexico canada agreement the usmca has a mechanism that allows us to bring cases...
+
+[USTR_S_150623]
+  ...of a lack of transparency in how rules are administered so we are focused on making it easier for small businesses to participate in trade [resilient] supply chains must include a diverse and healthy ecosystem of suppliers and i am working closely with my good friend sba administrator isabel guzman we...
+
+[USTR_S_150623]
+  ...is to partner together where we are all co-owners of different parts of supply chains this makes perfect sense in terms of de-risking and building [resilience] the key is to offer economies a spot in vertical integration so that developing countries are not perpetually trapped in an exploitative cycle in my...
+
+[USTR_S_150623]
+  ...that allow us to create opportunities and build our middle classes together rather than pitting them against each other pursuing this kind of de-risking and [resilience] in supply chains is about improving our national security and economic security for working people these are critical to taking down tensions in the world...
+
+[DOC_S_301122]
+  ...goal together with the private sector we are going to bolster our system of export controls enhance our investment screening regimes strengthen our supply chain [resiliency] and develop innovative solutions to counter china’s economic coercion and human rights abuses to begin with we are redoubling our efforts to safeguard our core...
+
+[DOC_S_301122]
+  ...represent over 40 percent of global gdp this innovative economic framework represents a proactive economic strategy designed to support a regional economy that is connected [resilient] clean and fair and will provide a competitive and attractive new market for u.s exports and investment it will also be a kind-of-a supply chain...
+
+[DOS_S_231024]
+  ...investment to deliver on big challenges like the clean energy transition and artificial intelligence revitalizing our capacity to innovate and to build creating diversified and [resilient] global supply chains setting high standards for everything from labor to the environment to technology because on that level playing field our logic goes america...
+
+[DOS_S_231024]
+  ...tariffs at unfair practices in strategic sectors where we and our allies are investing hundreds of billions of dollars to rebuild our manufacturing and our [resilience] and crucially we’re seeing partners in both advanced and emerging economies reach similar conclusions regarding overcapacity and take similar steps to ward off damage to...
+
+[DOS_S_231024]
+  ...that along the way or at least we stopped talking about it but there was no plausible version of answers on decarbonization or supply chain [resilience] without recovering this tradition and so we have we’ve made the largest investment ever to diversify and accelerate clean energy deployment through the inflation reduction...
+
+[DOS_S_231024]
+  ...united states attracted more than five times more inbound foreign direct investment than the next highest country we are once again demonstrating our capacity for [resilience] and reinvention and others are noticing the eu’s draghi report published last month mirrors key aspects of our strategy now as we continue to implement...
+
+[DOS_S_231024]
+  ...every $ 1 the taxpayers provide we’ve asked congress to approve investments in a new trust fund at the imf to help developing countries build [resilience] and sustainability through a u.s investment in the tens of millions we could enable tens of billions in new imf lending and outside the world...
+
+Total occurrences: 29 
+
+>>> KWIC: president biden <<<
+
+[NSA_S_300523]
+  ...russia's invasion of ukraine underscored the risks of overdependence so this moment demands that we forge a new consensus that's why the united states under [president biden] is pursuing a modern industrial and innovation strategy—both at home and with partners around the world one that invests in the sources of our own...
+
+[NSA_S_300523]
+  ...on we've had to revisit some old assumptions then i'll walk through step by step how our approach is tailored to meeting those challenges when [president biden] came into office more than two years ago the country faced from our perspective four fundamental challenges first america's industrial base had been hollowed out...
+
+[NSA_S_300523]
+  ...to its rules it didn't turn out that way in some cases it did and in lot of cases it did not by the time [president biden] came into office we had to contend with the reality that a large non-market economy had been integrated into the international economic order in a...
+
+[NSA_S_300523]
+  ...or geopolitical leverage the third challenge we faced was an accelerating climate crisis and the urgent need for a just and efficient energy transition when [president biden] came into office we were falling dramatically short of our climate ambitions without a clear pathway to abundant supplies of stable and affordable clean energy...
+
+[NSA_S_300523]
+  ...of the obama-biden administration to make significant headway too many people believed that we had to choose between economic growth and meeting our climate goals [president biden] has seen things totally differently as he's often said when he hears climate he thinks jobs he believes that building a twenty-first-century clean-energy economy is...
+
+[NSA_S_300523]
+  ...four challenges were not unique to the united states established and emerging economies were confronting them too—in some cases more acutely than we are when [president biden] came to office he knew the solution to each of these challenges was to restore an economic mentality that champions building and that is the...
+
+[NSA_S_300523]
+  ...resilient and leading-edge techno-industrial base that the united states and its like-minded partners established and emerging economies alike can invest in and rely upon together [president biden] and european commission president ursula von der leyen talked about this here in washington last month they released a very important statement which if you...
+
+[NSA_S_300523]
+  ...following bold public investments in our respective industrial capacity needs to be at the heart of the energy transition and president von der leyen and [president biden] committed to working together to ensure that the supply chains of the future are resilient secure and reflective of our values—including on labor they laid...
+
+[NSA_S_300523]
+  ...aligning respective clean-energy incentives on each side of the atlantic and launching a negotiation on supply chains for critical minerals and batteries shortly after that [president biden] went to canada he and prime minister justin trudeau established a task force to accelerate cooperation between canada and the united states toward exactly the...
+
+[NSA_S_300523]
+  ...but we are not looking for confrontation or conflict we're looking to manage competition responsibly and seeking to work together with china where we can [president biden] has made clear that the united states and china can and should work together on global challenges like climate like macroeconomic stability health security and...
+
+[DOC_FS_140524]
+  ...workers china is also flooding global markets with artificially low-priced exports in response to china’s unfair trade practices and to counteract the resulting harms today [president biden] is directing his trade representative to increase tariffs under section 301 of the trade act of 1974 on $ 18 billion of imports from china...
+
+[DOC_FS_140524]
+  ...act these investments are creating new american jobs in manufacturing and clean energy and helping communities that have been left behind make a comeback as [president biden] says american workers and businesses can outcompete anyone—as long as they have fair competition but for too long china’s government has used unfair non-market practices...
+
+[DOC_FS_140524]
+  ...today’s actions to counter china’s unfair trade practices are carefully targeted at strategic sectors—the same sectors where the united states is making historic investments under [president biden] to create and sustain good-paying jobs—unlike recent proposals by congressional republicans that would threaten jobs and raise costs across the board the previous administration’s trade...
+
+[DOC_FS_140524]
+  ...and businesses from strong alliances and a rules-based international trade system based on fair competition following an in-depth review by the united states trade representative [president biden] is taking action to protect american workers and american companies from china’s unfair trade practices to encourage china to eliminate its unfair trade practices regarding...
+
+[DOC_FS_140524]
+  ...variety of products including automobiles consumer appliances and medical devices underscoring the risks of overreliance on a few markets through the chips and science act [president biden] is making a nearly $ 53 billion investment in american semiconductor manufacturing capacity research innovation and workforce this will help counteract decades of disinvestment and...
+
+[DOC_FS_140524]
+  ...supply chains vulnerable and our national security and clean energy goals at risk in order to improve u.s and global resiliency in these supply chains [president biden] has invested across the u.s battery supply chain to build a sufficient domestic industrial base through the bipartisan infrastructure law the defense production act and...
+
+[USTR_S_150623]
+  ...policy has led to consolidation and unchecked dominance in our domestic market which has stifled competition and diminished economic liberty for our citizens and workers [president biden] recognized this when he issued an executive order on promoting competition policy in the american economy just six months into the administration in which he...
+
+[USTR_S_150623]
+  ...diverse set of economies producing steel and aluminum a world where democracies and open markets can flourish and drive standards that improve over time as [president biden] says we truly are at an inflection point we are facing multiple challenges at the same time so our trade policy cannot remain in a...
+
+[DOC_S_301122]
+  ...commitment to innovation technology manufacturing workforce training and the infrastructure including broadband we need to ensure our future competitiveness and national security it is what [president biden] has termed a modern industrial strategy an approach rooted deeply in america’s history—from alexander hamilton’s report on manufacturers to president lincoln’s intercontinental railroad—but calibrated to...
+
+[DOC_S_301122]
+  ...companies are not complicit in china’s gross human rights abuses our trade and investment with china should reflect our core democratic values that is why [president biden] signed the bipartisan uyghur forced labor prevention act into law requiring companies to certify that they are not sourcing goods that relied upon forced labor...
+
+[DOC_S_301122]
+  ...invasion of ukraine we are also reasserting u.s economic leadership and partnership in the most economically dynamic region of the world last may in tokyo [president biden] launched the indo-pacific economic framework or ipef with thirteen partner countries that together with the u.s represent over 40 percent of global gdp this innovative...
+
+[DOC_S_301122]
+  ...vibrant emerging economies of the global south to meet their desire for growth that is sustainable broad-based inclusive and transparent as an important first step [president biden] together with our g7 partners launched the $ 600 billion partnership for global infrastructure and investment or pgii to support climate-resilient infrastructure better healthcare and...
+
+[DOC_S_301122]
+  ...important changes to china’s ip laws over the longer term no-one can outcompete the u.s if we are playing by the same rules and as [president biden] made clear during his recent meeting with china’s president xi jinping earlier this month we want to work with china on issues of global economic...
+
+[DOS_S_231024]
+  ...democracies and had generated genuine innovation and technological progress but our economic policies had not been adapted to deal effectively with these challenges that’s why [president biden] implemented a modern industrial strategy one premised on investing at home in ourselves and our national strength and on shifting the energies of u.s foreign...
+
+[DOS_S_231024]
+  ...has come down and contrary to the predictions that the prc would overtake the u.s in gdp either in this decade or the next since [president biden] took office the united states has more than doubled our lead and last year the united states attracted more than five times more inbound foreign...
+
+Total occurrences: 25 

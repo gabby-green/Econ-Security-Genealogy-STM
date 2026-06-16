@@ -1,0 +1,1171 @@
+=============================================================
+EU Corpus -- Topic 8 
+Generated: 2026-05-09 13:05 
+=============================================================
+
+PROB:  trade, duti, european, european_union, china, export, import, leather, europ, rule, price, product, competit, commiss, unfair 
+FREX:  leather, duti, dump, shoe, anti-dump, unfair, footwear, price, vietnam, trade_defence_instru, investig, textil, trade_def, lesser, injuri 
+
+-------------------------------------------------------------
+TOP DOCUMENTS
+-------------------------------------------------------------
+
+[ 1] EC_S_140306 (2006) -- theta=0.997
+     Leather footwear, tough competition and unfair trade Remarks to the European Parliament; oral questions with debate
+
+[ 2] EC_PR_230306 (2006) -- theta=0.997
+     Commission adopts provisional anti-dumping measures on Chinese and Vietnamese leather shoes
+
+[ 3] EC_S_230206 (2006) -- theta=0.996
+     Peter Mandelson  EU Trade Commissioner Anti-dumping investigation into Chinese and Vietnamese leather shoes
+
+[ 4] EC_S_100512 (2012) -- theta=0.933
+     Karel De Gucht European Commissioner for Trade A Trade Defence System for Today's Global Economy High Level Conference: Modernisation of Trade Defence Instruments Brussels, 10 May 2012
+
+[ 5] EC_COM_181016 (2016) -- theta=0.722
+     Towards a robust trade policy for the EU in the interest of jobs and growth
+
+[ 6] EC_S_290908 (2008) -- theta=0.504
+     Peter Mandelson EU Trade Commissioner The challenge of raw materials  Trade and Raw Materials Conference Brussels
+
+[ 7] EC_S_100605 (2005) -- theta=0.481
+     Peter Mandelson  EU Trade Commissioner EU-China negotiations on textiles Statement to the press
+
+[ 8] EC_PR_071016 (2016) -- theta=0.366
+     European Commission imposes anti-dumping duties on Chinese steel products
+
+[ 9] EC_WP_170620 (2020) -- theta=0.263
+     White paper on levelling the playing field as regards foreign subsidies
+
+[10] EC_S_060905 (2005) -- theta=0.127
+     Challenges and opportunities for EU and China in the age of Globalisation
+
+-------------------------------------------------------------
+TEXT EXCERPTS
+-------------------------------------------------------------
+
+[1] EC_S_140306 (2006)
+In these opening remarks to a European Parliament debate, EU Trade Commissioner Peter Mandelson
+argues that anti-dumping measures can only be part of a much wider strategy to adjust to
+competition from Asian exporters like China. He argues that Europe is justified in acting to
+correct injury caused by unfair trading practice but he warned that Europe should not pretend that
+competitive pressure on Europe is related solely to unfair trade. He argues that changing patterns
+of production, including the outsourcing of European production to Asia mean that Europe has
+nothing to gain from closing the doors to competitive Asian exports. Mandelson says: “Europe's
+trade defence measures target unfair trade. They cannot protect us from tough competition. They
+cannot shield us from Asia's natural and
+...
+
+[2] EC_PR_230306 (2006)
+Commission adopts provisional anti-dumping measures on Chinese and Vietnamese leather shoes The
+European Commission has today adopted proposals by the European Trade Commissioner Peter Mandelson
+to impose a provisional anti-dumping duty on leather shoes from China and Vietnam. The measures
+follow a preliminary Commission investigation that has identified clear evidence of disguised
+subsidies and unfair state intervention to the leather footwear sector in China and Vietnam. The
+Trade Commissioner today firmly reiterated his willingness to work with the Vietnamese and Chinese
+governments to address the questions of competitive distortions raised by the Commission's
+investigation. EU Trade Commissioner Peter Mandelson said: "These anti-dumping measures will
+correct the injury caused to Europe
+...
+
+[3] EC_S_230206 (2006)
+Statement to the Press: Anti-dumping investigation into Chinese and Vietnamese leather shoes
+Recommendation to Member States This is the first phase of the European Commission's investigation
+into allegations of dumping of leather footwear on the European market by China and Vietnam. There
+is compelling evidence of serious state intervention on a large and strategic industrial scale in
+the footwear sector in China and Vietnam. Along with wide evidence of substantially flawed
+accounting practice, we have found clear evidence of non-commercial loans or capital grants from
+the state to producers; improper evaluation of assets; non-commercial rates for land-use and
+important tax breaks for exports. These disguised subsidies allow Chinese and Vietnamese producers
+to export leather shoes to Euro
+...
+
+[4] EC_S_100512 (2012)
+Ladies and Gentlemen, These are not easy days to be a trade commissioner arguing for open markets:
+In many parts of the world, also in some of our Member States, there is a protectionist wind in the
+air. That wind is fanned by the crisis and by the changing structure of the global economy, both of
+which have led to an increased fear of unemployment among people in Europe and around the world.
+Therefore, advocating open markets must happen with a sound dose of realism. We can, must and do
+address people's fears through logical argument about the benefits of trade in terms of jobs and
+lower prices. But we must also be able to show that the international trading system is fair. If we
+cannot present evidence that we are competing on a level playing field, then people will resist
+further libera
+...
+
+[5] EC_COM_181016 (2016)
+COMMUNICATION FROM THE COMMISSION Towards a robust trade policy for the EU in the interest of jobs
+and growth Communication from the Commission to the European Parliament, the European Council and
+the Council Towards a robust trade policy for the EU in the interest of jobs and growth In the
+modern global economy, trade is essential for growth, jobs and competiveness, and the EU is
+committed to an open rules-based trading system. Exports now support almost one in seven
+manufacturing jobs in Europe (i.e. more than 30 million jobs – two thirds more than 15 years ago),
+while imports are a major source of productivity gains and allow consumers to benefit from access
+to more choice and lower cost products. Production in the EU is dependent not only on energy and
+raw material imports, but also on
+...
+
+[6] EC_S_290908 (2008)
+The challenge of raw materials Trade and Raw Materials Conference Brussels, 29 September 2008 I'd
+like to say how I see the question of raw materials fitting into the wider political and economic
+approach that this Commission has taken to globalisation and the European economy. And – partly
+because I have just come back from high level contacts with China and India – I'd like to offer
+some thoughts about what we are up against politically outside of the EU when we make the case for
+open and transparent trade in commodities. When I set out the EU's Global Europe strategy back in
+2006 I based it on a simple argument about globalisation and the structure of the modern European
+economy. Europe is a supply chain economy. The materials that power our manufacturing industries
+are sourced from eve
+...
+
+[7] EC_S_100605 (2005)
+Statement to the press following EU-China negotiations on textiles Statement to the press Shanghai,
+China, 10 June 2005 From the beginning of this year the issue of Chinese textiles has been very
+firmly on my radar screen. This is not surprising. The explosion in imports of Chinese textiles and
+clothing has created alarm in many European member states, and the issue has threatened to mushroom
+into a major trade dispute between Europe and China. Without wishing to turn back the clock on the
+elimination of quotas in the textiles trade I concluded that economically and politically I had to
+propose action to manage what was becoming a combustible situation in a number of our Member
+States. I am a believer in free trade. But I am equally sensitive to the need to be able to adjust
+and find trans
+...
+
+[8] EC_PR_071016 (2016)
+The Commission today decided to impose provisional anti-dumping duties on imports of two steel
+products from China, in a swift reaction to unfair competition, making full use of the instruments
+available in the EU anti-dumping legislation. The measures concern hot-rolled flat steel and heavy
+plates of steel and come almost five weeks ahead of the procedural deadline. In the case of
+hot-rolled steel, the imposition of duties results from an investigation initiated even before the
+dumping-related damage could materialise, based on the so called "threat of injury". As for the
+heavy plates, imports are subject to registration since August and duties can be applied
+retroactively at the definitive stage. The Commission's investigations confirmed that the Chinese
+products had been sold in Europe
+...
+
+[9] EC_WP_170620 (2020)
+Introduction Openness to trade and investment underpins Europe’s prosperity and competitiveness.
+Trade accounts for almost 35% of the EU’s GDP. 35 million European jobs are linked to exports. The
+EU is the world’s main provider and the top global destination of foreign direct investment 1 with
+16 million European jobs linked to it. A strong, open and competitive single market enables EU
+companies to operate and compete globally. On 10 March 2020, the European Commission presented a
+New Industrial Strategy for Europe which mapped out a clear path for Europe to allow our industry
+to lead the green and digital transitions based on competition, open markets, world-leading
+research and technologies and a strong single market. To reap the full benefits of global trade,
+Europe will pursue a model
+...
+
+[10] EC_S_060905 (2005)
+This afternoon I want to talk about globalisation. After ten months in my job as European Trade
+Commissioner, I think I have an original perspective to offer. A perspective shaped by visions of
+pullovers and trousers. You would never know it, on the basis of reading the European press, but
+the European Union remains the second largest exporter of textiles in the world. This surprising
+fact contradicts the view of those who see globalisation, and the rise of China and India in
+particular, as the swamping of European markets by low cost producers. The truth is Europe can
+compete in the new world, but it involves a process of restructuring and adjustment in which there
+will inevitably be losers as well as winners within the EU itself. But it was always thus, given
+that economic dynamism, tech
+...
+
+-------------------------------------------------------------
+KEYWORD-IN-CONTEXT
+Search terms: china | dumping | anti-dumping | duti | shoe | textile | leather | unfair | trade defence | investigat | competit 
+-------------------------------------------------------------
+
+>>> KWIC: china <<<
+
+[EC_COM_181016]
+  ...overcapacities and ultimately in dumped exports on the eu market this year has seen massive overcapacities harm the eu steel sector the steel overcapacity in [china] alone has been estimated at around 350 million tonnes almost the double of the union's annual production steel imports from china to the eu have...
+
+[EC_COM_181016]
+  ...the steel overcapacity in china alone has been estimated at around 350 million tonnes almost the double of the union's annual production steel imports from [china] to the eu have surged in the last three years market prices for some steel products fell by up to 40 due to the surge...
+
+[EC_COM_181016]
+  ...has seen 40.000 jobs lost since the beginning of the financial crisis 1 overcapacities are also developing very fast in other sectors for instance aluminium [china] has almost 10 million tons of excess aluminium capacity doubled from five years ago boosted by subsidised energy which represents up to 40 of the...
+
+[EC_COM_181016]
+  ...sector alone the eu already has 39 anti-dumping and anti-subsidy measures in place to protect our steel industry from unfair competition 17 of those concern [china] within the limits of existing eu law the commission has been deploying the full force of the existing trade defence instruments including registration of imports...
+
+[EC_COM_181016]
+  ...adopted as a matter of urgency in addition the international legal framework is changing as certain provisions on dumping calculations in the accession protocols of [china] vietnam and tajikistan to the world trade organisation will shortly expire the commission envisages further amendments to the current eu trade defence legislation including a...
+
+[EC_COM_181016]
+  ...margin or the level that removes injury whichever is lower the lesser duty for example in the measures imposed on hot rolled coils originating in [china] 3 the dumping margin was 102 and the injury margin was 19 which was the level of the duties set the lesser duty rule therefore...
+
+[EC_COM_181016]
+  ...imposes twice as many anti-dumping measures as the eu with typically much higher duties for instance in cold rolled steel products the us imposed a [china] countrywide anti-dumping rate of 266 in 2015 whereas in the eu the equivalent rate was 21.1 4 in steel rebars the us imposed a countrywide...
+
+[EC_COM_181016]
+  ...whereas in the eu the equivalent rate was 21.1 4 in steel rebars the us imposed a countrywide duty rate of 133 on imports from [china] in 2012 compared to 22.5 5 imposed by the eu in 2016 this marked difference in duty levels risks diverting trade to the eu putting...
+
+[EC_COM_181016]
+  ...need to do more as overproduction in some parts of the world is putting european producers out of business this is why i was in [china] twice this year to address the issue of overcapacity this is also why the commission has proposed to change the lesser duty rule the united...
+
+[EC_S_230206]
+  ...to member states this is the first phase of the european commission's investigation into allegations of dumping of leather footwear on the european market by [china] and vietnam there is compelling evidence of serious state intervention on a large and strategic industrial scale in the footwear sector in china and vietnam...
+
+[EC_S_230206]
+  ...market by china and vietnam there is compelling evidence of serious state intervention on a large and strategic industrial scale in the footwear sector in [china] and vietnam along with wide evidence of substantially flawed accounting practice we have found clear evidence of non-commercial loans or capital grants from the state...
+
+[EC_S_230206]
+  ...anti-competitive behaviour this state-supported dumping is causing serious injury to european industry the contraction of european production mirrors closely the rise in under-priced imports from [china] and vietnam i cannot curb these imports or block their rise i can however remedy the injury of below-cost pricing i am recommending to member...
+
+[EC_S_230206]
+  ...remedy the injury of below-cost pricing i am recommending to member states and to my commission colleagues that a provisional anti-dumping duty of 19.4 for [china] and 16.8 for vietnam be introduced this recommendation reflects my judgement of the community's overall economic interest i am recommending to member states that children's...
+
+[EC_S_230206]
+  ...and the damaging effects of dumping will be counteracted this is a balanced solution during this preliminary phase i am launching immediate discussions with both [china] and vietnam to encourage them to rectify this unfair trade in footwear i have spoken to vietnamese and chinese ministers this morning i welcome their...
+
+[EC_S_230206]
+  ...by the commission services i will be recommending to member states that in the case of allegations of dumping of safety shoes from india and [china] no provisional measures will be imposed that investigation will continue but no immediate action will be taken defence against unfair trade is specifically sanctioned by...
+
+[EC_S_230206]
+  ...than the equivalent eu product and they can and often do leave the competing export much cheaper than the european equivalent we are not targeting [china] or vietnam's natural advantage we are targeting their anti-competitive behaviour i need to be crystal clear anti-dumping measures will not take the form of quantitative...
+
+[EC_S_230206]
+  ...included the share of eu-china trade affected by anti-dumping investigations or measures is still less than 2 2 of a rapidly growing exports growth by [china] shoes are not textiles i do not accept any comparison with textile imports from china the textile issue concerned fairly traded textile imports albeit subject...
+
+[EC_S_230206]
+  ...than 2 2 of a rapidly growing exports growth by china shoes are not textiles i do not accept any comparison with textile imports from [china] the textile issue concerned fairly traded textile imports albeit subject to a dramatic and disproportionate increase in volume following the lifting of quotas on chinese...
+
+[EC_S_230206]
+  ...in volume following the lifting of quotas on chinese textiles on 1 january 2005 we addressed this problem not by triggering a trade war with [china] but on the contrary through a period of restricted growth providing a short adjustment period for european producers leading to full liberalisation in 2008 i...
+
+[EC_S_230206]
+  ...be seen in this perspective let me add that i remain strongly committed to developing the two way trade and investment relationship between europe and [china] and with other asian markets including vietnam there is no greater prize for european trade policy in the coming years than the prize of getting...
+
+[EC_S_230206]
+  ...our own skills and technologies give us the edge this is how trade grows and that is how europe's economies have grown over centuries but [china] has a key role to play in her own successful integration into the world trading system china has responsibilities fully to embrace the rules to...
+
+[EC_S_230206]
+  ...how europe's economies have grown over centuries but china has a key role to play in her own successful integration into the world trading system [china] has responsibilities fully to embrace the rules to avoid breaches of intellectual property rights and to open her markets to external produce this way china...
+
+[EC_S_230206]
+  ...china has responsibilities fully to embrace the rules to avoid breaches of intellectual property rights and to open her markets to external produce this way [china] will flourish through free not unfair trade and i will continue to welcome this inevitably frictions and disputes will arise in our relationship i am...
+
+[EC_S_140306]
+  ...trade commissioner peter mandelson argues that anti-dumping measures can only be part of a much wider strategy to adjust to competition from asian exporters like [china] he argues that europe is justified in acting to correct injury caused by unfair trading practice but he warned that europe should not pretend that...
+
+[EC_S_140306]
+  ...footwear industry first of all let me stress that i am strongly committed to developing the two way trade and investment relationship between europe and [china] and with other asian markets including vietnam there is no greater prize for european trade policy in the coming years than the prize of getting...
+
+[EC_S_140306]
+  ...the commission and to member states provisional duties in this case there is clear evidence of serious state intervention in the leather footwear sector in [china] and vietnam cheap finance tax breaks non-market land rents improper asset valuation leading to dumping and that dumping is causing serious injury to eu producers...
+
+[EC_S_140306]
+  ...leading to dumping and that dumping is causing serious injury to eu producers i have recommended that duties of 16.8 for vietnam and 19.4 for [china] be phased in over a period of five months beginning at about 4 in april this will ensure that retailers with goods in transit are...
+
+[EC_S_140306]
+  ...for importers and passes on minimal additional costs to consumers there will be no quotas no limit at all on import of leather shoes from [china] and vietnam i have told the chinese and vietnamese that i want to work with them to see how they can address the concerns raised...
+
+[EC_S_140306]
+  ...a dramatic and sudden increase in volume following the lifting of quotas on chinese textiles on 1 january 2005 in that case we agreed with [china] how to handle the problems that arose our proposed anti-dumping measures on shoes tackle unfair competition the european commission has a legal obligation to investigate...
+
+[EC_S_140306]
+  ...sector let me address this briefly the contraction of the footwear sector is a long term process that began long before trade in footwear with [china] was liberalised in 2005 nonetheless it is clear that there have been winners and losers from this change some producers have increased their exports and...
+
+[EC_S_140306]
+  ...turkey and some of the acp countries have seen their exports to the eu hold steady or fall hold steady or fall clearly it is [china] equipped with a staggering production and export capacity that has benefited most here in europe more than 40 000 footwear jobs have been lost and...
+
+[EC_PR_230306]
+  ...shoes the european commission has today adopted proposals by the european trade commissioner peter mandelson to impose a provisional anti-dumping duty on leather shoes from [china] and vietnam the measures follow a preliminary commission investigation that has identified clear evidence of disguised subsidies and unfair state intervention to the leather footwear...
+
+[EC_PR_230306]
+  ...the measures follow a preliminary commission investigation that has identified clear evidence of disguised subsidies and unfair state intervention to the leather footwear sector in [china] and vietnam the trade commissioner today firmly reiterated his willingness to work with the vietnamese and chinese governments to address the questions of competitive distortions...
+
+[EC_PR_230306]
+  ...european leather shoe producers it is important that we act against unfair trade while encouraging legitimate and competitive from emerging economies we do not target [china] and vietnam's natural competitive advantages only unfair distortions of trade in order to minimise any sudden impact on imports the duties will be imposed progressively...
+
+[EC_PR_230306]
+  ...a period of five months beginning on april 7 they will rise to 16.8 for leather shoes from vietnam and 19.4 for leather shoes from [china] a duty sufficient to correct the injury caused to european producers by dumping the provisional measures exclude children's leather shoes so as to ensure that...
+
+[EC_PR_230306]
+  ...not use these excluded categories to circumvent the duties four things you need to know about the commission's provisional anti-dumping measures on leather shoes from [china] and vietnam they confront unfair trade practice not china and vietnam's natural comparative advantage although the eu investigation was undertaken in factories jointly agreed with...
+
+[EC_PR_230306]
+  ...four things you need to know about the commission's provisional anti-dumping measures on leather shoes from china and vietnam they confront unfair trade practice not [china] and vietnam's natural comparative advantage although the eu investigation was undertaken in factories jointly agreed with the vietnamese and chinese governments eu investigators found clear...
+
+[EC_PR_230306]
+  ...in factories jointly agreed with the vietnamese and chinese governments eu investigators found clear evidence of serious state intervention in the leather footwear sector in [china] and vietnam cheap finance tax holidays non-market land rents improper asset valuation and export incentives there is dumping flowing from this state subsidisation legitimate low-cost...
+
+[EC_PR_230306]
+  ...and often do leave the competing export much cheaper than the european equivalent this is not true of the rules used by the united states [china] and others nor do these countries take account of the wider public interest through a community interest-type rule we can't use anti-dumping procedures to stop...
+
+[EC_S_290908]
+  ...approach that this commission has taken to globalisation and the european economy and partly because i have just come back from high level contacts with [china] and india i'd like to offer some thoughts about what we are up against politically outside of the eu when we make the case for...
+
+[EC_S_290908]
+  ...consider the changes that the emerging economies are already imposing on the basic global economic order this is especially true of the booming growth of [china] and india this change is resource-intensive and it is on an enormous scale it is why the next phase of globalisation will be defined by...
+
+[EC_S_290908]
+  ...race to mutual benefit it will be i believe one of the two or three defining issues of our strategic long term economic relationship with [china] for example the case against resource nationalism is a strong one and i want to remake it today i also want to set out the...
+
+[EC_S_290908]
+  ...as high as 40 india taxes iron ore exports at 50 rupees a ton which is one of the main reasons why its biggest customer [china] is now looking to secure supply in gabon at source china itself recently imposed an export tax of 120 on yellow phosphorous and increased export...
+
+[EC_S_290908]
+  ...rupees a ton which is one of the main reasons why its biggest customer china is now looking to secure supply in gabon at source [china] itself recently imposed an export tax of 120 on yellow phosphorous and increased export duties on coke to 40 our competitive advantage is already acutely...
+
+[EC_S_290908]
+  ...that rely on these raw materials and compete with producers in these countries is obvious if it costs more just to export say phosphorus from [china] than it costs a chinese company to buy it domestically and transform it then european industry can't compete in europe in china or anywhere else...
+
+[EC_S_290908]
+  ...say phosphorus from china than it costs a chinese company to buy it domestically and transform it then european industry can't compete in europe in [china] or anywhere else in the global market the export duty acts like an indirect subsidy unfortunately sixty years of global liberalisation in trade in goods...
+
+[EC_S_290908]
+  ...keep local prices down russia's export taxes on wood are intended to hand the same kind of captive supply to the russian timber processing industry [china's] duties on coke exports are a prop for its steel industry these sound like significant political and economic strategies so it is important to understand...
+
+[EC_S_290908]
+  ...goes against the commitments it made to the eu in its wto accession negotiations in 2004 and is the subject of current discussions between us [china] also must expect to be held to the commitments it made on export restrictions in its own wto accession agreements i have raised this issue...
+
+[EC_S_290908]
+  ...imports i believe that the question of trade in raw materials will become one of the defining issues of our trade and economic dialogue with [china] and i have placed it on the agenda of the high level trade mechanism and of other dialogues while we can and should reinforce commitments...
+
+[EC_S_290908]
+  ...is not a policy that can be conducted solely in a wto courtroom at the end of the day raw materials is an area where [china] and the eu will need to work together constructively and for the long term globalisation forces us to see the big picture on raw materials...
+
+[EC_S_100512]
+  ...face with unfair trading practices another change is linked to the rise of what has been called state capitalism it is frequently used to describe [china's] system but it can also be applied to russia vietnam and other emerging economies it has two consequences for trade defence first it implies that...
+
+[EC_S_100512]
+  ...a significant share of the value of the finished goods we import has its origin in europe we all know the difference between made in [china] and made by china so i think that we should stay vigilant about these value chains when conducting the union interest test hence we should...
+
+[EC_S_100512]
+  ...the value of the finished goods we import has its origin in europe we all know the difference between made in china and made by [china] so i think that we should stay vigilant about these value chains when conducting the union interest test hence we should consider whether there is...
+
+Total occurrences: 53 
+
+>>> KWIC: dumping <<<
+
+[EC_COM_181016]
+  ...these products make up 80 of eu imports however we are not naïve free trade must also be fair and unfair trading practices such as [dumping] and subsidisation by foreign producers and governments cause serious harm to eu industry and workers undermining support for free trade which is already under attack...
+
+[EC_COM_181016]
+  ...of injury however we have reached the limit of what is feasible under the existing eu trade defence legislation to rein in external overcapacities and [dumping] in order to preserve european jobs and ensure fair competition in open markets it is of crucial importance that the eu's trade defence instruments are...
+
+[EC_COM_181016]
+  ...modernise trade defence instruments 2 must be adopted as a matter of urgency in addition the international legal framework is changing as certain provisions on [dumping] calculations in the accession protocols of china vietnam and tajikistan to the world trade organisation will shortly expire the commission envisages further amendments to the...
+
+[EC_COM_181016]
+  ...the world trade organisation will shortly expire the commission envisages further amendments to the current eu trade defence legislation including a new methodology for calculating [dumping] allowing for action on newly revealed subsidies and ensuring an orderly transition to the new situation the commission believes it is now imperative for the...
+
+[EC_COM_181016]
+  ...european parliament adopted its position on the proposal in 2014 what is the lesser duty rule to impose anti-dumping measures there needs to be proven [dumping] from a third country and proven injury for eu industry with a causal link between them the level of anti-dumping duties is then imposed at...
+
+[EC_COM_181016]
+  ...and proven injury for eu industry with a causal link between them the level of anti-dumping duties is then imposed at the level of the [dumping] margin or the level that removes injury whichever is lower the lesser duty for example in the measures imposed on hot rolled coils originating in...
+
+[EC_COM_181016]
+  ...level that removes injury whichever is lower the lesser duty for example in the measures imposed on hot rolled coils originating in china 3 the [dumping] margin was 102 and the injury margin was 19 which was the level of the duties set the lesser duty rule therefore caps the level...
+
+[EC_COM_181016]
+  ...to support the commission in strengthening our trade defence instruments we should not be naïve free traders but be able to respond as forcefully to [dumping] as the united states 6 however despite numerous calls by the european council to take swift action including in march and june 2016 the council...
+
+[EC_COM_181016]
+  ...the commission's forthcoming proposal addressing situations where market prices do not prevail in a world of global and complex supply chains the traditional calculation of [dumping] does not capture all the factors and distortions that exist in some emerging and transition economies the eu cannot remain defenceless against massive subsidies government...
+
+[EC_COM_181016]
+  ...the commission will propose a new anti-dumping methodology to capture market distortions linked to state intervention in third countries that mask the true extent of [dumping] practices in determining distortions several criteria will be considered such as inter alia state policies and influence the widespread presence of state owned enterprises discrimination...
+
+[EC_COM_181016]
+  ...to that of some other international partners such as the us and canada where distortions are found prices and cost will be disregarded for calculating [dumping] and the commission will use other available benchmarks including costs and prices in other economies the commission will draft specific reports for countries or sectors...
+
+[EC_S_230206]
+  ...anti-dumping investigation into chinese and vietnamese leather shoes recommendation to member states this is the first phase of the european commission's investigation into allegations of [dumping] of leather footwear on the european market by china and vietnam there is compelling evidence of serious state intervention on a large and strategic industrial...
+
+[EC_S_230206]
+  ...to europe at below the true cost of production in their own countries natural comparative advantage is being topped up with anti-competitive behaviour this state-supported [dumping] is causing serious injury to european industry the contraction of european production mirrors closely the rise in under-priced imports from china and vietnam i cannot...
+
+[EC_S_230206]
+  ...april the full duty will be in place before the end of the 6 month period for these provisional measures and the damaging effects of [dumping] will be counteracted this is a balanced solution during this preliminary phase i am launching immediate discussions with both china and vietnam to encourage them...
+
+[EC_S_230206]
+  ...today that on the basis of analysis by the commission services i will be recommending to member states that in the case of allegations of [dumping] of safety shoes from india and china no provisional measures will be imposed that investigation will continue but no immediate action will be taken defence...
+
+[EC_S_230206]
+  ...retailers to adjust to the duty being introduced this is not protectionism i do not accept that acting to limit the damaging effects of this [dumping] is protectionism indeed my view is that free trade suffers when unfair trade is allowed to flourish europe's lesser duty anti-dumping rule clearly ensures that...
+
+[EC_S_140306]
+  ...competition for all their ingenuity creativity and excellence europe's leather shoe makers are faced with an extraordinary challenge from asian producers but the case of [dumping] requires me to distinguish between this tough new competition and genuinely unfair trade europe's trade defence measures target unfair trade they cannot protect us from...
+
+[EC_S_140306]
+  ...of serious state intervention in the leather footwear sector in china and vietnam cheap finance tax breaks non-market land rents improper asset valuation leading to [dumping] and that dumping is causing serious injury to eu producers i have recommended that duties of 16.8 for vietnam and 19.4 for china be phased...
+
+[EC_S_140306]
+  ...intervention in the leather footwear sector in china and vietnam cheap finance tax breaks non-market land rents improper asset valuation leading to dumping and that [dumping] is causing serious injury to eu producers i have recommended that duties of 16.8 for vietnam and 19.4 for china be phased in over a...
+
+[EC_S_140306]
+  ...the maximum of transparency and predictability it nevertheless means that after six months a full duty will be in place and the damaging effects of [dumping] will be counteracted as i am required by law to do i have weighed the question of consumer and retailer interest in this case very...
+
+[EC_PR_230306]
+  ...16.8 for leather shoes from vietnam and 19.4 for leather shoes from china a duty sufficient to correct the injury caused to european producers by [dumping] the provisional measures exclude children's leather shoes so as to ensure that even the small price rises are not passed on to poorer families special...
+
+[EC_PR_230306]
+  ...intervention in the leather footwear sector in china and vietnam cheap finance tax holidays non-market land rents improper asset valuation and export incentives there is [dumping] flowing from this state subsidisation legitimate low-cost comparative advantages common in developing countries are being topped up in this case with uncompetitive behaviour the commission...
+
+[EC_PR_230306]
+  ...clearly ensure that anti-dumping measures cannot be used to make imports more expensive than the equivalent eu product eu duties either close the margin of [dumping] which is the difference between the export price of the dumped product and its true value or close the margin of injury which is the...
+
+Total occurrences: 23 
+
+>>> KWIC: anti-dumping <<<
+
+[EC_COM_181016]
+  ...jurisdictions and only 0.21 of imports are affected faced with massive overcapacities flooding the eu market the european commission has taken an unprecedented number of [anti-dumping] and anti-subsidies measures around 315,000 jobs in europe have been protected primarily in the iron and steel chemical and allied industries ceramics and mechanical engineering...
+
+[EC_COM_181016]
+  ...primarily in the iron and steel chemical and allied industries ceramics and mechanical engineering sectors in the steel sector alone the eu already has 39 [anti-dumping] and anti-subsidy measures in place to protect our steel industry from unfair competition 17 of those concern china within the limits of existing eu law...
+
+[EC_COM_181016]
+  ...through dual pricing export taxes etc the european parliament adopted its position on the proposal in 2014 what is the lesser duty rule to impose [anti-dumping] measures there needs to be proven dumping from a third country and proven injury for eu industry with a causal link between them the level...
+
+[EC_COM_181016]
+  ...there needs to be proven dumping from a third country and proven injury for eu industry with a causal link between them the level of [anti-dumping] duties is then imposed at the level of the dumping margin or the level that removes injury whichever is lower the lesser duty for example...
+
+[EC_COM_181016]
+  ...of duties that can be imposed the eu's systematic application of the lesser duty rule goes beyond the basic obligations set out in the wto [anti-dumping] agreement the vast majority of other wto members including the us do not exercise this type of self-restraint the us imposes twice as many anti-dumping...
+
+[EC_COM_181016]
+  ...anti-dumping agreement the vast majority of other wto members including the us do not exercise this type of self-restraint the us imposes twice as many [anti-dumping] measures as the eu with typically much higher duties for instance in cold rolled steel products the us imposed a china countrywide anti-dumping rate of...
+
+[EC_COM_181016]
+  ...as many anti-dumping measures as the eu with typically much higher duties for instance in cold rolled steel products the us imposed a china countrywide [anti-dumping] rate of 266 in 2015 whereas in the eu the equivalent rate was 21.1 4 in steel rebars the us imposed a countrywide duty rate...
+
+[EC_COM_181016]
+  ...are adapted to face the new challenges and legal and economic realities while maintaining an equivalent level of protection the commission will propose a new [anti-dumping] methodology to capture market distortions linked to state intervention in third countries that mask the true extent of dumping practices in determining distortions several criteria...
+
+[EC_COM_181016]
+  ...be applied equally to all members of the world trade organisation it will involve the removal of the list of non-market economy countries in the [anti-dumping] legislation it would bring eu legislation and practice closer to that of some other international partners such as the us and canada where distortions are...
+
+[EC_S_230206]
+  ...statement to the press [anti-dumping] investigation into chinese and vietnamese leather shoes recommendation to member states this is the first phase of the european commission's investigation into allegations of dumping...
+
+[EC_S_230206]
+  ...their rise i can however remedy the injury of below-cost pricing i am recommending to member states and to my commission colleagues that a provisional [anti-dumping] duty of 19.4 for china and 16.8 for vietnam be introduced this recommendation reflects my judgement of the community's overall economic interest i am recommending...
+
+[EC_S_230206]
+  ...damaging effects of this dumping is protectionism indeed my view is that free trade suffers when unfair trade is allowed to flourish europe's lesser duty [anti-dumping] rule clearly ensures that anti-dumping measures cannot be used to make imports more expensive than the equivalent eu product and they can and often do...
+
+[EC_S_230206]
+  ...is protectionism indeed my view is that free trade suffers when unfair trade is allowed to flourish europe's lesser duty anti-dumping rule clearly ensures that [anti-dumping] measures cannot be used to make imports more expensive than the equivalent eu product and they can and often do leave the competing export much...
+
+[EC_S_230206]
+  ...than the european equivalent we are not targeting china or vietnam's natural advantage we are targeting their anti-competitive behaviour i need to be crystal clear [anti-dumping] measures will not take the form of quantitative restrictions or import quotas there is no ban on the goods in question and no limit to...
+
+[EC_S_230206]
+  ...defence instruments to block chinese trade i would simply point out that even when this case is included the share of eu-china trade affected by [anti-dumping] investigations or measures is still less than 2 2 of a rapidly growing exports growth by china shoes are not textiles i do not accept...
+
+[EC_S_140306]
+  ...in these opening remarks to a european parliament debate eu trade commissioner peter mandelson argues that [anti-dumping] measures can only be part of a much wider strategy to adjust to competition from asian exporters like china he argues that europe is justified...
+
+[EC_S_140306]
+  ...of quotas on chinese textiles on 1 january 2005 in that case we agreed with china how to handle the problems that arose our proposed [anti-dumping] measures on shoes tackle unfair competition the european commission has a legal obligation to investigate such a claim and a legal right to protect european...
+
+[EC_PR_230306]
+  ...commission adopts provisional [anti-dumping] measures on chinese and vietnamese leather shoes the european commission has today adopted proposals by the european trade commissioner peter mandelson to impose a provisional...
+
+[EC_PR_230306]
+  ...measures on chinese and vietnamese leather shoes the european commission has today adopted proposals by the european trade commissioner peter mandelson to impose a provisional [anti-dumping] duty on leather shoes from china and vietnam the measures follow a preliminary commission investigation that has identified clear evidence of disguised subsidies and unfair...
+
+[EC_PR_230306]
+  ...with the vietnamese and chinese governments to address the questions of competitive distortions raised by the commission's investigation eu trade commissioner peter mandelson said these [anti-dumping] measures will correct the injury caused to european leather shoe producers it is important that we act against unfair trade while encouraging legitimate and competitive...
+
+[EC_PR_230306]
+  ...created to ensure that importers do not use these excluded categories to circumvent the duties four things you need to know about the commission's provisional [anti-dumping] measures on leather shoes from china and vietnam they confront unfair trade practice not china and vietnam's natural comparative advantage although the eu investigation was...
+
+[EC_PR_230306]
+  ...tough but fair competition it has a legal duty to act to limit the effects of unfair trade because of our lesser duty principle europe's [anti-dumping] rules clearly ensure that anti-dumping measures cannot be used to make imports more expensive than the equivalent eu product eu duties either close the margin...
+
+[EC_PR_230306]
+  ...has a legal duty to act to limit the effects of unfair trade because of our lesser duty principle europe's anti-dumping rules clearly ensure that [anti-dumping] measures cannot be used to make imports more expensive than the equivalent eu product eu duties either close the margin of dumping which is the...
+
+[EC_PR_230306]
+  ...the united states china and others nor do these countries take account of the wider public interest through a community interest-type rule we can't use [anti-dumping] procedures to stop tough but fair competition this case concerns just nine pairs of shoes from every 100 pairs bought by europeans a duty would...
+
+[EC_S_100512]
+  ...products we could make refund procedures simpler or we could improve our helpdesk for small and medium sized companies fifth can we improve reviews of [anti-dumping] or anti-subsidy measures already in place is there a way for example to reduce the costs to exporters of expiry reviews that fail sixth should...
+
+[EC_S_100512]
+  ...way for example to reduce the costs to exporters of expiry reviews that fail sixth should we not be concerned about the fact that some [anti-dumping] duties last for 10 or even 15 years many of these examples may be justified by long term structural features of the markets involved but...
+
+[EC_S_100512]
+  ...involved but there might also be a tendency for forces to build up that seek to perpetuate measures once duties have been introduced after all [anti-dumping] or countervailing duties are typically multiples of the normal tariff so i believe that we should think about ways to make sure that the levels...
+
+Total occurrences: 27 
+
+>>> KWIC: duti <<<
+
+[EC_COM_181016]
+  ...aluminium capacity doubled from five years ago boosted by subsidised energy which represents up to 40 of the aluminium production cost in addition the higher [duties] imposed by other major world trade organisation members can lead to trade diversion of dumped products into the eu market further exacerbating the problem the...
+
+[EC_COM_181016]
+  ...needs to be proven dumping from a third country and proven injury for eu industry with a causal link between them the level of anti-dumping [duties] is then imposed at the level of the dumping margin or the level that removes injury whichever is lower the lesser duty for example in...
+
+[EC_COM_181016]
+  ...on hot rolled coils originating in china 3 the dumping margin was 102 and the injury margin was 19 which was the level of the [duties] set the lesser duty rule therefore caps the level of duties that can be imposed the eu's systematic application of the lesser duty rule goes...
+
+[EC_COM_181016]
+  ...was 102 and the injury margin was 19 which was the level of the duties set the lesser duty rule therefore caps the level of [duties] that can be imposed the eu's systematic application of the lesser duty rule goes beyond the basic obligations set out in the wto anti-dumping agreement...
+
+[EC_COM_181016]
+  ...including the us do not exercise this type of self-restraint the us imposes twice as many anti-dumping measures as the eu with typically much higher [duties] for instance in cold rolled steel products the us imposed a china countrywide anti-dumping rate of 266 in 2015 whereas in the eu the equivalent...
+
+[EC_S_140306]
+  ...is why having been presented with the preliminary analysis and assessment of my services i have recommended to the commission and to member states provisional [duties] in this case there is clear evidence of serious state intervention in the leather footwear sector in china and vietnam cheap finance tax breaks non-market...
+
+[EC_S_140306]
+  ...tax breaks non-market land rents improper asset valuation leading to dumping and that dumping is causing serious injury to eu producers i have recommended that [duties] of 16.8 for vietnam and 19.4 for china be phased in over a period of five months beginning at about 4 in april this will...
+
+[EC_PR_230306]
+  ...we do not target china and vietnam's natural competitive advantages only unfair distortions of trade in order to minimise any sudden impact on imports the [duties] will be imposed progressively over a period of five months beginning on april 7 they will rise to 16.8 for leather shoes from vietnam and...
+
+[EC_PR_230306]
+  ...europe for injury to have occurred a monitoring mechanism will be created to ensure that importers do not use these excluded categories to circumvent the [duties] four things you need to know about the commission's provisional anti-dumping measures on leather shoes from china and vietnam they confront unfair trade practice not...
+
+[EC_PR_230306]
+  ...lesser duty principle europe's anti-dumping rules clearly ensure that anti-dumping measures cannot be used to make imports more expensive than the equivalent eu product eu [duties] either close the margin of dumping which is the difference between the export price of the dumped product and its true value or close the...
+
+[EC_S_290908]
+  ...is now looking to secure supply in gabon at source china itself recently imposed an export tax of 120 on yellow phosphorous and increased export [duties] on coke to 40 our competitive advantage is already acutely sensitive to the supply and the costs of these inputs on average raw material costs...
+
+[EC_S_290908]
+  ...for their own producers they also allow governments to turn high commodity prices into a windfall tax on their own exporters assuming that the export [duties] do not suppress exports altogether argentina's export taxes on wheat in the spring were intended to hold down the cost of wheat in argentina by...
+
+[EC_S_290908]
+  ...local prices down russia's export taxes on wood are intended to hand the same kind of captive supply to the russian timber processing industry china's [duties] on coke exports are a prop for its steel industry these sound like significant political and economic strategies so it is important to understand why...
+
+[EC_S_290908]
+  ...negotiating partners over the next few months the second is by using wto accession negotiations to secure the same commitments to bind or prohibit export [duties] and to begin to build global some global jurisprudence on these commitments in the wto the russian plan to increase export duties on ferrous and...
+
+[EC_S_290908]
+  ...or prohibit export duties and to begin to build global some global jurisprudence on these commitments in the wto the russian plan to increase export [duties] on ferrous and non-ferrous scrap goes against the commitments it made to the eu in its wto accession negotiations in 2004 and is the subject...
+
+[EC_S_290908]
+  ...exports i certainly cannot rule out that the eu would use the wto in the same way to enforce chinese commitments countries that use export [duties] to subsidise domestic industries and subsequently dump products on european markets must also expect to attract the scrutiny of our trade defence system finally we...
+
+[EC_S_290908]
+  ...what we do not need in the face of rising demand we have spent six decades creating an open trading order by pushing down import [duties] for goods only to have export restrictions putting those gains into reverse europe's strategy on trade in raw materials doesn't include quick fixes because there...
+
+[EC_S_100512]
+  ...lower level than in their home markets or governments intervening unfairly it allows countries to react to unfair competition by temporarily raising or introducing the [duties] paid at the border but only on condition that the process for deciding what is unfair competition follows some strict rules the broad objective of...
+
+[EC_S_100512]
+  ...user of trade defence instruments in the world to systematically apply a lesser duty rule to the cases it investigates this makes sure that the [duties] we impose are set at a level that stops damage to european industry but no higher we also must apply a test of whether the...
+
+[EC_S_100512]
+  ...can we do to enhance the transparency and predictability of the system for example could we inform interested parties better about our proposals for provisional [duties] or could we bring in some more predictability for traders whose goods are already on their way to europe when provisional duty proposals are made...
+
+[EC_S_100512]
+  ...for example to reduce the costs to exporters of expiry reviews that fail sixth should we not be concerned about the fact that some anti-dumping [duties] last for 10 or even 15 years many of these examples may be justified by long term structural features of the markets involved but there...
+
+[EC_S_100512]
+  ...term structural features of the markets involved but there might also be a tendency for forces to build up that seek to perpetuate measures once [duties] have been introduced after all anti-dumping or countervailing duties are typically multiples of the normal tariff so i believe that we should think about ways...
+
+[EC_S_100512]
+  ...might also be a tendency for forces to build up that seek to perpetuate measures once duties have been introduced after all anti-dumping or countervailing [duties] are typically multiples of the normal tariff so i believe that we should think about ways to make sure that the levels of the duties...
+
+[EC_S_100512]
+  ...duties are typically multiples of the normal tariff so i believe that we should think about ways to make sure that the levels of the [duties] are still appropriate after such a long time finally in an age of complex supply chains should we re-focus our approach to the union interest...
+
+Total occurrences: 24 
+
+>>> KWIC: shoe <<<
+
+[EC_S_230206]
+  ...statement to the press anti-dumping investigation into chinese and vietnamese leather [shoes] recommendation to member states this is the first phase of the european commission's investigation into allegations of dumping of leather footwear on the european market...
+
+[EC_S_230206]
+  ...improper evaluation of assets non-commercial rates for land-use and important tax breaks for exports these disguised subsidies allow chinese and vietnamese producers to export leather [shoes] to europe at below the true cost of production in their own countries natural comparative advantage is being topped up with anti-competitive behaviour this state-supported...
+
+[EC_S_230206]
+  ...and 16.8 for vietnam be introduced this recommendation reflects my judgement of the community's overall economic interest i am recommending to member states that children's [shoes] and high-tech sports shoes be excluded from the provisional measures i am announcing today a duty on children shoes would disproportionately affect families with young...
+
+[EC_S_230206]
+  ...be introduced this recommendation reflects my judgement of the community's overall economic interest i am recommending to member states that children's shoes and high-tech sports [shoes] be excluded from the provisional measures i am announcing today a duty on children shoes would disproportionately affect families with young children and in my...
+
+[EC_S_230206]
+  ...recommending to member states that children's shoes and high-tech sports shoes be excluded from the provisional measures i am announcing today a duty on children [shoes] would disproportionately affect families with young children and in my view would not be in the public interest for sport shoes our investigation suggests that...
+
+[EC_S_230206]
+  ...a duty on children shoes would disproportionately affect families with young children and in my view would not be in the public interest for sport [shoes] our investigation suggests that there is no longer sufficient production of these shoes in europe for injury to have been caused i am also mindful...
+
+[EC_S_230206]
+  ...in my view would not be in the public interest for sport shoes our investigation suggests that there is no longer sufficient production of these [shoes] in europe for injury to have been caused i am also mindful of the interests of retailers who prior to my announcement will have bought...
+
+[EC_S_230206]
+  ...the basis of analysis by the commission services i will be recommending to member states that in the case of allegations of dumping of safety [shoes] from india and china no provisional measures will be imposed that investigation will continue but no immediate action will be taken defence against unfair trade...
+
+[EC_S_230206]
+  ...slightly let's be clear what's involved let's be clear a duty would be just over 1.5 euro on average wholesale prices of 8.5 euro these [shoes] sell for between 40-100 euro the idea that this duty will lead to a consumer price rise of 20 is totally fanciful i hope importers...
+
+[EC_S_230206]
+  ...here is the critical point imposing a duty on dumped goods is not a question of asking consumers to subsidise uncompetitive european producers european leather [shoe] producers are being asked to bear the costs of unacceptable trade practice and of course it would appear that the savings from importing dumped goods...
+
+[EC_S_230206]
+  ...the share of eu-china trade affected by anti-dumping investigations or measures is still less than 2 2 of a rapidly growing exports growth by china [shoes] are not textiles i do not accept any comparison with textile imports from china the textile issue concerned fairly traded textile imports albeit subject to...
+
+[EC_S_230206]
+  ...claim and a legal right to protect european producers against such practice even so this case concerns about nine out of every 100 pairs of [shoes] bought by european consumers a fraction of the product range it should be seen in this perspective let me add that i remain strongly committed...
+
+[EC_S_230206]
+  ...arise in our relationship i am committed wherever possible to try to reduce them through dialogue and cooperation that is true in the case of [shoes] but until a solution is reached action is needed to make sure that the rules of fair trade are fully upheld...
+
+[EC_S_140306]
+  ...competition and unfair trade the european footwear industry is in the front line of global competition for all their ingenuity creativity and excellence europe's leather [shoe] makers are faced with an extraordinary challenge from asian producers but the case of dumping requires me to distinguish between this tough new competition and...
+
+[EC_S_140306]
+  ...law to do i have weighed the question of consumer and retailer interest in this case very carefully i have proposed to exclude high-tech sports [shoes] which are no longer produced in significant numbers in europe i also propose to exclude children's shoes so as to be sure that even small...
+
+[EC_S_140306]
+  ...carefully i have proposed to exclude high-tech sports shoes which are no longer produced in significant numbers in europe i also propose to exclude children's [shoes] so as to be sure that even small price rises are not passed on to poorer families i know that some are worried about the...
+
+[EC_S_140306]
+  ...on to poorer families i know that some are worried about the possible impact on consumer prices but this case concerns only nine pairs of [shoes] from every 100 pairs bought by european consumer a fraction of the product range a duty would be just over 1.5 euro on average wholesale...
+
+[EC_S_140306]
+  ...european consumer a fraction of the product range a duty would be just over 1.5 euro on average wholesale prices of 8.5 euro and these [shoes] sell for 40-120 euros i believe on the basis of these facts that there is margin within the supply chain to absorb a small duty...
+
+[EC_S_140306]
+  ...maximum predictability for importers and passes on minimal additional costs to consumers there will be no quotas no limit at all on import of leather [shoes] from china and vietnam i have told the chinese and vietnamese that i want to work with them to see how they can address the...
+
+[EC_S_140306]
+  ...a question of asking consumers to subsidise uncompetitive european producers because the easy comparison is too often made it is also worth being clear that [shoes] are not the next textiles the textile issue concerned fairly traded textile imports albeit subject to a dramatic and sudden increase in volume following the...
+
+[EC_S_140306]
+  ...chinese textiles on 1 january 2005 in that case we agreed with china how to handle the problems that arose our proposed anti-dumping measures on [shoes] tackle unfair competition the european commission has a legal obligation to investigate such a claim and a legal right to protect european producers against such...
+
+[EC_S_140306]
+  ...europe more than 40 000 footwear jobs have been lost and more than 1000 footwear companies have closed down since 2001 european production of leather [shoes] has fallen by 30 and profit margins have been heavily squeezed to just over 1 but we should not pretend that this intense competitive pressure...
+
+[EC_PR_230306]
+  ...commission adopts provisional anti-dumping measures on chinese and vietnamese leather [shoes] the european commission has today adopted proposals by the european trade commissioner peter mandelson to impose a provisional anti-dumping duty on leather shoes from china...
+
+[EC_PR_230306]
+  ...vietnamese leather shoes the european commission has today adopted proposals by the european trade commissioner peter mandelson to impose a provisional anti-dumping duty on leather [shoes] from china and vietnam the measures follow a preliminary commission investigation that has identified clear evidence of disguised subsidies and unfair state intervention to the...
+
+[EC_PR_230306]
+  ...of competitive distortions raised by the commission's investigation eu trade commissioner peter mandelson said these anti-dumping measures will correct the injury caused to european leather [shoe] producers it is important that we act against unfair trade while encouraging legitimate and competitive from emerging economies we do not target china and vietnam's...
+
+[EC_PR_230306]
+  ...on imports the duties will be imposed progressively over a period of five months beginning on april 7 they will rise to 16.8 for leather [shoes] from vietnam and 19.4 for leather shoes from china a duty sufficient to correct the injury caused to european producers by dumping the provisional measures...
+
+[EC_PR_230306]
+  ...progressively over a period of five months beginning on april 7 they will rise to 16.8 for leather shoes from vietnam and 19.4 for leather [shoes] from china a duty sufficient to correct the injury caused to european producers by dumping the provisional measures exclude children's leather shoes so as to...
+
+[EC_PR_230306]
+  ...19.4 for leather shoes from china a duty sufficient to correct the injury caused to european producers by dumping the provisional measures exclude children's leather [shoes] so as to ensure that even the small price rises are not passed on to poorer families special technology advanced footwear will also be excluded...
+
+[EC_PR_230306]
+  ...not passed on to poorer families special technology advanced footwear will also be excluded from the measures because there is not sufficient production of these [shoes] in europe for injury to have occurred a monitoring mechanism will be created to ensure that importers do not use these excluded categories to circumvent...
+
+[EC_PR_230306]
+  ...importers do not use these excluded categories to circumvent the duties four things you need to know about the commission's provisional anti-dumping measures on leather [shoes] from china and vietnam they confront unfair trade practice not china and vietnam's natural comparative advantage although the eu investigation was undertaken in factories jointly...
+
+[EC_PR_230306]
+  ...public interest through a community interest-type rule we can't use anti-dumping procedures to stop tough but fair competition this case concerns just nine pairs of [shoes] from every 100 pairs bought by europeans a duty would add about 1.5 euro on average import prices of 8.5 euro for leather shoes that...
+
+[EC_PR_230306]
+  ...of shoes from every 100 pairs bought by europeans a duty would add about 1.5 euro on average import prices of 8.5 euro for leather [shoes] that retail between 30-100 euros leather footwear import prices to the eu over the last five years have fallen by more than 20 but consumer...
+
+[EC_PR_230306]
+  ...on import costs by spreading it across product ranges and the distribution chain and the impact of measures on consumer prices will be minimal the [shoes] issue is not the textiles issue the textile issue concerned fairly traded textile imports subject to a dramatic and sudden increase in volume the european...
+
+Total occurrences: 33 
+
+>>> KWIC: textile <<<
+
+[EC_S_230206]
+  ...eu-china trade affected by anti-dumping investigations or measures is still less than 2 2 of a rapidly growing exports growth by china shoes are not [textiles] i do not accept any comparison with textile imports from china the textile issue concerned fairly traded textile imports albeit subject to a dramatic and...
+
+[EC_S_230206]
+  ...is still less than 2 2 of a rapidly growing exports growth by china shoes are not textiles i do not accept any comparison with [textile] imports from china the textile issue concerned fairly traded textile imports albeit subject to a dramatic and disproportionate increase in volume following the lifting of...
+
+[EC_S_230206]
+  ...2 of a rapidly growing exports growth by china shoes are not textiles i do not accept any comparison with textile imports from china the [textile] issue concerned fairly traded textile imports albeit subject to a dramatic and disproportionate increase in volume following the lifting of quotas on chinese textiles on...
+
+[EC_S_230206]
+  ...exports growth by china shoes are not textiles i do not accept any comparison with textile imports from china the textile issue concerned fairly traded [textile] imports albeit subject to a dramatic and disproportionate increase in volume following the lifting of quotas on chinese textiles on 1 january 2005 we addressed...
+
+[EC_S_230206]
+  ...the textile issue concerned fairly traded textile imports albeit subject to a dramatic and disproportionate increase in volume following the lifting of quotas on chinese [textiles] on 1 january 2005 we addressed this problem not by triggering a trade war with china but on the contrary through a period of restricted...
+
+[EC_S_230206]
+  ...producers leading to full liberalisation in 2008 i acted with the chinese to cushion the impact of a massive shift in global trading patterns in [textiles] in two years that cushion will be gone in the case of leather footwear the allegation is that goods are being traded in a way...
+
+[EC_S_140306]
+  ...that i want to work with them to see how they can address the concerns raised by the eu investigation not protectionism nor the next [textiles] imposing a duty on dumped goods is not protectionism it is not a question of asking consumers to subsidise uncompetitive european producers because the easy...
+
+[EC_S_140306]
+  ...to subsidise uncompetitive european producers because the easy comparison is too often made it is also worth being clear that shoes are not the next [textiles] the textile issue concerned fairly traded textile imports albeit subject to a dramatic and sudden increase in volume following the lifting of quotas on chinese...
+
+[EC_S_140306]
+  ...uncompetitive european producers because the easy comparison is too often made it is also worth being clear that shoes are not the next textiles the [textile] issue concerned fairly traded textile imports albeit subject to a dramatic and sudden increase in volume following the lifting of quotas on chinese textiles on...
+
+[EC_S_140306]
+  ...easy comparison is too often made it is also worth being clear that shoes are not the next textiles the textile issue concerned fairly traded [textile] imports albeit subject to a dramatic and sudden increase in volume following the lifting of quotas on chinese textiles on 1 january 2005 in that...
+
+[EC_S_140306]
+  ...the textile issue concerned fairly traded textile imports albeit subject to a dramatic and sudden increase in volume following the lifting of quotas on chinese [textiles] on 1 january 2005 in that case we agreed with china how to handle the problems that arose our proposed anti-dumping measures on shoes tackle...
+
+[EC_PR_230306]
+  ...it across product ranges and the distribution chain and the impact of measures on consumer prices will be minimal the shoes issue is not the [textiles] issue the textile issue concerned fairly traded textile imports subject to a dramatic and sudden increase in volume the european commission never suggested that chinese...
+
+[EC_PR_230306]
+  ...ranges and the distribution chain and the impact of measures on consumer prices will be minimal the shoes issue is not the textiles issue the [textile] issue concerned fairly traded textile imports subject to a dramatic and sudden increase in volume the european commission never suggested that chinese textile exports were...
+
+[EC_PR_230306]
+  ...and the impact of measures on consumer prices will be minimal the shoes issue is not the textiles issue the textile issue concerned fairly traded [textile] imports subject to a dramatic and sudden increase in volume the european commission never suggested that chinese textile exports were unfair or traded illegally it...
+
+[EC_PR_230306]
+  ...issue the textile issue concerned fairly traded textile imports subject to a dramatic and sudden increase in volume the european commission never suggested that chinese [textile] exports were unfair or traded illegally it acted with the chinese to cushion the impact of a massive shift in global trading patterns in textiles...
+
+[EC_PR_230306]
+  ...textile exports were unfair or traded illegally it acted with the chinese to cushion the impact of a massive shift in global trading patterns in [textiles] by 2008 that cushion will be gone leather footwear is being state-subsidized and dumped this is unacceptable under wto rules and the european union has...
+
+[EC_S_290908]
+  ...the global economy and i am absolutely certain that this is an underestimate we find restrictions on the export of metals wood leather ceramics chemicals [textiles] and energy everything from high volume products to highly specialised rare materials russia for example now imposes an export duty of 50 on scrap aluminium...
+
+Total occurrences: 17 
+
+>>> KWIC: leather <<<
+
+[EC_S_230206]
+  ...statement to the press anti-dumping investigation into chinese and vietnamese [leather] shoes recommendation to member states this is the first phase of the european commission's investigation into allegations of dumping of leather footwear on the european...
+
+[EC_S_230206]
+  ...into chinese and vietnamese leather shoes recommendation to member states this is the first phase of the european commission's investigation into allegations of dumping of [leather] footwear on the european market by china and vietnam there is compelling evidence of serious state intervention on a large and strategic industrial scale in...
+
+[EC_S_230206]
+  ...producers improper evaluation of assets non-commercial rates for land-use and important tax breaks for exports these disguised subsidies allow chinese and vietnamese producers to export [leather] shoes to europe at below the true cost of production in their own countries natural comparative advantage is being topped up with anti-competitive behaviour this...
+
+[EC_S_230206]
+  ...pass the costs of any duty on to the consumer using alarmist and speculative language in some cases moreover there is clear evidence that although [leather] footwear import prices to the eu over the last five years have fallen by more than 20 consumer prices have remained stable and even risen...
+
+[EC_S_230206]
+  ...but here is the critical point imposing a duty on dumped goods is not a question of asking consumers to subsidise uncompetitive european producers european [leather] shoe producers are being asked to bear the costs of unacceptable trade practice and of course it would appear that the savings from importing dumped...
+
+[EC_S_230206]
+  ...cushion the impact of a massive shift in global trading patterns in textiles in two years that cushion will be gone in the case of [leather] footwear the allegation is that goods are being traded in a way that is both unfair and unacceptable under world trade organization rules the european...
+
+[EC_S_140306]
+  ...tough competition and unfair trade the european footwear industry is in the front line of global competition for all their ingenuity creativity and excellence europe's [leather] shoe makers are faced with an extraordinary challenge from asian producers but the case of dumping requires me to distinguish between this tough new competition...
+
+[EC_S_140306]
+  ...i have recommended to the commission and to member states provisional duties in this case there is clear evidence of serious state intervention in the [leather] footwear sector in china and vietnam cheap finance tax breaks non-market land rents improper asset valuation leading to dumping and that dumping is causing serious...
+
+[EC_S_140306]
+  ...allows maximum predictability for importers and passes on minimal additional costs to consumers there will be no quotas no limit at all on import of [leather] shoes from china and vietnam i have told the chinese and vietnamese that i want to work with them to see how they can address...
+
+[EC_S_140306]
+  ...in europe more than 40 000 footwear jobs have been lost and more than 1000 footwear companies have closed down since 2001 european production of [leather] shoes has fallen by 30 and profit margins have been heavily squeezed to just over 1 but we should not pretend that this intense competitive...
+
+[EC_PR_230306]
+  ...commission adopts provisional anti-dumping measures on chinese and vietnamese [leather] shoes the european commission has today adopted proposals by the european trade commissioner peter mandelson to impose a provisional anti-dumping duty on leather shoes from...
+
+[EC_PR_230306]
+  ...and vietnamese leather shoes the european commission has today adopted proposals by the european trade commissioner peter mandelson to impose a provisional anti-dumping duty on [leather] shoes from china and vietnam the measures follow a preliminary commission investigation that has identified clear evidence of disguised subsidies and unfair state intervention to...
+
+[EC_PR_230306]
+  ...from china and vietnam the measures follow a preliminary commission investigation that has identified clear evidence of disguised subsidies and unfair state intervention to the [leather] footwear sector in china and vietnam the trade commissioner today firmly reiterated his willingness to work with the vietnamese and chinese governments to address the...
+
+[EC_PR_230306]
+  ...questions of competitive distortions raised by the commission's investigation eu trade commissioner peter mandelson said these anti-dumping measures will correct the injury caused to european [leather] shoe producers it is important that we act against unfair trade while encouraging legitimate and competitive from emerging economies we do not target china and...
+
+[EC_PR_230306]
+  ...impact on imports the duties will be imposed progressively over a period of five months beginning on april 7 they will rise to 16.8 for [leather] shoes from vietnam and 19.4 for leather shoes from china a duty sufficient to correct the injury caused to european producers by dumping the provisional...
+
+[EC_PR_230306]
+  ...imposed progressively over a period of five months beginning on april 7 they will rise to 16.8 for leather shoes from vietnam and 19.4 for [leather] shoes from china a duty sufficient to correct the injury caused to european producers by dumping the provisional measures exclude children's leather shoes so as...
+
+[EC_PR_230306]
+  ...and 19.4 for leather shoes from china a duty sufficient to correct the injury caused to european producers by dumping the provisional measures exclude children's [leather] shoes so as to ensure that even the small price rises are not passed on to poorer families special technology advanced footwear will also be...
+
+[EC_PR_230306]
+  ...that importers do not use these excluded categories to circumvent the duties four things you need to know about the commission's provisional anti-dumping measures on [leather] shoes from china and vietnam they confront unfair trade practice not china and vietnam's natural comparative advantage although the eu investigation was undertaken in factories...
+
+[EC_PR_230306]
+  ...eu investigation was undertaken in factories jointly agreed with the vietnamese and chinese governments eu investigators found clear evidence of serious state intervention in the [leather] footwear sector in china and vietnam cheap finance tax holidays non-market land rents improper asset valuation and export incentives there is dumping flowing from this...
+
+[EC_PR_230306]
+  ...pairs of shoes from every 100 pairs bought by europeans a duty would add about 1.5 euro on average import prices of 8.5 euro for [leather] shoes that retail between 30-100 euros leather footwear import prices to the eu over the last five years have fallen by more than 20 but...
+
+[EC_PR_230306]
+  ...bought by europeans a duty would add about 1.5 euro on average import prices of 8.5 euro for leather shoes that retail between 30-100 euros [leather] footwear import prices to the eu over the last five years have fallen by more than 20 but consumer prices have remained stable and even...
+
+[EC_PR_230306]
+  ...acted with the chinese to cushion the impact of a massive shift in global trading patterns in textiles by 2008 that cushion will be gone [leather] footwear is being state-subsidized and dumped this is unacceptable under wto rules and the european union has a legal right to protect european producers against...
+
+[EC_S_290908]
+  ...raw materials across the global economy and i am absolutely certain that this is an underestimate we find restrictions on the export of metals wood [leather] ceramics chemicals textiles and energy everything from high volume products to highly specialised rare materials russia for example now imposes an export duty of 50...
+
+Total occurrences: 23 
+
+>>> KWIC: unfair <<<
+
+[EC_COM_181016]
+  ...capital goods like machinery together these products make up 80 of eu imports however we are not naïve free trade must also be fair and [unfair] trading practices such as dumping and subsidisation by foreign producers and governments cause serious harm to eu industry and workers undermining support for free trade...
+
+[EC_COM_181016]
+  ...already under attack from many directions for the commission this issue is about making globalisation work fairly for the benefit of all the challenge of [unfair] trade practices by third countries is getting more acute government intervention massive subsidies and policies that distort prices have resulted in huge overcapacities and ultimately...
+
+[EC_COM_181016]
+  ...diversion of dumped products into the eu market further exacerbating the problem the eu's trade defence instruments are an instrument to shield the eu against [unfair] trade the commission's use of these instruments is carefully targeted and evidence-based the eu uses trade defence instruments less than many other jurisdictions and only...
+
+[EC_COM_181016]
+  ...mechanical engineering sectors in the steel sector alone the eu already has 39 anti-dumping and anti-subsidy measures in place to protect our steel industry from [unfair] competition 17 of those concern china within the limits of existing eu law the commission has been deploying the full force of the existing trade...
+
+[EC_COM_181016]
+  ...exist in some emerging and transition economies the eu cannot remain defenceless against massive subsidies government interference lack of transparency and non-independent financial sector providing [unfair] advantages to exporters in some countries in response to these new challenges and transitions in some world economies the commission intends to propose further amendments...
+
+[EC_S_230206]
+  ...this is a balanced solution during this preliminary phase i am launching immediate discussions with both china and vietnam to encourage them to rectify this [unfair] trade in footwear i have spoken to vietnamese and chinese ministers this morning i welcome their willingness to address the findings of our investigations and...
+
+[EC_S_230206]
+  ...safety shoes from india and china no provisional measures will be imposed that investigation will continue but no immediate action will be taken defence against [unfair] trade is specifically sanctioned by the wto i do not use trade defence instruments lightly or casually on the other hand it would be irresponsible...
+
+[EC_S_230206]
+  ...i do not accept that acting to limit the damaging effects of this dumping is protectionism indeed my view is that free trade suffers when [unfair] trade is allowed to flourish europe's lesser duty anti-dumping rule clearly ensures that anti-dumping measures cannot be used to make imports more expensive than the...
+
+[EC_S_230206]
+  ...that cushion will be gone in the case of leather footwear the allegation is that goods are being traded in a way that is both [unfair] and unacceptable under world trade organization rules the european commission has a legal obligation to investigate such a claim and a legal right to protect...
+
+[EC_S_230206]
+  ...the rules to avoid breaches of intellectual property rights and to open her markets to external produce this way china will flourish through free not [unfair] trade and i will continue to welcome this inevitably frictions and disputes will arise in our relationship i am committed wherever possible to try to...
+
+[EC_S_140306]
+  ...much wider strategy to adjust to competition from asian exporters like china he argues that europe is justified in acting to correct injury caused by [unfair] trading practice but he warned that europe should not pretend that competitive pressure on europe is related solely to unfair trade he argues that changing...
+
+[EC_S_140306]
+  ...to correct injury caused by unfair trading practice but he warned that europe should not pretend that competitive pressure on europe is related solely to [unfair] trade he argues that changing patterns of production including the outsourcing of european production to asia mean that europe has nothing to gain from closing...
+
+[EC_S_140306]
+  ...production to asia mean that europe has nothing to gain from closing the doors to competitive asian exports mandelson says europe's trade defence measures target [unfair] trade they cannot protect us from tough competition they cannot shield us from asia's natural and legitimate low-cost advantages however when those comparative advantages are...
+
+[EC_S_140306]
+  ...protect us from tough competition they cannot shield us from asia's natural and legitimate low-cost advantages however when those comparative advantages are topped up by [unfair] and uncompetitive practice we have a right and an obligation to act mandelson argues that rising to the asian challenge places great demands on our...
+
+[EC_S_140306]
+  ...skills and technologies give us the edge this is how trade grows and that is how europe's economies have grown over centuries tough competition and [unfair] trade the european footwear industry is in the front line of global competition for all their ingenuity creativity and excellence europe's leather shoe makers are...
+
+[EC_S_140306]
+  ...are faced with an extraordinary challenge from asian producers but the case of dumping requires me to distinguish between this tough new competition and genuinely [unfair] trade europe's trade defence measures target unfair trade they cannot protect us from tough competition they cannot shield us from asia's natural and legitimate low-cost...
+
+[EC_S_140306]
+  ...asian producers but the case of dumping requires me to distinguish between this tough new competition and genuinely unfair trade europe's trade defence measures target [unfair] trade they cannot protect us from tough competition they cannot shield us from asia's natural and legitimate low-cost advantages however when those comparative advantages are...
+
+[EC_S_140306]
+  ...protect us from tough competition they cannot shield us from asia's natural and legitimate low-cost advantages however when those comparative advantages are topped up by [unfair] and uncompetitive practice we have a right and an obligation to act recommendations in the footwear case that is why having been presented with the...
+
+[EC_S_140306]
+  ...on 1 january 2005 in that case we agreed with china how to handle the problems that arose our proposed anti-dumping measures on shoes tackle [unfair] competition the european commission has a legal obligation to investigate such a claim and a legal right to protect european producers against such practice challenges...
+
+[EC_PR_230306]
+  ...anti-dumping duty on leather shoes from china and vietnam the measures follow a preliminary commission investigation that has identified clear evidence of disguised subsidies and [unfair] state intervention to the leather footwear sector in china and vietnam the trade commissioner today firmly reiterated his willingness to work with the vietnamese and...
+
+[EC_PR_230306]
+  ...trade commissioner peter mandelson said these anti-dumping measures will correct the injury caused to european leather shoe producers it is important that we act against [unfair] trade while encouraging legitimate and competitive from emerging economies we do not target china and vietnam's natural competitive advantages only unfair distortions of trade in...
+
+[EC_PR_230306]
+  ...that we act against unfair trade while encouraging legitimate and competitive from emerging economies we do not target china and vietnam's natural competitive advantages only [unfair] distortions of trade in order to minimise any sudden impact on imports the duties will be imposed progressively over a period of five months beginning...
+
+[EC_PR_230306]
+  ...to circumvent the duties four things you need to know about the commission's provisional anti-dumping measures on leather shoes from china and vietnam they confront [unfair] trade practice not china and vietnam's natural comparative advantage although the eu investigation was undertaken in factories jointly agreed with the vietnamese and chinese governments...
+
+[EC_PR_230306]
+  ...commission will not act to protect european producers against tough but fair competition it has a legal duty to act to limit the effects of [unfair] trade because of our lesser duty principle europe's anti-dumping rules clearly ensure that anti-dumping measures cannot be used to make imports more expensive than the...
+
+[EC_PR_230306]
+  ...issue concerned fairly traded textile imports subject to a dramatic and sudden increase in volume the european commission never suggested that chinese textile exports were [unfair] or traded illegally it acted with the chinese to cushion the impact of a massive shift in global trading patterns in textiles by 2008 that...
+
+[EC_S_100512]
+  ...level we do have rules the multilateral system enshrined in the world trade organisation is an enormous achievement but the rules it lays down on [unfair] trading practices do not compare with what we have within the european union that is why the concept of trade defence is built in to...
+
+[EC_S_100512]
+  ...is why the concept of trade defence is built in to the wto the wto agreements recognise the need for action in the face of [unfair] competition whether it is companies setting export prices at a lower level than in their home markets or governments intervening unfairly it allows countries to...
+
+[EC_S_100512]
+  ...in the face of unfair competition whether it is companies setting export prices at a lower level than in their home markets or governments intervening [unfairly] it allows countries to react to unfair competition by temporarily raising or introducing the duties paid at the border but only on condition that the...
+
+[EC_S_100512]
+  ...it is companies setting export prices at a lower level than in their home markets or governments intervening unfairly it allows countries to react to [unfair] competition by temporarily raising or introducing the duties paid at the border but only on condition that the process for deciding what is unfair competition...
+
+[EC_S_100512]
+  ...to unfair competition by temporarily raising or introducing the duties paid at the border but only on condition that the process for deciding what is [unfair] competition follows some strict rules the broad objective of our trade defence system is to strike a balance between levelling the playing field and avoiding...
+
+[EC_S_100512]
+  ...almost half in general terms this more globalised economy means that there is a greater potential for our companies to come face to face with [unfair] trading practices another change is linked to the rise of what has been called state capitalism it is frequently used to describe china's system but...
+
+[EC_S_100512]
+  ...demands more protectionism we must continue to make sure that trade defence does not fall into that trap we should thus remain rigorous when assessing [unfairness] and granting temporary relief ladies and gentlemen major changes have occurred in the last fifteen years given their scope in an ideal world we would...
+
+Total occurrences: 32 
+
+>>> KWIC: trade defence <<<
+
+[EC_COM_181016]
+  ...by other major world trade organisation members can lead to trade diversion of dumped products into the eu market further exacerbating the problem the eu's [trade defence] instruments are an instrument to shield the eu against unfair trade the commission's use of these instruments is carefully targeted and evidence-based the eu uses...
+
+[EC_COM_181016]
+  ...instruments are an instrument to shield the eu against unfair trade the commission's use of these instruments is carefully targeted and evidence-based the eu uses [trade defence] instruments less than many other jurisdictions and only 0.21 of imports are affected faced with massive overcapacities flooding the eu market the european commission has...
+
+[EC_COM_181016]
+  ...unfair competition 17 of those concern china within the limits of existing eu law the commission has been deploying the full force of the existing [trade defence] instruments including registration of imports increased transparency faster imposition of measures as well as exceptionally initiating cases on the basis of threat of injury however...
+
+[EC_COM_181016]
+  ...as exceptionally initiating cases on the basis of threat of injury however we have reached the limit of what is feasible under the existing eu [trade defence] legislation to rein in external overcapacities and dumping in order to preserve european jobs and ensure fair competition in open markets it is of crucial...
+
+[EC_COM_181016]
+  ...external overcapacities and dumping in order to preserve european jobs and ensure fair competition in open markets it is of crucial importance that the eu's [trade defence] instruments are effective in the face of these global challenges this is why the 2013 commission proposal to modernise trade defence instruments 2 must be...
+
+[EC_COM_181016]
+  ...importance that the eu's trade defence instruments are effective in the face of these global challenges this is why the 2013 commission proposal to modernise [trade defence] instruments 2 must be adopted as a matter of urgency in addition the international legal framework is changing as certain provisions on dumping calculations in...
+
+[EC_COM_181016]
+  ...the accession protocols of china vietnam and tajikistan to the world trade organisation will shortly expire the commission envisages further amendments to the current eu [trade defence] legislation including a new methodology for calculating dumping allowing for action on newly revealed subsidies and ensuring an orderly transition to the new situation the...
+
+[EC_COM_181016]
+  ...for action on newly revealed subsidies and ensuring an orderly transition to the new situation the commission believes it is now imperative for the eu's [trade defence] instruments to be updated strengthened and made legally more robust 1 the 2013 commission proposal on the modernisation of trade defence instruments in april 2013...
+
+[EC_COM_181016]
+  ...imperative for the eu's trade defence instruments to be updated strengthened and made legally more robust 1 the 2013 commission proposal on the modernisation of [trade defence] instruments in april 2013 the commission adopted an ambitious proposal to modernise trade defence instruments including better transparency faster procedures and more effective enforcement the...
+
+[EC_COM_181016]
+  ...more robust 1 the 2013 commission proposal on the modernisation of trade defence instruments in april 2013 the commission adopted an ambitious proposal to modernise [trade defence] instruments including better transparency faster procedures and more effective enforcement the commission notably proposed no longer to apply the lesser duty rule in certain well...
+
+[EC_COM_181016]
+  ...eu industry and workers in its communication steel preserving sustainable jobs and growth in europe of march 2016 the commission committed to using the existing [trade defence] instruments to the maximum possible but also urged the council to proceed swiftly to the adoption of the modernisation proposal the commission has also advanced...
+
+[EC_COM_181016]
+  ...proceed swiftly to the adoption of the modernisation proposal the commission has also advanced ideas to the council for legal changes on how to shorten [trade defence] investigations by two months and on how to change the present methodology for calculating the target profit the president of the commission in the state...
+
+[EC_COM_181016]
+  ...years insisted we reduce tariffs on chinese steel i call on all member states and on this parliament to support the commission in strengthening our [trade defence] instruments we should not be naïve free traders but be able to respond as forcefully to dumping as the united states 6 however despite numerous...
+
+[EC_COM_181016]
+  ...in some countries in response to these new challenges and transitions in some world economies the commission intends to propose further amendments to the eu [trade defence] legislation the proposal will not grant market economy status to any country but ensure that the eu's trade defence instruments are adapted to face the...
+
+[EC_COM_181016]
+  ...propose further amendments to the eu trade defence legislation the proposal will not grant market economy status to any country but ensure that the eu's [trade defence] instruments are adapted to face the new challenges and legal and economic realities while maintaining an equivalent level of protection the commission will propose a...
+
+[EC_COM_181016]
+  ...commission to make their case there is lack of transparency in many third countries regarding subsidies subsidies manifestly contribute to distortions and overcapacities the eu's [trade defence] instruments should be strengthened by allowing the commission to take action on new subsidies which are only revealed in the course of an investigation in...
+
+[EC_COM_181016]
+  ...investigations initiated after the legislative change enters into force 3 conclusion the 2013 commission proposal coupled with this new methodology will ensure that the eu's [trade defence] instruments remain economically effective legally robust and politically sustainable in safeguarding the principles of free and fair trade on which the eu's trade policy is...
+
+[EC_S_230206]
+  ...that investigation will continue but no immediate action will be taken defence against unfair trade is specifically sanctioned by the wto i do not use [trade defence] instruments lightly or casually on the other hand it would be irresponsible to ignore clear evidence when this is presented i will continue to act...
+
+[EC_S_230206]
+  ...and vietnamese goods in fact that door is open wide for those who might be tempted to suggest that europe is seeking to use its [trade defence] instruments to block chinese trade i would simply point out that even when this case is included the share of eu-china trade affected by anti-dumping...
+
+[EC_S_140306]
+  ...the outsourcing of european production to asia mean that europe has nothing to gain from closing the doors to competitive asian exports mandelson says europe's [trade defence] measures target unfair trade they cannot protect us from tough competition they cannot shield us from asia's natural and legitimate low-cost advantages however when those...
+
+[EC_S_140306]
+  ...an extraordinary challenge from asian producers but the case of dumping requires me to distinguish between this tough new competition and genuinely unfair trade europe's [trade defence] measures target unfair trade they cannot protect us from tough competition they cannot shield us from asia's natural and legitimate low-cost advantages however when those...
+
+[EC_S_290908]
+  ...countries that use export duties to subsidise domestic industries and subsequently dump products on european markets must also expect to attract the scrutiny of our [trade defence] system finally we will continue to build support for the elimination of export restrictions and an open market in raw materials as a basic principle...
+
+[EC_S_100512]
+  ...international trading system is fair if we cannot present evidence that we are competing on a level playing field then people will resist further liberalisation [trade defence] instruments are very much a part of that equation in fact they are one of the cornerstones of our efforts to ensure that our companies...
+
+[EC_S_100512]
+  ...efforts to ensure that our companies can compete on an even footing for that reason it is essential that we have a modern and efficient [trade defence] system which is why ladies and gentlemen we are here today i need not remind this audience that the last time that the european union...
+
+[EC_S_100512]
+  ...why ladies and gentlemen we are here today i need not remind this audience that the last time that the european union substantially updated its [trade defence] rules was 16 years ago the world has changed considerably since then it's about time we looked at ways to bring ourselves up to date...
+
+[EC_S_100512]
+  ...also be the first principle of this reform we must appreciate what is good about the european system before we look at potential improvements our [trade defence] instruments perform an important function if you compare the way trade is regulated within the single market and at international level it is easy to...
+
+[EC_S_100512]
+  ...rules it lays down on unfair trading practices do not compare with what we have within the european union that is why the concept of [trade defence] is built in to the wto the wto agreements recognise the need for action in the face of unfair competition whether it is companies setting...
+
+[EC_S_100512]
+  ...at the border but only on condition that the process for deciding what is unfair competition follows some strict rules the broad objective of our [trade defence] system is to strike a balance between levelling the playing field and avoiding protectionist abuse we should thus only take action when we are sure...
+
+[EC_S_100512]
+  ...commission and the council in this regard it is important to point out that we go beyond wto requirements europe is the only user of [trade defence] instruments in the world to systematically apply a lesser duty rule to the cases it investigates this makes sure that the duties we impose are...
+
+[EC_S_100512]
+  ...furthermore this view is backed up by the figures despite the outbreak of the deep economic crisis we have made less not more use of [trade defence] the average number of cases we have initiated has actually fallen by 20 compared with the period before 2008 but benefitting from a legally sound...
+
+[EC_S_100512]
+  ...is frequently used to describe china's system but it can also be applied to russia vietnam and other emerging economies it has two consequences for [trade defence] first it implies that a range of government policies could be used to give an unwarranted competitive advantage to a national company from cheap finance...
+
+[EC_S_100512]
+  ...of retaliation this is a difficult and sensitive topic but it is undeniable that many european companies are unwilling to come forward and make justified [trade defence] complaints due to fear of consequences for their business the consequences can be serious for companies that export to or invest in the country in...
+
+[EC_S_100512]
+  ...lost jobs in labour-intensive sectors the companies and trade unions facing tougher competition will attempt to obtain protection and help including through the use of [trade defence] the debate during the elections in france for example showed that a part of public opinion demands more protectionism we must continue to make sure...
+
+[EC_S_100512]
+  ...debate during the elections in france for example showed that a part of public opinion demands more protectionism we must continue to make sure that [trade defence] does not fall into that trap we should thus remain rigorous when assessing unfairness and granting temporary relief ladies and gentlemen major changes have occurred...
+
+[EC_S_100512]
+  ...have launched this modernisation exercise i would like to say at this point that i am fully aware of how the last effort to reform [trade defence] ended i know this is an issue that stirs passion and divides opinion but i also believe that it is possible to move forward if...
+
+[EC_S_100512]
+  ...real needs of both industry and traders and to the european economy as a whole as i said at that the outset i believe that [trade defence] is vital to ensure a level playing field it sets minds at ease about the open markets that are critical for economic growth but i...
+
+[EC_S_100512]
+  ...together i would invite you to remember that our goal is to move forward in a balanced way but i wish to make progress a [trade defence] system that is well oiled and fully adapted to today's economic conditions would serve us all let us identify together the necessary elements for successful...
+
+Total occurrences: 37 
+
+>>> KWIC: investigat <<<
+
+[EC_COM_181016]
+  ...to the adoption of the modernisation proposal the commission has also advanced ideas to the council for legal changes on how to shorten trade defence [investigations] by two months and on how to change the present methodology for calculating the target profit the president of the commission in the state of...
+
+[EC_COM_181016]
+  ...trade defence instruments should be strengthened by allowing the commission to take action on new subsidies which are only revealed in the course of an [investigation] in implementing its new methodology the commission will ensure an orderly and transparent transition to the new system grandfathering the commission therefore intends to propose...
+
+[EC_COM_181016]
+  ...ensure an orderly and transparent transition to the new system grandfathering the commission therefore intends to propose that the new system will only apply to [investigations] initiated after the legislative change enters into force 3 conclusion the 2013 commission proposal coupled with this new methodology will ensure that the eu's trade...
+
+[EC_S_230206]
+  ...statement to the press anti-dumping [investigation] into chinese and vietnamese leather shoes recommendation to member states this is the first phase of the european commission's investigation into allegations of dumping of...
+
+[EC_S_230206]
+  ...statement to the press anti-dumping investigation into chinese and vietnamese leather shoes recommendation to member states this is the first phase of the european commission's [investigation] into allegations of dumping of leather footwear on the european market by china and vietnam there is compelling evidence of serious state intervention on a...
+
+[EC_S_230206]
+  ...on children shoes would disproportionately affect families with young children and in my view would not be in the public interest for sport shoes our [investigation] suggests that there is no longer sufficient production of these shoes in europe for injury to have been caused i am also mindful of the...
+
+[EC_S_230206]
+  ...this unfair trade in footwear i have spoken to vietnamese and chinese ministers this morning i welcome their willingness to address the findings of our [investigations] and to engage constructively in talks i can also announce today that on the basis of analysis by the commission services i will be recommending...
+
+[EC_S_230206]
+  ...to member states that in the case of allegations of dumping of safety shoes from india and china no provisional measures will be imposed that [investigation] will continue but no immediate action will be taken defence against unfair trade is specifically sanctioned by the wto i do not use trade defence...
+
+[EC_S_230206]
+  ...instruments to block chinese trade i would simply point out that even when this case is included the share of eu-china trade affected by anti-dumping [investigations] or measures is still less than 2 2 of a rapidly growing exports growth by china shoes are not textiles i do not accept any...
+
+[EC_S_230206]
+  ...are being traded in a way that is both unfair and unacceptable under world trade organization rules the european commission has a legal obligation to [investigate] such a claim and a legal right to protect european producers against such practice even so this case concerns about nine out of every 100...
+
+[EC_S_140306]
+  ...have told the chinese and vietnamese that i want to work with them to see how they can address the concerns raised by the eu [investigation] not protectionism nor the next textiles imposing a duty on dumped goods is not protectionism it is not a question of asking consumers to subsidise...
+
+[EC_S_140306]
+  ...china how to handle the problems that arose our proposed anti-dumping measures on shoes tackle unfair competition the european commission has a legal obligation to [investigate] such a claim and a legal right to protect european producers against such practice challenges in the footwear sector some of your questions addressed the...
+
+[EC_PR_230306]
+  ...the european trade commissioner peter mandelson to impose a provisional anti-dumping duty on leather shoes from china and vietnam the measures follow a preliminary commission [investigation] that has identified clear evidence of disguised subsidies and unfair state intervention to the leather footwear sector in china and vietnam the trade commissioner today...
+
+[EC_PR_230306]
+  ...commissioner today firmly reiterated his willingness to work with the vietnamese and chinese governments to address the questions of competitive distortions raised by the commission's [investigation] eu trade commissioner peter mandelson said these anti-dumping measures will correct the injury caused to european leather shoe producers it is important that we act...
+
+[EC_PR_230306]
+  ...provisional anti-dumping measures on leather shoes from china and vietnam they confront unfair trade practice not china and vietnam's natural comparative advantage although the eu [investigation] was undertaken in factories jointly agreed with the vietnamese and chinese governments eu investigators found clear evidence of serious state intervention in the leather footwear...
+
+[EC_PR_230306]
+  ...practice not china and vietnam's natural comparative advantage although the eu investigation was undertaken in factories jointly agreed with the vietnamese and chinese governments eu [investigators] found clear evidence of serious state intervention in the leather footwear sector in china and vietnam cheap finance tax holidays non-market land rents improper asset...
+
+[EC_S_100512]
+  ...wto requirements europe is the only user of trade defence instruments in the world to systematically apply a lesser duty rule to the cases it [investigates] this makes sure that the duties we impose are set at a level that stops damage to european industry but no higher we also must...
+
+Total occurrences: 17 
+
+>>> KWIC: competit <<<
+
+[EC_COM_181016]
+  ...engineering sectors in the steel sector alone the eu already has 39 anti-dumping and anti-subsidy measures in place to protect our steel industry from unfair [competition] 17 of those concern china within the limits of existing eu law the commission has been deploying the full force of the existing trade defence...
+
+[EC_COM_181016]
+  ...is feasible under the existing eu trade defence legislation to rein in external overcapacities and dumping in order to preserve european jobs and ensure fair [competition] in open markets it is of crucial importance that the eu's trade defence instruments are effective in the face of these global challenges this is...
+
+[EC_S_140306]
+  ...a european parliament debate eu trade commissioner peter mandelson argues that anti-dumping measures can only be part of a much wider strategy to adjust to [competition] from asian exporters like china he argues that europe is justified in acting to correct injury caused by unfair trading practice but he warned that...
+
+[EC_S_140306]
+  ...he argues that europe is justified in acting to correct injury caused by unfair trading practice but he warned that europe should not pretend that [competitive] pressure on europe is related solely to unfair trade he argues that changing patterns of production including the outsourcing of european production to asia mean...
+
+[EC_S_140306]
+  ...that changing patterns of production including the outsourcing of european production to asia mean that europe has nothing to gain from closing the doors to [competitive] asian exports mandelson says europe's trade defence measures target unfair trade they cannot protect us from tough competition they cannot shield us from asia's natural...
+
+[EC_S_140306]
+  ...to gain from closing the doors to competitive asian exports mandelson says europe's trade defence measures target unfair trade they cannot protect us from tough [competition] they cannot shield us from asia's natural and legitimate low-cost advantages however when those comparative advantages are topped up by unfair and uncompetitive practice we...
+
+[EC_S_140306]
+  ...affected by change but face up to a changing world we must be robust in our defence of the rules and our defence of fair [competition] we need to recognise that if we want to win the wider political argument for free trade we must be ready to defend fair trade...
+
+[EC_S_140306]
+  ...the wider political argument for free trade we must be ready to defend fair trade but we cannot deny asia its comparative advantages or the [competitive] industry that is lifting hundreds of millions in the developing world out of poverty the only sustainable balance to that competition is the creativity innovation...
+
+[EC_S_140306]
+  ...comparative advantages or the competitive industry that is lifting hundreds of millions in the developing world out of poverty the only sustainable balance to that [competition] is the creativity innovation and commitment of european companies themselves reinforced with the appropriate help from political authorities i am happy to respond to questions...
+
+[EC_S_140306]
+  ...our own skills and technologies give us the edge this is how trade grows and that is how europe's economies have grown over centuries tough [competition] and unfair trade the european footwear industry is in the front line of global competition for all their ingenuity creativity and excellence europe's leather shoe...
+
+[EC_S_140306]
+  ...that is how europe's economies have grown over centuries tough competition and unfair trade the european footwear industry is in the front line of global [competition] for all their ingenuity creativity and excellence europe's leather shoe makers are faced with an extraordinary challenge from asian producers but the case of dumping...
+
+[EC_S_140306]
+  ...leather shoe makers are faced with an extraordinary challenge from asian producers but the case of dumping requires me to distinguish between this tough new [competition] and genuinely unfair trade europe's trade defence measures target unfair trade they cannot protect us from tough competition they cannot shield us from asia's natural...
+
+[EC_S_140306]
+  ...me to distinguish between this tough new competition and genuinely unfair trade europe's trade defence measures target unfair trade they cannot protect us from tough [competition] they cannot shield us from asia's natural and legitimate low-cost advantages however when those comparative advantages are topped up by unfair and uncompetitive practice we...
+
+[EC_S_140306]
+  ...1 january 2005 in that case we agreed with china how to handle the problems that arose our proposed anti-dumping measures on shoes tackle unfair [competition] the european commission has a legal obligation to investigate such a claim and a legal right to protect european producers against such practice challenges in...
+
+[EC_S_140306]
+  ...leather shoes has fallen by 30 and profit margins have been heavily squeezed to just over 1 but we should not pretend that this intense [competitive] pressure on european footwear producers is related solely to dumped goods in large part these are the consequences of changing production and consumption patterns in...
+
+[EC_S_140306]
+  ...a result we need to take into account a range of european producer interests in assessing our interests in the matter the wider challenge of [competitiveness] rising to the asian challenge places great demands on our businesses and workers but politics and policy can take a proactive hand in creating the...
+
+[EC_S_140306]
+  ...but face up to a changing world of course too we must be robust in our defence of the rules and our defence of fair [competition] we need to recognise that if we want to win the wider political argument for free trade we must be ready to defend fair trade...
+
+[EC_S_140306]
+  ...the wider political argument for free trade we must be ready to defend fair trade but we cannot deny asia its comparative advantages or the [competitive] industry that is lifting hundred of millions in the developing world out of poverty the only sustainable balance to that competition is the creativity innovation...
+
+[EC_S_140306]
+  ...comparative advantages or the competitive industry that is lifting hundred of millions in the developing world out of poverty the only sustainable balance to that [competition] is the creativity innovation and commitment of european companies themselves reinforced with the appropriate help from political authorities i am happy to return to any...
+
+[EC_PR_230306]
+  ...in china and vietnam the trade commissioner today firmly reiterated his willingness to work with the vietnamese and chinese governments to address the questions of [competitive] distortions raised by the commission's investigation eu trade commissioner peter mandelson said these anti-dumping measures will correct the injury caused to european leather shoe producers...
+
+[EC_PR_230306]
+  ...anti-dumping measures will correct the injury caused to european leather shoe producers it is important that we act against unfair trade while encouraging legitimate and [competitive] from emerging economies we do not target china and vietnam's natural competitive advantages only unfair distortions of trade in order to minimise any sudden impact...
+
+[EC_PR_230306]
+  ...it is important that we act against unfair trade while encouraging legitimate and competitive from emerging economies we do not target china and vietnam's natural [competitive] advantages only unfair distortions of trade in order to minimise any sudden impact on imports the duties will be imposed progressively over a period of...
+
+[EC_PR_230306]
+  ...developing countries are being topped up in this case with uncompetitive behaviour the commission will not act to protect european producers against tough but fair [competition] it has a legal duty to act to limit the effects of unfair trade because of our lesser duty principle europe's anti-dumping rules clearly ensure...
+
+[EC_PR_230306]
+  ...do these countries take account of the wider public interest through a community interest-type rule we can't use anti-dumping procedures to stop tough but fair [competition] this case concerns just nine pairs of shoes from every 100 pairs bought by europeans a duty would add about 1.5 euro on average import...
+
+[EC_S_290908]
+  ...in gabon at source china itself recently imposed an export tax of 120 on yellow phosphorous and increased export duties on coke to 40 our [competitive] advantage is already acutely sensitive to the supply and the costs of these inputs on average raw material costs make up around a sixth of...
+
+[EC_S_290908]
+  ...one huge long term risk in a global economy they switch off the international price signals that encourage companies to be more productive and more [competitive] a subsidy at the top of the supply chain in the form of artificially cheap raw materials will transmit that inefficiency and poor productivity down...
+
+[EC_S_290908]
+  ...and poor productivity down the line to downstream producers as well this prompts a slide in production and diverts resources away from other potentially more [competitive] industries any initial benefits are often cancelled out by the loss in foreign market share and foreign currency income often the public policy problems cited...
+
+[EC_S_100512]
+  ...practices within the single market are guaranteed by the european treaties in particular the four freedoms of goods services capital and labour and our strong [competition] rules these are backed up by 10,000 pieces of legislation which lay the framework for how companies can compete and governments can intervene on the...
+
+[EC_S_100512]
+  ...why the concept of trade defence is built in to the wto the wto agreements recognise the need for action in the face of unfair [competition] whether it is companies setting export prices at a lower level than in their home markets or governments intervening unfairly it allows countries to react...
+
+[EC_S_100512]
+  ...is companies setting export prices at a lower level than in their home markets or governments intervening unfairly it allows countries to react to unfair [competition] by temporarily raising or introducing the duties paid at the border but only on condition that the process for deciding what is unfair competition follows...
+
+[EC_S_100512]
+  ...unfair competition by temporarily raising or introducing the duties paid at the border but only on condition that the process for deciding what is unfair [competition] follows some strict rules the broad objective of our trade defence system is to strike a balance between levelling the playing field and avoiding protectionist...
+
+[EC_S_100512]
+  ...emerging economies it has two consequences for trade defence first it implies that a range of government policies could be used to give an unwarranted [competitive] advantage to a national company from cheap finance to cheap raw materials this kind of distortion can be difficult to prove in a legal process...
+
+[EC_S_100512]
+  ...developed world has been losing some market share in world exports and has lost jobs in labour-intensive sectors the companies and trade unions facing tougher [competition] will attempt to obtain protection and help including through the use of trade defence the debate during the elections in france for example showed that...
+
+Total occurrences: 33 

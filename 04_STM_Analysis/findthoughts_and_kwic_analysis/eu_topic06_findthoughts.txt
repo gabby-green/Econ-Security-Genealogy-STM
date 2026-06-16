@@ -1,0 +1,1006 @@
+=============================================================
+EU Corpus -- Topic 6 
+Generated: 2026-05-09 13:05 
+=============================================================
+
+PROB:  european_union, china, trade, export, market, import, invest, compani, european, econom, chines, billion, increas, busi, servic 
+FREX:  intellectual_property_right, billion, export, public_procur, total, regulatori, market, servic, signific, oper, compani, raw_materi, investor, reciproc, foreign 
+
+-------------------------------------------------------------
+TOP DOCUMENTS
+-------------------------------------------------------------
+
+[ 1] EC_M_120607 (2007) -- theta=0.903
+     EU-China Trade Ministerial Meeting 12 June 2007
+
+[ 2] EC_S_141011 (2011) -- theta=0.586
+     Karel De Gucht European Commissioner for Trade Speaking points: Rising to the China Challenge Launch event of Business Europe report on EU-China economic relations Brussels, 14 October 2011
+
+[ 3] EC_R_TIBR11 (2011) -- theta=0.517
+     Trade and Investment Barriers Report 2011
+
+[ 4] EC_S_200911 (2011) -- theta=0.484
+     Karel De Gucht European Commissioner for Trade Made in China: what next for EU firms? Speech at the annual seminar "EU Business in China: 2011/2012" organised by the European Union Chamber of Commerce in China Brussels, 20 September 2011
+
+[ 5] EC_PR_041105 (2005) -- theta=0.480
+     EU–China talks focus on Doha, market access, intellectual property rights
+
+[ 6] EC_COM_241006 (2006) -- theta=0.456
+     EU-China: Closer partners, growing responsibilities
+
+[ 7] EC_S_081111 (2011) -- theta=0.423
+     Karel De Gucht European Commissioner for Trade Looking beyond the crisis: Making the EU-China trade relations work EU-China High Level Political Forum 2011 Brussels, 8 November 2011
+
+[ 8] EC_PR_250923 (2023) -- theta=0.349
+     EU calls for greater market access and fair competition at EU-China High-Level Dialogue
+
+[ 9] EC_WP_170620 (2020) -- theta=0.328
+     White paper on levelling the playing field as regards foreign subsidies
+
+[10] EC_PR_190722 (2022) -- theta=0.311
+     EU-China: A stable global economy is a shared responsibility
+
+-------------------------------------------------------------
+TEXT EXCERPTS
+-------------------------------------------------------------
+
+[1] EC_M_120607 (2007)
+EU-China Trade Ministerial Meeting 12 June 2007 EU Trade Commissioner Peter Mandelson will meet
+Chinese Commerce Minister Bo Xilai in Brussels on 12 June 2007 for the annual EU-China Joint Trade
+Ministerial Meeting. China and the EU have one of the fastest growing trading relationships in the
+global economy: Europe is now China's largest trading partner, and China Europe's largest source of
+manufactured imports. The Minister and the Commissioner will review bilateral trade relations.
+Commissioner Mandelson will urge his Chinese counterpart to continue to address barriers to EU
+exporters and investors in the Chinese market and to protect EU businesses in China from
+intellectual property theft. Although China has now been in the WTO for six years, EU exporters and
+investors continue to face
+...
+
+[2] EC_S_141011 (2011)
+First of all, I would like to thank Business Europe and the European Policy Centre for the
+invitation today. China is in many ways defining the economic age we live in, and it is extremely
+important that our understanding of the business relationship with China is well-founded and
+nuanced. Also many thanks to President Thumann for the very interesting presentation. I think it is
+a very good report you are putting forward -- solid and insightful. Listening to your presentation
+and views, I think it gives the Commission a very important platform for our work on China. Let me
+give a few remarks on the report and President Thumann's presentation: First and foremost, I would
+like to say that I agree with most of what has been put forward. It is interesting that we heard
+many of the same viewpoi
+...
+
+[3] EC_R_TIBR11 (2011)
+REPORT FROM THE COMMISSION TO THE EUROPEAN COUNCIL Trade and Investment Barriers Report 2011
+Engaging our strategic economic partners on improved market access: Priorities for action on
+breaking down barriers to trade INTRODUCTION As the world's largest trading bloc and as the most
+important source and destination of foreign direct investment, the EU has an inherent interest in
+ensuring an open and fair global trading system. This interest can only grow in the years to come –
+by 2015, 90% of world growth will be generated outside Europe. The European economy needs to seize
+the opportunity of higher levels of growth abroad, in particular in Asia. A key message of the new
+EU trade strategy[1] is that in parallel to the negotiating agenda, our renewed trade policy must
+take a more assertive a
+...
+
+[4] EC_S_200911 (2011)
+Ladies and gentlemen, World trade is undergoing profound changes with tectonic shifts in global
+trading patterns. In a remarkably short timeframe, China and the EU have integrated economically to
+a point where it is difficult to imagine one without the other. European companies are greatly
+contributing to China's success. And Chinese production is a key part of European companies'
+value-chain, as well as helping to lower prices in Europe. The EU-China trade relationship
+generates significant benefits for both partners. China has become the fastest growing market for
+our exports of goods and important destination for EU investment. The EU is also China's biggest
+market. We remain the biggest buyer of Chinese exports. Bilateral trade reached record levels in
+2010, and is steaming further ahe
+...
+
+[5] EC_PR_041105 (2005)
+EU–China talks focus on Doha, market access, intellectual property rights Chinese Trade Minister Bo
+Xilai met with Commissioner for Trade Peter Mandelson and Commissioner for External Relations and
+European Neighbourhood Policy Benita Ferrero-Waldner in Brussels today. In bilateral meetings and a
+formal sitting of the EC-China Economic and Trade Joint Committee, the Commission and Chinese
+representatives discussed all aspects of the ever-increasing relationship between China and the EU,
+with particular attention to economic and trade matters. Talks focused on intensive cooperation
+between the Commission and China in the twenty ongoing technical ‘dialogues' in areas ranging from
+the environment and energy to education and intellectual property rights. Talks with Commissioner
+Mandelson focus
+...
+
+[6] EC_COM_241006 (2006)
+EU – China: Closer partners, growing responsibilities 1. What is at stake? China has re-emerged as
+a major power in the last decade. It has become the world’s fourth economy and third exporter, but
+also an increasingly important political power. China's economic growth has thrown weight behind a
+significantly more active and sophisticated Chinese foreign policy. China’s desire to grow and seek
+a place in the world commensurate with its political and economic power is a central tenet of its
+policy. Given China’s size and phenomenal growth, these changes have a profound impact on global
+politics and trade. The EU offers the largest market in the world. It is home to a global reserve
+currency. It enjoys world leadership in key technologies and skills. The EU plays a central role in
+finding su
+...
+
+[7] EC_S_081111 (2011)
+Ladies and Gentlemen, China and Europe are major pillars of the global economy. We form the
+second-largest economic cooperation in the World, our mutual trade in goods and services reaching
+432 billion EUR in 2010. And this trade is growing. Indeed, in a few decades, Europe has become the
+largest market for Chinese exports, whereas China is the second largest export market for the EU.
+Over the last decade, European companies have contributed hugely to China's economic development
+with investments, jobs, and being the largest contributor to China of transfer of technology. And
+rapidly growing Chinese market has provided new opportunities for European companies. This a
+situation that has so far benefitted both parties. 2011 marks the 10 year anniversary for China's
+WTO membership. China used
+...
+
+[8] EC_PR_250923 (2023)
+EU calls for greater market access and fair competition at EU-China High-Level Dialogue Brussels,
+25 September 2023European Commission Executive Vice-President, Valdis Dombrovskis, and Vice Premier
+of the State Council, He Lifeng, co-chaired today the 10th EU-China High-level Economic and Trade
+Dialogue(HED). The HED is the main platform for the EU and China to discuss economic and financial
+matters, as well as trade and investment cooperation. Specifically, the two sides discussed the
+macro-economic situation in the EU, China and globally. Executive Vice-President Dombrovskis
+emphasised in particular the impact of Russia's unprovoked attack on Ukraine on global economic
+growth prospects, as well as on food and energy security. The two sides discussed market access and
+supply chain issues,
+...
+
+[9] EC_WP_170620 (2020)
+Introduction Openness to trade and investment underpins Europe’s prosperity and competitiveness.
+Trade accounts for almost 35% of the EU’s GDP. 35 million European jobs are linked to exports. The
+EU is the world’s main provider and the top global destination of foreign direct investment 1 with
+16 million European jobs linked to it. A strong, open and competitive single market enables EU
+companies to operate and compete globally. On 10 March 2020, the European Commission presented a
+New Industrial Strategy for Europe which mapped out a clear path for Europe to allow our industry
+to lead the green and digital transitions based on competition, open markets, world-leading
+research and technologies and a strong single market. To reap the full benefits of global trade,
+Europe will pursue a model
+...
+
+[10] EC_PR_190722 (2022)
+Executive Vice-President Valdis Dombrovskis and Vice-Premier Liu He chaired today the 9th EU-China
+High-Level Economic and Trade Dialogue (HED). Commissioner Mairead McGuinness also participated in
+the exchanges, in particular on financial services. The HED focused on global economic challenges,
+disruptions of supply chains caused by COVID-19 and the impact of Russia's invasion of Ukraine,
+including on food, energy and financial markets. Parties also discussed bilateral trade and
+investment concerns and stepping up cooperation in financial services. The EU and China agreed to
+hold the next HED in 2023. Executive Vice-President and Commissioner for Trade, Valdis Dombrovskis,
+said: “The EU and China are key trading partners. The importance of our economies comes with a
+responsibility to shap
+...
+
+-------------------------------------------------------------
+KEYWORD-IN-CONTEXT
+Search terms: china | intellectual property | market access | regulatory | reciproc | deficit | investor | service 
+-------------------------------------------------------------
+
+>>> KWIC: china <<<
+
+[EC_R_TIBR11]
+  ...be doubled if the eu makes real progress on non-tariff barriers ntbs and regulatory issues with its major trade partners such as the us and [china] 4 trade policy can and must make a major contribution to jobs and growth the market access strategy 5 forms a key element of our...
+
+[EC_R_TIBR11]
+  ...report focuses on barriers that are of major economic and or systemic importance for european business in the markets of certain of our strategic partners [china] india japan brazil argentina the latter grouping due to the mercosur dimension russia and the us in 2009 trade with these partners represented 45 of...
+
+[EC_R_TIBR11]
+  ...the us in 2009 trade with these partners represented 45 of our trade in goods and commercial services with the us accounting for 19 and [china] 10 and 41 of our foreign direct investment fdi flows 8 with the us alone accounting for 35 as the eu has currently no bilateral...
+
+[EC_R_TIBR11]
+  ...which led to prioritising 205 barriers for 32 markets and the continuous monitoring of protectionist measures introduced following the recent economic and financial crisis 10 [china] china is the eu’s second largest trading partner while the eu is china’s largest trading partner china is not only a source of low price...
+
+[EC_R_TIBR11]
+  ...led to prioritising 205 barriers for 32 markets and the continuous monitoring of protectionist measures introduced following the recent economic and financial crisis 10 china [china] is the eu’s second largest trading partner while the eu is china’s largest trading partner china is not only a source of low price consumer...
+
+[EC_R_TIBR11]
+  ...of protectionist measures introduced following the recent economic and financial crisis 10 china china is the eu’s second largest trading partner while the eu is [china’s] largest trading partner china is not only a source of low price consumer goods but also of key inputs for our manufacturing industries notwithstanding our...
+
+[EC_R_TIBR11]
+  ...following the recent economic and financial crisis 10 china china is the eu’s second largest trading partner while the eu is china’s largest trading partner [china] is not only a source of low price consumer goods but also of key inputs for our manufacturing industries notwithstanding our important bilateral trade deficit...
+
+[EC_R_TIBR11]
+  ...is not only a source of low price consumer goods but also of key inputs for our manufacturing industries notwithstanding our important bilateral trade deficit [china] has become the fastest growing market for our exports of goods and services and an important destination for eu investment the eu exported € 82...
+
+[EC_R_TIBR11]
+  ...market for our exports of goods and services and an important destination for eu investment the eu exported € 82 billion worth of goods to [china] in 2009 despite the crisis still up by 4 compared to 2008 and by the end of october 2010 our exports were up by 38...
+
+[EC_R_TIBR11]
+  ...to 2008 and by the end of october 2010 our exports were up by 38 on a year-on-year basis overall exports from the eu to [china] have more than doubled 121 between 2005 first 11 months and 2010 11 first months however this level of eu exports still remains below potential...
+
+[EC_R_TIBR11]
+  ...of eu exports still remains below potential and better market access would allow eu exporters and investors to contribute to and take full part in [china's] phenomenal economic growth ten years after wto accession china still has to improve its record on implementation of key wto principles of non-discrimination transparency and...
+
+[EC_R_TIBR11]
+  ...market access would allow eu exporters and investors to contribute to and take full part in china's phenomenal economic growth ten years after wto accession [china] still has to improve its record on implementation of key wto principles of non-discrimination transparency and national treatment important market access barriers persist in standardisation...
+
+[EC_R_TIBR11]
+  ...services investment and public procurement insufficient enforcement of ipr and burdensome certification procedures continue to raise enormous concerns an underlying and growing concern is that [china] appears to have developed interventionist industrial policy measures aimed at import substitution forced transfer of technology and the granting of preferential access to raw materials...
+
+[EC_R_TIBR11]
+  ...for inputs energy and export credits the following barriers have been identified as priority issues for eu operators 1 in the area of raw materials [china] is now systematically resorting to market-restricting measures such as export duties and quotas in 2009 these restrictions affected eu imports of raw materials from china...
+
+[EC_R_TIBR11]
+  ...china is now systematically resorting to market-restricting measures such as export duties and quotas in 2009 these restrictions affected eu imports of raw materials from [china] worth around € 1.2 billion accounting for 6 of eu's total import of these goods 59 of the chinese import affected by these measures was...
+
+[EC_R_TIBR11]
+  ...material is readily available the recent issues relating to trade in rare earths are a striking illustration of the problem the barriers in place in [china] concerning rare earths affected 62 of the eu's total import of these types of rare earths in 2009 11 the decrease in china's rare earth...
+
+[EC_R_TIBR11]
+  ...place in china concerning rare earths affected 62 of the eu's total import of these types of rare earths in 2009 11 the decrease in [china's] rare earth export quotas has resulted in significant market shortages and steep price increases with considerable impact on production costs of rare earth-based applications prices...
+
+[EC_R_TIBR11]
+  ...chinese firms moving up the value chain this is a serious concern for european companies wanting to export from the eu or already operating in [china] in the past this policy has severely hampered access to chinese procurement in a wide number of innovative sectors from green technology to telecommunications with...
+
+[EC_R_TIBR11]
+  ...to chinese procurement in a wide number of innovative sectors from green technology to telecommunications with the requirement that foreign companies register their ipr in [china] draft rules also require applicants to disclose commercially sensitive information related to innovation and ipr at the latest high level economic and trade dialogue however...
+
+[EC_R_TIBR11]
+  ...will closely monitor the implementation of the measures including at provincial level in order to establish a level-playing field between domestic foreign-invested companies established in [china] and foreign companies more generally the chinese procurement framework remains incomplete and not transparent major reforms are needed to ensure compliance with international standards and...
+
+[EC_R_TIBR11]
+  ...the chinese procurement framework remains incomplete and not transparent major reforms are needed to ensure compliance with international standards and a predictable environment for bidders [china's] accession to the gpa is instrumental to reach these goals in the broader area of ipr access to the chinese ipr enforcement system remains difficult...
+
+[EC_R_TIBR11]
+  ...in an effective manner moreover interim injunctions are difficult to obtain in practice and the damages awarded by the courts often remain too low 3 [china] is increasingly imposing requirements for compliance with specific chinese standards and related burdensome third-party testing and certification procedures such requirements often collide with international standards...
+
+[EC_R_TIBR11]
+  ...foreign businesses at a disadvantage a significant example is the information and communication technology ict sector where the overall complexity and lack of transparency of [china's] regulatory and conformity assessment practices contribute to an increasingly unpredictable business environment and serious market access problems for foreign and foreign-invested companies 4 regarding investment...
+
+[EC_R_TIBR11]
+  ...for foreign and foreign-invested companies 4 regarding investment current flows show a vast untapped potential although european companies invested more than € 5 billion in [china] in 2009 this is less than 3 of total investment outflow the current investment climate in china is hampered by a lack of transparency and...
+
+[EC_R_TIBR11]
+  ...companies invested more than € 5 billion in china in 2009 this is less than 3 of total investment outflow the current investment climate in [china] is hampered by a lack of transparency and predictability furthermore chinese regulations in particular in the power sector on qualification requirement restricted access to concession...
+
+[EC_R_TIBR11]
+  ...in the renewable energy sector in addition as evidenced by the so-called investment catalogue a number of important sectors remain closed to foreign investment in [china] or access is limited through joint ventures equity caps limits on the number of establishments etc through the combined impact of different measures china uses...
+
+[EC_R_TIBR11]
+  ...in china or access is limited through joint ventures equity caps limits on the number of establishments etc through the combined impact of different measures [china] uses its investment regime as a tool to steer its economic development in particular by favouring local companies through technology and know-how transfer this is...
+
+[EC_R_TIBR11]
+  ...economic development in particular by favouring local companies through technology and know-how transfer this is a serious concern for european companies wishing to invest in [china] the upcoming revision of the investment catalogue provides a good opportunity to deliver a clear message to the chinese authorities on the need for a...
+
+[EC_R_TIBR11]
+  ...provides a good opportunity to deliver a clear message to the chinese authorities on the need for a truly open and non-discriminatory investment climate in [china] india india is an important trade partner for the eu and a growing economic power with a growth rate of between 8 and 10 per...
+
+[EC_R_TIBR11]
+  ...to the weak ipr regime in kazakhstan whose porous borders allow for the entry of counterfeited goods and for illegitimate parallel imports from asian countries [china] notably 3 russia's investment policy which aims at protecting and fostering domestic industries remains another source of significant concern trade related investment measures include requirements...
+
+[EC_R_TIBR11]
+  ...strategy for the future government procurement public procurement markets remain significantly closed to foreign participants as clearly illustrated by the problems highlighted in the us [china] japan and brazil however these markets are far from being negligible from a commercial point of view the untapped potential is considerable in 2007 public...
+
+[EC_R_TIBR11]
+  ...to the government procurement agreement gpa only the us and japan among the six strategic partners identified in this report are currently gpa members while [china] is in the process of negotiating its accession moreover even those countries that have signed up to the gpa have negotiated important limits to their...
+
+[EC_R_TIBR11]
+  ...trade agreement acta has been concluded with a number of like-minded countries 21 specific ipr dialogues have been reinforced with certain key partners such as [china] and russia the newly created china ipr sme helpdesk has also been highly effective in helping european smes protect and defend their ipr s in...
+
+[EC_R_TIBR11]
+  ...with a number of like-minded countries 21 specific ipr dialogues have been reinforced with certain key partners such as china and russia the newly created [china] ipr sme helpdesk has also been highly effective in helping european smes protect and defend their ipr s in the country 22 in addition to...
+
+[EC_R_TIBR11]
+  ...addition to the ipr2 project 23 a partnership project between the eu and chinese authorities which aims to improve the effectiveness of ipr enforcement in [china] the recent evaluation of the commission’s enforcement strategy 24 concluded that this strategy is relevant and led to several successes but requires some adjustments after...
+
+[EC_R_TIBR11]
+  ...investment in the production extraction and therefore further endanger the long-term supply of these raw materials of the countries selected in this report argentina brazil [china] india and russia currently impose restrictions on export of raw materials these measures affected eu imports of raw materials worth almost € 6 billion in...
+
+[EC_R_TIBR11]
+  ...september 2009 export restrictions faced by eu operators related to more than 1200 tariff lines 29 the countries imposing the largest number of measures included [china] russia argentina and ukraine the most affected sectors were agricultural products minerals chemicals raw hides and skins wood and wood products and metals however tackling...
+
+[EC_R_TIBR11]
+  ...implemented this strategy including by conducting a number of trade negotiations by launching a wto case against a number of export restriction measures applied by [china] where the commission is currently examining the most appropriate next steps that could be taken including a possible follow-up wto case and by fostering discussions...
+
+[EC_R_TIBR11]
+  ...some of the most restricted industries although fdi restrictiveness per country is not easy to measure the high level of barriers to investment in india [china] and russia as set out in section 2 does stand out given the benefits of foreign investment the eu strives to create an attractive and...
+
+[EC_R_TIBR11]
+  ...home in a spirit of reciprocity and mutual benefit this is pursued through a combination of negotiations and dialogues with key partners like the us [china] and russia and the active participation in work conducted in international fora like the oecd unctad and the g8 g20 with the entry into force...
+
+[EC_R_TIBR11]
+  ...canada and singapore where trade negotiations are already well advanced the eu will also consider stand-alone investment agreements with other major trade partners such as [china] and russia in addition to this very substantial and evolving agenda of negotiations the existence of specific investment barriers will require engagement on a case-by-case...
+
+[EC_R_TIBR11]
+  ...prominently on the lists of market access concerns of many eu exporters examples mentioned in section 2 include problems in the information technology sector in [china] and india or medical devices in japan such barriers can have an important economic impact for manufacturers since at the very least they require the...
+
+[EC_R_TIBR11]
+  ...in the global economy and reduce the competitiveness of local companies in the global market with respect to the regulatory issues mentioned with regard to [china] india japan and russia earlier in this report these could potentially affect eu exports worth of around € 13.7 billion in 2009 regulatory barriers are...
+
+[EC_R_TIBR11]
+  ...engages with the chinese authorities through a number of regulatory dialogues with the objective of making the case for using international standards and further engaging [china] in international standardisation organizations clearly the stakes are very important and regular high level discussions including at the high level economic and trade dialogue but...
+
+[EC_R_TIBR11]
+  ...exist with some of the eu's strategic partners such as the transatlantic economic council with the us the high level economic and trade dialogue with [china] or the high level group with japan market access and notably regulatory barriers play an important role in these fora yet for the eu's interests...
+
+[EC_M_120607]
+  ...trade commissioner peter mandelson will meet chinese commerce minister bo xilai in brussels on 12 june 2007 for the annual eu-china joint trade ministerial meeting [china] and the eu have one of the fastest growing trading relationships in the global economy europe is now china's largest trading partner and china europe's...
+
+[EC_M_120607]
+  ...annual eu-china joint trade ministerial meeting china and the eu have one of the fastest growing trading relationships in the global economy europe is now [china's] largest trading partner and china europe's largest source of manufactured imports the minister and the commissioner will review bilateral trade relations commissioner mandelson will urge...
+
+[EC_M_120607]
+  ...meeting china and the eu have one of the fastest growing trading relationships in the global economy europe is now china's largest trading partner and [china] europe's largest source of manufactured imports the minister and the commissioner will review bilateral trade relations commissioner mandelson will urge his chinese counterpart to continue...
+
+[EC_M_120607]
+  ...will urge his chinese counterpart to continue to address barriers to eu exporters and investors in the chinese market and to protect eu businesses in [china] from intellectual property theft although china has now been in the wto for six years eu exporters and investors continue to face persistent problems entering...
+
+[EC_M_120607]
+  ...continue to address barriers to eu exporters and investors in the chinese market and to protect eu businesses in china from intellectual property theft although [china] has now been in the wto for six years eu exporters and investors continue to face persistent problems entering and operating in the chinese market...
+
+[EC_M_120607]
+  ...six years eu exporters and investors continue to face persistent problems entering and operating in the chinese market the issues trade flows eu exports to [china] are growing strongly 21 in 2006 but the eu still exports less to china than it does to switzerland the eu bilateral trade deficit with...
+
+[EC_M_120607]
+  ...in the chinese market the issues trade flows eu exports to china are growing strongly 21 in 2006 but the eu still exports less to [china] than it does to switzerland the eu bilateral trade deficit with china follows the same trend as the us deficit over the single day of...
+
+[EC_M_120607]
+  ...are growing strongly 21 in 2006 but the eu still exports less to china than it does to switzerland the eu bilateral trade deficit with [china] follows the same trend as the us deficit over the single day of the joint ministerial trade committee meeting the eu-china trade deficit will widen...
+
+[EC_M_120607]
+  ...will widen by about € 350 million a part of this is accounted for by a shift in production from other markets in asia to [china] but it nevertheless points to an increasingly unbalanced trading relationship in which the eu export potential to china is hampered by barriers to trade a...
+
+[EC_M_120607]
+  ...production from other markets in asia to china but it nevertheless points to an increasingly unbalanced trading relationship in which the eu export potential to [china] is hampered by barriers to trade a study published by the commission in 2006 see below reported that about € 20billion in trade opportunities are...
+
+[EC_M_120607]
+  ...in 2006 see below reported that about € 20billion in trade opportunities are lost every year to eu businesses because of market access barriers in [china] the eu continues to pressure china to address these problems in january talks started on a new partnership and cooperation agreement framework part of this...
+
+[EC_M_120607]
+  ...about € 20billion in trade opportunities are lost every year to eu businesses because of market access barriers in china the eu continues to pressure [china] to address these problems in january talks started on a new partnership and cooperation agreement framework part of this process is an upgrade of the...
+
+[EC_M_120607]
+  ...commission hopes will set out wide new terms for facilitating trade and investment intellectual property rights effective protection and enforcement of intellectual property rights in [china] is a key issue for europe and european businesses china was the source of 80 of counterfeit goods intercepted at eu borders in 2006 some...
+
+[EC_M_120607]
+  ...trade and investment intellectual property rights effective protection and enforcement of intellectual property rights in china is a key issue for europe and european businesses [china] was the source of 80 of counterfeit goods intercepted at eu borders in 2006 some european manufacturers estimated in february 2007 that intellectual property rights...
+
+[EC_M_120607]
+  ...source of 80 of counterfeit goods intercepted at eu borders in 2006 some european manufacturers estimated in february 2007 that intellectual property rights infringements in [china] cost eu manufacturers operating there 20 of their revenue efforts have been made by china to improve intellectual property protection and enforcement but progress is...
+
+[EC_M_120607]
+  ...estimated in february 2007 that intellectual property rights infringements in china cost eu manufacturers operating there 20 of their revenue efforts have been made by [china] to improve intellectual property protection and enforcement but progress is slow services services trade is an important economic export for the eu and an area...
+
+[EC_M_120607]
+  ...protection and enforcement but progress is slow services services trade is an important economic export for the eu and an area of persistent problems in [china] china has made several significant steps in opening its services markets but the barriers to eu exporters and investors remain formidable in areas like telecoms...
+
+[EC_M_120607]
+  ...and enforcement but progress is slow services services trade is an important economic export for the eu and an area of persistent problems in china [china] has made several significant steps in opening its services markets but the barriers to eu exporters and investors remain formidable in areas like telecoms construction...
+
+[EC_M_120607]
+  ...by discriminatory licensing systems caps on inward investment and local ownership enforced joint partnerships and discriminatory regulation often in direct contravention of undertakings made when [china] joined the wto china has granted more than 20000 value-added telecoms licenses since 2001 6 have gone to foreign companies china still retains ownership caps...
+
+[EC_M_120607]
+  ...caps on inward investment and local ownership enforced joint partnerships and discriminatory regulation often in direct contravention of undertakings made when china joined the wto [china] has granted more than 20000 value-added telecoms licenses since 2001 6 have gone to foreign companies china still retains ownership caps of between 20-25 on...
+
+[EC_M_120607]
+  ...of undertakings made when china joined the wto china has granted more than 20000 value-added telecoms licenses since 2001 6 have gone to foreign companies [china] still retains ownership caps of between 20-25 on foreign investment in the chinese banking sector both of these are breaches of wto undertakings steel in...
+
+[EC_M_120607]
+  ...of between 20-25 on foreign investment in the chinese banking sector both of these are breaches of wto undertakings steel in 2006 the eu and [china] established the eu-china steel working group to take a long-term strategic approach to the steel sector chinese steel production and export to the eu is...
+
+[EC_M_120607]
+  ...steel working group to take a long-term strategic approach to the steel sector chinese steel production and export to the eu is growing fast as [china] channels investment into the sector there is a risk of overproduction and subsequent dumping of steel on global markets the eu-china steel group is intended...
+
+[EC_M_120607]
+  ...of steel on global markets the eu-china steel group is intended to help recognise and address problems before they become prominent textiles the eu and [china] agreed on a memorandum of understanding in 2005 for trade in the textiles and clothing sector both sides are now working together alongside industry to...
+
+[EC_M_120607]
+  ...now working together alongside industry to ensure a smooth transition when this agreement expires in 2008 market economy status in june 2007 the eu presented [china] with an updated assessment of china's progress towards market economy status this assessment is a technical exercise within a limited context mes is only relevant...
+
+[EC_M_120607]
+  ...ensure a smooth transition when this agreement expires in 2008 market economy status in june 2007 the eu presented china with an updated assessment of [china's] progress towards market economy status this assessment is a technical exercise within a limited context mes is only relevant for some practical aspects of anti-dumping...
+
+[EC_M_120607]
+  ...assessment is a technical exercise within a limited context mes is only relevant for some practical aspects of anti-dumping investigations no judgement is passed on [china's] economy as such the european commission noted and welcomed chinese efforts to meet mes criteria concluded that china has met one of the five technical...
+
+[EC_M_120607]
+  ...anti-dumping investigations no judgement is passed on china's economy as such the european commission noted and welcomed chinese efforts to meet mes criteria concluded that [china] has met one of the five technical criteria for mes and proposed steps to china that will help make progress on the remaining four criteria...
+
+[EC_M_120607]
+  ...and welcomed chinese efforts to meet mes criteria concluded that china has met one of the five technical criteria for mes and proposed steps to [china] that will help make progress on the remaining four criteria background on eu-china trade relationship in october 2006 as part of the global europe trade...
+
+[EC_M_120607]
+  ...of the global europe trade policy the european commission set out a wide-ranging new policy for building the european union's trade and investment relationship with [china] this strategy review argued that both china and europe have benefited from china's economic rise despite the competitive pressure it has exerted in the global...
+
+[EC_M_120607]
+  ...european commission set out a wide-ranging new policy for building the european union's trade and investment relationship with china this strategy review argued that both [china] and europe have benefited from china's economic rise despite the competitive pressure it has exerted in the global economy it argues that china's growing trade...
+
+[EC_M_120607]
+  ...new policy for building the european union's trade and investment relationship with china this strategy review argued that both china and europe have benefited from [china's] economic rise despite the competitive pressure it has exerted in the global economy it argues that china's growing trade muscle brings with it new responsibilities...
+
+[EC_M_120607]
+  ...that both china and europe have benefited from china's economic rise despite the competitive pressure it has exerted in the global economy it argues that [china's] growing trade muscle brings with it new responsibilities to fulfil its wto obligations open it markets and trade fairly the review set out a range...
+
+[EC_M_120607]
+  ...it markets and trade fairly the review set out a range of strategies for improving the conditions on which eu companies trade in and with [china] including better market access tougher action to improve enforcement of intellectual property and providing new resources for business on the ground in china read competition...
+
+[EC_M_120607]
+  ...and with china including better market access tougher action to improve enforcement of intellectual property and providing new resources for business on the ground in [china] read competition and partnership here http://ec.europa.eu/trade/issues/bilateral/countries/china/global_europe_china_en.htm in february 2007 the european commission released the findings of a new study that assesses market opportunities for eu...
+
+[EC_M_120607]
+  ...and partnership here http://ec.europa.eu/trade/issues/bilateral/countries/china/global_europe_china_en.htm in february 2007 the european commission released the findings of a new study that assesses market opportunities for eu companies in [china] in key sectors the study identifies major opportunities for eu exporters in green goods business services and high-value products however the study also concluded that...
+
+[EC_M_120607]
+  ...major opportunities for eu exporters in green goods business services and high-value products however the study also concluded that market access for eu imports to [china] is still seriously restricted by barriers to the chinese market and poor protection of intellectual property rights read the study here http://ec.europa.eu/trade/issues/bilateral/countries/china/legis/index_en.htm china in international...
+
+[EC_M_120607]
+  ...imports to china is still seriously restricted by barriers to the chinese market and poor protection of intellectual property rights read the study here http://ec.europa.eu/trade/issues/bilateral/countries/china/legis/index_en.htm [china] in international trade china has become one of the big players of international trade as the world's 3rd exporter and eu's first supplier however china...
+
+[EC_M_120607]
+  ...still seriously restricted by barriers to the chinese market and poor protection of intellectual property rights read the study here http://ec.europa.eu/trade/issues/bilateral/countries/china/legis/index_en.htm china in international trade [china] has become one of the big players of international trade as the world's 3rd exporter and eu's first supplier however china is still largely a...
+
+[EC_M_120607]
+  ...china in international trade china has become one of the big players of international trade as the world's 3rd exporter and eu's first supplier however [china] is still largely a workshop economy a relatively small fraction of the total value added of exported products is generated in china chinese imports and...
+
+[EC_M_120607]
+  ...first supplier however china is still largely a workshop economy a relatively small fraction of the total value added of exported products is generated in [china] chinese imports and exports grow in parallel and china is now the 4th largest importer globally china became the 4th economic power in 2006 the...
+
+[EC_M_120607]
+  ...economy a relatively small fraction of the total value added of exported products is generated in china chinese imports and exports grow in parallel and [china] is now the 4th largest importer globally china became the 4th economic power in 2006 the 3rd exporter globally and the first supplier of the...
+
+[EC_M_120607]
+  ...value added of exported products is generated in china chinese imports and exports grow in parallel and china is now the 4th largest importer globally [china] became the 4th economic power in 2006 the 3rd exporter globally and the first supplier of the eu china now accounts for 5 of world...
+
+[EC_M_120607]
+  ...now the 4th largest importer globally china became the 4th economic power in 2006 the 3rd exporter globally and the first supplier of the eu [china] now accounts for 5 of world trade by 2030 it is expected to rise to 15 by the end of the decade china will be...
+
+[EC_M_120607]
+  ...the eu china now accounts for 5 of world trade by 2030 it is expected to rise to 15 by the end of the decade [china] will be the world's biggest exporter most of the products exported from china are assembled from parts made somewhere else in asia europe or the...
+
+[EC_M_120607]
+  ...is expected to rise to 15 by the end of the decade china will be the world's biggest exporter most of the products exported from [china] are assembled from parts made somewhere else in asia europe or the us with only a small fraction of the total value added generated in...
+
+[EC_M_120607]
+  ...are assembled from parts made somewhere else in asia europe or the us with only a small fraction of the total value added generated in [china] countries like japan taiwan korea and other asian countries which have invested the most massively in china are those which enjoy trade surplus with china...
+
+[EC_M_120607]
+  ...fraction of the total value added generated in china countries like japan taiwan korea and other asian countries which have invested the most massively in [china] are those which enjoy trade surplus with china thanks to their exports of parts and components china is replacing other asian suppliers of developed countries...
+
+[EC_M_120607]
+  ...china countries like japan taiwan korea and other asian countries which have invested the most massively in china are those which enjoy trade surplus with [china] thanks to their exports of parts and components china is replacing other asian suppliers of developed countries this is the result of japanese companies and...
+
+[EC_M_120607]
+  ...countries which have invested the most massively in china are those which enjoy trade surplus with china thanks to their exports of parts and components [china] is replacing other asian suppliers of developed countries this is the result of japanese companies and others moving the most labour intensive part of their...
+
+[EC_M_120607]
+  ...asian suppliers of developed countries this is the result of japanese companies and others moving the most labour intensive part of their production to mainland [china] as a consequence asia's share of total eu imports increased only very moderately by 10 over the last decade eu-china trade china is europe's biggest...
+
+[EC_M_120607]
+  ...production to mainland china as a consequence asia's share of total eu imports increased only very moderately by 10 over the last decade eu-china trade [china] is europe's biggest source of merchandise imports € 191 billion in 2006 twenty years ago europe imported almost nothing from china in 2006 the eu's...
+
+[EC_M_120607]
+  ...last decade eu-china trade china is europe's biggest source of merchandise imports € 191 billion in 2006 twenty years ago europe imported almost nothing from [china] in 2006 the eu's trading relationship with china was worth more than € 255 billion the eu bilateral trade deficit with china follows the same...
+
+[EC_M_120607]
+  ...source of merchandise imports € 191 billion in 2006 twenty years ago europe imported almost nothing from china in 2006 the eu's trading relationship with [china] was worth more than € 255 billion the eu bilateral trade deficit with china follows the same trend as the us deficit with a time...
+
+[EC_M_120607]
+  ...almost nothing from china in 2006 the eu's trading relationship with china was worth more than € 255 billion the eu bilateral trade deficit with [china] follows the same trend as the us deficit with a time difference of 2 years in 2006 it was € 128 billion source eurostat the...
+
+[EC_M_120607]
+  ...2 years in 2006 it was € 128 billion source eurostat the deficit could reach € 170 billion this year at current trends europe is [china's] biggest trading partner and its fastest growing source of imports eu exports to china doubled between 2002 and 2006 63 billion euros in 2006 china's...
+
+[EC_M_120607]
+  ...reach € 170 billion this year at current trends europe is china's biggest trading partner and its fastest growing source of imports eu exports to [china] doubled between 2002 and 2006 63 billion euros in 2006 china's exports to the eu are growing at between 15 20 every year china is...
+
+[EC_M_120607]
+  ...china's biggest trading partner and its fastest growing source of imports eu exports to china doubled between 2002 and 2006 63 billion euros in 2006 [china's] exports to the eu are growing at between 15 20 every year china is europe's fastest growing trade partner...
+
+[EC_M_120607]
+  ...to china doubled between 2002 and 2006 63 billion euros in 2006 china's exports to the eu are growing at between 15 20 every year [china] is europe's fastest growing trade partner...
+
+[EC_S_141011]
+  ...first of all i would like to thank business europe and the european policy centre for the invitation today [china] is in many ways defining the economic age we live in and it is extremely important that our understanding of the business relationship with china...
+
+[EC_S_141011]
+  ...china is in many ways defining the economic age we live in and it is extremely important that our understanding of the business relationship with [china] is well-founded and nuanced also many thanks to president thumann for the very interesting presentation i think it is a very good report you are...
+
+[EC_S_141011]
+  ...putting forward solid and insightful listening to your presentation and views i think it gives the commission a very important platform for our work on [china] let me give a few remarks on the report and president thumann's presentation first and foremost i would like to say that i agree with...
+
+[EC_S_141011]
+  ...put forward it is interesting that we heard many of the same viewpoints in a report last month from the european chamber of commerce in [china] that on the one hand china is driving global growth at a difficult time for the international economy and that the business potential in china...
+
+[EC_S_141011]
+  ...we heard many of the same viewpoints in a report last month from the european chamber of commerce in china that on the one hand [china] is driving global growth at a difficult time for the international economy and that the business potential in china remains exciting that china is our...
+
+[EC_S_141011]
+  ...china that on the one hand china is driving global growth at a difficult time for the international economy and that the business potential in [china] remains exciting that china is our fastest growing export market and that it is essential for european businesses to be part of the future economic...
+
+[EC_S_141011]
+  ...one hand china is driving global growth at a difficult time for the international economy and that the business potential in china remains exciting that [china] is our fastest growing export market and that it is essential for european businesses to be part of the future economic development there however on...
+
+[EC_S_141011]
+  ...to be part of the future economic development there however on the other hand there is a general feeling in europe that economic openness in [china] is not improving when i listen to president thumann i think the report puts a line under some of our concerns regarding the challenges when...
+
+[EC_S_141011]
+  ...improving when i listen to president thumann i think the report puts a line under some of our concerns regarding the challenges when trading with [china] from wto compliance implementation of competition rules market access to innovation and intellectual property rights one telling example is of course the issue of access...
+
+[EC_S_141011]
+  ...of course the issue of access to raw materials and rare earths i am also worried when i read that european companies fear retaliation in [china] that is disconcerting and must be addressed by us in our dialogue with china and of course by china itself the report also stresses china's...
+
+[EC_S_141011]
+  ...also worried when i read that european companies fear retaliation in china that is disconcerting and must be addressed by us in our dialogue with [china] and of course by china itself the report also stresses china's increasing competitiveness both within the eu and in third markets in this respect the...
+
+[EC_S_141011]
+  ...that european companies fear retaliation in china that is disconcerting and must be addressed by us in our dialogue with china and of course by [china] itself the report also stresses china's increasing competitiveness both within the eu and in third markets in this respect the report points to factors such...
+
+[EC_S_141011]
+  ...china that is disconcerting and must be addressed by us in our dialogue with china and of course by china itself the report also stresses [china's] increasing competitiveness both within the eu and in third markets in this respect the report points to factors such as china's size the role of...
+
+[EC_S_141011]
+  ...the report also stresses china's increasing competitiveness both within the eu and in third markets in this respect the report points to factors such as [china's] size the role of the state and industrial policy in sectors such as chemicals engineering industries where the eu is also prominent competition on a...
+
+[EC_S_141011]
+  ...more specific policy recommendations in the report investment i agree with president thumann that there is a vast untapped potential here between the eu and [china] important sectors in china remain capped or closed for foreign investment the fundamental imbalance between our openness and china's restrictiveness plays into the hands of...
+
+[EC_S_141011]
+  ...in the report investment i agree with president thumann that there is a vast untapped potential here between the eu and china important sectors in [china] remain capped or closed for foreign investment the fundamental imbalance between our openness and china's restrictiveness plays into the hands of those in europe who...
+
+[EC_S_141011]
+  ...potential here between the eu and china important sectors in china remain capped or closed for foreign investment the fundamental imbalance between our openness and [china's] restrictiveness plays into the hands of those in europe who see chinese investments as a threat and argue that we should therefore selectively screen chinese...
+
+[EC_S_141011]
+  ...will produce real added value for eu companies both in terms of access to the chinese market and the way their investments are treated in [china] intellectual property rights i think the report is correct in pointing out that infringements undermine not only european investments and technology transfer to china but...
+
+[EC_S_141011]
+  ...in china intellectual property rights i think the report is correct in pointing out that infringements undermine not only european investments and technology transfer to [china] but just as much china's ambitions to become an innovative economy we should redouble our efforts to find ways forward on the situation of the...
+
+[EC_S_141011]
+  ...i think the report is correct in pointing out that infringements undermine not only european investments and technology transfer to china but just as much [china's] ambitions to become an innovative economy we should redouble our efforts to find ways forward on the situation of the intellectual property rights in china...
+
+[EC_S_141011]
+  ...china's ambitions to become an innovative economy we should redouble our efforts to find ways forward on the situation of the intellectual property rights in [china] and we will use the recommendations in the report as a guide on the way procurement i agree with what is put forward that there...
+
+[EC_S_141011]
+  ...report as a guide on the way procurement i agree with what is put forward that there is too little access to the market in [china] the problem is not so much what is foreseen in chinese regulations but that foreign actors are simply not winning contracts unless it is in...
+
+[EC_S_141011]
+  ...the problem is not so much what is foreseen in chinese regulations but that foreign actors are simply not winning contracts unless it is in [china's] interest this situation has been a driver of our calls to china to shift our relationship towards greater reciprocity it also underlines why it is...
+
+[EC_S_141011]
+  ...but that foreign actors are simply not winning contracts unless it is in china's interest this situation has been a driver of our calls to [china] to shift our relationship towards greater reciprocity it also underlines why it is important to keep pushing for china's accession to the wto agreement on...
+
+[EC_S_141011]
+  ...a driver of our calls to china to shift our relationship towards greater reciprocity it also underlines why it is important to keep pushing for [china's] accession to the wto agreement on procurement with substantial obligations subsidies and state owned enterprises i fully share the views of president thumann and the...
+
+[EC_S_141011]
+  ...on procurement with substantial obligations subsidies and state owned enterprises i fully share the views of president thumann and the report that the eu and [china] should engage in stronger bilateral cooperation there is a need to build up mutual confidence in the area of subsidies and it all starts with...
+
+[EC_S_141011]
+  ...mutual confidence in the area of subsidies and it all starts with improved transparency on what is going on the ground we continue to encourage [china] to engage in a dialogue on subsidies with the eu and other wto members this is an increasingly important issue that go to the core...
+
+[EC_S_141011]
+  ...finally i think it is important that the report also points to a path forward even if our long-term visions for the strategic partnership with [china] can come under pressure from the many day-to-day issues that we need to deal with it is important to keep in mind the vast potential...
+
+[EC_S_141011]
+  ...come under pressure from the many day-to-day issues that we need to deal with it is important to keep in mind the vast potential that [china] represents for our economy and european businesses it is only natural that china moves up the value chain and a as a result it will...
+
+[EC_S_141011]
+  ...with it is important to keep in mind the vast potential that china represents for our economy and european businesses it is only natural that [china] moves up the value chain and a as a result it will increasingly become a competitor for eu companies in third markets but also at...
+
+[EC_S_141011]
+  ...as a result it will increasingly become a competitor for eu companies in third markets but also at home we should not see competition with [china] as a zero-sum game and neither should china this is a normal process that on balance if it occurs on a level playing field will...
+
+[EC_S_141011]
+  ...competitor for eu companies in third markets but also at home we should not see competition with china as a zero-sum game and neither should [china] this is a normal process that on balance if it occurs on a level playing field will be beneficial to both sides president thuman points...
+
+[EC_S_141011]
+  ...that on balance if it occurs on a level playing field will be beneficial to both sides president thuman points to our flagship dialogue with [china] the high-level economic and trade dialogue as an essential instrument in pursuing our strategic vision on china on a wide range of economic issues i...
+
+[EC_S_141011]
+  ...president thuman points to our flagship dialogue with china the high-level economic and trade dialogue as an essential instrument in pursuing our strategic vision on [china] on a wide range of economic issues i agree it is an important vehicle for pursuing both our current offensive interests and our long-term agenda...
+
+[EC_S_141011]
+  ...a wide range of economic issues i agree it is an important vehicle for pursuing both our current offensive interests and our long-term agenda with [china] the next meeting will be held in a month's time and many issues highlighted in your report will also appear on the agenda thank you...
+
+Total occurrences: 139 
+
+>>> KWIC: intellectual property <<<
+
+[EC_R_TIBR11]
+  ...cutting tariffs for goods but in overcoming regulatory barriers gaining better market access for services and investment opening public procurement markets better protecting and enforcing [intellectual property] rights ipr and tackling unjustified barriers hampering the sustainable supply of raw materials more generally it needs to be ensured that trade contributes to sustainable...
+
+[EC_R_TIBR11]
+  ...the current and especially future development of the european economy are therefore high 2 a key concern with regard to public procurement as well as [intellectual property] is the indigenous innovation policy aimed at supporting chinese firms moving up the value chain this is a serious concern for european companies wanting to...
+
+[EC_R_TIBR11]
+  ...treat products and services differently based on where patents are registered or adopt or maintain measures that make the origin of development or ownership of [intellectual property] a condition for government procurement preferences the commission welcomed this announcement but will closely monitor the implementation of the measures including at provincial level in...
+
+[EC_R_TIBR11]
+  ...such as for tyres for example and certification for a large number of products as well as complicated and lengthy customs procedures with regard to [intellectual property] some improvement in the ipr enforcement infrastructure has been reported however there are still significant concerns about india's response to counterfeiting and piracy furthermore in...
+
+[EC_R_TIBR11]
+  ...addition high level engagement will be necessary to ensure that european companies can access a legitimate share of foreign government procurement markets effective protection of [intellectual property] rights ipr difficulties highlighted above with regard to the chinese and russian markets are symptomatic of the major problems european businesses encounter when exporting ip-protected...
+
+[EC_M_120607]
+  ...his chinese counterpart to continue to address barriers to eu exporters and investors in the chinese market and to protect eu businesses in china from [intellectual property] theft although china has now been in the wto for six years eu exporters and investors continue to face persistent problems entering and operating in...
+
+[EC_M_120607]
+  ...of the 1985 eu-china trade and economic cooperation agreement which the european commission hopes will set out wide new terms for facilitating trade and investment [intellectual property] rights effective protection and enforcement of intellectual property rights in china is a key issue for europe and european businesses china was the source of...
+
+[EC_M_120607]
+  ...agreement which the european commission hopes will set out wide new terms for facilitating trade and investment intellectual property rights effective protection and enforcement of [intellectual property] rights in china is a key issue for europe and european businesses china was the source of 80 of counterfeit goods intercepted at eu borders...
+
+[EC_M_120607]
+  ...european businesses china was the source of 80 of counterfeit goods intercepted at eu borders in 2006 some european manufacturers estimated in february 2007 that [intellectual property] rights infringements in china cost eu manufacturers operating there 20 of their revenue efforts have been made by china to improve intellectual property protection and...
+
+[EC_M_120607]
+  ...2007 that intellectual property rights infringements in china cost eu manufacturers operating there 20 of their revenue efforts have been made by china to improve [intellectual property] protection and enforcement but progress is slow services services trade is an important economic export for the eu and an area of persistent problems in...
+
+[EC_M_120607]
+  ...of strategies for improving the conditions on which eu companies trade in and with china including better market access tougher action to improve enforcement of [intellectual property] and providing new resources for business on the ground in china read competition and partnership here http://ec.europa.eu/trade/issues/bilateral/countries/china/global_europe_china_en.htm in february 2007 the european commission released the...
+
+[EC_M_120607]
+  ...study also concluded that market access for eu imports to china is still seriously restricted by barriers to the chinese market and poor protection of [intellectual property] rights read the study here http://ec.europa.eu/trade/issues/bilateral/countries/china/legis/index_en.htm china in international trade china has become one of the big players of international trade as the world's 3rd...
+
+[EC_S_141011]
+  ...line under some of our concerns regarding the challenges when trading with china from wto compliance implementation of competition rules market access to innovation and [intellectual property] rights one telling example is of course the issue of access to raw materials and rare earths i am also worried when i read that...
+
+[EC_S_141011]
+  ...produce real added value for eu companies both in terms of access to the chinese market and the way their investments are treated in china [intellectual property] rights i think the report is correct in pointing out that infringements undermine not only european investments and technology transfer to china but just as...
+
+[EC_S_141011]
+  ...but just as much china's ambitions to become an innovative economy we should redouble our efforts to find ways forward on the situation of the [intellectual property] rights in china and we will use the recommendations in the report as a guide on the way procurement i agree with what is put...
+
+Total occurrences: 15 
+
+>>> KWIC: market access <<<
+
+[EC_R_TIBR11]
+  ...report from the commission to the european council trade and investment barriers report 2011 engaging our strategic economic partners on improved [market access] priorities for action on breaking down barriers to trade introduction as the world's largest trading bloc and as the most important source and destination of...
+
+[EC_R_TIBR11]
+  ...the negotiating agenda our renewed trade policy must take a more assertive approach not least to ensure that european companies are not deprived of legitimate [market access] opportunities and that our rights are properly enforced to ensure a level–playing field the commission will be focused and tough in pursuing this agenda the...
+
+[EC_R_TIBR11]
+  ...is well established that today's main trade policy challenge does not primarily lay in cutting tariffs for goods but in overcoming regulatory barriers gaining better [market access] for services and investment opening public procurement markets better protecting and enforcing intellectual property rights ipr and tackling unjustified barriers hampering the sustainable supply of...
+
+[EC_R_TIBR11]
+  ...its major trade partners such as the us and china 4 trade policy can and must make a major contribution to jobs and growth the [market access] strategy 5 forms a key element of our enforcement activities in ensuring that trade agreements are effectively translated into real trade benefits particular attention is...
+
+[EC_R_TIBR11]
+  ...third country markets and to make barrier removal a corner-stone of our relationships with third countries including at the highest level in the commission's view [market access] issues should form an important part of the ongoing discussions in the european council on enhancing our strategic economic partnerships by setting priorities streamlining the...
+
+[EC_R_TIBR11]
+  ...first announced in the europe 2020 strategy 6 it provides an opportunity to focus attention on the common efforts needed on a selected set of [market access] barriers including beyond the borders measures and industrial policy practices 7 indeed there has been a significant reawakening of interest in industrial policy in eu...
+
+[EC_R_TIBR11]
+  ...systemic importance for european business in the markets of certain strategic partners this includes also export restrictions for raw materials which are strictly speaking not [market access] barriers but which are equally harmful for european companies in particular european downstream producers incorporating the raw materials in the finished products they export this...
+
+[EC_R_TIBR11]
+  ...european downstream producers incorporating the raw materials in the finished products they export this report will help focus discussions in the european council on shared [market access] priorities to reap the full potential of the eu's combined strength and bring direct benefits in terms of growth and jobs in the european union...
+
+[EC_R_TIBR11]
+  ...than doubled 121 between 2005 first 11 months and 2010 11 first months however this level of eu exports still remains below potential and better [market access] would allow eu exporters and investors to contribute to and take full part in china's phenomenal economic growth ten years after wto accession china still...
+
+[EC_R_TIBR11]
+  ...ten years after wto accession china still has to improve its record on implementation of key wto principles of non-discrimination transparency and national treatment important [market access] barriers persist in standardisation and technical regulations as well as in services investment and public procurement insufficient enforcement of ipr and burdensome certification procedures continue...
+
+[EC_R_TIBR11]
+  ...sector where the overall complexity and lack of transparency of china's regulatory and conformity assessment practices contribute to an increasingly unpredictable business environment and serious [market access] problems for foreign and foreign-invested companies 4 regarding investment current flows show a vast untapped potential although european companies invested more than € 5 billion...
+
+[EC_R_TIBR11]
+  ...japan declined by almost 6 on average by year the fact that the japanese trade surplus has remained high is partly a reflection of continuing [market access] problems for foreign firms in japan while tariffs in japan are generally low regulatory obstacles to trade in goods and services as well as barriers...
+
+[EC_R_TIBR11]
+  ...important condition for closer economic integration between the eu and japan the following three important barriers are therefore good test-cases for japan’s ambition to improve [market access] to the mutual benefit of both the eu and japan 1 a first example relates to the major barriers eu business is facing on the...
+
+[EC_R_TIBR11]
+  ...the eu which will include a free trade agreement against this background the following important trade barriers need to be addressed in order to facilitate [market access] to both countries 1 in brazil fair access of foreign companies to the growing procurement market which is already limited is becoming even more difficult...
+
+[EC_R_TIBR11]
+  ...of public procurement was noted 18 furthermore the gpa is also characterised by an important asymmetry between what the different parties offer in terms of [market access] commitments with the eu being much more open than the other parties clearly our trading partners have fallen short of reciprocity in this domain for...
+
+[EC_R_TIBR11]
+  ...312 billion worth of the public procurement markets that the eu has committed to open thus there is a strong case to push for more [market access] in public procurement in particular with regard to our strategic partners that have not made reciprocal commitments efforts will need to be reinforced in order...
+
+[EC_R_TIBR11]
+  ...in the europe 2020 strategy the renewed trade strategy also commits the eu to address the needs of eu investors outside the eu negotiating comprehensive [market access] and investment protection provisions with key trading partners most urgently with india canada and singapore where trade negotiations are already well advanced the eu will...
+
+[EC_R_TIBR11]
+  ...technical regulations and standards technical barriers to trade and sanitary and phytosanitary issues technical regulations and standards related barriers figure prominently on the lists of [market access] concerns of many eu exporters examples mentioned in section 2 include problems in the information technology sector in china and india or medical devices in...
+
+[EC_R_TIBR11]
+  ...given as to whether other means such as formal wto dispute settlement procedures or more political intervention is warranted the way forward how can important [market access] barriers be adressed more efficiently although the exact economic impact of the barriers mentioned in this report cannot be quantified in detail european exports potentially...
+
+[EC_R_TIBR11]
+  ...policy can be seen as a contribution to that mandate the barriers listed in this report and the accompanying horizontal analysis constitute a selection of [market access] issues which should be addressed with the eu's strategic partners as a matter of priority a number of specific high level fora already exist with...
+
+[EC_R_TIBR11]
+  ...such as the transatlantic economic council with the us the high level economic and trade dialogue with china or the high level group with japan [market access] and notably regulatory barriers play an important role in these fora yet for the eu's interests to be pursued more vigorously the eu will also...
+
+[EC_R_TIBR11]
+  ...in these fora yet for the eu's interests to be pursued more vigorously the eu will also have to be ready where appropriate to raise [market access] barriers at summits and other top level meetings obviously offensive and defensive interests are linked and reciprocity and mutual benefits are important concepts in international...
+
+[EC_R_TIBR11]
+  ...international relations and trade policy in particular it will therefore have to be seen whether leverage can be gained by linking the eu's concerns about [market access] barriers on its strategic partners markets to their respective interests in increased access to the eu market in this respect for government procurement as set...
+
+[EC_R_TIBR11]
+  ...fullest potential in order to convince the eu's partners to match its opening efforts the eu delegations will play an important role in pursuing european [market access] interests delegations are our antennae for analysing the situation in the domestic systems of our strategic partners including economic and political interests and industrial policy...
+
+[EC_R_TIBR11]
+  ...partners including economic and political interests and industrial policy practices it will be important to use these antennae so that high level political interventions on [market access] barriers are well prepared and based on all available political and economic information and are followed-up appropriately and timely on the ground this reports sets...
+
+[EC_M_120607]
+  ...published by the commission in 2006 see below reported that about € 20billion in trade opportunities are lost every year to eu businesses because of [market access] barriers in china the eu continues to pressure china to address these problems in january talks started on a new partnership and cooperation agreement framework...
+
+[EC_M_120607]
+  ...trade fairly the review set out a range of strategies for improving the conditions on which eu companies trade in and with china including better [market access] tougher action to improve enforcement of intellectual property and providing new resources for business on the ground in china read competition and partnership here http://ec.europa.eu/trade/issues/bilateral/countries/china/global_europe_china_en.htm...
+
+[EC_M_120607]
+  ...in key sectors the study identifies major opportunities for eu exporters in green goods business services and high-value products however the study also concluded that [market access] for eu imports to china is still seriously restricted by barriers to the chinese market and poor protection of intellectual property rights read the study...
+
+[EC_S_141011]
+  ...think the report puts a line under some of our concerns regarding the challenges when trading with china from wto compliance implementation of competition rules [market access] to innovation and intellectual property rights one telling example is of course the issue of access to raw materials and rare earths i am also...
+
+Total occurrences: 29 
+
+>>> KWIC: regulatory <<<
+
+[EC_R_TIBR11]
+  ...up its efforts it is well established that today's main trade policy challenge does not primarily lay in cutting tariffs for goods but in overcoming [regulatory] barriers gaining better market access for services and investment opening public procurement markets better protecting and enforcing intellectual property rights ipr and tackling unjustified barriers...
+
+[EC_R_TIBR11]
+  ...complete our bilateral and multilateral negotiating agenda 3 yet this figure can be doubled if the eu makes real progress on non-tariff barriers ntbs and [regulatory] issues with its major trade partners such as the us and china 4 trade policy can and must make a major contribution to jobs and...
+
+[EC_R_TIBR11]
+  ...businesses at a disadvantage a significant example is the information and communication technology ict sector where the overall complexity and lack of transparency of china's [regulatory] and conformity assessment practices contribute to an increasingly unpredictable business environment and serious market access problems for foreign and foreign-invested companies 4 regarding investment current...
+
+[EC_R_TIBR11]
+  ...billion in 2009 and eu investment to india has more than quadrupled since 2003 to € 3.1 billion in 2009 however india's trade regime and [regulatory] environment still remain comparatively restrictive 12 in addition to high tariff barriers india also imposes a number of non-tariff barriers in the form of quantitative...
+
+[EC_R_TIBR11]
+  ...surplus has remained high is partly a reflection of continuing market access problems for foreign firms in japan while tariffs in japan are generally low [regulatory] obstacles to trade in goods and services as well as barriers to investment and public procurement remain high and are perceived by eu industry as...
+
+[EC_R_TIBR11]
+  ...the so-called high level group established by the eu-japan summit of april 2010 the eu has made it clear that japan’s capacity to demonstrate that [regulatory] obstacles can be removed is the single most important condition for closer economic integration between the eu and japan the following three important barriers are...
+
+[EC_R_TIBR11]
+  ...and lack of exhaustive coverage of local contracting authorities 2 second the introduction of new medical devices in the japanese market remains difficult as japan's [regulatory] framework provides insufficient recognition of international standards and lengthy approval procedures only half of the medical devices used in the eu and us markets are...
+
+[EC_R_TIBR11]
+  ...of standards and regulations across the atlantic the stakes involved are high a recent study suggests that eliminating only half of existing non-tariff barriers and [regulatory] divergences between the eu and the us would boost the eu's gdp by € 122 billion a year 17 against the background of such a...
+
+[EC_R_TIBR11]
+  ...benefits of its strong competitiveness restrictions in trade in services take the form of either market-entry-barriers direct discrimination between domestic and foreign service providers or [regulatory] barriers that apply to all providers but create de facto additional hurdles for foreign providers as approximately 75 of trade in services concerns the supply...
+
+[EC_R_TIBR11]
+  ...foreign markets and to free the full potential of the eu's internal strength in services and establishment barriers to foreign investment take the form of [regulatory] restrictions classified by the oecd into three broad categories i restrictions on foreign ownership of equity capital ii mandatory screening and approval procedures increasing the...
+
+[EC_R_TIBR11]
+  ...of specific investment barriers will require engagement on a case-by-case basis at a senior political level to ensure that european investors are not discriminated against [regulatory] issues technical regulations and standards technical barriers to trade and sanitary and phytosanitary issues technical regulations and standards related barriers figure prominently on the lists...
+
+[EC_R_TIBR11]
+  ...standards increase the cost of participation in the global economy and reduce the competitiveness of local companies in the global market with respect to the [regulatory] issues mentioned with regard to china india japan and russia earlier in this report these could potentially affect eu exports worth of around € 13.7...
+
+[EC_R_TIBR11]
+  ...regard to china india japan and russia earlier in this report these could potentially affect eu exports worth of around € 13.7 billion in 2009 [regulatory] barriers are also very significant obstacles to transatlantic trade they range across many sectors such as cars where us safety standards entail 42 standards to...
+
+[EC_R_TIBR11]
+  ...the us must conform and which differ from international standards or textiles with far reaching requirements foreseen by the consumer product safety improvement act some [regulatory] obstacles are simply due to differences in the regulatory approach these differences may be perfectly legitimate and simply reflect historical evolutions in regulatory approaches differences...
+
+[EC_R_TIBR11]
+  ...standards or textiles with far reaching requirements foreseen by the consumer product safety improvement act some regulatory obstacles are simply due to differences in the [regulatory] approach these differences may be perfectly legitimate and simply reflect historical evolutions in regulatory approaches differences in income levels consumer preferences and risk perceptions however...
+
+[EC_R_TIBR11]
+  ...act some regulatory obstacles are simply due to differences in the regulatory approach these differences may be perfectly legitimate and simply reflect historical evolutions in [regulatory] approaches differences in income levels consumer preferences and risk perceptions however in many cases the differences such as double-testing requirements and excessive documentation needs are...
+
+[EC_R_TIBR11]
+  ...assertive response from the eu the former needs to be addressed through more systemic long-term cooperation and dialogue enhancing in particular transparency and predictability of [regulatory] regimes the example of the chinese measures in the information and technology sector mentioned in section 2 illustrates problems associated with regulatory standards in defining...
+
+[EC_R_TIBR11]
+  ...and predictability of regulatory regimes the example of the chinese measures in the information and technology sector mentioned in section 2 illustrates problems associated with [regulatory] standards in defining security concerns the chinese measures go well beyond common practice in other countries and relevant international standards 34 the need to comply...
+
+[EC_R_TIBR11]
+  ...of the chinese policy the basic problem of non-recognition of international standards still remains the eu engages with the chinese authorities through a number of [regulatory] dialogues with the objective of making the case for using international standards and further engaging china in international standardisation organizations clearly the stakes are very...
+
+[EC_R_TIBR11]
+  ...including at the high level economic and trade dialogue but also at summits will be needed to achieve tangible progress as it is usual in [regulatory] issues preventive action before measures are adopted is much more promising than attempting to lift measures which have already gone through the legislative process this...
+
+[EC_R_TIBR11]
+  ...than attempting to lift measures which have already gone through the legislative process this needs to be factored into the eu's strategy to cope with [regulatory] issues in the same sense the use of trade barriers in the form of food safety animal and plant health rules as shown by the...
+
+[EC_R_TIBR11]
+  ...economic council with the us the high level economic and trade dialogue with china or the high level group with japan market access and notably [regulatory] barriers play an important role in these fora yet for the eu's interests to be pursued more vigorously the eu will also have to be...
+
+Total occurrences: 22 
+
+>>> KWIC: reciproc <<<
+
+[EC_R_TIBR11]
+  ...the benefits of open markets at home and abroad that the eu needs to engage its partners on matching its efforts in a spirit of [reciprocity] and mutual benefit 2 helping european companies gain access to third country markets has been and continues to be an essential element of the eu's...
+
+[EC_R_TIBR11]
+  ...in terms of market access commitments with the eu being much more open than the other parties clearly our trading partners have fallen short of [reciprocity] in this domain for example in 2007 the value of us procurement offered to foreign bidders in the gpa is just € 34 billion and...
+
+[EC_R_TIBR11]
+  ...is a strong case to push for more market access in public procurement in particular with regard to our strategic partners that have not made [reciprocal] commitments efforts will need to be reinforced in order to increase international commitments be it through the ongoing gpa negotiations and the extension of its...
+
+[EC_R_TIBR11]
+  ...attractive and stable climate for european investors abroad as well as to preserve and promote an open investment regime at home in a spirit of [reciprocity] and mutual benefit this is pursued through a combination of negotiations and dialogues with key partners like the us china and russia and the active...
+
+[EC_R_TIBR11]
+  ...to be ready where appropriate to raise market access barriers at summits and other top level meetings obviously offensive and defensive interests are linked and [reciprocity] and mutual benefits are important concepts in international relations and trade policy in particular it will therefore have to be seen whether leverage can be...
+
+[EC_S_141011]
+  ...winning contracts unless it is in china's interest this situation has been a driver of our calls to china to shift our relationship towards greater [reciprocity] it also underlines why it is important to keep pushing for china's accession to the wto agreement on procurement with substantial obligations subsidies and state...
+
+Total occurrences: 6 
+
+>>> KWIC: deficit <<<
+
+[EC_R_TIBR11]
+  ...china is not only a source of low price consumer goods but also of key inputs for our manufacturing industries notwithstanding our important bilateral trade [deficit] china has become the fastest growing market for our exports of goods and services and an important destination for eu investment the eu exported €...
+
+[EC_M_120607]
+  ...to china are growing strongly 21 in 2006 but the eu still exports less to china than it does to switzerland the eu bilateral trade [deficit] with china follows the same trend as the us deficit over the single day of the joint ministerial trade committee meeting the eu-china trade deficit...
+
+[EC_M_120607]
+  ...eu still exports less to china than it does to switzerland the eu bilateral trade deficit with china follows the same trend as the us [deficit] over the single day of the joint ministerial trade committee meeting the eu-china trade deficit will widen by about € 350 million a part of...
+
+[EC_M_120607]
+  ...deficit with china follows the same trend as the us deficit over the single day of the joint ministerial trade committee meeting the eu-china trade [deficit] will widen by about € 350 million a part of this is accounted for by a shift in production from other markets in asia to...
+
+[EC_M_120607]
+  ...europe imported almost nothing from china in 2006 the eu's trading relationship with china was worth more than € 255 billion the eu bilateral trade [deficit] with china follows the same trend as the us deficit with a time difference of 2 years in 2006 it was € 128 billion source...
+
+[EC_M_120607]
+  ...trading relationship with china was worth more than € 255 billion the eu bilateral trade deficit with china follows the same trend as the us [deficit] with a time difference of 2 years in 2006 it was € 128 billion source eurostat the deficit could reach € 170 billion this year...
+
+[EC_M_120607]
+  ...follows the same trend as the us deficit with a time difference of 2 years in 2006 it was € 128 billion source eurostat the [deficit] could reach € 170 billion this year at current trends europe is china's biggest trading partner and its fastest growing source of imports eu exports...
+
+Total occurrences: 7 
+
+>>> KWIC: investor <<<
+
+[EC_R_TIBR11]
+  ...months and 2010 11 first months however this level of eu exports still remains below potential and better market access would allow eu exporters and [investors] to contribute to and take full part in china's phenomenal economic growth ten years after wto accession china still has to improve its record on...
+
+[EC_R_TIBR11]
+  ...scientific justification hinder various eu exports mainly poultry pig meat vegetables fruits and timber japan as a highly developed economy and major global trader and [investor] japan is already an important partner for the eu while still offering further high potential trade opportunities with a share of almost 4 of eu...
+
+[EC_R_TIBR11]
+  ...single biggest exporter of agricultural products to the eu accounting for one in eight of total eu agricultural imports the eu is the biggest foreign [investor] in brazil however the brazilian market is relatively highly protected with an applied customs tariff averaging 12 and significant non-tariff barriers hampering the activities of...
+
+[EC_R_TIBR11]
+  ...however the brazilian market is relatively highly protected with an applied customs tariff averaging 12 and significant non-tariff barriers hampering the activities of traders and [investors] argentina is also an important trading partner for the eu and the eu is also the biggest foreign investor in argentina accounting for about half...
+
+[EC_R_TIBR11]
+  ...hampering the activities of traders and investors argentina is also an important trading partner for the eu and the eu is also the biggest foreign [investor] in argentina accounting for about half of the fdi in argentina as highlighted by various monitoring reports produced by international organisations as well as by...
+
+[EC_R_TIBR11]
+  ...out in section 2 does stand out given the benefits of foreign investment the eu strives to create an attractive and stable climate for european [investors] abroad as well as to preserve and promote an open investment regime at home in a spirit of reciprocity and mutual benefit this is pursued...
+
+[EC_R_TIBR11]
+  ...and inclusive growth as set out in the europe 2020 strategy the renewed trade strategy also commits the eu to address the needs of eu [investors] outside the eu negotiating comprehensive market access and investment protection provisions with key trading partners most urgently with india canada and singapore where trade negotiations...
+
+[EC_R_TIBR11]
+  ...agenda of negotiations the existence of specific investment barriers will require engagement on a case-by-case basis at a senior political level to ensure that european [investors] are not discriminated against regulatory issues technical regulations and standards technical barriers to trade and sanitary and phytosanitary issues technical regulations and standards related barriers...
+
+[EC_M_120607]
+  ...minister and the commissioner will review bilateral trade relations commissioner mandelson will urge his chinese counterpart to continue to address barriers to eu exporters and [investors] in the chinese market and to protect eu businesses in china from intellectual property theft although china has now been in the wto for six...
+
+[EC_M_120607]
+  ...and to protect eu businesses in china from intellectual property theft although china has now been in the wto for six years eu exporters and [investors] continue to face persistent problems entering and operating in the chinese market the issues trade flows eu exports to china are growing strongly 21 in...
+
+[EC_M_120607]
+  ...an area of persistent problems in china china has made several significant steps in opening its services markets but the barriers to eu exporters and [investors] remain formidable in areas like telecoms construction insurance and financial services eu companies are still blocked by discriminatory licensing systems caps on inward investment and...
+
+Total occurrences: 11 
+
+>>> KWIC: service <<<
+
+[EC_R_TIBR11]
+  ...that today's main trade policy challenge does not primarily lay in cutting tariffs for goods but in overcoming regulatory barriers gaining better market access for [services] and investment opening public procurement markets better protecting and enforcing intellectual property rights ipr and tackling unjustified barriers hampering the sustainable supply of raw materials...
+
+[EC_R_TIBR11]
+  ...coordinating our messages to more effectively promote the eu's interests abroad it is also useful to reflect on priorities just as the european external action [service] becomes operational this is the first annual report to the european council on trade and investment barriers in third countries as first announced in the...
+
+[EC_R_TIBR11]
+  ...grouping due to the mercosur dimension russia and the us in 2009 trade with these partners represented 45 of our trade in goods and commercial [services] with the us accounting for 19 and china 10 and 41 of our foreign direct investment fdi flows 8 with the us alone accounting for...
+
+[EC_R_TIBR11]
+  ...key inputs for our manufacturing industries notwithstanding our important bilateral trade deficit china has become the fastest growing market for our exports of goods and [services] and an important destination for eu investment the eu exported € 82 billion worth of goods to china in 2009 despite the crisis still up...
+
+[EC_R_TIBR11]
+  ...implementation of key wto principles of non-discrimination transparency and national treatment important market access barriers persist in standardisation and technical regulations as well as in [services] investment and public procurement insufficient enforcement of ipr and burdensome certification procedures continue to raise enormous concerns an underlying and growing concern is that china...
+
+[EC_R_TIBR11]
+  ...and ipr at the latest high level economic and trade dialogue however the chinese government has given reassurances that it will not treat products and [services] differently based on where patents are registered or adopt or maintain measures that make the origin of development or ownership of intellectual property a condition...
+
+[EC_R_TIBR11]
+  ...important partner for the eu while still offering further high potential trade opportunities with a share of almost 4 of eu exports of goods and [services] in 2009 japan is the eu's seventh largest export market however over the period 2005-2009 eu exports in goods to japan declined by almost 6...
+
+[EC_R_TIBR11]
+  ...reflection of continuing market access problems for foreign firms in japan while tariffs in japan are generally low regulatory obstacles to trade in goods and [services] as well as barriers to investment and public procurement remain high and are perceived by eu industry as one of the main reasons why the...
+
+[EC_R_TIBR11]
+  ...and lengthy approval procedures only half of the medical devices used in the eu and us markets are available in japan 3 regarding the financial [services] sector the european insurance industry has continuously voiced major concerns over the preferential treatment of japan post by the japanese regulator the new legislation prepared...
+
+[EC_R_TIBR11]
+  ...the growing procurement market which is already limited is becoming even more difficult a recent law introduced a 25 preference margin for local goods and [services] and restricted to national suppliers the procurement of goods and services considered of national strategic interest this has already been affecting european suppliers in the...
+
+[EC_R_TIBR11]
+  ...more difficult a recent law introduced a 25 preference margin for local goods and services and restricted to national suppliers the procurement of goods and [services] considered of national strategic interest this has already been affecting european suppliers in the ict field the size in 2007 it was estimated to be...
+
+[EC_R_TIBR11]
+  ...65.6 billion down from € 89.1 billion in 2007 while imports from russia amounted to € 115 billion € 144.5 billion in 2007 for commercial [services] eu exports amounted to € 18.3 billion 2009 and eu fdi outflows amounted to € 26.3 billion 2008 state-owned enterprises continue to play an important...
+
+[EC_R_TIBR11]
+  ...sector united states of america the us is by far the eu’s largest trade and investment partner in 2009 exports of eu goods and commercial [services] to the us amounted to € 322 billion 20.6 of total eu exports while imports of goods and services from the us amounted to €...
+
+[EC_R_TIBR11]
+  ...exports of eu goods and commercial services to the us amounted to € 322 billion 20.6 of total eu exports while imports of goods and [services] from the us amounted to € 281.9 billion 17.6 of total eu imports the eu and the us enjoy the most integrated economic relationship in...
+
+[EC_R_TIBR11]
+  ...primary purposes of the new legal instrument would be to clarify the rules governing access to the eu's public procurement market of third country goods [services] and companies thereby ensuring a level playing field on the eu's public procurement market and to strengthen the position of the eu when negotiating eu...
+
+[EC_R_TIBR11]
+  ...difficulties highlighted above with regard to the chinese and russian markets are symptomatic of the major problems european businesses encounter when exporting ip-protected goods and [services] in the globalised economy the comparative advantage of the eu economy lies increasingly in high-value added and ip intensive goods and services as a consequence...
+
+[EC_R_TIBR11]
+  ...ip-protected goods and services in the globalised economy the comparative advantage of the eu economy lies increasingly in high-value added and ip intensive goods and [services] as a consequence growth jobs and innovation in the eu are severely hampered when our ideas brands and products are pirated and counterfeited lack of...
+
+[EC_R_TIBR11]
+  ...topic with relevant partners at the highest level and to use the channels of dispute settlement and fta negotiations where available to their fullest potential [services] the rapidly expanding services sector is contributing more to economic growth and job creation worldwide than any other sector in the eu the services sector...
+
+[EC_R_TIBR11]
+  ...at the highest level and to use the channels of dispute settlement and fta negotiations where available to their fullest potential services the rapidly expanding [services] sector is contributing more to economic growth and job creation worldwide than any other sector in the eu the services sector accounts for some three-quarters...
+
+[EC_R_TIBR11]
+  ...potential services the rapidly expanding services sector is contributing more to economic growth and job creation worldwide than any other sector in the eu the [services] sector accounts for some three-quarters of gdp over 70 of eu jobs 31 and for about 30 of eu exports yet trade in services only...
+
+[EC_R_TIBR11]
+  ...the services sector accounts for some three-quarters of gdp over 70 of eu jobs 31 and for about 30 of eu exports yet trade in [services] only accounts for 20 of world trade the eu is the world's market leader in global services trade accounting for 27 of global exports and...
+
+[EC_R_TIBR11]
+  ...about 30 of eu exports yet trade in services only accounts for 20 of world trade the eu is the world's market leader in global [services] trade accounting for 27 of global exports and 25 of global imports in 2009 services are thus an area of international trade where eu industry...
+
+[EC_R_TIBR11]
+  ...trade the eu is the world's market leader in global services trade accounting for 27 of global exports and 25 of global imports in 2009 [services] are thus an area of international trade where eu industry is highly competitive but where trade barriers as reflected by the barriers listed in section...
+
+[EC_R_TIBR11]
+  ...listed in section 2 for japan and mercosur continue to prevent it from reaping the full benefits of its strong competitiveness restrictions in trade in [services] take the form of either market-entry-barriers direct discrimination between domestic and foreign service providers or regulatory barriers that apply to all providers but create de...
+
+[EC_R_TIBR11]
+  ...reaping the full benefits of its strong competitiveness restrictions in trade in services take the form of either market-entry-barriers direct discrimination between domestic and foreign [service] providers or regulatory barriers that apply to all providers but create de facto additional hurdles for foreign providers as approximately 75 of trade in services...
+
+[EC_R_TIBR11]
+  ...service providers or regulatory barriers that apply to all providers but create de facto additional hurdles for foreign providers as approximately 75 of trade in [services] concerns the supply of infrastructure services increased opening of trade in services could also enhance the competitiveness of manufacturing firms leading to overall welfare gains...
+
+[EC_R_TIBR11]
+  ...apply to all providers but create de facto additional hurdles for foreign providers as approximately 75 of trade in services concerns the supply of infrastructure [services] increased opening of trade in services could also enhance the competitiveness of manufacturing firms leading to overall welfare gains our efforts to open services markets...
+
+[EC_R_TIBR11]
+  ...de facto additional hurdles for foreign providers as approximately 75 of trade in services concerns the supply of infrastructure services increased opening of trade in [services] could also enhance the competitiveness of manufacturing firms leading to overall welfare gains our efforts to open services markets abroad need to be strengthened the...
+
+[EC_R_TIBR11]
+  ...infrastructure services increased opening of trade in services could also enhance the competitiveness of manufacturing firms leading to overall welfare gains our efforts to open [services] markets abroad need to be strengthened the eu is currently negotiating the liberalisation of trade of services within the multilateral framework of the gats and...
+
+[EC_R_TIBR11]
+  ...to overall welfare gains our efforts to open services markets abroad need to be strengthened the eu is currently negotiating the liberalisation of trade of [services] within the multilateral framework of the gats and through bilateral free trade agreements the latter avenue has already delivered a significant liberalisation package in the...
+
+[EC_R_TIBR11]
+  ...avenue has already delivered a significant liberalisation package in the context of the eu korea fta building on this important precedent the eu should prioritise [services] with a view to achieving highly ambitious results in future agreements in the short term notably with india and canada investment the current phase of...
+
+[EC_R_TIBR11]
+  ...economy the eu has a key interest in improving access to foreign markets and to free the full potential of the eu's internal strength in [services] and establishment barriers to foreign investment take the form of regulatory restrictions classified by the oecd into three broad categories i restrictions on foreign ownership...
+
+[EC_R_TIBR11]
+  ...of the board of directors input restrictions and discriminatory government regulations or restrictions on repatriation of profits the bulk of restrictions are found in the [services] sectors with transport telecoms finance and electricity being some of the most restricted industries although fdi restrictiveness per country is not easy to measure the...
+
+[EC_R_TIBR11]
+  ...involved notably the the commission as representative of the eu in trade matters assisted by the eu delegations now integrated in the european external action [service] on the one hand and the competent authorities of the member states on the other hand engage proactively what is needed are joint efforts at...
+
+[EC_M_120607]
+  ...eu manufacturers operating there 20 of their revenue efforts have been made by china to improve intellectual property protection and enforcement but progress is slow [services] services trade is an important economic export for the eu and an area of persistent problems in china china has made several significant steps in...
+
+[EC_M_120607]
+  ...manufacturers operating there 20 of their revenue efforts have been made by china to improve intellectual property protection and enforcement but progress is slow services [services] trade is an important economic export for the eu and an area of persistent problems in china china has made several significant steps in opening...
+
+[EC_M_120607]
+  ...is an important economic export for the eu and an area of persistent problems in china china has made several significant steps in opening its [services] markets but the barriers to eu exporters and investors remain formidable in areas like telecoms construction insurance and financial services eu companies are still blocked...
+
+[EC_M_120607]
+  ...significant steps in opening its services markets but the barriers to eu exporters and investors remain formidable in areas like telecoms construction insurance and financial [services] eu companies are still blocked by discriminatory licensing systems caps on inward investment and local ownership enforced joint partnerships and discriminatory regulation often in direct...
+
+[EC_M_120607]
+  ...study that assesses market opportunities for eu companies in china in key sectors the study identifies major opportunities for eu exporters in green goods business [services] and high-value products however the study also concluded that market access for eu imports to china is still seriously restricted by barriers to the chinese...
+
+Total occurrences: 39 
