@@ -1,0 +1,16 @@
+Topic,Trajectory_Shape,Inflection_Points,Start_Proportion,End_Proportion,Total_Change
+EU01,Stable,2013; 2018; 2021,-3e-4,0.0148,0.0151
+EU02,U-shaped,2012; 2016,0.0067,0.0719,0.0652
+EU03,Rising (Non-linear),2013; 2019; 2024,4e-4,0.0858,0.0854
+EU04,Inverted-U,2004; 2015; 2023,0.1336,0.029,-0.1046
+EU05,Declining (Non-linear),2003; 2007; 2010,0.2355,0.0027,-0.2329
+EU06,Inverted-U,2010; 2015; 2022,0.0015,0.0374,0.0358
+EU07,Rising (Linear),2018,0.002,0.3807,0.3787
+EU08,Stable,2006; 2011; 2015,0.0062,-1e-4,-0.0063
+EU09,Inverted-U,2009; 2010; 2015; 2018; 2021,0.0026,0.0283,0.0257
+EU10,Stable,2007,0.0158,0.0163,5e-4
+EU11,Rising (Linear),None,0,0.2532,0.2532
+EU12,Stable,2018,-0,0.0013,0.0014
+EU13,Declining (Linear),None,0.4631,4e-4,-0.4627
+EU14,U-shaped,2019,0.0267,0.0622,0.0355
+EU15,Declining (Non-linear),2004; 2010,0.1063,0.0161,-0.0902

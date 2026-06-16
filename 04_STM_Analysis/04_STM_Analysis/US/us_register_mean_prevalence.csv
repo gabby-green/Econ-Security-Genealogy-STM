@@ -1,0 +1,5 @@
+register,theta_R,n_topics,topic_ids
+Liberal Integration,0.35037,7,"US02, US05, US07, US08, US11, US12, US16"
+Bilateral Management,0.23764,4,"US01, US03, US09, US14"
+Economic Security,0.13291,3,"US13, US17, US18"
+Self-Conception,0.21826,4,"US04, US10, US19, US20"
